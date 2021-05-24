@@ -1,0 +1,593 @@
+lemma,pos,sense_source,sense_target,semantic_relationship
+imprudenza,noun,"modo di agire avventato, che non tiene conto dei rischi",qualità di chi è imprudente,exact
+imprudenza,noun,atto o detto sventato e irresponsabile,azione imprudente,exact
+autoparco,noun,insieme di automezzi addetti a un servizio o a un ente,insieme degli autoveicoli a disposizione di un singolo individuo o di un ente o società,exact
+imbrogliare,verb,"far credere ciò che non è a qlcu. così da ottenere, con suo danno, un vantaggio personale; ingannare.",far credere cose non vere a qualcuno; ingannare,exact
+imbrogliare,verb,"mettere in disordine, intricare un insieme di cose in modo da alterarne la normale disposizione.",mescolare disordinatamente un insieme di cose,exact
+imbrogliare,verb,"(fig.) confondere, imbrogliare, imbrogliare le carte.",mescolare disordinatamente un insieme di cose,related
+imbrogliare,verb,"render difficile, intricare, imbrogliare.",creare difficoltà in qualcosa,exact
+imbrogliare,verb,far perdere a qlcu. il filo del ragionamento.,creare difficoltà in qualcosa,narrower
+imbrogliare,verb,fare di tutto per ottenere qualcosa.,far credere cose non vere a qualcuno; ingannare,related
+indiscrezione,noun,l'essere indiscreto.,mancanza di tatto e di senso della convenienza nel rapporto con gli altri,exact
+indiscrezione,noun,atto o detto indiscreto,"notizia, specie giornalistica, rivelata nonostante la sua segretezza",broader
+indiscretezza,noun,l'essere indiscreto.,indiscrezione,narrower
+indiscretezza,noun,atto o detto indiscreto,indiscrezione,narrower
+virtù,noun,eccellenza morale,"qualita' positiva, pregio, dote",narrower
+virtù,noun,"efficacia, forza (""la virtù terapeutica di questo farmaco""); l'essere efficace.","qualita' positiva, pregio, dote",narrower
+virtù,noun,castità,"qualita' positiva, pregio, dote",narrower
+virtù,noun,qualità positiva,"qualita' positiva, pregio, dote",exact
+osservatorio,noun,luogo munito di strumenti adatti per osservare eventi naturali o per il controllo militare,"luogo munito di strumenti adatti, da cui si può osservare",narrower
+osservatorio,noun,istituzione preposta all'analisi di fenomeni sociali o economici,istituzione che si occupa dell'analisi di problemi socio-economici,exact
+pettinare,verb,"ravviare i capelli, dando loro una certa piega.",acconciare i capelli,exact
+pettinare,verb,sottoporre a pettinatura una fibra tessile.,acconciare i capelli,related
+velare,verb,rendere oscuro (fig.),coprire con un velo per nascondere,related
+velare,verb,coprire con un velo,coprire con un velo per nascondere,exact
+embrione,noun,essere vivente allo stadio di sviluppo iniziale.,organismo vivente nella prima fase di sviluppo,exact
+embrione,noun,stadio di sviluppo per il quale si passa dall'uovo alla forma definitiva dell'organismo animale.        ,organismo vivente nella prima fase di sviluppo,related
+divenire,verb,"cambiare stato, caratteristiche e sim., passare, spec. progressivamente, da una condizione a un'altra.",diventare; passare da una condizione ad un'altra,exact
+ammontare,verb,raggiungere una determinata cifra totale.,raggiungere una certa somma,exact
+enterite,noun,infiammazione della mucosa intestinale.,infiammazione della mucosa intestinale,exact
+suora,noun,donna che ha preso i voti,religiosa che ha pronunciato i voti,exact
+vivere,verb,"essere in vita, detto di esseri animati.",essere in vita,exact
+vivere,verb,"passare, vivere.",provare,related
+vivere,verb,"vivere in un determinato luogo, avere lì la propria abitazione.","trascorrere l'esistenza, in relazione al tempo, al luogo, al modo e alle condizioni della stessa",narrower
+vivere,verb,"detto dell'uomo, trascorrere la vita, in relazione al tempo, al luogo, al modo della stessa.","trascorrere l'esistenza, in relazione al tempo, al luogo, al modo e alle condizioni della stessa",exact
+vivere,verb,trascorrere.,provare,related
+affitto,noun,corrispettivo di un canone pagato per la cessione temporanea di un bene immobile ,prezzo concordato per un bene preso in affitto,exact
+affitto,noun,locazione; il cedere l'uso di un bene per un periodo di tempo in cambio di denaro,contratto con cui si cede un bene temporaneamente in cambio di denaro,exact
+spirale,noun,linea spirale,curva piana che si avvolge infinite volte intorno a un punto allontanandosene progressivamente,exact
+spirale,noun,contraccettivo intrauterino,dispositivo anticoncezionale,exact
+spirale,noun,qualunque oggetto o struttura a forma di spirale,oggetto a forma di spirale,exact
+bacchettone,noun,religioso in modo ipocrita ed esagerato,chi si dedica a pratiche religiose con zelo esagerato,exact
+calcare,verb,pestare i piedi ripetutamente camminando.,"premere, pigiare",narrower
+calcare,verb,riprodurre fedelmente un'immagine.,copiare un disegno passando con una punta sui contorni,broader
+calcare,verb,premere con i piedi con forza.,"premere, pigiare",narrower
+monaca,noun,donna che ha preso i voti,religiosa di un ordine regolare,exact
+interpretare,verb,sostenere un certo ruolo in un'opera teatrale o cinematografica.,recitare una parte come attore teatrale o cinematografico,exact
+interpretare,verb,attribuire un significato a q.c.; attribuire un certo significato a q.c.,"intuire, dare un significato ai sentimenti, ai pensieri o le intenzioni di qualcuno",exact
+interpretare,verb,decifrare messaggi e sim. in base a determinati criteri e schemi.,spiegare il significato di un testo o di un discorso,exact
+interpretare,verb,intendere e spiegare q.c. di difficile o oscuro.,spiegare il significato di un testo o di un discorso,broader
+piacere,verb,"riuscire gradito, piacevole o soddisfacente ai sensi e all'intelletto.","andare a genio, corrispondere ai propri gusti, riuscire gradito",exact
+piacere,verb,essere o sembrare opportuno o conforme alla volontà o ai desideri di qualcuno.,"andare a genio, corrispondere ai propri gusti, riuscire gradito",narrower
+crociata,noun,azione collettiva guidata da ideali religiosi e politici o umanitari.,spedizione militare compiuta nel medioevo dai paesi cristiani per liberare il santo sepolcro dai musulmani,related
+crociata,noun,spedizione militare medievale alla conquista della Terra Santa,spedizione militare compiuta nel medioevo dai paesi cristiani per liberare il santo sepolcro dai musulmani,exact
+dirigere,verb,mandare q.c. a qc. (di posta o simili).,"rivolgere, indirizzare",narrower
+dirigere,verb,essere a capo.,"guidare, essere a capo di un'attività, di un organismo e simili",exact
+dirigere,verb,mettere su una via.,"rivolgere, indirizzare",exact
+dirigere,verb,esercitare un potere.,"guidare, essere a capo di un'attività, di un organismo e simili",broader
+dirigere,verb,"indirizzare verso un luogo o un punto determinato o, in senso astratto, verso un fine, un argomento, un tema, un obiettivo.","rivolgere, indirizzare",exact
+dirigere,verb,"ordinare con norme, provvedimenti e sim.","guidare, essere a capo di un'attività, di un organismo e simili",related
+cessare,verb,interrompere volontariamente un'attività o un'azione.,"interrompere, sospendere, far terminare",exact
+cessare,verb,avere termine.,"aver fine, terminare",exact
+aeroporto,noun,luogo nel quale partono ed arrivano aerei,"spazio per l'atterraggio e il  decollo di aerei, con strutture e edifici per il transito dei passeggeri",exact
+ufficio,noun,insieme degli impiegati che in un determinato luogo svolgono una attività,il complesso delle persone che lavorano in un ufficio,exact
+ufficio,noun,locali in cui si lavora,stanza in cui  un impiegato svolge la sua attività,exact
+ufficio,noun,"ufficio alto e nobile, dovere morale ",dovere morale,exact
+ufficio,noun,organo burocratico,insieme di funzioni raggruppate,narrower
+calibro,noun,"strumento di forme diverse, per misurare lo spessore di lamiere, chiodi, il diametro di fili, tubi, proiettili, fori.","strumento di forme diverse, per misurare lo spessore di lamiere, chiodi, il diametro di fili, ecc.",exact
+calibro,noun,diametro di un proiettile o di un tubo,diametro della canna di un'arma da fuoco,exact
+calibro,noun,il valore di qualcosa,"valore, qualita', livello",exact
+asta,noun,barra di materiale vario.,barra usata per sostenere qualcosa,broader
+asta,noun,attrezzo atletico usato per il salto con l'asta,attrezzo usato dall'atleta per effettuare il salto,exact
+asta,noun,procedimento di vendita al miglior offerente,vendita pubblica di beni aggiudicati al miglior offerente,exact
+asta,noun,tratto di penna verticale delle lettere di una scrittura,linea verticale delle lettere,exact
+calma,noun,stato di tranquillità del mare e assenza di vento.,"tranquillita', silenzio, quiete",narrower
+calma,noun,"quiete, riposo; stato di quiete, distensione","tranquillita', silenzio, quiete",exact
+calma,noun,perfetta padronanza di sé.,stato di tranquillita' psichica e nervosa,narrower
+attrezzo,noun,"arnese atto all'esecuzione di determinate operazioni proprie di un'arte, di un mestiere o di una tecnica.",strumento necessario a svolgere una attività,exact
+attrezzo,noun,strumento utilizzato nell'esecuzione di un esercizio sportivo.,"nello sport, strumento di vario genere utilizzato per fare ginnastica",exact
+fusto,noun,tronco umano,tronco del corpo umano,exact
+fusto,noun,parte della colonna compresa tra base e capitello,parte di un oggetto che ha funzione di sostegno,narrower
+fusto,noun,parte della pianta tra le radici e le foglie,"parte della pianta che porta le foglie, i fiori e i rami",exact
+fusto,noun,oggetto o parte di esso a forma di fusto.,parte di un oggetto che ha funzione di sostegno,broader
+fusto,noun,capace recipiente per contenere liquidi.,recipiente cilindrico di legno o di metallo usato per i prodotti liquidi,broader
+fusto,noun,giovane di corporatura atletica,giovane prestante,exact
+fusto,noun,armatura di mobili imbottiti o simili,parte di un oggetto che ha funzione di sostegno,narrower
+primo,noun,unità di misura temporale,"unità di misura del tempo, equivalente a 60 secondi-unità di misura degli angoli equivalente a 1/60 di grado",exact
+primo,noun,la persona o cosa che è prima in un ordine.,"chi è primo in una successione, in una classificazione, in una serie",exact
+primo,noun,il primo giorno del mese,"il primo giorno di una settimana, di un mese, di un anno-i primi anni di un secolo",narrower
+primo,noun,la prima portata di un pranzo dopo gli antipasti,"prima portata di un pasto, consistente in una minestra in brodo o asciutta",exact
+decidere,verb,pervenire ad un giudizio conclusivo.,pervenire a un giudizio definitivo; risolvere,exact
+decidere,verb,"di una lite, comporla, farla concludere.",pervenire a un giudizio definitivo; risolvere,narrower
+decidere,verb,risultare determinante ai fini di q.c.,stabilire; determinare,exact
+romanticismo,noun,l'atteggiamento spirituale proprio dei romantici e l'insieme dei caratteri della loro arte,movimento culturale - atteggiamento dei romantici,exact
+romanticismo,noun,l'essere sentimentali; l'essere sentimentale,sentimentalismo,exact
+pastello,noun,"matita con un impasto solido di colore in polvere e sostanze adesive, in forma di piccolo cilindro, usato per dipingere.",strumento per dipingere; matita colorata,exact
+pastello,noun,dipinto a pastello,opera pittorica realizzata con i pastelli,exact
+cataclisma,noun,grave sconvolgimento dovuto a cause naturali,catastrofe naturale,exact
+cataclisma,noun,"sovvertimento in campo politico, economico, sociale","sconvolgimento, disastro, catastrofe (fig.)",narrower
+costa,noun,il lato di una montagna o collina,parte della montagna,exact
+costa,noun,la striscia di terra e la regione situata vicino al mare,zona che costituisce il limite tra la terra e il mare,exact
+riguardare,verb,guardare di nuovo.,"guardare di nuovo, tornare a guardare",exact
+riguardare,verb,guardare con attenzione.,"guardare di nuovo, tornare a guardare",narrower
+riguardare,verb,"concernere, riguardare.","concernere, avendo attinenza; coinvolgere",exact
+riguardare,verb,"spettare, essere di pertinenza di.","concernere, avendo attinenza; coinvolgere",related
+riguardare,verb,essere d'interesse.,"concernere, avendo attinenza; coinvolgere",related
+fregare,verb,"passare e ripassare su qualcosa con la mano, con un oggetto o uno strumento.",fregare qualcosa al fine di pulirla o lucidarla,broader
+fregare,verb,danneggiare o rubare  con l'astuzia e l' imbroglio.,"imbrogliare, truffare",exact
+fregare,verb,"impossessarsi con la violenza, con la forza o con la truffa di beni altrui.",rubare,exact
+rafforzare,verb,"rendere più forte, più saldo.",rendere piu' forte,exact
+rafforzare,verb,"ridare vigore, rimettere in forze un organismo affaticato o debilitato.",fortificarsi (fig.),related
+rafforzare,verb,"rendere fermo, rinsaldare.",rendere piu' forte,exact
+saltare,verb,saltare per aria.,esplodere; schizzar via improvvisamente,exact
+saltare,verb,staccarsi di slancio da terra rimanendo per qualche istante sospeso in aria.,sollevarsi di slancio da terra rimanendo per un attimo con entrambi i piedi privi di appoggio e ricadendo poi sul punto di partenza o poco più lontano,exact
+saltare,verb,"spostarsi con un balzo in avanti, lateralmente, dall'alto in basso.",spostarsi con un balzo da un posto ad un altro,exact
+saltare,verb,oltrepassare con un balzo.,"oltrepassare, superare",exact
+saltare,verb,tralasciare q.c.,"omettere, tralasciare",exact
+saltare,verb,"cuocere in tegame nell'olio, a fiamma viva.",cuocere su fiamma viva,narrower
+esplodere,verb,detto degli esplosivi.,sparare; produrre un'esplosione,related
+esplodere,verb,saltare per aria.,scoppiare producendo un rumore intenso,related
+esplodere,verb,manifestarsi con forza detto spec. dei sentimenti.,manifestare improvvisamente i propri sentimenti,narrower
+esplodere,verb,"manifestarsi in modo improvviso e con forza, detto di eventi.",manifestarsi all' improvviso e intensamente,narrower
+esplodere,verb,azionare un'arma da fuoco facendo partire un colpo.,sparare; produrre un'esplosione,exact
+accompagnare,verb,andare con qlcu. in un luogo scortandolo o mostrandogli la strada.,andare insieme con qualcuno; scortare,exact
+accompagnare,verb,"andare insieme (per amicizia, cortesia o rispetto).",andare insieme con qualcuno; scortare,narrower
+accompagnare,verb,suonare o cantare come sostegno al suono o canto di altri.,suonare o cantare come sostegno al suono o al canto altrui,exact
+penetrare,verb,"addentrarsi, introdursi.",spingersi dentro,exact
+penetrare,verb,"andare dentro (fig.), cominciare a capire o conoscere un argomento, una disciplina, ecc.",spingersi dentro,related
+penetrare,verb,entrare (fig.).,spingersi dentro,related
+penetrare,verb,passare attraverso.,spingersi dentro,related
+riflettere,verb,"considerare attentamente, usare la ragione per indagare o riflettere su un problema teorico o per formulare un giudizio.",applicarsi con la mente; considerare con attenzione,exact
+riflettere,verb,riprodurre l'immagine.,rimandare le immagini per riflessione,exact
+riflettere,verb,"riprodurre per riflessione onde, raggi luminosi, ecc.",riverberarsi,exact
+riflettere,verb,manifestare esteriormente.,riverberarsi,related
+tenuta,noun,abito da cerimonia ufficiale.,divisa,exact
+tenuta,noun,vasta proprietà terriera,vasto possedimento fondiario,exact
+conoscere,verb,"essere in grado di ragionare, controllando le proprie facoltà sensoriali ed intellettuali.",avere coscienza del modo di essere e del carattere di qualcuno o di se stessi,related
+conoscere,verb,"possedere conoscenze e nozioni acquisite mediante lo studio, l'insegnamento, l'informazione, ecc.",sapere; aver acquisito una serie di nozioni attraverso l'apprendimento e l'esperienza,narrower
+conoscere,verb,"possedere conoscenze derivate dall'esperienza, dalla pratica, ecc.",sapere; aver acquisito una serie di nozioni attraverso l'apprendimento e l'esperienza,narrower
+conoscere,verb,"avere rapporti di familiarità o di amicizia con qualcuno, o averne in mente la fisionomia, il nome, il carattere ecc.",avere coscienza del modo di essere e del carattere di qualcuno o di se stessi,broader
+conoscere,verb,cominciare ad intrattenere con qualcuno rapporti di familiarità o di amicizia e sim.,fare o aver fatto la conoscenza di qlcu,exact
+servire,verb,essere necessario o conveniente o utile o comodo.,essere necessario,exact
+servire,verb,essere utile.,essere utile per raggiungere un determinato scopo,exact
+servire,verb,soddisfare le richieste dei clienti (detto di negozi o di pubblici esercizi).,fornire qualcuno o qualche ente dei servizi che gli sono necessari,narrower
+servire,verb,essere a servizio di q.c.,"lavorare alle dipendenze altrui, detto di domestici; detto di negozianti, fornire ciò che occorre al cliente",related
+maturare,verb,"detto di vegetale, diventar maturo.",diventare maturo,narrower
+maturare,verb,"detto di persona, raggiungere la maturità fisica o intellettuale.",crescere dal punto di vista psichico ed intellettuale,exact
+maturare,verb,"(fig.) di cose, fenomeni, avvenimenti, compiere il proprio corso.",diventare maturo,related
+maturare,verb,"costituirsi, detto degli interessi di un capitale.",diventare maturo,narrower
+maturare,verb,rendere maturo,rendere maturo,exact
+maturare,verb,(fig.) rendere maturo.,rendere maturo,related
+maturare,verb,valutare attentamente.,"meditare a lungo, con ponderatezzaa",exact
+medicina,noun,"ogni sostanza dotata di virtù terapeutiche, prodotto farmaceutico.","preparato che serve a curare, farmaco",exact
+medicina,noun,"la scienza che studia, previene e cura le malattie;",disciplina che studia le malattie / facolta'  che prepara alla professione medica,narrower
+medicina,noun,"ogni cosa utile a dare benessere, a procurare rimedio ai mali fisici o morali.",ogni cosa che rappresenta un rimedio a mali fisici e morali,exact
+medicina,noun,la facoltà universitaria dove si studia la medicina.,disciplina che studia le malattie / facolta'  che prepara alla professione medica,narrower
+spingere,verb,"esercitare una pressione su qlco., spingere.","esercitare una forte pressione, continua o temporanea, su qc.affinché si muova, si sposti e sim",broader
+spingere,verb,"dare, comunicare con una spinta un movimento ad un corpo.","esercitare una forte pressione, continua o temporanea, su qc.affinché si muova, si sposti e sim",broader
+spingere,verb,"allontanare, spostare con forza.","esercitare una forte pressione, continua o temporanea, su qc.affinché si muova, si sposti e sim",broader
+caricare,verb,"mettere su un mezzo di trasporto o su un animale da soma i bagagli, oggetti, merci, persone.",mettere qlco o qlcu su un veicolo,narrower
+caricare,verb,"mettere uno strumento o un congegno meccanico  in condizione di funzionare, dotandolo dell'energia o del materiale necessario.",mettere uno strumento o un congegno in condizione di funzionare; introdurre i proiettili in un'arma,broader
+economia,noun,scienza che studia come impiegare i beni a disposizione,disciplina che studia i sistemi economici,exact
+economia,noun,insieme delle risorse economiche di una regione,insieme delle risorse e attività  economiche di uno stato,exact
+economia,noun,la facoltà universitaria dove si studia tale materia.,disciplina che studia i sistemi economici,related
+rapimento,noun,"estasi, stato di grazia","emozione profonda, l'essere completamente assorto",exact
+rapimento,noun,Grave reato con cui si rapiscono persone a scopo di lucro.,"modo, atto del rapire o dell'essere rapito",narrower
+fallire,verb,commettere un errore di ordine materiale o morale.,avere un esito negativo,related
+fallire,verb,ottenere un cattivo esito o una cattiva accoglienza.,avere un esito negativo,exact
+fallire,verb,non colpire.; non riuscire a colpire.,"non colpire, sbagliare",exact
+fallire,verb,"venir meno a qlco.; venir meno ad una aspettativa, ad una promessa, ecc.",non raggiungere il proprio intento,related
+fallire,verb,non raggiungere il fine prefisso.,non raggiungere il proprio intento,exact
+sciocchezza,noun,"cosa o faccenda da nulla, di nessuna difficoltà o di nessun valore.","cosa di poco valore, inezia",exact
+sciocchezza,noun,"mancanza di acume e di perspicacia, l'essere sciocco.",l'essere sciocco,exact
+sciocchezza,noun,frase sciocca,"atti, frasi da sciocco",exact
+minuto,noun,piccola parte,"brevissimo spazio di tempo, attimo",related
+minuto,noun,unità di misura temporale,unita' di misura di tempo e di angolo,narrower
+minuto,noun,una porzione limitata e molto breve di tempo,"brevissimo spazio di tempo, attimo",exact
+minuto,noun,unità di misura degli angoli,unita' di misura di tempo e di angolo,narrower
+bugia,noun,affermazione contraria alla verità e a ciò che si pensa,cosa contraria alla verità,exact
+bugia,noun,piccolo candeliere per una sola candela,piccolo candeliere con la base a forma di piattello,exact
+ministero,noun,ognuno dei settori nei quali si divide l'attività del governo,insieme degli uffici statali preposti ad una determinata funzione,related
+ministero,noun,un certo governo che ha esercitato il potere esecutivo in un determinato periodo,periodo durante il quale un ministro esercita il suo ministero,exact
+ministero,noun,edificio nel quale ha sede un ministero,edificio nel quale ha sede un ministero,exact
+battuta,noun,espressione spiritosa; battuta spiritosa,"nel dialogo teatrale e cinematografico, cio' che ciascun attore dice",related
+battuta,noun,il battere.,il colpire o picchiare qualcuno,broader
+segnalazione,noun,"ogni comunicazione di notizie, effettuata con qualsiasi mezzo",insieme dei segnali ottici e acustici usati per segnalare qualcosa,exact
+segnalazione,noun,"messaggio, comunicazione",insieme dei segnali ottici e acustici usati per segnalare qualcosa,broader
+segnalazione,noun,l'indicare.,atto del segnalare,broader
+sapere,verb,essere in grado di fare qualcosa.,"essere capace, particolarmente abile a compiere un'azione",exact
+sapere,verb,venire a sapere.,apprendere,exact
+sapere,verb,"possedere conoscenze e nozioni acquisite mediante lo studio, l'insegnamento, l'informazione, ecc.",conoscere una serie di nozioni apprese attraverso lo studio e l' esperienza,narrower
+sapere,verb,"possedere conoscenze derivate dall'esperienza, dalla pratica, ecc.",conoscere una serie di nozioni apprese attraverso lo studio e l' esperienza,narrower
+sapere,verb,avere un certo sapore o un certo odore.,avere sapore o odore,exact
+crescere,verb,"far crescere in modo corretto e regolare (spec. bambini, animali).","allevare, educare",exact
+crescere,verb,"nel lavoro a maglia, aggiungere punti.",svilupparsi progressivamente,narrower
+crescere,verb,"diventare più grande, più intenso o più numeroso;  diventare più grande, più intenso, più numeroso.","aumentare di altezza, volume, intensità o altro",exact
+crescere,verb,"diventare grande in altezza, in lunghezza, per naturale sviluppo.",svilupparsi progressivamente,narrower
+crescere,verb,diventare adulto.,svilupparsi progressivamente,narrower
+picchiare,verb,"battere, prendere a botte.","percuotere, malmenare",exact
+picchiare,verb,"colpire, battere ripetutamente.","percuotere, malmenare",exact
+sgrossare,verb,dare ad un oggetto la prima forma.,dare ad un blocco di materiale grezzo una prima forma,exact
+sgrossare,verb,fare il primo abbozzo di un lavoro.,dare ad un blocco di materiale grezzo una prima forma,broader
+sgrossare,verb,"rendere una persona meno rozza, ingentilirla.",rendere una persona più gentile nei modi,exact
+intuire,verb,"capire immediatamente non attraverso ragionamento, ma per acutezza dintelletto.","cogliere in modo immediato l'essenza di qualcosa; accorgersi, rendersi conto",exact
+intuire,verb,cogliere la realtà delle cose nella loro essenza.,"cogliere in modo immediato l'essenza di qualcosa; accorgersi, rendersi conto",narrower
+smaltire,verb,far passare qcs. che ci ha disturbato fisicamente o psicologicamente.,"far passare, placare, smorzare",narrower
+smaltire,verb,digerire completamente.,digerire,narrower
+smaltire,verb,"portare a termine, sbrigare.","esaurire, portare a termine; eliminare",exact
+smaltire,verb,consumare completamente.,"esaurire, portare a termine; eliminare",exact
+smaltire,verb,"vendere fino a esaurimento, liquidare.","esaurire, portare a termine; eliminare",narrower
+smaltire,verb,"togliere di mezzo, eliminare, trasformare.","esaurire, portare a termine; eliminare",narrower
+singhiozzare,verb,avere il singhiozzo.,avere il singhiozzo,exact
+singhiozzare,verb,piangere con singhiozzi o a dirotto.,piangere con singhiozzi,exact
+orchestrare,verb,scrivere la parte di ciascuno strumento in una composizione musicale per orchestra.,comporre le partiture destinate ai vari strumenti musicali,exact
+orchestrare,verb,"distribuire organicamente, organizzare.",coordinare un insieme di elementi secondo un progetto stabilito,exact
+affumicare,verb,riempire di fumo.,sottoporre ad affumicatura,related
+affumicare,verb,"esporre al fumo sostanze alimentari, spec. carni e pesci, a scopo di conservazione o per dar loro un sapore particolare.",sottoporre ad affumicatura,narrower
+affumicare,verb,annerire col fumo,rendere nero per mezzo del fumo,exact
+imboccare,verb,"mettere del cibo in bocca  a chi non è in grado di mangiare da solo, come i bambini piccoli o certi ammalati.",nutrire qualcuno portandogli il cibo alla bocca,exact
+imboccare,verb,entrare in una strada,iniziare a percorrere; attraversare un'apertura,narrower
+accudire,verb,dedicarsi a un lavoro domestico.,attendere con cura a un lavoro,related
+accudire,verb,"assistere, prendersi cura di qcn. spec. di bambini, malati, animali.",assistere,narrower
+soggetto,noun,essere distinto da ogni altro della medesima specie.,"l'io in quanto realtà pensante; individuo, persona, in quanto presenta determinate caratteristiche cliniche",exact
+soggetto,noun,"tema (di uno scritto, di un quadro, di un'opera teatrale, di un film ecc.); argomento (di uno scritto, di un quadro, di un'opera teatrale, di un film ecc.)","argomento, tema",exact
+soggetto,noun,"persona o cosa che fa o subisce l'azione indicata dal verbo, o che è nella condizione indicata dal verbo.",la persona o la cosa che fa o subisce l'azione espressa dal verbo,exact
+secondo,noun,unità di misura del tempo,unità di misura del tempo e degli angoli,narrower
+secondo,noun,la seconda portata di un pranzo,seconda portata,exact
+spazio,noun,spazio di tempo,estensione di tempo,exact
+spazio,noun,entità indefinita e illimitata in cui stanno i corpi.,"estensione circoscritta, variamente limitata, vuota o occupata da corpi",exact
+spazio,noun,luogo esterno alla terra e alla sua atmosfera in cui si muovono i corpi celesti.,luogo esterno all'atmosfera terrestre in cui i corpi celesti sono e si muovono,exact
+spazio,noun,"estensione limitata, circoscritta, libera o occupata da corpi.","estensione circoscritta, variamente limitata, vuota o occupata da corpi",exact
+motivo,noun,"la causa, il principio, l'origine di una cosa o di un'evento; il motivo,  la ragione.",ciò per cui si fa o non si fa qlco.,broader
+motivo,noun,idea melodica di un'opera musicale;  spunto melodico di un'opera musicale,melodia di un brano musicale,narrower
+motivo,noun,motivo facile ed orecchiabile,melodia di un brano musicale,related
+motivo,noun,tema di un'opera letteraria; motivo conduttore,tema portante di un'opera letteraria o di una serie di esse,exact
+motivo,noun,elemento ricorrente nelle arti figurative,"nelle arti figurative, elemento pittorico che si ripete con regolarità in un'opera",exact
+motivo,noun,"tema (di uno scritto, di un quadro, di un'opera teatrale, di un film ecc.); argomento (di uno scritto, di un quadro, di un'opera teatrale, di un film ecc.)",tema portante di un'opera letteraria o di una serie di esse,narrower
+motivo,noun,spunto melodico,melodia di un brano musicale,narrower
+nitrito,noun,il verso del cavallo,verso caratteristico del cavallo,exact
+nitrito,noun,sale dell'acido nitroso,elemento chimico,exact
+iridio,noun,"elemento chimico metallico appartenente ai metalli di transizione, con numero atomico 77, simb. Ir.",elemento chimico di colore bianco lucente,exact
+comprensione,noun,facoltà intellettiva,capacità di intendere e penetrare con la mente,related
+comprensione,noun,capire,capacità di considerare con animo tollerante i sentimenti altrui,broader
+specchio,noun,"lastra di vetro piana, cui è stato applicato uno strato metallico, che riflette in modo regolare i raggi luminosi.",lastra di vetro che riflette le immagini,exact
+specchio,noun,ciò che imita o raffigura una determinata realtà; ciò che rivela i sentimenti o il carattere o i gusti di una persona.,tutto ciò che riproduce una certa realtà,narrower
+struttura,noun,cosa costruita,"costruzione, impianto, edificio con una determinata funzione",broader
+struttura,noun,"complesso degli elementi costitutivi di una lingua come fonemi, morfemi etc.",insieme degli elementi di un sistema considerato in funzione della loro organizzazione,narrower
+specializzazione,noun,competenza particolare acquisita in un determinato settore,acquisizione di particolari competenze in un settore specifico,exact
+specializzazione,noun,area di conoscenze; campo di studio e specializzazione,lo specializzare,related
+specializzazione,noun,atto e effetto dello specializzarsi.,lo specializzare,exact
+inibizione,noun,l'atto dell'inibire e vietare; l'atto dell'inibire.,blocco neurologico o psicologico,broader
+inibizione,noun,"rallentamento o arresto di una funzione biologica, di un processo ecc.",blocco neurologico o psicologico,exact
+obiettivo,noun,ciò che si intende ottenere o fare.,scopo o fine che si vuol raggiungere,exact
+obiettivo,noun,scopo di un'operazione militare.,scopo o fine che si vuol raggiungere,narrower
+obiettivo,noun,bersaglio nel tiro di artiglieria,scopo o fine che si vuol raggiungere,narrower
+obiettivo,noun,sistema di lenti per proiettare l'immagine reale di un oggetto,sistema ottico,exact
+itinerario,noun,il tratto che si percorre durante lo svolgimento di una gara o di molte attività sportive,percorso da seguire,narrower
+scheda,noun,collezione di documenti con informazioni essenziali su cose o persone; dossier di documenti che seguono una certa procedura,sintesi autobiografica relativa ad un determinato personaggio,broader
+scheda,noun,cartoncino per annotazione di dati che compone uno schedario,rettangolo di cartoncino per trascrivere dati,exact
+scheda,noun,componente hardware di un computer; piastra di circuito stampato che può essere inserita su un calcolatore per arricchirlo di nuove funzioni.,componente hardware [inform.],exact
+recensione,noun,articolo critico su un libro.,il recensire,related
+adattamento,noun,trasposizione di un'opera da un linguaggio all'altro; trasposizione di un opera da un linguaggio ad un altro; trasposizione in un altro linguaggio,opera teatrale o cinematografica,exact
+adattamento,noun,atto dell'adattare o dell'adattarsi.,l'adattarsi,exact
+adattamento,noun,capacità degli esseri viventi di adattarsi all'ambiente circostante,l'adattarsi,narrower
+adattamento,noun,processo linguistico tramite il quale le parole straniere subiscono delle modifiche in conformità con la lingua che le riceve,l'adattare qualcosa ad altri elementi,narrower
+spartito,noun,trascrizione per piano o canto di una composizione per orchestra,trascrizione per pianoforte e voci di una composizione per orchestra e voci,exact
+spartito,noun,rappresentazione grafica sinottica delle parti musicali di più dei diversi elementi di un'orchestra,foglio su cui è scritta la musica,exact
+bolla,noun,"rigonfiamento della pelle che generalmente contiene liquido organico, vescicola",vescica che si forma sulla pelle,exact
+bolla,noun,documento ufficiale autenticato,sigillo ufficiale di papi o sovrani,broader
+bolla,noun,documento che descrive la merce,il supporto materiale di un documento che attesta l'avvenuta consegna o spedizione di merce,related
+adempimento,noun,il mantenere fede a promesse e sim.,l'adempiere,narrower
+adempimento,noun,(dir.) l'atto del compiere la prestazione cui si è tenuti.,l'adempiere,narrower
+russo,noun,"abitante, nativo della Russia.","abitante, nativo della russia",exact
+russo,noun,lingua della Russia.,lingua del gruppo slavo parlata in russia,exact
+lingua,noun,il linguaggio proprio e particolare di un popolo o di un ambiente.,sistema grammaticale e lessicale per mezzo del quale gli appartenenti ad una comunità comunicano tra loro,exact
+lingua,noun,"organo muscolare mobile che sta all'interno della bocca dei vertebrati ed ha funzioni tattili e gustative, partecipa alla masticazione, alla suzione, deglutizione e fonazione.",organo della bocca,exact
+lingua,noun,la lingua commestibile degli animali,"lingua di un animale, come cibo",exact
+orchestra,noun,insieme dei suonatori e degli strumenti musicali,insieme di suonatori,exact
+schifo,noun,"imbarcazione lunga e stretta, a vela o a remi, usata per la pesca costiera.",piccola imbarcazione per pesca costiera o per gare sportive,exact
+comune,noun,comune; sede dell'amministrazione comunale.,sede dell'amministrazione comunale,exact
+comune,noun,amministrazione comunale,i responsabili dell'amministrazione comunale,exact
+comune,noun,territorio che gode di una medesima amministrazione,ente autarchico territoriale retto dal sindaco,related
+comune,noun,l'insieme degli abitanti di un comune.,ente locale autonomo che comprende un centro abitato e il territorio circostante,related
+monologo,noun,discorso pronunciato con voce più o meno alta da una persona che si rivolge a se stessa.,"discorso fatto da una sola persona, tra sé o ad altri",exact
+monologo,noun,breve componimento drammatico scritto per essere recitato da un solo attore.,parte di  componimento teatrale in cui un personaggio parla da solo,exact
+carogna,noun,persona spregevole,persona vile,related
+carogna,noun,corpo di un animale morto,corpo di animale morto,exact
+cercare,verb,"fare un tentativo, cercare di fare q.c.","tentare, sforzarsi",narrower
+cercare,verb,adoperarsi per trovare qc. o q.c.,impegnarsi per trovare qualcosa o qualcuno,exact
+cercare,verb,sforzarsi di ottenere qc. che si desidera.,"tentare, sforzarsi",narrower
+contenere,verb,"bloccare, frenare psicologicamente dei comportamenti spontanei.",dominare le proprie emozioni o controllare i propri atteggiamenti,exact
+contenere,verb,"chiudere in sé, contenere.",dominare le proprie emozioni o controllare i propri atteggiamenti,related
+contenere,verb,"ridurre, restringere.","limitare, ridurre",related
+corrispondere,verb,"essere conforme, uguale.",essere conforme,exact
+corrispondere,verb,"ricambiare i sentimenti, affetto, amore, stima , gratitudine.","contraccambiare, detto in riferimento a sentimenti affettuosi o amorosi",exact
+corrispondere,verb,dare una somma a titolo di retribuzione.,"dare, versare",narrower
+corrispondere,verb,intrattenere una relazione epistolare.,essere in rapporto epistolare,exact
+corrispondere,verb,"essere adeguato, essere all'altezza delle aspettative, dei requisiti richiesti.",essere conforme,related
+insorgere,verb,"ribellarsi, levarsi a protestare.","rivoltarsi, sollevarsi contro qualcuno o qualcosa che non si può o non si vuole tollerare",exact
+insorgere,verb,"manifestarsi all'improvviso, detto specialmente di cose negative.","sorgere, apparire, manifestarsi all'improvviso",narrower
+imporre,verb,ordinare autorevolmente e con decisione.,"far rispettare, far eseguire",related
+imporre,verb,"far rispettare, far valere.","far rispettare, far eseguire",exact
+affluire,verb,accorrere in folla nello stesso luogo.,giungere in quantità cospicua,narrower
+affluire,verb,scorrere (di acque o simili) verso qualche luogo.,scorrere di liquidi verso un luogo,exact
+affluire,verb,"giungere in quantità, specialmente con continuità.",giungere in quantità cospicua,exact
+restringere,verb,rendere di minori dimensioni.,"diminuire qualcosa di misura, renderla più stretta",exact
+restringere,verb,ridurre la secrezione dei tessuti.,"diminuire qualcosa di misura, renderla più stretta",narrower
+restringere,verb,stringere di più.,"diminuire qualcosa di misura, renderla più stretta",related
+restringere,verb,ridurre a minor larghezza o misura.,"diminuire qualcosa di misura, renderla più stretta",exact
+restringere,verb,"ridurre, restringere.",delimitare,related
+consigliare,verb,"raccomandare come buono, utile, opportuno, idoneo.","dare suggerimenti, esortazioni, avvertimenti e sim. a qc. per aiutarlo in q.c",narrower
+consigliare,verb,"suggerire, consigliare.","dare suggerimenti, esortazioni, avvertimenti e sim. a qc. per aiutarlo in q.c",exact
+simulare,verb,manifestare sentimenti insinceri o inesistenti.,fingere,narrower
+simulare,verb,causare una falsa opinione o una convinzione fingendo una condizione o un atto o sim..,imitare,related
+simulare,verb,riprodurre artificialmente le condizioni in cui si svolge un certo fenomeno per studiarlo e verificarne gli effetti.,riprodurre qlco artificialmente per studiarne e verificarne gli effetti,exact
+fingere,verb,manifestare sentimenti insinceri o inesistenti.,"farsi credere, voler apparire",related
+fingere,verb,causare una falsa opinione o una convinzione fingendo una condizione o un atto o sim..,voler far credere qlco che in realtà non è,exact
+ritingere,verb,tingere di nuovo.,colorare con un colore diverso da quello normale,broader
+ritingere,verb,tingere di un altro colore.,colorare con un colore diverso da quello normale,exact
+trasmettere,verb,"far parte ad altri di qlco., esprimere pensieri sentimenti opinioni.",comunicare una notizia,related
+trasmettere,verb,propagarsi.,diffondere per contagio,broader
+trasmettere,verb,passare un diritto o un onere da un titolare ad un altro.,fare passare da una persona all'altra,narrower
+trasmettere,verb,"diffondere attraverso i mezzi di telecomunicazione, mandare in onda.",diffondere con mezzi di comunicazione,narrower
+trasmettere,verb,comunicare per mezzo della radio o di altri sistemi di comunicazione.,diffondere con mezzi di comunicazione,exact
+dominare,verb,"sapere dominare, riuscire a controllare le proprie passioni ecc.","esercitare il controllo su di sè, sui propri istinti o sentimenti",exact
+dominare,verb,esercitare il controllo su qc.,tenere soggetto alla propria volontà o controllo; esercitare un predominio,related
+dominare,verb,avere pieno controllo su qualcuno o qualcosa.,tenere soggetto alla propria volontà o controllo; esercitare un predominio,exact
+dominare,verb,essere prevalente e/o caratterizzante.,"avere il sopravvento, regnare",related
+spifferare,verb,dire o riferire in segreto cose su cui si dovrebbe tacere.,raccontare cose riservate,exact
+spifferare,verb,"riferire senza ritegno né reticenza, con ampiezza di particolari.",raccontare cose riservate,narrower
+alleggerire,verb,liberare in parte qualcuno da un compito gravoso.,sgravare qualcuno da un'incombenza,exact
+alleggerire,verb,rendere leggero.,rendere leggero,exact
+alleggerire,verb,(fig.) rendere più sopportabile.,"alleviare, ridurre un dolore",broader
+suggerire,verb,"suggerire, consigliare.","far venire in mente, rammentare qualcosa a qualcuno che al momento non sa o non ricorda",related
+suggerire,verb,far venire in mente.,"far venire in mente, rammentare qualcosa a qualcuno che al momento non sa o non ricorda",exact
+imitare,verb,"riprodurre un suono, un movimento, un effetto visivo.","contraffare, simulare",exact
+imitare,verb,seguire un modello cercando di diventare simile o di far cosa simile.,"contraffare, simulare",exact
+distribuire,verb,disporre in un certo ordine.,"dare, ripartire",narrower
+distribuire,verb,"fornire servizi (come acqua, gas, luce) alla comunità.","dare, ripartire",narrower
+distribuire,verb,"dare, consegnare a più persone, assegnare secondo un dato criterio, dare a profusione, dispensare.","dare, ripartire",narrower
+scavare,verb,"fare una cavità, una fossa, un cunicolo portando via il terreno.",ricavare una cavità nel suolo,exact
+disertare,verb,"non prendere parte a qualcosa, trascurare.",abbandonare,related
+disertare,verb,"abbandonare senza permesso il reparto presso il quale si presta servizio militare, o non farvi ritorno dopo un'assenza autorizzata.",lasciare il reparto in cui si presta servizio militare,exact
+disertare,verb,"abbandonare, tradire un'idea, una causa e sim.",abbandonare,narrower
+disertare,verb,"venire meno a un obbligo, a un dovere.",abbandonare,related
+tratteggiare,verb,tracciare una serie di linee brevi e vicine.,disegnare o descrivere qualcosa in modo approssimativo,narrower
+tratteggiare,verb,"descrivere, esporre per sommi capi, ma in modo efficace.",disegnare o descrivere qualcosa in modo approssimativo,narrower
+gomma,noun,gomma da masticare,gomma da masticare,exact
+gomma,noun,sostanza naturale ricavata dal latice di alcune piante tropicali.,liquido vischioso prodotto da certe piante,exact
+gomma,noun,strumento per cancellare,gomma da cancellare,exact
+gomma,noun,rivestimento di gomma delle ruote delle autovetture,pneumatico,exact
+gomma,noun,materiale sintetico con caratteristiche simili alla gomma naturale,"materiale elastico ed impermeabile, ottenuto dalla lavorazione di composti organici insaturi, impiegato in vari usi",exact
+scena,noun,atto del fingere; il dissimulare,"simulazione, finzione",exact
+scena,noun,parte del teatro nel quale recitano gli attori,parte del palcoscenico nella quale recitano gli attori,exact
+scena,noun,insieme degli elementi che ricostruiscono sul palcoscenico l'ambiente in cui si svolge l'azione,luogo in cui si è svolto un dato fatto,related
+scena,noun,luogo in cui si immagina accadere la vicenda rappresentata in teatro,circostanza nella quale avviene un fatto,related
+scena,noun,azione dei personaggi sulla scena,avvenimento al quale si assiste da spettatore,related
+scena,noun,"fatto, evento che si presenta alla vista",circostanza nella quale avviene un fatto,exact
+ufficiale,noun,chi ricopre un pubblico ufficio.,militare che ricopre un grado da sottotenente o da guardiamarina in su,broader
+ufficiale,noun,"militare che ricopre un grado, da sottotenente, o da guardiamarina, in su.",militare che ricopre un grado da sottotenente o da guardiamarina in su,exact
+ufficiale,noun,grado di certi ordini della cavalleria,militare che ricopre un grado da sottotenente o da guardiamarina in su,related
+gente,noun,il complesso degli esseri umani,insieme di persone considerate come collettività,related
+gente,noun,"l'insieme delle famiglie con uno stesso capostipite.; la stirpe, la discendenza di qualcuno; l'insieme di tutte le persone, passate, presenti, future, di uno stesso sangue.","stirpe, nazione, popolo",narrower
+gente,noun,"insieme di persone cotraddistinte da una caratteristica comune: gente di campagna, di città, di cultura, di chiesa.",insieme di persone considerate come collettività,narrower
+gente,noun,il complesso dei cittadini,insieme di persone considerate come collettività,narrower
+gente,noun,gruppo di persone considerate collettivamente in contrapposizione ai singoli individui.,insieme di persone considerate come collettività,exact
+popolo,noun,il complesso dei cittadini,l'insieme dei cittadini di uno stato,exact
+popolo,noun,"insieme di individui legati da comunanza di tradizioni storiche, lingua, costumi, ed aventi coscienza di tali vincoli.",l'insieme dei cittadini di uno stato,narrower
+sprint,noun,scatto accelerazione improvvisa,capacità di un' automobile o di una motocicletta di compiere una rapida acelerazione,broader
+sprint,noun,capacità di produrre uno sforzo breve e intenso.,sforzo breve e intenso di un atleta,broader
+doccia,noun,apparecchiatura idraulica per spruzzare l'acqua sul corpo,impianto che consente di lavarsi con un getto d'acqua che cade sul corpo,exact
+doccia,noun,lavaggio con la doccia,impianto che consente di lavarsi con un getto d'acqua che cade sul corpo,related
+dimissione,noun,"il dimettere, il licenziare; il licenziare","rinuncia a una carica, un impiego e sim.",broader
+dimissione,noun,il dimettersi.,"rinuncia a una carica, un impiego e sim.",exact
+zucca,noun,"pianta con fusti striscianti o rampicanti e frutti sferici, globosi, grandi fino a 80 cm, commestibili.",pianta erbacea [bot.],exact
+zucca,noun,"frutto della zucca a polpa gialla e farinosa, di sapore dolciastro, che viene cucinato in vari modi.",il frutto della zucca,exact
+cromo,noun,"elemento chimico metallico, con numero atomico 24, bivalente, trivalente ed esavalente.","elemento chimico metallico, di color grigio, usato per produrre acciai inossidabili e rivestire altri metalli",exact
+genitore,noun,l'uomo che ha generato dei figli rispetto ad essi,chi genera o ha generato; al plurale il padre e la madre,exact
+genitore,noun,chi genera,il padre e la madre,broader
+calore,noun,vitalità,partecipazione emotiva e affettiva,related
+calore,noun,"energia prodotta da fonti naturali o artificiali, avente la proprietà di riscaldare i corpi e di variarne lo stato fisico.",forma di energia propria dei corpi,related
+calore,noun,temperatura elevata,calura,exact
+calore,noun,la sensazione di caldo.,sensazione che deriva dal contatto con un corpo caldo,broader
+calore,noun,periodo durante il quale gli animali sono particolarmente predisposti all'accoppiamento,periodo di maggiore desiderio sessuale e di capacità riproduttiva delle femmine di molti animali,exact
+figura,noun,"raffigurazione, immagine; una raffigurazione, rappresentazione","immagine dipinta, illustrazione",exact
+figura,noun,forma esteriore di una cosa.,"ente geometrico formato da un insieme di punti, linee e superfici",related
+figura,noun,"personaggio di un'opera artistica o letteraria, ma anche di una vicenda storica",la persona in rapporto alle sue caratteristiche intrinseche,related
+collo,noun,la parte del vestito che sta attorno al collo.,"parte dell'abito che sta attorno al collo, colletto",exact
+collo,noun,parte del corpo tra le spalle e la testa,parte del corpo presente nell'uomo e in altri vertebrati,exact
+collo,noun,estremità allungata di un recipiente,"parte superiore assottigliata di bottiglie, anfore, ecc.",exact
+collo,noun,parte del corpo stretta e tondeggiante,parte del corpo presente nell'uomo e in altri vertebrati,narrower
+collo,noun,bagaglio da trasportare,"pacco, valigia, baule",exact
+eroina,noun,alcaloide stupefacente estratto dall'oppio,sostanza stupefacente derivata dalla morfina,exact
+eroina,noun,donna eroica,donna di qualità eroiche,exact
+automa,noun,macchina simile all'uomo,robot,exact
+automa,noun,"perona che agisce in modo meccanico, come una macchina","chi agisce e si muove maccanicamente, senza rendersi conto dei propri atti",exact
+automa,noun,dispositivo programmato per eseguire operazioni complesse senza l'intervento umano,robot,broader
+grasso,noun,tessuto adiposo,tessuto adiposo,exact
+grasso,noun,"sostanza di origine vegetale o animale, untuosa","composto untuoso di carbonio, idrogeno e ossigeno, insolubile in acqua",exact
+grasso,noun,qualsiasi sostanza untuosa.,"composto untuoso di carbonio, idrogeno e ossigeno, insolubile in acqua",broader
+penalista,noun,avvocato esperto in cause penali,avvocato specializzato in cause penali,exact
+penalista,noun,persona che studia diritto penale,studioso di diritto penale,exact
+parcheggio,noun,luogo in cui si parcheggia,luogo destinato alla sosta di veicoli,exact
+parcheggio,noun,il parcheggiare.,il parcheggiare,exact
+bagno,noun,acqua che serve all'immersione.,lavaggio integrale del corpo con immersione nell'acqua,broader
+bagno,noun,stanza con vasca da bagno e altri servizi igienici.,stanza con vasca da bagno e servizi igienici,exact
+bagno,noun,il bagnare o il bagnarsi,il bagnare o il bagnarsi,exact
+bagno,noun,immersione di un oggetto in un mezzo,lavaggio integrale del corpo con immersione nell'acqua,related
+carne,noun,parte del corpo costituita dai tessuti molli,parte del corpo dell'uomo e degli animali vertebrati costituita dai muscoli,exact
+carne,noun,carne degli animali di cui l'uomo si ciba,alimento costituito dal tessuto muscolare e adiposo degli animali commestibili,exact
+anno,noun,tempo necessario alla Terra per compiere il suo giro intorno al Sole,periodo di 365 giorni,narrower
+anno,noun,periodo di dodici mesi in genere,unità di misura del tempo pari a 365 giorni,exact
+anno,noun,"periodo di tempo in cui si svogle un ciclo di attività (anno scolastico, anno accademico, anno liturgico).",periodo di 365 giorni,narrower
+lagna,noun,persona o cosa prolissa  e noiosa,persona che si lamenta di continuo,broader
+lagna,noun,lamento continuo e fastidioso,lamento continuo,exact
+toga,noun,sorta di mantello degli antichi romani,ampio e lungo mantello indossato dagli antichi romani,exact
+toga,noun,"sopravveste di magistrati, avvocati e professori universitari",lunga sopravveste nera indossata da magistrati e avvocati,exact
+mummia,noun,cadavere imbalsamato,cadavere trattato con un processo di imbalsamazione,exact
+mummia,noun,persona molto vecchia,persona vecchia oppure di idee ristrette,narrower
+articolazione,noun,il punto di connessione tra due ossa,punto di connessione di due ossa tra loro,exact
+rete,noun,"azione insidiosa di chi inganna per proprio vantaggio; raggiro, imbroglio, intrigo.",inganno,exact
+rete,noun,pericolo nascosto o difficile da riconoscere come tale ed evitare.,inganno,exact
+rete,noun,qualsiasi corpo a forma di rete,qualunque oggetto a forma di rete,exact
+rete,noun,"arnese di filo, spago o fune intrecciati e annodati a maglia usato per catturare pesci o anche uccelli e animali selvatici.",attrezzo per la cattura di animali,exact
+rete,noun,rete a sacco collocata dietro ciascuna delle due porte del campo da calcio,qualunque oggetto a forma di rete,related
+odorare,verb,inspirare l'odore di qualcosa.,percepire un odore con l' olfatto,exact
+odorare,verb,percepire col naso.,percepire un odore con l' olfatto,exact
+ostacolare,verb,essere d'intralcio.,"intralciarsi, disturbarsi a vicenda",exact
+ostacolare,verb,opporre ostacoli (fig.).,"intralciare, rendere difficoltoso",related
+ostacolare,verb,"impedire, ostacolare.","rendere difficile, contrastare",exact
+salire,verb,"diventare più grande, più intenso o più numeroso;  diventare più grande, più intenso, più numeroso.","crescere, aumentare",exact
+salire,verb,andare sopra.,"raggiungere una certa altezza, ergersi",related
+salire,verb,"di una strada, essere in salita.",percorrere in salita,exact
+salire,verb,andare verso l'alto.,muoversi dal basso verso l'alto; montare,exact
+impedire,verb,"rendere difficoltoso, rallentare la realizzazione di qualcosa.",intralciare,exact
+impedire,verb,"impedire, ostacolare.",fare in modo che qualcosa non avvenga,exact
+impedire,verb,(fig.) precludere.,fare in modo che qualcosa non avvenga,related
+impedire,verb,rendere impossibile.,rendere impossibile qlco a qlcu,broader
+sbarrare,verb,chiudere con sbarre.,bloccare,narrower
+sbarrare,verb,"impedire, ostacolare.",bloccare,exact
+sbarrare,verb,(fig.) precludere.,bloccare,related
+sbarrare,verb,"segnare con barre, con righe trasversali.",bloccare,narrower
+gestire,verb,prendersi cura di attività pubbliche o private,"curare, amministrare un'impresa, un'attività economica e sim., per conto d'altri; svolgere nel proprio interesse una attività economica",broader
+assolvere,verb,"nel sacramento della confessione, dichiarare libero dai peccati, concedere l'assoluzione, il perdono.",prosciogliere; dispensare; liberare dai peccati,narrower
+assolvere,verb,"prosciogliere da un'imputazione, dichiarare innocente un imputato.",dichiarare innocente un imputato,exact
+prosciogliere,verb,"prosciogliere da un'imputazione, dichiarare innocente un imputato.",dichiarare innocente; dispensare da un obbligo,narrower
+prosciogliere,verb,"liberare, sciogliere da impegni contratti.",dichiarare innocente; dispensare da un obbligo,narrower
+telecomandare,verb,comandare a distanza.,comandare a distanza uno strumento elettromeccanico,exact
+telecomandare,verb,azionare a distanza dispositivi elettromeccanici oppure onde radio o ultrasuoni inviati da una trasmittente.,comandare a distanza uno strumento elettromeccanico,narrower
+tracciare,verb,segnare una traccia per l'esecuzione di un lavoro e simili.,"lasciare dei segni, delle indicazioni per la realizzazione di qlco",exact
+tracciare,verb,"delineare, disegnare per tratti.; tracciare con linee i contorni.",disegnare,exact
+coscienza,noun,"la diligenza con cui si svolge un compito; premura, impegno","dirittura morale,  impegno, serietà",exact
+coscienza,noun,"facoltà di discernere il bene dal male, ciò che è onesto da ciò che non lo è","dirittura morale,  impegno, serietà",narrower
+coscienza,noun,l'essere consapevole.,consapevolezza di sé,exact
+coscienza,noun,sensibilità per problemi che implichino un rapporto tra individui e società,"dirittura morale,  impegno, serietà",related
+greco,noun,"greco; abitante, nativo della Grecia.","abitante, nativo della grecia",exact
+greco,noun,lingua antica o moderna della Grecia.,"lingua della famiglia indoeuropea, parlata in grecia",exact
+greco,noun,vino greco,"il vino bianco, secco o da dessert, che si ricava dall’omonimo vitigno",exact
+pinna,noun,organo di movimento e di stabilizzazione dei pesci.,organo di movimento dei pesci,exact
+pinna,noun,attrezzo di gomma o plastica che viene applicato al piede per agevolare e velocizzare il nuoto.,strumento che si adatta ai piedi per nuotare più velocemente,exact
+vetreria,noun,negozio in cui si vendono oggetti di vetro.,negozio di vetri o di oggetti di vetro,exact
+vetreria,noun,"quantità, assortimento di oggetti di vetro.",quantita' di oggetti di vetro,exact
+vetreria,noun,stabilimento o bottega artigianale per la fabbricazione e la lavorazione del vetro.,fabbrica di vetri o di oggetti di vetro,exact
+buonsenso,noun,qualità di chi ha senso pratico,equilibrio nel giudicare,related
+buonsenso,noun,"buon senso, moderazione, imparzialità.",equilibrio nel giudicare,exact
+ciglio,noun,rilievo sopra la cavità oculare,orlo delle palpebre formato da sottili peli,related
+ciglio,noun,pelo delle palpebre,orlo delle palpebre formato da sottili peli,exact
+regina,noun,moglie del re,donna a capo di una monarchia; la moglie del re,narrower
+regina,noun,donna che è a capo di uno stato a regime monarchico.,donna a capo di una monarchia; la moglie del re,narrower
+regina,noun,"nelle carte da gioco, la carta che raffigura una regina",figura delle carte da gioco,exact
+regina,noun,pezzo degli scacchi,pezzo degli scacchi,exact
+regina,noun,donna autorevole in un certo campo,donna che primeggia tra le altre per le sue qualità,exact
+vaniglia,noun,pianta tropicale originaria del Messico.,pianta rampicante con foglie oblunghe e fiori bianchi profumati,exact
+vaniglia,noun,essenza aromatica ricavata dalla vaniglia.,aroma ricavato dall'omonima pianta,exact
+sbarra,noun,asta,"spranga di legno o di ferro usata per chiudere un passaggio, per collegare o per sostenere",broader
+sbarra,noun,attrezzo ginnico,attrezzo ginnico costituito da due montanti e un corrente,exact
+sbarra,noun,"nelle scuole di danza, asta orizzontale","spranga di legno o di ferro usata per chiudere un passaggio, per collegare o per sostenere",narrower
+orgoglio,noun,persona che sia motivo di vanto.,grandissima stima di sè e dei propri meriti,narrower
+orgoglio,noun,cosa che sia motivo di vanto.,grandissima stima di sè e dei propri meriti,narrower
+orgoglio,noun,sentimento della propria dignità; fierezza; l'essere fiero.,grandissima stima di sè e dei propri meriti,exact
+sonda,noun,strumento per misurazioni o rilevazioni di alta precisione.,"strumento usato per esplorazioni,prelievi, immissioni, etc.",narrower
+sonda,noun,strumento usato per misurare la profondità delle acque.,"strumento usato per esplorazioni,prelievi, immissioni, etc.",narrower
+arena,noun,teatro,spazio pianeggiante nel mezzo degli antichi anfiteatri,exact
+arena,noun,insieme incoerente di granuli,sabbia,exact
+giraffa,noun,mammifero ruminante africano col collo molto lungo,mammifero ruminante africano,exact
+giraffa,noun,macchina con un lungo braccio metallico usata per spostare oggetti fuoricampo nelle riprese cinematografiche e televisive,piccola gru girevole per riprese cinematografiche o televisive,exact
+sbagliare,verb,commettere un errore di ordine materiale o morale.,compiere un'inesattezza o un errore,narrower
+sbagliare,verb,non colpire.; non riuscire a colpire.,compiere un'inesattezza o un errore,narrower
+sbagliare,verb,"essere in errore, giudicare erroneamente.",compiere un'inesattezza o un errore,narrower
+sbagliare,verb,"compiere un'azione ottenendo un risultato impreciso, errato.",compiere un'inesattezza o un errore,narrower
+sbagliare,verb,scegliere male.,compiere un'inesattezza o un errore,narrower
+sbagliare,verb,confondere una persona o una cosa con un'altra simile.,compiere un'inesattezza o un errore,narrower
+sbagliare,verb,"operare in modo impreciso, errato.",compiere un'inesattezza o un errore,exact
+sbagliare,verb,comportarsi in modo sbagliato.,compiere un'inesattezza o un errore,narrower
+comporre,verb,"formare, comporre.","essere costituito, formato",exact
+comporre,verb,mettere insieme varie cose così che formino un tutto organico.,mettere insieme varie cose perché formino un tutto unico,exact
+comporre,verb,produrre un'opera letteraria o musicale.,"concepire e produrre un'opera, specialmente letteraria o musicale",exact
+comporre,verb,(tip.) combinare i caratteri mobili in testo.,"concepire e produrre un'opera, specialmente letteraria o musicale",related
+dilatare,verb,"dilatare, estendere.",diventare più largo; diventare,exact
+dilatare,verb,aumentare il volume di un corpo.,rendere più largo; aumentare il volume di un corpo,exact
+introdurre,verb,"accettare in un gruppo, in una comunità.","inserire, far entrare",narrower
+introdurre,verb,far conoscere qc. ad altre persone.,"inserire, far entrare",narrower
+introdurre,verb,mettere dentro.,immettere,exact
+introdurre,verb,far entrare.,"inserire, far entrare",exact
+introdurre,verb,far parlare e operare (in narrazioni o rappresentazioni).,"iniziare, avviare con un'introduzione",narrower
+gustare,verb,fig. apprezzare un bene spirituale o materiale traendo soddisfazione o godimento.,apprezzare qualcosa ricavandone godimento,related
+gustare,verb,percepire il sapore per mezzo del gusto.,avvertire il sapore attraverso il gusto,exact
+gustare,verb,"percepire il gusto, prendere una piccola quantità di una bevanda o di un cibo per sentirne il gusto.",avvertire il sapore attraverso il gusto,narrower
+gustare,verb,mangiare o bere qualcosa apprezzandone il sapore.,avvertire il sapore attraverso il gusto,narrower
+eccitare,verb,causare una forte reazione emotiva.,"porre in stato di agitazione, di eccitazione",broader
+eccitare,verb,"far nascere un sentimento, un desiderio, provocare una certa reazione o comportamento.","entrare in uno stato di eccitazione, anche sessuale; agitarsi, accalorarsi, turbarsi",broader
+eccitare,verb,"provocare eccitazione mentale, nervosa.","porre in stato di agitazione, di eccitazione",narrower
+eccitare,verb,"rendere esaltato, fanatico.","porre in stato di agitazione, di eccitazione",narrower
+abbarbicare,verb,emettere radici nel terreno (di pianta giovane).,fare presa con le radici,related
+abbarbicare,verb,attaccarsi a un sostegno con le radici.,fare presa con le radici,exact
+lavorare,verb,manipolare un materiale o una sostanza.,"modellare, trattare qualcosa, dandogli la forma desiderata",exact
+lavorare,verb,eseguire un lavoro fisico o mentale.,"usare le energie fisiche e intellettuali nell'esercizio di un mestiere, un impiego, una professione",broader
+lavorare,verb,dedicare le proprie energie fisiche o mentali ad un impiego professionale.,"usare le energie fisiche e intellettuali nell'esercizio di un mestiere, un impiego, una professione",exact
+lavorare,verb,"avere clienti, fare affari (detto di negozi, esercizi, studi).","usare le energie fisiche e intellettuali nell'esercizio di un mestiere, un impiego, una professione",related
+invitare,verb,"chiamare qlcu. a partecipare ad un incontro, una festa, uno spettacolo, una riunione ecc..","chiedere a qualcuno di partecipare a una festa, un pranzo e sim.",exact
+invitare,verb,chiedere a qlcu. di fare o dire qlco.,chiedere a qualcuno di agire in un determinato modo o di dire determinate cose,exact
+lasciare,verb,"cessare di tenere, di stringere,  allentare.","separarsi, rompere un legame",related
+lasciare,verb,dimenticare una cosa in un luogo.,far restare in un luogo intenzionalmente o per dimenticanza,narrower
+lasciare,verb,far rimanere qualcosa o qualcuno in un certo stato o condizione.,far restare in un luogo intenzionalmente o per dimenticanza,related
+lasciare,verb,consegnare qualcosa ad altri rinunciandovi.,dare in consegna qualcosa a qualcuno,narrower
+lasciare,verb,trasmettere per testamento.,dare in consegna qualcosa a qualcuno,narrower
+lasciare,verb,andarsene da un luogo temporaneamente o definitivamente.,abbandonare un luogo; separarsi da qualcuno,narrower
+lasciare,verb,"separarsi da qualcuno o da qualcosa, cessare di avere rapporti.","separarsi, rompere un legame",exact
+bloccare,verb,"arrestare, bloccare (fig.).",arrestarsi all'improvviso,related
+bloccare,verb,rendere inefficiente.,intralciare,related
+bloccare,verb,"impedire l'accesso ad una località, rendendo inaccessibili le vie di comunicazione.","spec. militare, sbarrare con un blocco",narrower
+bloccare,verb,arrestare di colpo un meccanismo in moto.,arrestarsi improvvisamente,narrower
+bloccare,verb,fermare istantaneamente qlco. o interrompere l'azione dell'avversario.,arrestarsi all'improvviso,narrower
+bloccare,verb,porre un freno per disposizione di legge a un particolare fenomeno.,arrestare qualcuno impedendo che fugga,related
+bloccare,verb,"interrompere lo svolgimento di qualcosa: un'epidemia, una malattia ecc.",arrestarsi all'improvviso,related
+scrivere,verb,fissare pensieri e sentimenti per mezzo della scrittura.,creare qualcosa di scritto,narrower
+scrivere,verb,comporre un'opera (anche assol.).,creare qualcosa di scritto,narrower
+scrivere,verb,comunicare mediante un rapporto epistolare.,creare qualcosa di scritto,narrower
+contestare,verb,esprimere pubblicamente la propria protesta con manifestazioni.,criticare radicalmente,related
+contestare,verb,notificare formalmente.,notificare formalmente,exact
+contestare,verb,"mettere in dubbio, in discussione.",criticare radicalmente,related
+rallentare,verb,"far tardare, far giungere in ritardo, ostacolando il moto, l'azione.",diventare più lento,related
+rallentare,verb,rendere più lento.,diventare più lento,exact
+rallentare,verb,diminuire la frequenza.,diventare più lento,related
+rallentare,verb,diminuire detto della velocità.,rendere meno veloce,exact
+liberalizzare,verb,rendere conforme ai principi del liberismo.,conformare ai principi del liberismo economico abolendo dazi e monopoli,exact
+liberalizzare,verb,"rendere libero, liberare da  regole e legami.","rendere più libero, concedere maggiore autonomia",exact
+predare,verb,prendere con la violenza.,sottrarre qualcosa con la forza,exact
+predare,verb,prendere come preda.,saccheggiare,related
+annaspare,verb,"agitare le gambe e le braccia in modo scoordinato, camminare o nuotare con difficoltà.",agitare mani e gambe disordinatamente,exact
+annaspare,verb,fare gesti in modo concitato.,agitare mani e gambe disordinatamente,broader
+annaspare,verb,darsi daffare e affaticarsi senza concludere nulla.,darsi da fare senza concludere nulla,exact
+pollo,noun,persona di scarsa intelligenza,persona ingenua,exact
+pollo,noun,nome generico per gallo o gallina,nome generico di gallo e gallina giovani,exact
+pollo,noun,la carne di pollo,carne dell'omonimo animale,exact
+caso,noun,caso legale,"circostanza, fatto, vicenda",related
+caso,noun,"caso, fatto, storia; avvenimento; evento accaduto","circostanza, fatto, vicenda",exact
+caso,noun,(gram.) ciascuna delle forme che il nome assume,forma assunta per esprimere una funzione sintattica,exact
+caso,noun,un fatto con le sue concrete caratteristiche,"circostanza, fatto, vicenda",narrower
+caso,noun,"possibilità che si realizzi qualcosa; circostanza futura che si può prevedere; il caso, evento stesso; una possibile alternativa","possibilità, ipotesi",exact
+pattino,noun,congegno montato su veicoli per consentire lo scivolamento su ghiaccio o acqua,attrezzo che viene applicato alle scarpe per pattinare; attrezzo di legno o di acciaio applicato alla slitta,related
+pattino,noun,"imbarcazione da diporto, a remi o pedali",imbarcazione leggera da diporto,exact
+pattino,noun,ciascuno dei due attrezzi che servono per pattinare,attrezzo che viene applicato alle scarpe per pattinare; attrezzo di legno o di acciaio applicato alla slitta,exact
+carrozzeria,noun,parte dell'automobile che sostiene e ricopre le parti meccaniche,parte dell'autoveicolo che ricopre le parti meccaniche ed accoglie il carico e le persone,exact
+carrozzeria,noun,officina in cui si riparano carrozzerie,officina dove si riparano carrozzerie,exact
+mappa,noun,rappresentazione grafica molto dettagliata di una zona di terreno,carta geografica,narrower
+mappa,noun,rappresentazione grafica di zone della superficie della terra; rappresentazione grafica in scala di zone della superficie della terra,carta geografica,exact
+mappa,noun,"per estensione, prospetto generale ma dettagliato di un fenomeno",schema che rappresenta una situazione o un fenomeno,exact
+ottica,noun,parte della fisica che studia i fenomeni delle radiazioni e spec. quelli della luce.,parte della fisica che studia i fenomeni delle radiazioni,exact
+ottica,noun,tecnica del fabbricare strumenti ottici.,tecnica del fabbricare strumenti ottici,exact
+corrispondente,noun,chi è in relazione epistolare con qlcu,chi è in corrispondenza epistolare con q.c.,exact
+corrispondente,noun,giornalista; inviato speciale,incaricato di un giornale o di un'emittente televisiva che ha il compito di inviare alla sede centrale notizie e servizi dal luogo in cui è stato inviato,exact
+fischio,noun,il fischiare e il suono che ne deriva,suono acuto,exact
+esasperazione,noun,stato d'animo.,"profondo risentimento, irritazione",broader
+figlio,noun,il generato rispetto ai genitori,ogni individuo rispetto a chi l'ha generato,exact
+figlio,noun,il figlio maschio,ogni individuo di sesso maschile rispetto a chi l'ha generato,exact
+urgenza,noun,essere indispensabile; l'essere necessario.,"qualità di cio' che è   urgente,  impellente indilazionabile",related
+urgenza,noun,l'essere urgente.,"qualità di cio' che è   urgente,  impellente indilazionabile",exact
+urgenza,noun,situazione grave,situazione grave,exact
+trecentista,noun,artista del milletrecento,artista del trecento - studioso del trecento,narrower
+trecentista,noun,studioso dell'arte e della cultura del 1300,artista del trecento - studioso del trecento,narrower
+soglia,noun,"ingresso, porta.",lastra di pietra davanti alla porta,exact
+crittografia,noun,scrittura in codice,scrittura cifrata o convenzionale; gioco enigmistico,narrower
+crittografia,noun,gioco,scrittura cifrata o convenzionale; gioco enigmistico,narrower
+giglio,noun,pianta erbacea,pianta erbacea con fiori bianchi profumati,exact
+giglio,noun,fiore dell'omonima pianta,fiore dell'omonima pianta erbacea,exact
+ruchetta,noun,erba aromatica e saporita,pianta che produce un'erba aromatica dal sapore piccante,exact
+ruchetta,noun,erba aromatica e saporita,erba aromatica dal sapore piccante,exact
+limitare,verb,circoscrivere entro certi limiti.,circoscrivere dando dei condini precisi,exact
+limitare,verb,"ridurre, restringere.","contenere, frenare",exact
+seme,noun,il frutto o la parte commestibile di molte piante.,il frutto o la parte commestibile delle graminacee,exact
+polvere,noun,insieme di minutissimi e impalpabili frammenti di terra arida.,nome generico di sostanze esplosive,exact
+polvere,noun,insieme di minutissimi e impalpabili frammenti di terra arida.,sostanza naturale o artificiale suddivisa in piccoli frammenti; sostanza medicamentosa polverizzata,narrower
+germe,noun,essere vivente allo stadio di sviluppo iniziale.,embrione nella prima fase di sviluppo,exact

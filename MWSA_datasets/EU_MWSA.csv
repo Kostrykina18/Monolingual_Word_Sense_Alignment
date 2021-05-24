@@ -1,0 +1,816 @@
+lemma,pos,sense_source,sense_target,semantic_relationship
+adierazpen,noun,ikur edota zenbakien bidezko edozein forma matematiko,(Mat.) ikur edota zenbakien bidezko edozein forma matematiko,exact
+adierazpen,noun,"nork bere barnean duena adieraztea, bereziki hizkuntzaren bidez","nork bere barnean duena adieraztea, bereziki, hizkuntzaren bidez",exact
+adierazpen,noun,"deklaratu edo baieztatzen den mezua, jendarte edo gertaeren inguruko ahozko ala idatzizko komunikazioa",jendaurrean zerbait jakinaraziz egiten den hitzaldia edo izkribua,narrower
+adierazpen,noun,norbaitek edo zerbaitek adierazteko sortzen duen gauza hautemangarria,jendaurrean zerbait jakinaraziz egiten den hitzaldia edo izkribua,narrower
+adierazpen,noun,jendaurrean zerbait jakinaraziz egiten den izkribua,jendaurrean zerbait jakinaraziz egiten den hitzaldia edo izkribua,narrower
+adin,noun,bizia banatzen den azken zatia edo adina: zahartzaroa,bizitza banatzen den zati bakoitza,narrower
+adin,noun,bizitza banatzen den zati bakoitza,bizitza banatzen den zati bakoitza,exact
+adin,noun,"norbaiti edo zerbaiti buruz, jaio edo eratu zenetik igaro den denbora","norbaiti edo zerbaiti buruz, jaio edo eratu zenetik igaro den denbora",exact
+aginte,noun,"zenbait tresna edo aparatu martxan jartzeko eta kontrolatzeko bidea, gauza edo prozedura","zenbait tresna edo aparatu martxan jartzeko eta kontrolatzeko bidea, gauza edo prozedura",exact
+aginte,noun,ofizial bakar baten ardurapeko lurraldea edo unitate militarra,"(Mil.) agindu dezaketenen multzoa, agintaritza",narrower
+aginte,noun,"norbaitek, duen eskuaz baliaturik, egin behar dena esan edo adieraztea",agindua,narrower
+aginte,noun,agintzeko boterea edo eskua duenaren posizioa,"(Mil.) agindu dezaketenen multzoa, agintaritza",broader
+ahots,noun,abeslaria,hitz egin edo kantatzen duen pertsona,narrower
+ahots,noun,"ahots-korden bitartez ekoizten den soinua, ahotsa",laringeko kordak dardaratzen direnean sortzen den soinua. Hizketa eta kantuaren oinarri fisikoa da,exact
+ahots,noun,musika polifonikoan ahots edo instrumentu jakin batek daukan melodia,"(Mus.) konposizio batean, kantari edo instrumentistek interpretatzen dituzten nota-segidetako bakoitza",exact
+ahots,noun,pertsona baten berbaldiko ezaugarri edota doinu bereizgarria,laringeko kordak dardaratzen direnean sortzen den soinua. Hizketa eta kantuaren oinarri fisikoa da,related
+aita,noun,ume bat edo gehiago sortarazi dituen animalia arra,"ume bat edo gehiago sorrarazitako gizon edo animalia arra, bereziki haiekiko",narrower
+aita,noun,hainbat apaiz eta bereziki elizgizoni ematen zaien titulua,hainbat apaiz eta erlijiosori ematen zaion trataera,exact
+aita,noun,leinu baten fundatzaile edo burua den gizona,"ume bat edo gehiago sorrarazitako gizon edo animalia arra, bereziki haiekiko",narrower
+aita,noun,seme edo alaba bat edo gehiago sortarazi dituen gizona,"ume bat edo gehiago sorrarazitako gizon edo animalia arra, bereziki haiekiko",narrower
+andere,noun,emakumeei zenbaitetan ematen zaien trataera formala,andrea; jaunaren emaztea,narrower
+andere,noun,ezkondurik dagoen emakumea bere ezkontidearekiko,emakume ezkonduekiko trataera,exact
+andre,noun,emakumeei zenbaitetan ematen zaien trataera formala,"emakumea, bereziki ezkondua",related
+andre,noun,emakume zaharra tratatzeko modua,"emakumea, bereziki ezkondua",narrower
+andre,noun,santei zenbaitetan ematen zaien trataera,santei zenbaitetan ematen zaien trataera,exact
+andre,noun,ezkondurik dagoen emakumea bere ezkontidearekiko,emaztea,exact
+andre,noun,pertsona eme heldua (gizonezkoaren aurkako gisa),"emakumea, bereziki ezkondua",narrower
+aparatu,noun,funtzio berbera betetzen duten edo prozesu organiko jakin batean elementu osagarri diren organoen multzoa,(Anat.) funtzio bera betetzeak elkartzen dituen organo-multzoa,exact
+aparatu,noun,etxean nahiz bulegoan erabiltzeko tresna iraunkorra,"helburu jakin baterako tresna mekaniko, elektriko edo elektronikoa, piezen akoplamenduz eratua",narrower
+aparatu,noun,helburu jakin baterako sortutako tresneria,"helburu jakin baterako tresna mekaniko, elektriko edo elektronikoa, piezen akoplamenduz eratua",broader
+arau,noun,joko bat definitzen edo kirol bat zuzentzen den modua,jokabidearen ardatz edo gidaritzat hartzen edo ezartzen den zera; zerbait nola egin behar den adierazteko argibidea,narrower
+arau,noun,zerbait nola egin behar den adierazteko argibidea,jokabidearen ardatz edo gidaritzat hartzen edo ezartzen den zera; zerbait nola egin behar den adierazteko argibidea,narrower
+arau,noun,ardatz edo gidaritzat hartzen dena,jokabidearen ardatz edo gidaritzat hartzen edo ezartzen den zera; zerbait nola egin behar den adierazteko argibidea,broader
+arazo,noun,konponketa eskatzen duen eragozpen edo zailtasun egoera,askabide edo erantzuna eskatzen duen gaia; erabakitzeko edo konpontzeko edozein eratako eragozpenak agertzen dituen egitekoa,narrower
+arazo,noun,askabide edo erantzuna eskatzen duen gaia,askabide edo erantzuna eskatzen duen gaia; erabakitzeko edo konpontzeko edozein eratako eragozpenak agertzen dituen egitekoa,exact
+arazo,noun,zerbait lortzeko zailtasunaren iturria,"zerbaitek eskatzen duen ardura; zerbaitek ematen duen nekea, eragiten duen kezka",related
+arazo,noun,edozein eratako eragozpen edo neke agertzen dituen egitekoa,askabide edo erantzuna eskatzen duen gaia; erabakitzeko edo konpontzeko edozein eratako eragozpenak agertzen dituen egitekoa,narrower
+arazo,noun,zerbaitek eskatzen duen ardura,"zerbaitek eskatzen duen ardura; zerbaitek ematen duen nekea, eragiten duen kezka",narrower
+argitasun,noun,ulertzeko gaitasuna,"gauzak ulertzeko ahalmena, argia",exact
+argitasun,noun,"zerbait azaltzen, ulertarazten duen zera",argibidea,exact
+argitasun,noun,argitasun asko egotea,argia denaren nolakotasuna,related
+argitasun,noun,"koadro, argazki edo margoetan sortzen den efektua",argia denaren nolakotasuna,narrower
+arrazoi,noun,sen ona eta zentzumena edukitzearen egoera,"adimena, ahalmen intelektuala",exact
+arrazoi,noun,existitzen edo gertatzen den zerbaiten justifikazioa,zerbait frogatzeko argudioa,exact
+arrazoi,noun,zenbait gertakarien kausaren azalpen bat,"zerbaiten zergatia azaltzen duen, zerbait bidezko egiten duen zera",exact
+arrazoi,noun,zenbait premisa edo ondorio logikoki justifikatzen dituen gertakaria,zerbait frogatzeko argudioa,broader
+arrazoi,noun,zerbaitekin osoa edo konsistentea izatea edo logikan oinarritua egotea,"zerbaiten zergatia azaltzen duen, zerbait bidezko egiten duen zera",broader
+arrazoi,noun,arrazoiarekin edo argumentu logikoekin defendagarria den eragingarria,zerbait frogatzeko argudioa,broader
+aste,noun,7 egunetako edozein denboraldi,zazpi eguneko epea,exact
+aste,noun,"astelehenetik hasita, elkarren segidako zazpi egun irauten duen denboraldia","ondoz ondoko zazpi egunen segida, igandetik larunbatera (ohiko erabileran astelehenetik igandera) doana",exact
+aste,noun,asteko lan ordu edo egunak,"asteguna, laneguna (gehienetan, jai ideiarekin aurrez aurre)",exact
+atari,noun,hainbat eraikinen sarreran egoten den espazio estali gabe eta gehienetan arkupez inguratua,"eraikinaren ate-ingurua edo sarbide-ingurua, barrukoa nahiz kanpokoa",narrower
+atari,noun,"zerbaiten aurreko uneak, hasiera edo sarrera","zerbaiten aurreko uneak, hasiera edo sarrera",exact
+atari,noun,"eraikinaren ate- edo sarbide-ingurua, barrukoa nahiz kanpokoa","eraikinaren ate-ingurua edo sarbide-ingurua, barrukoa nahiz kanpokoa",exact
+aukera,noun,posible denaren nolakotasuna,zerbait egiteko abagunea edo ahalbidea,related
+aukera,noun,momentu erabakigarri batean ematen den gertaera,zerbait egiteko abagunea edo ahalbidea,narrower
+aukera,noun,ustekabean ematen den gertaera zorionekoa,zerbait egiteko abagunea edo ahalbidea,exact
+aukera,noun,multzo batetik nahiaren arabera har daitezkeen zeretako bakoitza,multzo batetik nahiaren arabera har daitezkeen zeretako bakoitza,exact
+aukera,noun,aukera daitezkeen gauzen multzoa; ugaritasuna,aukera daitezkeen gauzen multzoa; ugaritasuna,exact
+aukera,noun,aukeratutako pertsona edo gauza,aukeratzea,related
+aurkako,noun,garaitu beharreko lehiakidea,"norbaitekiko, berak lortu nahi duena lortu nahi duen beste edonor; lehiakidea",narrower
+aurkako,noun,lehiaketa batean lehiakidea,"norbaitekiko, berak lortu nahi duena lortu nahi duen beste edonor; lehiakidea",narrower
+aurkako,noun,zerbaiten aurka dena,zerbaiten edo norbaiten aurka dagoena,exact
+babes,noun,norbait edo zerbait babesteko edo hornitzeko ematen den laguntza emozionala nahiz materiala,zerbait aurrera ateratzeko ematen den laguntza,narrower
+babes,noun,zerbait aurrera ateratzeko ematen den laguntza (erakundeez batez ere),zerbait aurrera ateratzeko ematen den laguntza,exact
+babes,noun,arrisku edo kalte batetik babestea,"eragozpen eta erasoetatik gordetzen, zaintzen edo begiratzen duen zera",broader
+babes,noun,"zerbait erasoetatik gordetzeko, zaintzeko edo begiratzeko aktibitatea","eragozpen eta erasoetatik gordetzen, zaintzen edo begiratzen duen zera",exact
+babes,noun,"politika kontuetan, arrisku ezaren egoera","tokiez mintzatuz, babesean dagoena",related
+babes,noun,arriskutik babesa eta intimitatea ematen duen egitura,"eragozpen eta erasoetatik gordetzen, zaintzen edo begiratzen duen zera",narrower
+babes,noun,babesean dagoen tokiaz esaten da,"tokiez mintzatuz, babesean dagoena",exact
+bake,noun,"jendarteko baretasuna, liskarrean edo borrokan ez dauden pertsonen arteko egoera","jendarteko baretasuna, borrokan ez dauden pertsonen arteko egoera",exact
+bake,noun,leku-publikoetako segurtasuna,"jendarteko baretasuna, borrokan ez dauden pertsonen arteko egoera",related
+bake,noun,gerran ez egotearen egoera,besteren batekin gerran ez dagoen nazioaren egoera; nazioarteko borrokarik eza,exact
+bake,noun,istilurik gabeko harreman-egoera orekatua,"inolako ezinegonak, ondoezak edo grinak asaldatzen ez duen baretasunezko egoera",exact
+bake,noun,"inolako ezinegonek, ondoezek edo grinak asaldatzen ez duen baretasunezko egoera","inolako ezinegonak, ondoezak edo grinak asaldatzen ez duen baretasunezko egoera",exact
+bandera,noun,"itsasontzien, eta bereziki traineruen, arteko norgehiagoka",(Kir.) estropadetako lehen saria,exact
+bandera,noun,"ehun zatia, diseinu jakin bat duena, eta ikurtzat erabiltzen dena","estatu, nazio edo talde baten koloreak edo armarria dituen ehun-zatia, ikurtzat erabiltzen dena",broader
+bandera,noun,zeinu desberdinak adierazteko ehun zatia,"ezaugarria, adierazgarria, ikurra",exact
+banku,noun,"odola, gorputzeko hainbat organo, esperma eta abar jaso, gorde eta banatzeaz arduratzen den zerbitzu publiko edo pribatua","(Med.) odola, gorputzeko hainbat organo, esperma eta abar jaso, gorde eta banatzeaz arduratzen den zerbitzu publiko edo pribatua",exact
+banku,noun,bezeroen diru-gordailuak onartu eta kreditu-eragiketak burutzen dituen enpresa publiko edo pribatua,bezeroen diru-gordailuak onartu eta kreditu-eragiketak burutzen dituen enpresa publiko edo pribatua,exact
+banku,noun,"eserleku luzea, bizkarduna nahiz bizkarrik gabea, hainbat lagun batera esertzeko aukera ematen duena","eserleku luzea, bizkarduna nahiz bizkarrik gabea, hainbat lagun batera esertzeko aukera ematen duena",exact
+banku,noun,banketxea,banketxea,exact
+batasun,noun,batuta egotearen egoera,"bat denaren, bat eginda dagoen edo daudenen nolakotasuna edo egoera",exact
+batasun,noun,unitate bakar bat bihurtzearen ekintza,"batzea, bateratzea",exact
+batasun,noun,jendarte multzo baten erakundea,elkartea,exact
+batasun,noun,ekintza bateratu bat burutzeko eta bere indarra handitzeko jendarte edo talde batzuek sortu duten unitate politiko bat,elkartea,narrower
+batasun,noun,antzeko interesak dituzten eta ekintza bateratu bat burutzeko biltzen diren nazioen multzoa,elkartea,narrower
+bikote,noun,espezie bereko animalia arrak eta emeak osatutako multzoko kideetako bat,espezie bereko animalia arrak eta emeak osatutako multzoa,exact
+bikote,noun,ezkonduta dagoen bikotearen kideetako bat,maitasun-harremanez lotutako bi pertsonaren taldea,related
+bikote,noun,bi antzezlek edo interpretatzailek osatutako taldea,bi lagunez osatutako taldea; kide diren bi izakik osatutako taldea,narrower
+bikote,noun,elkarrekin bizi edo maitasun-harremanez lotutako bi pertsonaren taldea,maitasun-harremanez lotutako bi pertsonaren taldea,exact
+bikote,noun,bi lagunez osatutako taldea bat bezala hartzen denean,bi lagunez osatutako taldea; kide diren bi izakik osatutako taldea,exact
+bikote,noun,bi lagunez osatutako taldeko kideetako bat,bi lagunez osatutako taldea; kide diren bi izakik osatutako taldea,related
+bilkura,noun,deialdi bati erantzunez bildutako jende multzoa,bilera,exact
+bilkura,noun,helburu jakin bat lortzeko bildutako pertsona taldea,elkartea,narrower
+bilkura,noun,jendarte multzo baten erakundea,elkartea,exact
+bilkura,noun,formalki finkatutako topaketa,bilera,narrower
+bilkura,noun,"hainbat gauzaz edo elementuz osaturiko bilduma, gauza bakarra bailitzan hartzen dena","pilaketa, bilduma",exact
+bilkura,noun,bereziki erakunde jakin batek dagozkion arazoei buruz hitz egiteko eta erabakiak hartzeko aldian-aldian egiten duena,bilera,narrower
+bilkura,noun,lagun arteko topaketa,bilera,exact
+bilkura,noun,biltzeko gizarte ekintza,bilera,exact
+bisita,noun,bisitatzaileak lotutako hitzordua,bisitatzea; bisitatzen den aldi bakoitza,exact
+bisita,noun,norbait edo zerbait ikustera joan eta berarekin edo bertan halako denboraz egotea,bisitatzea; bisitatzen den aldi bakoitza,exact
+bisita,noun,bisitatzen duen pertsona,bisitatzen duen pertsona,exact
+bisita,noun,kargudun batek edo egiten duena,bisitatzen duen pertsona,narrower
+bitarteko,noun,"zerbait lortzeko bitartekoa izan daitekeen ahalbidea, tresna","zerbait lortzeko baliagarri den gauza, tresna",exact
+bitarteko,noun,norbaitek eta bereziki herri batek dituen edo erabil ditzakeen ondasun edo ahalbide materialak,"zerbait lortzeko baliagarri den gauza, tresna",narrower
+bitarteko,noun,zerbait lortzeko baliagarri den gauza,"zerbait lortzeko baliagarri den gauza, tresna",exact
+botere,noun,estatu edo lurralde bat gobernatzen duen organo politikoa,agintaritza; herri bateko gobernua,exact
+botere,noun,zerbait egiteko baliabideen jabetza,"zerbaitetarako ahala, indarra edo eskua",exact
+botere,noun,agintzeko boterea edo eskua,"zerbaitetarako ahala, indarra edo eskua",exact
+botere,noun,boterea edota autoritatea duen edo erabiltzen duen norbait edo zerbait,eratutako edozein autoritate,exact
+botere,noun,zerbaitek edo norbaitek beste zerbaitetan edo norbaitengan ondoren bat eragitea,"zerbaitetarako ahala, indarra edo eskua",related
+boto,noun,"hauteskundeetan edo bozketa batean, norbaiten nahiaren adierazpidea",hauteskunde edo zerbait erabaki behar den batzar batean adierazten den iritzia,exact
+boto,noun,bozketa batean norbaiten nahia adierazten duen agiria,hauteskunde edo zerbait erabaki behar den batzar batean adierazten den iritzia,exact
+boto,noun,botoa emateko ahalmena edo eskubidea,botoa emateko ahalmena edo eskubidea,exact
+boto,noun,interes berdinak dituzten hautesleen multzoa,hauteskunde edo zerbait erabaki behar den batzar batean adierazten den iritzia,related
+deklarazio,noun,legezko esparruetan egiten den baieztapena,"(Zuz.) epailearen edo dagokionaren aurrean, egiten zaizkion galderei erantzunez lekukoak edo erruztatuak egiten duen adierazpena",exact
+deklarazio,noun,jendaurrean zerbait jakinaraziz egiten den izkribua,(Pol.) nazioarteko erakunde edo batzarrek eginiko testu garrantzitsuenek hartzen duten izena,exact
+denbora,noun,definitu gabeko periodoa edo garaia (ezaugarri edo aktibitate zenbaitekin markaturikoa bereziki),gauzak gertatzen eta izakiak aldatzen diren bitarte mugagabea; delako bitarte horren zati mugatua,exact
+denbora,noun,"kontzeptu nozionala, aditzak adierazten duen ekintza kronologikoki noiz gertatu den azaltzen duena (denbora estralinguistiko edo semantikoari dagokio; orainaldian, iraganaldian eta geroaldian gauzatzen da)","(Hizkl.) aditzak adierazten duen ekintza kronologikoki noiz gertatu den azaltzen duen kontzeptua (orainaldian, iraganaldian eta geroaldian gauzatzen da)",exact
+denbora,noun,gertakariak agertzen diren esperientziaren continuum-a,gauzak gertatzen eta izakiak aldatzen diren bitarte mugagabea; delako bitarte horren zati mugatua,related
+denbora,noun,zerbait burutzeko kontrolpean eta beharrezkoa den denbora periodoa,garaia,narrower
+diru,noun,"trukerako erabiltzen den baliabiderik arruntena, erabilera legaleko moneta gisa funtzionatzen duena","salgaiak ordaintzeko edota hainbat obligazio kitatzeko gizarteak, oro har, ordainbidetzat onartzen duen guztia",exact
+diru,noun,produktuen balioa adierazteko herrialde bakoitzak darabilen unitatea,"produktuen prezioa adierazteko erabiltzen den unitatea (txanponetan, billetetan gauzatua), salerosketarako eta trukerako erabilia",exact
+diru,noun,trukerako erabiltzen den metalezko pieza (disko-formakoa normalki),txanpona,exact
+egia,noun,errealitatearekin bat etortzea,esaten denaren eta errealitatearen arteko adostasuna; errealitatearekin bat datorren esakunearen ezaugarria,exact
+egia,noun,egiazko adierazpena,arrazoiz edo zentzuz esandakoa,related
+egoera,noun,koiuntura edo gertakarien konbinazio kritikoa,zerbait edo norbait dagoen modua,related
+egoera,noun,zerbait edo norbait dagoen modua,zerbait edo norbait dagoen modua,exact
+egoera,noun,"materia bere atomo eta molekulen arteko kohesio-mailaren arabera naturan egon daitekeen lau moduetako bakoitza (solido, likido, gas eta plasma)",(Fis.) materia bere atomo eta molekulen arteko kohesio-mailaren arabera naturan egon daitekeen moduetako bakoitza,exact
+ekitaldi,noun,jendaurreko ekinaldi berezia,jendaurreko ekintza antolatua,exact
+ekitaldi,noun,bilera edo ospakizun formal edo ofiziala,jendaurreko ekintza antolatua,related
+ekitaldi,noun,"antzerti-lan bat, opera bat edo baleta banatzen den zati nagusietako bakoitza, agerraldietan banatzen dena","(Antz.) antzerki-lan bat banatzen den zati nagusietako bakoitza, agerraldietan banatzen dena",exact
+ekitaldi,noun,"enpresetako jarduera eta emaitzei dagokienez, legez eta praktikoki erreferentzia gisa hartzen den denbora-unitatea (normalean urte bat)","(Kont.) jarduera eta emaitzei dagokienez, legez eta praktikoki erreferentzia gisa hartzen den denbora-unitatea (normalean urte bat)",exact
+elkarte,noun,antzeko interesak dituzten eta ekintza bateratu bat burutzeko biltzen diren nazioen multzoa,"itun ekonomiko, politiko eta abarrez lotutako estatuen multzoa",exact
+elkarte,noun,irabazi ekonomikoak lortzeko helburu jakinarekin elkartzen diren lagunen multzoa,helburu jakin batek era arautuan elkartzen dituen lagunen multzoa,narrower
+elkarte,noun,jendarte multzo baten erakundea,elkartasuna,exact
+emaitza,noun,norbaiti zerbait ematea; hutsean ematen den gauza,norbaiti zerbait ematea; hutsean ematen den gauza,exact
+emaitza,noun,arazo baten konponbidea azaltzen duen adierazpena,"matematika-eragiketa, beste zenbait eragiketa, kirol-lehiaketa eta abarren ondorioa",narrower
+emaitza,noun,"proba, joko, kirol, etab.etan lortutako puntu-kopurua","matematika-eragiketa, beste zenbait eragiketa, kirol-lehiaketa eta abarren ondorioa",narrower
+entsegu,noun,zerbait probatzearen ekintza,saioa,exact
+entsegu,noun,literatur lan analitiko edo interpretatiboa,(Lit.) saiakera,exact
+entsegu,noun,hitzaldi edo kontzertu publiko bat prestatzeko jarduna,ikuskizun edo kontzertu bat publikoaren aurrean egin aurretik egiten diren prestakuntza-saioetako bakoitza,exact
+entsegu,noun,helburua lortzeko egiten den ekintza,saioa,exact
+epai,noun,esku duenak hartutako erabakia,esku duenak hartutako erabakia,exact
+epai,noun,epaile baten erabakiaren arrazonamendua azaltzen duen dokumentu legala,"(Zuz.) epaile baten erabakia, prozesuari amaiera ematen diona",related
+epai,noun,"epaile baten erabakia, prozesuari amaiera ematen diona","(Zuz.) epaile baten erabakia, prozesuari amaiera ematen diona",exact
+epai,noun,auzitegiak judizioa eragin duten gertakariak ikus ditzan burutzen den egintza judiziala,"(Zuz.) epaile baten erabakia, prozesuari amaiera ematen diona",related
+epai,noun,"lanabes zorrotz baten bidez zerbaiten jarraitutasuna eten, zerbait bereizi edo zatitu",ebakia,exact
+epe,noun,zerbait egiteko denbora bitartea; nolabait mugatutako denbora bitartea,zerbait egiteko dagoen edo ematen den denbora-bitartea; nolabait mugatutako denbora-bitartea,exact
+epe,noun,"ordaindu beharreko zenbateko osoaren zatietako bakoitza, egun jakinetan ordaintzeko dena","ordaindu beharreko zenbateko osoaren zatietako bakoitza, egun jakinetan ordaintzeko dena",exact
+epe,noun,zerbait egiteko zehazten den denbora-muga,zerbait egiteko dagoen edo ematen den denbora-bitartea; nolabait mugatutako denbora-bitartea,exact
+eraikuntza,noun,eraikia izan den egitura,"eraikina, eraikitzearen ondorioa",exact
+eraikuntza,noun,eraikinak egiteko merkataritza-jarduera,eraikinak egiteko jarduera,exact
+eraikuntza,noun,zerbait eraikitzearen egintza,eraikinak egiteko jarduera,broader
+eraikuntza,noun,"eraikitako obra, eraikitzearen ondorioa; batez ere etxebizitza eta antzeko beste erabilera batzuetarako izaten dena (antzoki, lantegi...)","eraikina, eraikitzearen ondorioa",exact
+eredu,noun,bere nolakotasun bikainengatik nork bere egitekoetan jarraitzen duen pertsona edo jarraitu beharko lukeena,zerbait egiteko edo moldatzeko iturburutzat hartzen den edo hartzeko ematen dena; bere nolakotasun bikainengatik nork bere egitekoetan jarraitzen duena edo jarraitu beharko lukeena,exact
+eredu,noun,jarraitzekoa edo imitatzekoa izan daitekeela uste den egite edo jokaera,zerbait egiteko edo moldatzeko iturburutzat hartzen den edo hartzeko ematen dena; bere nolakotasun bikainengatik nork bere egitekoetan jarraitzen duena edo jarraitu beharko lukeena,exact
+eredu,noun,problema fisiko bat teorikoki eta sinpleki aztertzeko eraikitzen den sistema,(Fis.) problema fisiko bat teorikoki eta sinpleki aztertzeko eraikitzen den sistema,exact
+erresuma,noun,errege edo erregina buru den lurralde edo estatua,errege edo erregina buru den lurralde edo estatua,exact
+erresuma,noun,erregek edo erreginak agintzen duen lur eremua,errege edo erregina buru den lurralde edo estatua,exact
+erresuma,noun,errege edo erregina buru duen monarkia,errege edo erregina buru den lurralde edo estatua,exact
+erresuma,noun,zerbait edo norbait materiala edo immateriala nagusi den eremu erreal edo alegiazkoa,zerbait edo norbait nagusi den eremu erreal edo alegiazkoa,exact
+erresuma,noun,unitate politiko bakarraren baitan dagoen gizaki multzoa,estatu bat osatzen duen zernahi herrialde,related
+erritmo,noun,"poesian, silaba azentudunak eta azentugabeak, luzeak eta laburrak konbinatzeko era","(Lit.) poesian, silaba azentudunak eta azentugabeak, luzeak eta laburrak konbinatzeko era. Metrika da erritmoaren azterketaz arduratzen den atala",exact
+erritmo,noun,gertakizun edo fenomeno baten denboran zeharreko errepikapen ordenatua,gertakizun edo fenomeno baten denboran zeharreko errepikapen ordenatua,exact
+erritmo,noun,"musika- edo dantza-estilo jakin baten patroia den abiadura, konpas eta azentuek osatutako unitatea","(Mus.) musika- edo dantza-estilo jakin baten patroia den unitatea, halako tempoa, konpasa eta azentu-banaketa ezaugarri dituena",exact
+eskaintza,noun,prezio jakin baten truke merkatuko eskariari erantzuteko ezartzen diren ondasun eta zerbitzuen multzoa,(Ekon.) prezio jakin baten truke merkatuko eskariari erantzuteko ezartzen diren ondasun eta zerbitzuen multzoa,exact
+eskaintza,noun,liburu baten lehen orrialdeetan hura norbaiti eskainiz jartzen den testua,"obra baten, bereziki liburu baten, lehen orrialdeetan hura norbaiti eskainiz jartzen den testua",exact
+eskaintza,noun,eskaintzearen hizketa ekintza,eskaintzea (ekintza eta ondorioa),narrower
+eskuin,noun,"politikan, alde ez-aurrerakoia, alderdi politiko kontserbadoreen multzoa eta korrontea","politikan, aurrerakoia ez dena, alderdi politiko kontserbadoreen multzoa eta korrontea",exact
+eskuin,noun,eskuineko eskua,so egilearen bihotzaz bestaldeko aldea,related
+eskuin,noun,so egilearen bihotzaz bestaldeko aldea,so egilearen bihotzaz bestaldeko aldea,exact
+eskuin,noun,"gorputz-adar batez egiten diren zereginetan, eskuinekoez trebeago moldatzen dena","gorputz-adar batez egiten diren zereginetan, eskuinekoez trebeago moldatzen dena",exact
+estatu,noun,"hainbat estatutako banaketa administratiboa, eskuarki botere zentralaren mende dagoena","boterea gauzatzen duten erakundeen multzoa; botere publiko zentrala, botere lokalei kontrajarria",exact
+estatu,noun,estatu subirano baten gobernua osatzen duen gizaki multzoa,"boterea gauzatzen duten erakundeen multzoa; botere publiko zentrala, botere lokalei kontrajarria",related
+estatu,noun,unitate politiko bakarraren baitan dagoen gizaki multzoa,lurralde mugatuan finkatua eta botere subiranoz hornitua dagoen unitate politikoa,related
+estatu,noun,"herri bat bizi den lurraldea, berezko mugak nahiz artifizialak dituena",lurralde mugatuan finkatua eta botere subiranoz hornitua dagoen unitate politikoa,related
+etxe,noun,bizi zaren lekua,etxebizitza,exact
+etxe,noun,familia bat edo gehiago bizitzeko balio duen eraikuntza,gizakia bizitzeko prestatzen den edozein eraikin,exact
+etxe,noun,aristokrazia-leinua,"familia; leinua, dinastia",exact
+ezker,noun,ezker aldean dagoen lekua edo harako norabidea duena,so egilearen bihotza dagoen aldea,exact
+ezker,noun,ezarritako ordena aldarazten saiatzen direnak,"politikan, alde aurrerakoia, alderdi politiko ez-kontserbadoreen multzoa eta korrontea",exact
+ezker,noun,gorputzaren ezker aldean dagoen eskua,so egilearen bihotza dagoen aldea,related
+eztabaida,noun,politikarien artean ematen diren solasaldi formal eta arautuak,"pertsona batzuen arteko solasaldi formala, bakoitzak bere iritzien eta besteenen aldeko eta kontrako argudioak azaltzea",narrower
+eztabaida,noun,gai batekiko liskar edo desadostauna,gairen bati buruz iritzi desberdinak dituzten pertsonen arteko jarduna edo hitzezko liskarra,exact
+eztabaida,noun,"pertsona batzuen arteko solasaldi formala, bakoitzak bere iritzien eta besteenen aldeko eta kontrako argudioak azaltzea","pertsona batzuen arteko solasaldi formala, bakoitzak bere iritzien eta besteenen aldeko eta kontrako argudioak azaltzea",exact
+gaizki,noun,suntsiketa eta zoritzarra sortzen duena,"gaitza, bekatua",related
+gaizki,noun,nnorbaiti edo zerbaiti beste norbaitek edo zerbaitek eragiten dion txarrerako aldaketa,"gaitza, bekatua",related
+gaizki,noun,norbaiti edo zerbaiti beste norbaitek edo zerbaitek eragiten dion hondamena,"gaitza, bekatua",related
+garapen,noun,aldaketen segida,garatzea (ekintza eta ondorioa),exact
+garapen,noun,zerbait edo norbait gero eta perfekzio- edo konplexutasun-maila handiagoa duten egoeren segida batetik igarotzea edo igoaraztea,"(Ekon.) ekonomia-sistema baten eta bere funtzionamenduaren hobekuntza kualitatibo eta egonkorra (industrializazioa, errenta nazionalaren maila, inbertsioak eta abar)",related
+garapen,noun,izaki bizien garapenean mailaka eta norabide berean egiten diren aldaketen segida,garatzea (ekintza eta ondorioa),narrower
+garapen,noun,izaki biziduna nahiz honi dagokion zerbait ezarian handituz joan,garatzea (ekintza eta ondorioa),narrower
+gizaki,noun,Lurrean bizi diren gizakien multzoa,gizon-emakumeak oro har; gizon-emakumeen multzoko banako bakoitza,related
+gizaki,noun,gizon-emakumeen multzoko bakoitza,gizon-emakumeak oro har; gizon-emakumeen multzoko banako bakoitza,exact
+gizaki,noun,"gizaki arra, haurrik izan ez dezakeen sexukoa dena",gizasemea,exact
+gobernu,noun,estatu edo lurralde bat gobernatzen duen organo politikoa,estatu edo lurralde bat gobernatzen duen organo politikoa,exact
+gobernu,noun,"gobernatzearen ekintza eta ondorioa, agintea exekutatu",gobernatzea (ekintza eta ondorioa),exact
+gobernu,noun,zerbait zuzentzeko ekintza,gobernatzea (ekintza eta ondorioa),related
+gobernu,noun,estatu edo lurralde bat gobernatzen den forma instituzional edo politikoa,estatu edo lurralde bat gobernatzen duen organo politikoa,exact
+gorputz,noun,"masa duen 3 dimentsioko objektua, beste objektuengandik bereizten dena",(Fis.) tamaina definitua duen materia-zatia,related
+gorputz,noun,"buru, lepo eta gorputz-adarrik gabeko gorputz-atala",gizaki edo animalien enborra,exact
+gorputz,noun,animalia nahiz giza gorputz hila,"hilotza, gorpua",exact
+gorputz,noun,organismo baten egitura fisiko osoa (animalia eta gizakiena bereziki),animalia osatzen duen materia organikozko multzoa,exact
+gorputz,noun,osotasun batetik bereiz daitekeen zatia,"eraikin edo zerbaiten zatietako bakoitza, independentea izan daitekeena",broader
+guardia,noun,pertsona edo leku bat zaintzen edo defendatzen duen soldadua,(Mil.) zaintzeko edo defendatzeko funtzioa duten gorputz armatu jakin batzuei ematen zaien izena; gorputz horietako kide bakoitza,narrower
+guardia,noun,"zenbait lanbidetan (nabigazioa, medikuntza...) txandaka pertsona desberdinek betetzen duten zerbitzu bereziak irauten duen denbora","zenbait lanbidetan eskaintzen den zerbitzu berezia, pertsonek txandaka betetzen dutena; delako zerbitzu bakoitzak irauten duen denbora",exact
+guardia,noun,pertsonak edo jabetzak zaintzen dituen pertsona,(Mil.) zaintzeko edo defendatzeko funtzioa duten gorputz armatu jakin batzuei ematen zaien izena; gorputz horietako kide bakoitza,related
+guardia,noun,polizia zerbitzuko kidea,(Mil.) zaintzeko edo defendatzeko funtzioa duten gorputz armatu jakin batzuei ematen zaien izena; gorputz horietako kide bakoitza,narrower
+gustu,noun,zaporea edo gauzek dastamenean eragiten duten sentsazioa,zaporea,exact
+gustu,noun,norbanakoaren zaletasun partikularra,"nahia, zaletasuna",exact
+gustu,noun,atseginaren sentsazioa,atsegina,exact
+gustu,noun,edertasuna sumatzeko gaitasuna,edertasuna sumatzeko gaitasuna,exact
+gustu,noun,dastamena,dastamena,exact
+harri,noun,"lurrazalaren osagai den material mineral gogorra, bereziki konposizio kimiko ez-homogeneoa duena","lurrazalaren osagai den material mineral gogorra, bereziki, konposizio kimiko ez-homogeneoa duena (alegia, mineral desberdinez osatua dena)",exact
+harri,noun,"lurraren osagai den material mineralaren puska, landua nahiz landugabea, eta eraikuntzan, jokoan, bitxigintzan, etab.etan erabilia","delako materiala edo haren puska, landua nahiz landugabea, eta eraikuntzan, jokoan, bitxigintzan eta abarretan erabilia; delako materialaren zati ez oso handia, norberak eraman edo bota dezakeena",exact
+harri,noun,"txingor lodia, normalean udako trumoi-erasoetan botatzen duena","txingor lodia, normalean udako trumoi-erasoetan botatzen duena",exact
+heriotza,noun,"suntsipena, desagerpena","suntsipena, desagerpena",exact
+heriotza,noun,hiltzera arteko denbora,"biziaren erabateko eta betiko etena; giza bizitzaren bukaera, berezkoa nahiz eragina",related
+heriotza,noun,hilda dagoenaren egoera,"biziaren erabateko eta betiko etena; giza bizitzaren bukaera, berezkoa nahiz eragina",related
+heriotza,noun,bizitzaren bukaera,"biziaren erabateko eta betiko etena; giza bizitzaren bukaera, berezkoa nahiz eragina",exact
+heriotza,noun,norbaiten biziari erabateko eta betirako etena ematea,"biziaren erabateko eta betiko etena; giza bizitzaren bukaera, berezkoa nahiz eragina",narrower
+herritar,noun,hiria baino txikiagoa den udalerri bateko biztanleria,herri bateko kide edo biztanlea,related
+herritar,noun,norbaiten herri berekoa den pertsona: herri laguna,herrikidea,exact
+herritar,noun,leku jakin batean bizi den pertsona,herri bateko kide edo biztanlea,broader
+herritar,noun,"nazio edo herri bateko kidea, bereziki, betebeharrak eta eskubideak dituen gizabanakotzat hartua","(Zuz.) estatu bateko kidea, bereziki, betebeharrak eta eskubideak dituen gizabanakotzat hartua",exact
+historia,noun,"iraganean, orainaldian eta baita etorkizunean ere ematen den gertaera-segida","gizadiaren (edo gizarte, giza talde nahiz banako baten) iraganaldiko gertaeren segida; direlako gertaeren kontakizuna",broader
+historia,noun,iraganeko gertakari-multzoa,"gizadiaren (edo gizarte, giza talde nahiz banako baten) iraganaldiko gertaeren segida; direlako gertaeren kontakizuna",broader
+historia,noun,iraganeko gertakari-sail bat eskaintzen duen kontaketa,"gizadiaren (edo gizarte, giza talde nahiz banako baten) iraganaldiko gertaeren segida; direlako gertaeren kontakizuna",broader
+historia,noun,"iraganaz ezagutzen dugun guztia, idatzietan gorderik dagoena; ezagutza-multzoa","gizadiaren (edo gizarte, giza talde nahiz banako baten) iraganaldiko gertaeren segida; direlako gertaeren kontakizuna",related
+historia,noun,gizadiaren iraganaldiko gertaerak aztertzen dituen jakintza,gizadiaren iraganaldiko gertaerak aztertzen dituen jakintza,exact
+huts,noun,"lege, arau edo eginbide bat ez betetzea; horren ondorioa","lege, arau edo eginbide bat ez betetzea; horren ondorioa",exact
+huts,noun,perfektua ez izatearen egoera,zerbaitek beharrezkoa duen zerbait ez izatea edo behar adina ez izatea,related
+huts,noun,"materia gabezia; ezer ez dagoen bitartea, ezereza","materia gabezia; ezer ez dagoen bitartea, ezereza",exact
+huts,noun,hutsegitea edo gabezia,lortu edo egin behar edo nahi dena ez lortzea edo egitea,exact
+huts,noun,judizio okerrari edo ezjakintasunari edo atentzio faltari dagokion ekintza okerra,lortu edo egin behar edo nahi dena ez lortzea edo egitea,related
+huts,noun,kafea denaz besterik edo bestelakorik ez duena,"elementu arrotzik ez duena, adierazten denaz besterik edo bestelakorik ez duena",narrower
+hutsegite,noun,judizio okerrari edo ezjakintasunari edo atentzio faltari dagokion ekintza okerra,"norbaitek edo zerbaitek bere jardunean nahi, behar zuen edo espero zen emaitza ez izatea",narrower
+hutsegite,noun,"lege, arau edo eginbide bat ez betetzea; horren ondorioa","hutsa, lege, arau edo eginbide bat ez betetzea; horren ondorioa",exact
+hutsune,noun,gauzen arteko espazio hutsa,tarte edo une hutsa,narrower
+hutsune,noun,espazio zuria edota faltan dagoena,tarte edo une hutsa,narrower
+hutsune,noun,faltan dagoen zerbait behar izatearen egoera,gabetasuna,exact
+hutsune,noun,perfektua ez izatearen egoera,gabetasuna,related
+hutsune,noun,idatzitakoan uzten den tarte hutsa,tarte edo une hutsa,narrower
+hutsune,noun,hutsegitea edo gabezia,"hutsa, hutsegitea",exact
+ideia,noun,pertsona baten intentzioa,"burutapena; ustea, asmoa",narrower
+ideia,noun,ikuspuntu pertsonala,gizarte-arazoei buruz norberaren ikuspegi gutxi-asko iraunkorra,broader
+ideia,noun,"ezagutzaren edukia, pentsamenduaren fenomeno garrantzitsuena","gauza baten irudikapen abstraktu eta orokorra, gogoak edo adimenak eratua",related
+ikustaldi,noun,norbait edo zerbait ikustera joan eta berarekin edo bertan halako denboraz egotea,norbait ikustera joan eta berarekin halako denboraz egotea,broader
+ikustaldi,noun,bisitatzaileak lotutako hitzordua,zerbait edo norbait aztertzeko ikustea,related
+ikustaldi,noun,kargudun batek edo egiten duena,zerbait edo norbait aztertzeko ikustea,related
+ilusio,noun,"irudimenean gogoko den zerbait lortzeko gura, itxaropen bizia","irudimenean gogoko den zerbait lortzeko gura, itxaropen bizia",exact
+ilusio,noun,pertsona zenbaitek sinisten dutena eta faltsua dena,zentzumenez hautematen denaren interpretazio okerra,related
+ilusio,noun,"gertakari onuragarri batek, gustuko zerbait lortzeak edo bere sentimendu eta afektuak aseko dizkion zerbaitek norbaitengan sorrarazten duen sentimendua",poza,narrower
+interes,noun,kreditu gisa mailegatutako diruagatik ordaintzen den diru-kopurua,(Ekon.) kreditu gisa mailegatutako diruagatik ordaintzen den diru-kopurua,exact
+interes,noun,garrantzizkoa edo berezia delako norbait erakartzen duen boterea,garrantzizkoa dela edo arreta merezi duela uste denaren aurrean ernatzen den gogo-jarrera edo egoera,related
+interes,noun,zerbaitek berekin dakarren eta norbaitentzat edo zerbaitetarako on den ondorio edo emaitza,"norbaiti axola diona, doakiona, onuragarri zaiona",related
+interes,noun,garrantzizkoa dela edo arreta merezi duela uste denaren aurrean ernatzen den gogo-jarrera edo egoera,garrantzizkoa dela edo arreta merezi duela uste denaren aurrean ernatzen den gogo-jarrera edo egoera,exact
+irteera,noun,joatearen ekintza,irtetea,exact
+irteera,noun,nonbaitetik irteteko bidea,nonbaitetik irteteko tokia edo gunea,exact
+irteera,noun,lasterketa hasten den lekua erakusten duen marra,(Kir.) lasterketa hasten den tokia,exact
+istilu,noun,hitzekin adierazitako aurrez aurreko liskar edo desadostasun gogorra,eztabaida sortzen duen arazo edo auzia,related
+istilu,noun,"egoera larri batean sortzen den eztabaidazko zarata, iskanbila","egoera larri batean sortzen den eztabaidazko zarata, iskanbila",exact
+istilu,noun,gai batekiko liskar edo desadostauna,eztabaida sortzen duen arazo edo auzia,related
+jai,noun,zerbait ospatzeko egiten diren ekitaldi multzoak irauten duen denboraldia,"herri, hiri edo eskualde batean norbaiten oroitzapenetan egiten den elizkizun- edota dibertsiozko ekitaldi-multzoa",related
+jai,noun,dibertitzeko biltzen den jende multzoa,"etxe edo antzeko lekuren batean, bertaratutakoak dibertitzea helburu duen bilera soziala. Gehienetan jan-edanaz, musikaz, dantzaz, jokoz eta abarrez eratzen da",related
+jai,noun,"gehienetan jan-edanaz, musikaz, dantzaz, jokoz, etab.ez eratzen da","etxe edo antzeko lekuren batean, bertaratutakoak dibertitzea helburu duen bilera soziala. Gehienetan jan-edanaz, musikaz, dantzaz, jokoz eta abarrez eratzen da",broader
+jai,noun,"astearen zazpigarren eta azken eguna, lanari dagokionean atseden-eguna dena",igandea,exact
+jai,noun,legez edo ohituraz lanik egiten ez den eguna,"lan egiten ez den eguna, edo egunaren zatia",narrower
+jai,noun,deskantsatzeko hartzen den eguna,"lan egiten ez den eguna, edo egunaren zatia",related
+jai,noun,"etxe edo antzeko lekuren batean, bertaratutakoak dibertitzea helburu duen bilera soziala","etxe edo antzeko lekuren batean, bertaratutakoak dibertitzea helburu duen bilera soziala. Gehienetan jan-edanaz, musikaz, dantzaz, jokoz eta abarrez eratzen da",broader
+joko,noun,"irabazteko itxaropenarekin egiten den apostua, jokatzeko ekintza (sari bat irabazteko aukera ematen duen ordainketa barne)","atsegin hartzeko, eta askotan dirua bitarte dela, egiten den jarduera arautua, lehiaketa-sistemaren edo zoriaren ondorioz irabazlea eta galtzailea sortzen dituena",related
+joko,noun,irabazle bat aukeratzeko lehiaketa arautua,"atsegin hartzeko, eta askotan dirua bitarte dela, egiten den jarduera arautua, lehiaketa-sistemaren edo zoriaren ondorioz irabazlea eta galtzailea sortzen dituena",broader
+joko,noun,"kirol askotako eta nazioarteko ekitaldi handia, lau urtean behin antolatzen dituztenak bai uda partean bai eta neguan ere",zenbait kirol-diziplina biltzen dituen lehiaketa-multzoa,related
+joko,noun,objektu batzuekin batera lan egiteko konbinaketa,zerbaitetarako elkarrekin erabili ohi diren objektuen multzoa,exact
+joko,noun,denbora pasa edo olgeta,atseginezko jarduera,related
+kale,noun,"espazio edo luzera jakin bat bete behar den kiroletan (atletismoa, igeriketa, arraunketa), lehiakide bakoitzak bertatik irten gabe jarraitu behar duen bidea","(Kir.) zenbait kiroletan (atletismoa, igeriketa, arraunketa), lehiakide bakoitzak bertatik irten gabe jarraitu behar duen bidea",exact
+kale,noun,"hiri edo herrietan, etxez inguraturiko bidea","hiri edo herrietan, bi etxe-lerroren artean doan bidea",exact
+kale,noun,ibilgailuak ibiltzeko egin diren bide publikoak,"hiri edo herrietan, bi etxe-lerroren artean doan bidea",related
+kantitate,noun,materia zati bat edo antzeko gauzen multzo bat zehazten duen neurria,"zerbait beste zerbait baino gehiago edo gutxiago izatea eta, beraz, zenbatzea edo neurtzea ahalbidetzen duen ezaugarria",related
+kantitate,noun,adierazpen matematiko batekin irudikatu edo neurtu daitekeen zerbaiten kantitatea,delako ezaugarriak hartzen duen balio jakina,related
+kargu,noun,zerbait okerra edo irain bat epaitegian denuntziatzeko ekintza,(Zuz.) akusatuari egozten zaion hutsa edo delitua,related
+kargu,noun,antolamendu hierarkiko bateko lanpostu bat,norbaiten erantzukizun edo ardura den betekizuna; lanbidea,related
+kargu,noun,zerbait egiteko hartutako erantzukizuna,"ardura, betekizuna, erantzukizuna",narrower
+kasu,noun,argudio bati eusteko erabiltzen diren arrazoi eta gertaeren adierazpena,aipatutakoa adibidez hornituz zehazteko edo argitzeko erabiltzen den hitza,related
+kasu,noun,ikerketa eskatzen duen arazoa,"arazoa, afera",narrower
+kasu,noun,jazoera bat,gertatzen dena edo gertatu uste dena; zertzelada,broader
+kasu,noun,"izen-sintagmak, perpausean betetzen duen funtzioaren arabera, hartzen dituen deklinabide-atzizkietako bakoitza izendatzeko erabiltzen den kategoria gramatikala","(Hizkl.) izen-sintagmak, perpausean betetzen duen funtzioaren arabera, hartzen dituen deklinabide-atzizkietako bakoitza izendatzeko erabiltzen den kategoria gramatikala",exact
+kolpe,noun,"mugimendu bakarra, hasieratik bukaerarainoko mugimendua",elementu baten mugimendu azkar edo bortitza,related
+kolpe,noun,eragin larri edo txarra duen zoritxarreko arazo edo gertaera,eragin larri edo txarra duen zoritxarreko arazo edo gertaera,exact
+kolpe,noun,mugimenduan dagoen objektu baten talka bortitz baten ondorioz gertatzen den istripua,zerbaitek zerbait jotzea (ekintza eta ondorioa),related
+kolpe,noun,bi gorputz edo gehiagoren elkarketa,zerbaitek zerbait jotzea (ekintza eta ondorioa),related
+kolpe,noun,elementu baten mugimendu azkar edo bortitza,elementu baten mugimendu azkar edo bortitza,exact
+lan,noun,energia adierazpena; sistema fisiko batetik bestera gertatzen den energia trasferentziaren emaitza; indar baten eta hark mugitzen duen gorputzak norabide hartan egiten duen distantziaren adierazle,(Fis.) indar baten eta bere ezartze-gunearen lekualdatzearen bektore-biderkadura. Lan-unitatea joule-a da,exact
+lan,noun,zerbait eraikitzearen egintza,zerbait egiteko eragiketa-multzoa eta horrek eskatzen duen ahalegina,related
+lan,noun,zerbait egitera bideratutako jarduna,zerbait egiteko eragiketa-multzoa eta horrek eskatzen duen ahalegina,broader
+lan,noun,idazle nahiz artista baten lanaren emaitza (edo haren parte handi bat),"eskulangile, intelektual edo artista baten jardueraren emaitza, obra",exact
+lan,noun,pertsona edo gauza baten jardueraren ondorioz lortutakoa,"eskulangile, intelektual edo artista baten jardueraren emaitza, obra",related
+langile,noun,"intsektu sozialetan (inurri, erle, etab.etan), koloniarentzat lan egiten duten banako antzua (eme antzuak izaten dira)","(Zool.) intsektu sozialetan (inurri, erle eta abarretan), koloniarentzat lan egiten duen banako antzua. Eme antzuak izaten dira",exact
+langile,noun,lan egiten duena,lan egiten duena,exact
+langile,noun,aparatu bat maneiatzen duen teknikaria,lanbide jakin batean sari-truke aritzen dena; batez ere industrian lan egiten duena,related
+langile,noun,"eskuzko lana egiten duena eta bizitze maila apala duena, burgesa edo kapitalista ez dena",lanbide jakin batean sari-truke aritzen dena; batez ere industrian lan egiten duena,related
+lantegi,noun,industria lana egiteko eraikina,fabrika,exact
+lantegi,noun,eskulanak edo fabrikazioa egiten den etxe txiki bat,eskuzko lanen bat egiten den tokia,narrower
+lantegi,noun,"pertsona baten bizitzako aktibitate nagusia, zeinek dirua irabazteko aukera ematen duen","lana, egitekoa; lanbidea",exact
+lantegi,noun,jarduera profesionala egiten den tokia,eskuzko lanen bat egiten den tokia,related
+laurden,noun,"neurri-sistema hamartarreko edukiera-unitatea, dezimetro kubiko baten baliokidea dena; neurri horretan sartzen den kantitatea",litroa,exact
+laurden,noun,lau zati berdinetan banatzen den osotasunaren zati bakoitza,lau zati berdinetan banatzen den osotasunaren zati bakoitza,exact
+laurden,noun,ordu baten lau zatietako bakoitza,zenbait neurriren lau zatietako bakoitza,narrower
+lege,noun,gertakariez ari diren deskribapen orokorrak (zientzietan edo matematikan),"naturako fenomenoek elkarren artean agertzen duten lotura edo erlazio orokor eta iraunkorra, kausa jakin batek efektu jakin bat sortuko duela aurresatea ahalbidetzen duena; delako lotura edo erlazioaren adierazpena",broader
+lege,noun,aktibitate bat gobernatzen duen multzoko arau bat edo araua ezartzen duen legezko dokumentu bat,"gizarte-harremanetan, zenbait jardueratan eta abarretan, araua",related
+lege,noun,gizartean bizi diren gizakien arteko harremanak bideratzeko eta erregulatzeko aginteak inposatzen dituen arauen multzoa,"gizartean hartarako eskudun denak ezarritako araua edo arau-multzoa, orokorra eta nahitaez bete beharrekoa; zentzu hertsian, entitate politiko (estatu) baten botere legegileak sortutako arau edo arau-multzoa",broader
+lege,noun,zerbaiten jardunbidea antolatzen duen arau-multzoa,"gizarte-harremanetan, zenbait jardueratan eta abarretan, araua",related
+leiho,noun,argia eta haizea sartzen uzteko funtzioa duen irekigunea,"horma edo pareta batean, argia eta haizea sartzen uzteko, solairutik distantzia batera egiten den irekigunea",broader
+leiho,noun,irekigunean itsatsita dagoen markoak eusten duen beira,"delako irekigunea ixteko, zurezko, metalezko nahiz plastikozko armazoiz eta beiraz egiten den orri edo orri-multzoa",related
+leiho,noun,"horma edo pareta batean, argia eta haizea sartzen uzteko, solairutik distantzia batera egiten den irekigunea","horma edo pareta batean, argia eta haizea sartzen uzteko, solairutik distantzia batera egiten den irekigunea",exact
+leiho,noun,"pantailan zabaltzen den espazio angeluzuzena, fitxategi bateko datuak, testua edo irudiak agertzen dituena","(Inform.) pantailan zabaltzen den espazio angeluzuzena, fitxategi bateko datuak, testua edo irudiak agertzen dituena",exact
+leiho,noun,"irekigunea ixteko, zurezko, metalezko nahiz plastikozko armazoiz eta beiraz egiten den orri edo orri-multzoa","delako irekigunea ixteko, zurezko, metalezko nahiz plastikozko armazoiz eta beiraz egiten den orri edo orri-multzoa",exact
+leiho,noun,leiho edo beirateen gainean jartzen den atetxoa,"delako irekigunea ixteko, zurezko, metalezko nahiz plastikozko armazoiz eta beiraz egiten den orri edo orri-multzoa",related
+leku,noun,zerrenda bateko posizioa,"norbaitek edo zerbaitek, ingurune, alor, hierarkia eta abarretan duen posizio, zeregin edo garrantzia",related
+leku,noun,"objektu guztiak dauden eremua, eremu hutsa dirudiena, eremu hau objektuek mugatzen dute","zerbait edo norbait kokaturik dagoen, edo bertan beste ezer edo inor ez dagoelako koka daitekeen, espazioko aldea",exact
+leku,noun,espazioko puntu edo aldea,espazioko puntu edo aldea,exact
+leku,noun,adimenak sortutako leku abstraktua,"norbaitek edo zerbaitek, ingurune, alor, hierarkia eta abarretan duen posizio, zeregin edo garrantzia",related
+leku,noun,egoera jakin bat,zerbait gertatzen edo egiten den ingurunea,exact
+leku,noun,objektu edo gertaera baten kokagunea edo kokatzeko moduaren propietate espaziala,"zerbait edo norbait kokaturik dagoen, edo bertan beste ezer edo inor ez dagoelako koka daitekeen, espazioko aldea",related
+literatura,noun,idazlearen lana edo jarduera,idazlearen lana edo jarduera,exact
+literatura,noun,balio artistiko ezaguna duen idazketa sortzailea,"hitzaren bidezko adierazpenean, ahozkoan nahiz idatzian, oinarritzen den artea",related
+literatura,noun,gai bati buruzko edo horren inguruko obra-multzoa,"literatura-lanen multzoa; bereziki idazten diren garai, herri, hizkuntza, genero eta abarren ikuspuntutik kontuan hartuz",broader
+lotura,noun,gauzak elkarrekin lotzen dituen gailua,"bi gauza, bereziki bi gauza abstraktu elkarrekin lotzen dituen zera; direlakoak lotzen dituen elementu edo egitura",broader
+lotura,noun,bi gauza lotzen diren tokia,"bi gauza, bereziki bi gauza abstraktu elkarrekin lotzen dituen zera; direlakoak lotzen dituen elementu edo egitura",related
+lotura,noun,pertsona edo instituzio baten sentimendua,"harremana, zerikusia, erlazioa",related
+lotura,noun,loturik egotearen egoera,"bi gauza, bereziki bi gauza abstraktu elkarrekin lotzen dituen zera; direlakoak lotzen dituen elementu edo egitura",related
+lotura,noun,beste norbait edo zerbaitekiko nolabaiteko erlazioa,"harremana, zerikusia, erlazioa",exact
+lur,noun,"lur-zati edo lur-eremua; bereziki, ereiteko nahiz zerbait landatzeko egokitu eta prestatzen dena",nekazaritzarako erabiltzen den edo erabil daitekeen osagai hori bera eta haren hedadura,exact
+lur,noun,"herri bat bizi den lurraldea, berezko mugak nahiz artifizialak dituena",lurraldea,narrower
+lur,noun,eraikuntza baten barneko azpiko gainazal horizontala (gela edo korridore batekoa),"toki, ingurune edo barrunbe bateko behereneko azala; azal horretan gauzak eta pertsonak bermatzen dira",related
+lur,noun,"landareak hazten diren lekua (batez ere, kualitatea aipatzen denean)",nekazaritzarako erabiltzen den edo erabil daitekeen osagai hori bera eta haren hedadura,related
+lur,noun,munduaren gainazal solidoa,"Lur planetaren azala, eta bereziki, urez estalia ez dena",broader
+lur,noun,munduaren gainazal gehiena egiten duen materia hauskor eta askea,"lurraren azal solidoa eratzen duen osagaia, bereziki tamaina txikiko ale mineral edota organikoz osatutako material ez-trinkoa, mineral edo harri gogorrari kontrajarria",broader
+mahai,noun,"zerbait erabakitzeko edo zerbaitez eztabaidatzeko, gehienetan mahai baten inguruan, biltzen diren erakunde edo pertsonek eginiko batzarra; batzar horretan parte hartzen duen pertsona-taldea","zerbaitez eztabaidatzeko, gehienetan mahai baten inguruan, biltzen diren erakunde edo pertsonek eginiko batzarra; hor parte hartzen duen pertsona-taldea",exact
+mahai,noun,jateko edo jokorako gehienetan mahai baten inguruan biltzen den pertsona-taldea,"hanka batez edo gehiagoz eta horiek gainean duten taula edo pieza lau batez osaturiko altzaria, jateko, idazteko eta abarretarako erabiltzen dena",related
+mahai,noun,"hanka batez edo gehiagoz eta horiek gainean duten taula edo pieza lau batez osaturiko altzaria, jateko, idazteko, lan egiteko, etab.etarako erabiltzen dena","hanka batez edo gehiagoz eta horiek gainean duten taula edo pieza lau batez osaturiko altzaria, jateko, idazteko eta abarretarako erabiltzen dena",exact
+mahai,noun,"delako altzaria, bertan janariak hartzeko behar diren elementu guztiez (plater, koilara, etab.ez) hornitua","delako altzaria, bertan janariak hartzeko behar diren elementu guztiez (plater, koilara eta abarrez) hornitua",exact
+marka,noun,produktu edo zerbitzu bati erreferentzia egiten dion izena,"produktu baten izena, ekoitzi duen enpresak erregistratua eta gainerakoetatik bereizteko erabilia",exact
+marka,noun,kirol batean inoiz lorturiko saiorik onena,"norgehiagoka, lehiaketa, kirol edo, oro har, jarduera batean, dagokion unera arte edo denbora-bitarte jakin batean lortu den emaitzarik onena",exact
+marka,noun,gainazalean egindako seinalea ikusgarria denean,"seinalea, aztarna, ezaugarria; gauza edo abere batengan egiten den seinale bereizlea",broader
+marka,noun,idatzizko edo inprimatutako sinbolo bat (puntuaziorako erabiltzen dena),zerbaiten adierazgarri erabiltzen den ikur edo ezaugarria,related
+marka,noun,bereizgarria den sinbolo bat,"seinalea, aztarna, ezaugarria; gauza edo abere batengan egiten den seinale bereizlea",exact
+martxa,noun,funtzionatzeko edo lan egiteko modua edo prozesua,ibilgailu edo tresna baten higidura edo funtzionamenduaren lastertasun-maila,broader
+martxa,noun,"higikari, ibilgailu edo tresna baten higidura edo funtzionamenduaren lastertasun-maila",ibilgailu edo tresna baten higidura edo funtzionamenduaren lastertasun-maila,exact
+martxa,noun,abiadura-aldagailuaren engranaje-konbinazio bakoitza; horietako bakoitzari dagokion higidura-modua,(Autom.) abiadura-kaxako engranaje-konbinazio bakoitza; horietako bakoitzari dagokion higidura-modua,exact
+martxa,noun,"erritmoa aski nabarmena duen musika-pieza, dabilen soldadu edo lagun-talde baten urratsa zuzen dezakeena","erritmo nabarmena duen musika-pieza, dabilen soldadu edo lagun-talde baten urratsa zuzen dezakeena",exact
+martxa,noun,pauso erregularrak emanez ibiltzea,"urratsa, ibilera",narrower
+material,noun,"jarduera baterako behar den gai, tresneria edo baliabideen multzoa","jarduera baterako behar den gai, tresneria edo baliabideen multzoa",exact
+material,noun,"izatearen alderdi fisikoari dagokiona, espirituzkoa ez dena","izatearen alderdi fisikoari dagokiona, espirituzkoa ez dena",exact
+modu,noun,jarduera bat burutzeko erabiltzen den teknika,"era, gisa, moldea",narrower
+modu,noun,jomuga edo emaitza bat lortzeko era,"era, gisa, moldea",narrower
+modu,noun,"aditzaren morfologia-kategoria, hiztunak mezuko ekintzarekiko duen jarrera azaltzen duena","(Hizkl.) aditzaren morfologia-kategoria, hiztunak mezuko ekintzarekiko duen jarrera azaltzen duena (hau da, horrekiko duen ziurtasuna)",exact
+muga,noun,elkarren ondoan dauden bi plano bereizten dituen irudizko marra edo gunea,"elkarren ondoan dauden bi lurralde, herrialde, jabego eta abar bereizten dituen irudizko marra edo gunea",narrower
+muga,noun,zerbait ahal den urrutien eraman edo joan daitekeen puntua edo eremua,zerbait (fisikoa zein materiala) amaitzen den tokia edo unea,related
+muga,noun,zerbait amaitzen den unea,zerbait (fisikoa zein materiala) amaitzen den tokia edo unea,narrower
+mugimendu,noun,trebeziazko mugimendu koordinatua,mugitzea (ekintza eta ondorioa),narrower
+mugimendu,noun,"musika-lan baten zatia, bereziki sonata edo sinfoniarena","(Mus.) musika-lan baten zatia, bereziki sonata edo sinfoniarena",exact
+mugimendu,noun,zerbaiten posizio- nahiz leku-aldaketa dakarren gertaera naturala,mugitzea (ekintza eta ondorioa),narrower
+mugimendu,noun,"ideien edo iritzien aldaketa helburutzat duen joera eta jarduera-multzoa, giza talde edo erakunde bat edo batzuek eragina","ideiak edo iritziak aldatu nahi dituen joera eta jarduera-multzoa, giza talde edo erakunde bat edo batzuek eragina; delako giza talde edo erakunde-multzoa",narrower
+mundu,noun,Lurrean bizi diren gizakien multzoa,"lurrean bizi diren gizakien multzoa, gizartea",exact
+mundu,noun,pertsona multzoa osotasun gisa harturik,"gizakiak, jendea",related
+mundu,noun,"jendea orokorrean, bereziki antzeko interesak dituzten jende talde berizgarria","gizakiak, jendea",related
+mundu,noun,eguzkiaren inguruan mugitzen den hirugarren planeta; bizi garen planeta,"Lurra, gizakia bizi den planeta",exact
+musu,noun,ugaztunen sudurra,sudurra; abereen muturra,narrower
+musu,noun,"ugaztunetan, aurpegiaren zati irtena, ahoa eta sudurra dauzkana",sudurra; abereen muturra,related
+musu,noun,animali buruaren aurreko aldea,sudurra; abereen muturra,related
+musu,noun,giza buruaren aurreko aldea,"aurpegia, begitartea",exact
+mutil,noun,gazte edo gizon bati deitzeko modu ez formala,gizonezkoekin erabiltzen den motel bokatiboaren kidea,exact
+mutil,noun,gizonezko gaztea,heldutasunera iritsi ez den gizonezkoa; haur arra,broader
+mutur,noun,"ugaztunetan, aurpegiaren zati irtena, ahoa eta sudurra dauzkana","ugaztunetan, aurpegiaren zati irtena, ahoa eta sudurra dauzkana",exact
+mutur,noun,ugaztunen sudurra,"ugaztunetan, aurpegiaren zati irtena, ahoa eta sudurra dauzkana",narrower
+mutur,noun,tela amaitzen den zatia,zerbait amaitzen den zatia; ertzeko zatia,narrower
+mutur,noun,urrutien dagoen puntua,"hainbat gauzatan, elkarrengandik urrutien dauden bi puntuetako bakoitza",broader
+neurri,noun,helburu bat lortzeko egiten den edozein maniobra,zerbait lortu edo saihestu ahal izateko erabiltzea erabakitzen den baliabide-multzoa,exact
+neurri,noun,giza eta gizarte aktibitateetako jokabidea edo diziplina,gehiegikeriarik eza; gehiegikeriatik urruntzen denaren jokabidea edo bertutea,related
+neurri,noun,denbora berdineko zatietan banaturiko erritmoa,(Mus.) konpasa,exact
+neurri,noun,materia zati bat edo antzeko gauzen multzo bat zehazten duen neurria,"tamaina, dimentsio edo ezaugarri jakinak dituen gauza, unitate gisa hartzen dena eta neurtzeko balio duena",related
+neurri,noun,objektu baten magnitute fisikoa,objektu batek espazioko hiru dimentsioetako bakoitzean duen luzeraren balioa; tamaina,broader
+neurri,noun,"errepikatzen den musikazko taupaden ereduaren notazioa, barra bertikal baten ostean idazten da",(Mus.) konpasa,related
+obra,noun,sortua izan den musika-lana,artista edo idazle baten lana; idazlana edo artelana,narrower
+obra,noun,"egitea, ekintza","egitea, ekintza",exact
+obra,noun,idazle nahiz artista baten lanaren emaitza (edo haren parte handi bat),artista edo idazle baten lana; idazlana edo artelana,narrower
+obra,noun,pertsona edo gauza baten jardueraren ondorioz lortutakoa,"egitea, ekintza",narrower
+obra,noun,zerbait eraikitzearen egintza,eraikuntza-lana,related
+ondorio,noun,"inplikatua, inferitua edo deduzitua den zera",ideia edo ideia-multzo batetik logikaz segitzen den ideia,related
+ondorio,noun,asuntzio intuitiboa,ideia edo ideia-multzo batetik logikaz segitzen den ideia,related
+ondorio,noun,kausa batetatik sortua den fenomeno bat,"ekintza, egoera edo gertaera batetik berez segitzen den ekintza, egoera edo gertaera; emaitza, efektua",broader
+ordu,noun,leku batetik bestera joateko behar den denboraren neurria,"denbora-unitatea (h), 3.600 segundo edo 60 minutu balio duena",related
+ordu,noun,egunaren 1/24rena adierazten duen denboraldia,"eguna (hots, batez besteko eguzki-eguna) banatzen den hogeita lau zati berdinetako bakoitza",exact
+ordu,noun,eguneko momentua,"eguneko une jakina, bereziki, zerbait egiten edo gertatzen denekoa; garaia, unea",broader
+paper,noun,landare-zuntzak landuz lortzen den materiala,"landare-zuntzezko orea hedatuz eta lehortuz egiten den materiala, orri oso meheen itxura ematen zaiona eta idazteko, inprimatzeko, biltzeko eta abar erabiltzen dena",broader
+paper,noun,norbaiti buruz aktoreak egiten duen antzezpena,"antzerki, zinema edo telebista-lanetan aktore bakoitzak egiten duen zatia; antzezten duen pertsonaia",exact
+partida,noun,zerbaiten aurka dena,"aurkaria, etsaia",narrower
+partida,noun,liburuetan idazten den kontzeptuetako bakoitza; aurrekontuetako atal bakoitza,(Kont.) liburuetan idazten den kontzeptuetako bakoitza; aurrekontuetako atal bakoitza,exact
+partida,noun,gutxienez bi pertsona edo bi talderen arteko norgehiagoka,bi lagunen edo bi talderen arteko kirol-norgehiagoka,exact
+partida,noun,lehiaketa batean lehiakidea,"aurkaria, etsaia",narrower
+pauso,noun,mailakako garapena,urratsa,narrower
+pauso,noun,ibiltzeko hanka bakoitza zoruan jartzean egiten duen soinua,urratsa,related
+pauso,noun,"ibiltzean, gorputzaren euste-puntua oin batetik bestera pasatzea; direlako ekintzen segida",urratsa,related
+pauso,noun,"dantzariak, oinarekin, zangoarekin eta gorputzarekin egindako mugimendu-unitatea edo mugimendu-eredua","dantzariak, oinarekin, zangoarekin eta gorputzarekin egindako mugimendu-unitatea edo mugimendu-eredua, errepikatu egiten dena",exact
+pauso,noun,urrats bakoitzak neurtzen duen bitartea,urratsa,related
+pentsamendu,noun,"adimenaz baliatuz ideiak eratzea, elkartzea eta ordenatzearen prozesua",pentsatzea (ekintza eta ondorioa),narrower
+pentsamendu,noun,"estoloiak eta bihotz-formako hostoak dituen landare belarkara. Loreak moreak edo zuriak dira, ezproiak dituzte eta batzuk oso usaintsuak dira ( Viola sp.)",(Bot.) bioleta,exact
+pentsamendu,noun,"ezagutzaren edukia, pentsamenduaren fenomeno garrantzitsuena",pentsatzea (ekintza eta ondorioa),related
+pentsamendu,noun,"pertsona edo pertsona-talde baten, kolektibo jakin baten pentsamoldea","pertsona edo pertsona-talde baten, kolektibo jakin baten pentsamoldea",exact
+pilota,noun,"delako objektuaz jokatzen den joko edo kirola, jatorriz Euskal Herrikoa zesta-puntako modalitatea","delako objektuaz jokatzen den joko edo kirola, jatorriz Euskal Herrikoa eta hainbat modalitate dituena",exact
+pilota,noun,zenbait jokotan jautitzen den objektu biribila,"material elastikozko objektu biribila, gogorra zein biguna, barrutik hutsa zein betea eta diametro ez oso handikoa dena; hainbat kiroletan erabiltzen da, horien artean euskal pilota-jokoan",broader
+pilota,noun,jolasteko erabiltzen den esfera-formako objektua,"material elastikozko objektu biribila, gogorra zein biguna, barrutik hutsa zein betea eta diametro ez oso handikoa dena; hainbat kiroletan erabiltzen da, horien artean euskal pilota-jokoan",broader
+politika,noun,gobernu eta hiritarren antolamendu publikoarekin loturiko jarduera,herri edo estatu bat gobernatzeko jarduera edo modua; horri dagokion jakintza,narrower
+politika,noun,norbanako batek edota talde sozial batek hartzen duen ekintza plana,"pertsona, talde, enpresa eta abarrek helburu jakin bat lortzeko duten jarduera- eta prozedura-multzoa",related
+politika,noun,gobernu baten ekintza modua arrazoitzeko argumentatze modua,herri edo estatu bat gobernatzeko jarduera edo modua; horri dagokion jakintza,related
+postu,noun,antolamendu hierarkiko bateko lanpostu bat,kargua; lanpostua,narrower
+postu,noun,zerrenda bateko posizioa,"eskala, zerrenda edo antolakuntza batean zerbaiti edo norbaiti dagokion tokia",broader
+prentsa,noun,materialak eta objektuak zapaldu edo konprimitzeko erabiltzen den makina,materialak eta objektuak zapaldu edo konprimitzeko makina,exact
+prentsa,noun,inprimatzeko makina,inprimatzeko makina,exact
+prentsa,noun,egunkari edo aldizkariek osatutako komunikabidea,egunkari edo aldizkariek osatutako komunikabidea,exact
+prentsa,noun,"komunikabideen multzoari, kazetariei batzuetan ematen zaien izena","komunikabideen multzoari, kazetariei, batzuetan ematen zaien izena",exact
+proba,noun,jakintza edo trebetasuna neurtzeko galdera edo ariketa-sorta,"norbait zerbaitetarako, batez ere lan edo ikasketa jakin batzuk egiteko, gai dela frogatzeko egiten den azterketa edo saioa",broader
+proba,noun,zerbaiten egoeraren ebaluaketa,probatzea (ekintza eta ondorioa),related
+proba,noun,bi lehiakide edo gehiagoren artean irabazlea hautatzeko egiten den proba,"dema, norgehiagoka, lehiaketa; bereziki idiekin egindako dema",broader
+proba,noun,zerbait probatzearen ekintza,probatzea (ekintza eta ondorioa),narrower
+proba,noun,zerbait omen den bezalakoa ote den egiaztatzeko egiten den saio edo azterketa,probatzea (ekintza eta ondorioa),related
+proba,noun,"ikasle edo hautagaiak alor jakin batean duen jakintza probatzea (galdera bidez, esaterako)","norbait zerbaitetarako, batez ere lan edo ikasketa jakin batzuk egiteko, gai dela frogatzeko egiten den azterketa edo saioa",narrower
+proiektu,noun,zerbait egikaritzeko egiten den zirriborroa,"lege, arau, tratatu eta abarren zirriborroa",broader
+proiektu,noun,egin nahi den lan garrantzitsu bati buruzko plan xehatua,"egin nahi den obra, eraikin, instalazio, makina eta abarri buruzko plano eta dokumentuen multzoa",broader
+prozesu,noun,"eragiketa-sekuentzia sistematikoa, emaitza espezifiko bat lortzeko prestatua",emaitza edo helburu jakin batera daraman urraskako gertaera edo eragiketen segida,narrower
+prozesu,noun,emaitza edo helburu jakin batera daraman urraskako gertaera edo eragiketen segida,emaitza edo helburu jakin batera daraman urraskako gertaera edo eragiketen segida,exact
+prozesu,noun,auzitegiak judizioa eragin duten gertakariak ikus ditzan burutzen den egintza judiziala,"(Zuz.) justizia-organoetan auzia jartzen denetik ebazpena edo epaia eman arte segitzen diren urrats guztien multzoa, araututako forma juridiko bat duena",exact
+prozesu,noun,fenomeno baten fase edo aldi guztien multzoa,fenomeno baten fase edo aldi guztien multzoa,exact
+sare,noun,"hari, lokarri edo alanbrea modu jakin batean elkarrekin gurutzatuz egindako ehuna","hari, lokarri edo alanbrea modu jakin batean elkarrekin lotuz egindako aparailua eta bereziki arrantzarako erabiltzen dena",broader
+sare,noun,"tenisean edo badmintonean hari tenkatuz egindako aparailua, pistaren erdian jartzen dena eta pilota bere gainetik pasatzeko erabilia","(Kir.) tenisean eta beste zenbait kiroletan, hari tenkatuz egindako aparailua, pistaren erdian jartzen dena eta pilota bere gainetik pasatzeko erabilia",exact
+sare,noun,"elkarren artean konektatutako ordenagailu- edota periferiko-multzo batez (inprimagailu, disko, etab.ez) osatutako sistema","(Inform.) elkarren artean konektatutako ordenagailu- edota periferiko-multzo batez (inprimagailu, disko eta abarrez) osatutako sistema",exact
+sare,noun,"arrainak, hegaztiak, piztiak harrapatzeko prestatzen den tresna sareduna","hari, lokarri edo alanbrea modu jakin batean elkarrekin lotuz egindako aparailua eta bereziki arrantzarako erabiltzen dena",related
+sare,noun,sistema bat osatzen duten pertsona edo gauzen multzoa,gurutzatzen diren edo elkarrekin harremanetan dauden elementuen multzoa,related
+sare,noun,pertsona bat erakartzeko erabiltzen den trikimailu edo tranpa,pertsona bat erakartzeko erabiltzen den trikimailu edo tranpa,exact
+sari,noun,irabazi den norgehiagoka baten ordainez eman edo hartzen dena,"meritu, zerbitzu edo irabazi den norgehiagoka baten ordainez eman edo hartzen dena",narrower
+sari,noun,"meritu eskergarri baten, egindako zerbitzu baten edo onezpen bezala eman edo hartzen den adierazgarri fisikoa","meritu, zerbitzu edo irabazi den norgehiagoka baten ordainez eman edo hartzen dena",narrower
+sari,noun,diruz ordaintzen den kantitatea,"salneurria, balioa",exact
+sari,noun,bi lehiakide edo gehiagoren artean irabazlea hautatzeko egiten den proba,"kirol-, literatura- eta bestelako lehiaketa batzuei ematen zaien izendapena",related
+sasoi,noun,giza bizitzaren garai bakoitza,adina; bizitzako zatietako bakoitza,exact
+sasoi,noun,"zerbait egiteko edo zerbaitetan aritzeko gaitasun edo ahalmen fisikoa, indartsua izatearen ezaugarria",osasuntsu eta indartsu dagoen pertsonaren egoera,narrower
+sasoi,noun,"urtean bereizten diren aldietako bakoitza; latitude ertainetan lau izaten dira, ekinoziotik solstiziora eta solstiziotik ekinoziora bitartekoak; udaberria, uda, udazkena eta negua deitzen dira zona epelekoak",urtaroa,exact
+sasoi,noun,historiako gertakari edo ezaugarriren batekin markaturik dagoen garaia,"denbora, garaia",narrower
+sasoi,noun,osasuntsu eta indartsu dagoen pertsonaren egoera,osasuntsu eta indartsu dagoen pertsonaren egoera,exact
+sasoi,noun,definitu gabeko periodoa edo garaia (ezaugarri edo aktibitate zenbaitekin markaturikoa bereziki),"denbora, garaia",narrower
+sasoi,noun,"zerbaitetarako garai egokia, bereziki gizartean edo nekazaritzan jardueraren bat burutzeko garaia",zerbaitetarako garai egokia,narrower
+seinale,noun,bereizgarria den sinbolo bat,"zerbaiten adierazgarri den zeinu, ikur edo marka; zerbait adierazteko, agindu bat emateko eta abarretarako egiten edo erabiltzen den zeinu, ikur edo marka",broader
+sistema,noun,funtzio berbera betetzen duten edo prozesu organiko jakin batean elementu osagarri diren organoen multzoa,(Biol.) funtzio berbera betetzen duten edo prozesu organiko jakin batean elementu osagarri diren organoen multzoa,exact
+sistema,noun,elkarren artean nolabait egituratuta dauden eta helburu jakin bat duten elementu edo prozesuen multzoa,elkarren artean nolabait egituratuta dauden eta helburu jakin bat duten elementu edo prozesuen multzoa,exact
+sistema,noun,helburu bat lortzeko prozedura edo prozesua,elkarren artean nolabait egituratuta dauden eta helburu jakin bat duten elementu edo prozesuen multzoa,related
+sistema,noun,banako berezituen multzoa baina harremanetan dauden elementuek egiten duten batasuna,"gizartearen antolaketa politiko, sozial edo ekonomikoaren oinarri diren egitura, jarduera eta harremanen multzoa",related
+talde,noun,etxeko abereen taldea edo multzoa,"animaliaz edo pertsonaz osatutako multzoa, osotasun bakartzat jotzen dena",narrower
+talde,noun,"pertsonen edo gauzen taldea, aldra edo multzoa","animaliaz edo pertsonaz osatutako multzoa, osotasun bakartzat jotzen dena",related
+talde,noun,multzotan antolatuta bizi diren abere basatien taldea edo multzoa,"animaliaz edo pertsonaz osatutako multzoa, osotasun bakartzat jotzen dena",narrower
+tanto,noun,edozein gauzaren azaleko kolore desberdineko aldea edo gune zikina,beste kolore bateko gune txikia; orbana,exact
+tanto,noun,joko nahiz kirol batean puntuak lortzearen ekintza,"kirol eta jokoetan, kontatzeko unitaterik txikiena",related
+tanto,noun,"kirol eta jokoetan, kontatzeko unitaterik txikiena","kirol eta jokoetan, kontatzeko unitaterik txikiena",exact
+telefono,noun,telefono-zenbakia,telefono-zenbakia,exact
+telefono,noun,ahotsa edo soinuak bidali eta jasotzeko tresna,instalazio horren bidez ahotsa edo soinuak bidali eta jasotzeko tresna,exact
+telefono,noun,korronte elektriko edo uhin elektromagnetikoen bidez bata bestetik urrun dauden bi tokiren artean ahotsa edo zernahi soinu bidali eta jasotzea ahalbidetzen duen instalazioa,"korronte elektriko edo uhin elektromagnetikoen bidez, bata bestetik urrun dauden bi tokiren artean ahotsa edo zernahi soinu bidali eta jasotzea ahalbidetzen duen instalazioa",exact
+txapel,noun,edozein buru-estalki,edozein buru-estalki,exact
+txapel,noun,"kautxuzko edo material plastikozko gailua, zakilean edo umetokiaren lepoan jarrita kontrazepziorako erabiltzen dena","kondoia, preserbatiboa",exact
+txapel,noun,irabazi den norgehiagoka baten ordainez eman edo hartzen dena,"(Kir.) lehiaketa bat irabazi duenaren adierazgarria, euskal kiroletan bereziki",exact
+txapel,noun,perretxiko gehienen goialdeko estalki-moduko zati zabala,(Mikol.) perretxiko gehienen goialdeko estalki-moduko zati zabala,exact
+txapel,noun,burua estaltzeko eramaten den artilezko atal bakarreko buru-estalki biribil eta zapala,burua estaltzeko eramaten den artilezko buru-estalki biribil eta zapala,exact
+une,noun,definiturik ez dagoen denbora oso labur bat,iraupen laburreko denbora-tartea,exact
+une,noun,denbora une mugatua eta berezia,iraupen laburreko denbora-tartea,related
+une,noun,"zerbaitetarako unea, egokiera, aukera, besterik adierazten ez bada ona","abagunea, aukera",exact
+ur,noun,landare edo fruituetatik erauzitako likidoa,landare edo fruituetatik erauzitako likidoa,exact
+ur,noun,"ibai, aintzira, itsaso edo nolabait mugatutako antzeko ur eremuaz mintzatuz",nolabait mugatutako itsaso-zatia,broader
+ur,noun,"likido kolorge, usaingabe eta zaporegabea, lotura kobalentez elkartutako bi hidrogeno-atomoz eta oxigeno-atomo batez osatuta dagoena","lurrazalean (itsaso, ibai, aintzira, laku eta abarretan) dagoen likido kolorge, usaingabe eta zaporegabea, bi hidrogeno-atomoz eta oxigeno-atomo batez osatua",exact
+urrats,noun,mailakako garapena,lan edo jarduera mailakatu baten aldi edo zati bakoitza,related
+urrats,noun,denboran hedatzen den gertakari edo prozesu batean bereiz daitezkeen aldietako bakoitza,lan edo jarduera mailakatu baten aldi edo zati bakoitza,exact
+urrats,noun,"ibiltzean, gorputzaren euste-puntua oin batetik bestera pasatzea; direlako ekintzen segida","ibiltzean, gorputzaren euste-puntua oin batetik bestera pasatzea; direlako ekintzen segida",exact
+urrats,noun,urrats bakoitzak neurtzen duen bitartea,ekintza horietako bakoitzean aurreratzen den bitartea,exact
+zango,noun,"animaliek, gorputzari eusteko edo ibiltzeko dituzten gorputz adar edo luzakinetako bakoitza","hanka, bereziki gizakiarena",broader
+zango,noun,altzari edo bestelako objektuak zoruan oinarritzen diren pieza bakoitza,"hanka, bereziki gizakiarena",related
+zango,noun,"gizakian, beheko gorputz-adarretako bakoitza","hanka, bereziki gizakiarena",exact
+zati,noun,"zatiketa baten ondorioz geratzen den parteetako bat, gainerakoekin elkartuz osotasun bat eratzen duena",zerbait hautsi edo ebakitzean sortzen den pusketako bakoitza,narrower
+zati,noun,osotasun batetik bereiz daitekeen zatia,"osotasuna eratzen duten atal, osagai, aldi eta abarretako bakoitza",exact
+zati,noun,zerbait osatzen duten zatietako bakoitza,"osotasuna eratzen duten atal, osagai, aldi eta abarretako bakoitza",broader
+zerbitzu,noun,norbaiten behar bat asetzea helburu duen ekintza edo laguntza,"norbaiten behar bat asetzea helburu duen ekintza edo jarduera, doan edo ordain baten truke egiten dena",exact
+zerbitzu,noun,zerbitzari baten jardutea,zerbitzatzea (ekintza eta ondorioa),narrower
+zerbitzu,noun,delako jarduera eskaintzen eta egiten duen administrazio-ataleko erakundea,"delako jarduera eskaintzen eta egiten duen erakunde, enpresa edo administrazio-atala",narrower
+zerrenda,noun,ordenaturiko gauzez osaturiko multzoa duen datu-basea,"bata bestearen segidan jarritako gauzez osaturiko multzoa, helburu jakin batekin egiten dena eta eskuarki goitik behera antolaturik agertzen dena",related
+zerrenda,noun,material plano luze eta estua,edozer gauzatatik atera daitekeen puska edo zati luze eta estua,broader
+zerrenda,noun,bata bestearen atzean antolaturiko zenbaki multzo linearra,"bata bestearen segidan jarritako gauzez osaturiko multzoa, helburu jakin batekin egiten dena eta eskuarki goitik behera antolaturik agertzen dena",related
+zerrenda,noun,lehiaketa edo txapelketa bateko partaideak lortu duten postuaren arabera ordenatuak agertzen diren zerrenda,"bata bestearen segidan jarritako gauzez osaturiko multzoa, helburu jakin batekin egiten dena eta eskuarki goitik behera antolaturik agertzen dena",related
+zerrenda,noun,norabide berean eta bata bestearen atzean jarririk dauden gauzen edo pertsonen segida,"bata bestearen segidan jarritako gauzez osaturiko multzoa, helburu jakin batekin egiten dena eta eskuarki goitik behera antolaturik agertzen dena",related
+zuzenbide,noun,legeak eta beren aplikazioaz arduratzen den zientzia,legeak eta beren aplikazioaz arduratzen den zientzia,exact
+zuzenbide,noun,norbaiten bizilekuaren adierazpen idatzia,helbidea,narrower
+zuzenbide,noun,norbaiten bizilekuaren adierazpena,helbidea,narrower
+zuzenbide,noun,gizartean bizi diren gizakien arteko harremanak bideratzeko eta erregulatzeko aginteak inposatzen dituen arauen multzoa,gizartean bizi diren gizakien arteko harremanak bideratzeko eta erregulatzeko arau eta legeen multzoa,exact
+zuzendaritza,noun,zuzendariaren eginkizun eta kargua,zuzendariaren eginkizun eta kargua,exact
+zuzendaritza,noun,zerbait zuzentzeko ekintza,zuzendariaren eginkizun eta kargua,related
+zuzendaritza,noun,"erakunde, talde, zerbitzu, etab.en jarduera zuzentzen duten pertsonen multzoa","erakunde, talde, zerbitzu eta abarren jarduera zuzentzen duten pertsonen multzoa",exact
+administrazio,noun,"estatuaren, lurralde baten gobernatzearen gauzatzeaz arduratzen den pertsona taldea",zerbitzu publikoa,related
+administrazio,noun,"estatuaren, lurralde baten gobernatzearen gauzatzeaz arduratzen den pertsona taldea",erakunde publikoen zerbitzuen multzoa,related
+administrazio,noun,"helburu jakin batzuk lortzea xede duen enpresa-jarduera burutzeko erabiltzen den arau, prozedura eta eragiketa-metodoen multzoa",administratzea (ekintza eta ondorioa),narrower
+agente,noun,efektu zehatz bat eragiteko kausa aktiboa eta efektiboa,zerbait egiteko edo eragiteko gaitasuna duena,narrower
+agerraldi,noun,kargudun batek edo egiten duena,norbait edo zerbait agertzen den aldi bakoitza,narrower
+aire,noun,"Lur-atmosfera eratzen duen gas-nahastea, batez ere oxigenoz eta nitrogenoz osatua","Lur-atmosfera eratzen duen gas-nahastea, batez ere oxigenoz eta nitrogenoz osatua",exact
+aire,noun,"Lur-atmosfera eratzen duen gas-nahastea, batez ere oxigenoz eta nitrogenoz osatua",delako gas-nahasteak Lurraren inguruan betetzen duen espazioa,exact
+aire,noun,elkarren segidako nota edo soinu musikal batzuek osatzen duten multzoa,"doinua, melodia",exact
+aitzindari,noun,"alor edo egiteko batean bidea urratzen duena, bertatik lehen abiatzen dena","buruzagia, gidaria",related
+aitzindari,noun,"norbaiten edo zerbaiten etorrera prestatzen duena, norbaiti edo zerbaiti bide egiten diona","norbaiten edo zerbaiten etorrera prestatzen duena, norbaiti edo zerbaiti bide egiten diona",exact
+aitzindari,noun,"alor edo egiteko batean bidea urratzen duena, bertatik lehen abiatzen dena",zerbait gertatzera doala aldez aurretik adierazten duena,related
+akusazio,noun,instituzioetan jarrera oker bat denuntziatzen duen agiri formal bat,akusatzea (ekintza eta ondorioa); salaketa,related
+akusazio,noun,zerbait okerra edo irain bat epaitegian denuntziatzeko ekintza,(Zuz.) parte akusatzailea,related
+akusazio,noun,zerbait okerra edo irain bat epaitegian denuntziatzeko ekintza,(Zuz.) parte akusatzaileak erruztatuari egotzitako kargu bakoitza,related
+alde,noun,hainbat objektuk duten kanpoko superfiziea,"gauza edo puntu bati buruz, haren ingurua; hura inguratzen duen bitartetik nolabait bereizten den zatia",related
+alde,noun,hainbat objektuk duten kanpoko superfiziea,azal baten kontrako bi plano paraleloetako bakoitza,related
+alde,noun,arazo batek agertzen dituen ezaugarri edo alderdietako bat,gauza biren arteko desberdintasuna,related
+alde,noun,arazo batek agertzen dituen ezaugarri edo alderdietako bat,"izaki edo gauza abstraktuei buruz, alderdia",related
+alderdi,noun,"aldea, alderdia, lurraldea, bereziki bakartua","lurraldea, eskualdea; bereziki ezaugarri jakinen bat duena",exact
+alderdi,noun,arazo batek agertzen dituen ezaugarri edo alderdietako bat,zerbaitek agertzen duen alde edo era bakoitza,exact
+alderdi,noun,botere politikoa erdiestea helburu duen erakundea,iritzi eta helburu politiko jakin bat duten pertsonak biltzen dituen erakundea,exact
+aldi,noun,halako denbora-hedadura,"denbora, garaia",exact
+aldi,noun,halako denbora-hedadura,denboran zehar gertatzen den zerbaitetan bereiz daitezkeen zatietako bakoitza,related
+aldi,noun,"kontzeptu nozionala, aditzak adierazten duen ekintza kronologikoki noiz gertatu den azaltzen duena (denbora estralinguistiko edo semantikoari dagokio; orainaldian, iraganaldian eta geroaldian gauzatzen da)","(Hizkl.) aditzaren gramatika-kategoria, adizkiak duen denbora gramatikala azaltzen duena",exact
+ale,noun,janaritzat hartzen diren landareen garauak,gariaren eta kideko landareen hazia,related
+ale,noun,janaritzat hartzen diren landareen garauak,zenbait landareren hazi edo fruitu txiki biribil-antzekoa; forma bertsuko eta multzoka agertu ohi diren zenbait objektu txiki,related
+ale,noun,"espezie, genero, arraza edo, oro har, mota bereko banako edo gauza bakoitza","espezie, genero, arraza edo, oro har, mota bereko banako bakoitza",exact
+ale,noun,"aldizkako argitalpenetan, data desberdina duten argitalpen desberdinetako bakoitza","liburu, aldizkari, inprimaki eta abarren banako bakoitza",exact
+amorru,noun,"garra, lehia bizia; haserrea",haserre bizi eta oldartsua,exact
+anaia,noun,"pertsona batentzat, bere gurasoen semeetako bakoitza","pertsona batentzat, bere gurasoen semeetako bakoitza",exact
+anaia,noun,"pertsona batentzat, bere gurasoen semeetako bakoitza","gizonezko batentzat, bere gurasoen beste semeetako bakoitza",exact
+anaia,noun,"zenbait ordenatako kideei ematen zaien izena edo trataera, aita baino apalagoa (trataera bezala anai )","Frantziskotarrei eta beste zenbait ordenatako kideei ematen zaien izena edo trataera, aita baino apalagoa (trataera bezala anai)",exact
+argibide,noun,"zerbait azaltzen, ulertarazten duen zera","zerbait argitzen, azaltzen, frogatzen duen zera",exact
+argibide,noun,"zerbait azaltzen, ulertarazten duen zera","zerbaiten berri jakiteko, zerbait ulertzeko azalpena",exact
+argibide,noun,"zerbait azaltzen, ulertarazten duen zera","tresna bat nola dabilen, zerbait nola egin behar den azaltzen duen ohar-multzoa",broader
+aro,noun,historiako gertakari edo ezaugarriren batekin markaturik dagoen garaia,"garaia, denbora",narrower
+aro,noun,historiako gertakari edo ezaugarriren batekin markaturik dagoen garaia,"denboran zehar izaki bizidunei gertatutako aldaketa mailakatu eta jarraituen multzoa, forma berriak sortu dituena",related
+aro,noun,historiako gertakari edo ezaugarriren batekin markaturik dagoen garaia,denbora historikoa zatitzeko unitate konbentzional handiena,related
+aro,noun,"atmosferaren egoera; eguraldia, ingurunetzat hartua",eguraldia,exact
+arrakasta,noun,"egiteko, erabaki, gertaera-segida baten ondorio ona; nahi edo desiratzen dena lortzea","egiteko, erabaki, gertaera-segida baten ondorio ona; nahi edo desiratzen dena lortzea",exact
+artikulu,noun,argitalpen bat osatzen duen prosazko zati independiente bat,"hiztegi edo entziklopedia batean, hitz, termino edo izen berezi baten azalpena egiten den testu-zatia",broader
+artikulu,noun,"estatutu, testamentu edo kontratu bezalako lege dokumentu baten bereizitako atal bat",(Zuz.) lege edo araudiak banatzen diren zati zenbakidun bakoitza,exact
+asmo,noun,ihes edo irizur egiteko egiten den gezurrezko plana,zerbait egiteko burutapen edo proiektua,exact
+asmo,noun,proiektu bat lortzeko norberaren borondateak hartzen duen erabakia,"azpikeria, maltzurkeria",narrower
+ataka,noun,mendi arteko igarobidea,"haitzuloetako sarrera estua, harresietan egiten den irekidura eta, oro har, edozein igarobide mehar",related
+ataka,noun,mendi arteko igarobidea,"ate txikia, adibidez, hesitu, artegi, txabola, erlauntz edo labekoa",exact
+aterpe,noun,arriskutik babesa eta intimitatea ematen duen egitura,"euritik begiratzeko babeslekua, estalpea",broader
+aterpe,noun,arriskutik babesa eta intimitatea ematen duen egitura,mendiko babes-etxea,broader
+aterpe,noun,babesean dagoen tokiaz esaten da,babesa,related
+aurrelari,noun,"norbaiten edo zerbaiten etorrera prestatzen duena, norbaiti edo zerbaiti bide egiten diona","aitzindaria, gidaria",related
+aurrelari,noun,"alor edo egiteko batean bidea urratzen duena, bertatik lehen abiatzen dena","alor edo egiteko batean bidea urratzen duena, bertatik lehen abiatzen dena",exact
+auzo,noun,hiri bat edo hiri-barruti bat banatzen den zati bakoitza,"herri batean, kaletik bereizirik dagoen etxe-multzoa",related
+auzo,noun,hiri bat edo hiri-barruti bat banatzen den zati bakoitza,hiri bat edo hiri-barruti bat banatzen den zati bakoitza,exact
+azaro,noun,urriaren ondorengo eta abenduaren aurreko hilabetea,urtearen hamaikagarren hila (30 egun),exact
+azaro,noun,ereiteko garaia,ereiteko garaia,exact
+banda,noun,kontrastea egiteko erabiltzen den kolorezko edo materia ezberdinezko zati luze eta estua,"kargu edo maila baten adierazgarri den ehunezko zerrenda, soinean sorbaldatik gorputz-enborraren aurrealde eta atzealdetik igaroz bestaldeko saihetsera eramaten dena",broader
+bazter,noun,"zerbaiten barrualdeko hiru horma (bi albo eta sabaia, bi albo eta zorua) elkartzen diren lekua","ertza, muga",narrower
+bazter,noun,"aldea, alderdia, lurraldea, bereziki bakartua","aldea, alderdia, lurraldea, bereziki, bakartua",exact
+bira,noun,zirkuitu bati bira osoa ematea,"zerbaiten inguruan, abiapuntura itzuli arte egiten den higidura; zerbaitek bere buruaren inguruan egiten duena",exact
+bira,noun,zirkuitu bati bira osoa ematea,(Kir.) itzulia,related
+bira,noun,zirkuitu bati bira osoa ematea,"(Mat.) angeluak neurtzeko unitatea, 360 graduren baliokidea dena",related
+bista,noun,ikuslearen aurrean agertzen den lurralde-eremua,begien aurrean agertzen diren gauzen multzoa; ikusten den bitartea,exact
+dantza,noun,"gorputz-higidura kateatuen segida, doinu baten erritmoari jarraituz eta eredu batzuen arabera egiten dena","gorputz-higidura kateatuen segida, doinu baten erritmoari jarraituz eta eredu batzuen arabera egiten dena",exact
+dantza,noun,"gorputz-higidura kateatuen segida, doinu baten erritmoari jarraituz eta eredu batzuen arabera egiten dena",dantzatzea,related
+dantza,noun,dantza egiten den festa edo bilera,dantza egiten den festa edo bilera,exact
+dantza,noun,ahozkoa ez den komunikatzeko modu artistikoa,(Mus.) dantza baten erritmoan eginiko musika-konposizioa,related
+datu,noun,neurketa edo ikerketa baten informaziodun emaitza,zerbait edo norbait ezagutzeko behar den informazio zehatza,exact
+datu,noun,"zerbaiten ezagutza osora iristeko beharrezkoa den informazioa (datuak, ideiak edo oharrak)","neurketa, ikerketa edo inkesta baten informaziodun emaitza",exact
+demokrazia,noun,boterea herriarengan datzala dioen doktrina politikoa,boterea herriarengan datzala dioen doktrina politikoa; doktrina horren araberako gobernu-era,exact
+demokrazia,noun,lehendakaria modu herrikoian aukeratzen den gobernu mota,gobernu-era hori duen estatua,related
+demokrazia,noun,lehendakaria modu herrikoian aukeratzen den gobernu mota,"erakunde baten erabakietan, bertako partaide guztiek esku hartzen duten gestio-era",narrower
+eboluzio,noun,aldaketen segida,bilakatzea (ekintza eta ondorioa); bilakaera,related
+eboluzio,noun,izaki bizien garapenean mailaka eta norabide berean egiten diren aldaketen segida,"(Biol.) denboran zehar izaki bizidunei gertatutako aldaketa mailakatu eta jarraituen multzoa, forma berriak sortu dituena",exact
+efektu,noun,kausa batetatik sortua den fenomeno bat,kausa baten jardueraren emaitza,exact
+efektu,noun,giza zentzumen batean estimulu batek eragindako sentsazioa,giza zentzumen batean estimulu batek eragindako sentsazioa; norbaitek horrelako sentsazioa eragiteko helburuz eratutako edozer,exact
+eliza,noun,jainkozko botere batenganako sinismena adierazteko instituzioa,(Erl.) Jesu Kristoren doktrinari jarraitzen zaizkion sinestunen bilkura,exact
+eliza,noun,eliza-komunitateko erlijiosoen multzoa (laikotzatik bereizten dituena),(Erl.) kristautasunaren barnean bereizten diren bilkuretako bakoitza,exact
+eliza,noun,"bereziki kristauek gurtzeko duten eraikina, tenplua",(Erl.) elizkizunetarako bereziki prestatuta dagoen eraikina,exact
+epaile,noun,zernahiren kalitatea edo balioa erabakitzeko eskua duen autoritatea,zernahi motatako auzitan erabakia hartzeko esku duena,narrower
+epaile,noun,zernahiren kalitatea edo balioa erabakitzeko eskua duen autoritatea,zerbait ebakitzen duen pertsona edo tresna,broader
+epaile,noun,joku edo kirol batean arauak neurtzen dituena,(Kir.) arautegia bete dadin eta lehiaketa zuzentzeko ardura duen pertsona,exact
+epaile,noun,Justizia Auzitegian epaitzeko eta epaia emateko esku duen autoritate ofiziala,"(Zuz.) legea aplikatuz justizia administratzeko funtzioa, hots, eskumen-boterea, duen pertsona",exact
+erreakzio,noun,gustuko ez den zerbaiten kontra zerbait egitea,aurreko ekintza baten erantzun gisa eratutako ekintza,narrower
+eskola,noun,zerbait irakatsi eta ikasten den lekua,zerbait irakatsi eta ikasten den lekua,exact
+eskola,noun,ikasten eta heziketaren bidez lortzen den jakituria,"eskolan ikasten dena, jakinduria",exact
+eskola,noun,gai jakin bati buruz ematen den irakaskuntza-saio bakoitza,irakasle batek gai jakin bati buruz ematen duen irakaskuntza-saio bakoitza,exact
+eskola,noun,"maisu edo maistra baten gidaritzara biltzen edo doktrina edota estilo berari jarraitzen zaizkion idazle, artista, pentsalarien multzoa","maisu edo maistra baten gidaritzara biltzen edo doktrina edota estilo berari jarraitzen zaizkion idazle, artista, pentsalarien multzoa",exact
+esku,noun,besoaren muturrean dagoen gorputz-atal atzitzailea,"(Anat.) besaurrearen ondoren kokatua dagoen goiko gorputz-adarraren bukaera, karpoak, metakarpoak eta hatzek osatua. Gauzak oratu eta ukitzeko organo nagusia da",broader
+esku,noun,besoaren muturrean dagoen gorputz-atal atzitzailea,(Zool.) narrasti eta ugaztunen aurreko gorputz-adarren kideko zatia,broader
+esku,noun,"zenbait karta-jokotan, eta bereziki musean, lehen jokatzea egokitzen zaion laguna","zenbait karta-jokotan, eta bereziki musean, lehen jokatzea egokitzen zaion laguna; lagun horri dagokion posizioa",exact
+espazio,noun,"objektu guztiak dauden eremua, eremu hutsa dirudiena, eremu hau objektuek mugatzen dute",gorputzak kokatuta dauden eta fenomenoak gertatzen diren hedadura mugagabea,exact
+etapa,noun,"ekintza edo prozesu baten buruketan bereiz daitezkeen aldi desberdinetako bakoitza, fasea","ekintza edo prozesu baten buruketan bereiz daitezkeen aldietako bakoitza, fasea",exact
+etapa,noun,bidaia batean geldiunetik geldiunera egiten den bidea,bidaia batean geldiunetik geldiunera egiten den bidea,exact
+etapa,noun,bidaia batean geldiunetik geldiunera egiten den bidea,"(Kir.) iraupen luzeko lasterketa eta kirol-probetan, etenik gabe (eskuarki egun batean) egiten den ibilbidea",broader
+euskarri,noun,zerbaiten euskarria den pertsona,"zerbaiti eusten dion gauza; zerbaiti finkotasuna ematen dion oinarria, funtsa",narrower
+euskarri,noun,printzio edo praktika baten fundamentua,edozein objektuk berari eusteko egokituta duen alderdi edo zatia,related
+ez,noun,"galderaren erantzunean, ezezko esaldiaren ordain den hitza",ezezko perpausaren marka,broader
+ez,noun,"galderaren erantzunean, ezezko esaldiaren ordain den hitza","galderaren erantzunean, ezezko perpausaren ordain den hitza",exact
+ez,noun,"galderaren erantzunean, ezezko esaldiaren ordain den hitza",perpaus bat ezezkoa den egiaztatzeko galde-hitza,exact
+ez,noun,"galderaren erantzunean, ezezko esaldiaren ordain den hitza",esaldia ezezkoa dela azpimarratzeko hitza,exact
+ez,noun,"galderaren erantzunean, ezezko esaldiaren ordain den hitza",ezezkoa,related
+ez,noun,faltan dagoen zerbait behar izatearen egoera,gabezia,exact
+ez,noun,"galderaren erantzunean, ezezko esaldiaren ordain den hitza","izen eta izenondoei erantsita, dagokionaren ezezkoa edo ukapena adierazten duten hitzak sortzen dituen euskal aurrizkia. Hitz zaharretan erro lexikalarekin bat eginik (ezuste, ezjakin, ezdeus) eta berrietan erro lexikalari marraz loturik (ez-metal, ez-organiko) idatzi ohi da",broader
+falta,noun,judizio okerrari edo ezjakintasunari edo atentzio faltari dagokion ekintza okerra,"hutsa, hobena",narrower
+falta,noun,"lege, arau edo eginbide bat ez betetzea; horren ondorioa",errua; akatsa,narrower
+falta,noun,faltan dagoen zerbait behar izatearen egoera,"gabezia, eza",exact
+falta,noun,"lege, arau edo eginbide bat ez betetzea; horren ondorioa",(Kir.) kirol bateko arauen kontrako ekintza,broader
+falta,noun,"lege, arau edo eginbide bat ez betetzea; horren ondorioa","(Kir.) pilota-jokoan, sakea egitean pilotak gainditu behar duen falta-marra ez gainditzean datzan hutsa",broader
+falta,noun,"lege, arau edo eginbide bat ez betetzea; horren ondorioa",(Zuz.) hutsegitea,broader
+familia,noun,elkarrekin bizi den pertsona-multzoa,"ahaidetasun hurbilak lotzen dituen lagunen multzoa, berez etxe berean bizi direnak; bereziki, gurasoek eta seme-alabek osatzen dutena",broader
+familia,noun,elkarrekin bizi den pertsona-multzoa,seme-alabak,related
+familia,noun,ezaugarri berdinak dituzten gauzen multzoa,nolabaiteko loturak elkartzen dituen lagun edo gauzen multzoa,exact
+familia,noun,"bizidunen sailkapenean, erlazionatuta dauden generoz osatutako taxonomia-taldea, ordena baten barruan sailkatzen dena","(Biol.) bizidunen sailkapenean, erlazionatuta dauden generoz osatutako taxonomia-taldea, ordena baten barruan sailkatzen dena",exact
+fase,noun,denboran hedatzen den gertakari edo prozesu batean bereiz daitezkeen aldietako bakoitza,denboran hedatzen den gertakari edo prozesu batean bereiz daitezkeen aldietako bakoitza,exact
+federazio,noun,"estatu edo lurralde autonomoen elkartea, guztien intereseko gaiak aginte zentral baten ardurapean uzten dituena; elkarte honetako aginte zentrala","estatu edo lurralde autonomoen elkartea, guztien intereseko gaiak aginte zentral baten ardurapean uzten dituena; elkarte horretako aginte zentrala",exact
+federazio,noun,"kolektibitate sozialen elkartea (ikastetxeenak, sindikatuenak, etab.)","kolektibitate sozialen elkartea (ikastetxeenak, sindikatuenak eta abar)",exact
+federazio,noun,"kolektibitate sozialen elkartea (ikastetxeenak, sindikatuenak, etab.)",(Kir.) lurralde jakin bateko kirol-talde eta kirolariak elkartzen dituen erakunde ofiziala,broader
+funtzio,noun,pertsona edo talde baten izaerarengatik espero den jokabide edo ekintza multzoa,"elementu batek, bera osagai den multzo edo osotasun batean, betetzen duen eginkizuna",narrower
+funtzio,noun,ikuskizun dramatiko edo musikala,jendaurreko saio edo emankizuna,exact
+gain,noun,"edozein gauzaren barrenean, behekoa ez den aldea","zerbaiten edo norbaiten ohiko posizioan, lurretik urrunen dagoen aldea",exact
+gain,noun,esnearen gainaldean gertatzen den geruza mamitsua,esne edo saldaren gainean egiten den koipezko geruza,exact
+galde,noun,zerbait jakin nahi dugula adieraziz eta haren berri emateko eskatuz egiten dugun esaldia,galdera,exact
+galde,noun,autoritate bati modu formalean aurkezten zaion eskaera,eskaera,narrower
+gidari,noun,"beste batzuk gidatzen dituen pertsona, zerbait erakutsi eta hari buruzko azalpenak ematen dizkiena",gidatzen duena,narrower
+gidari,noun,motordun ibilgailu bat gidatzen duena,ibilgailu bat gidatzen duena; pilotua,exact
+goi,noun,"edozein gauzaren barrenean, behekoa ez den aldea","edozein gauzaren barrenean, lurretik urrutien dagoen aldea",exact
+gorte,noun,auziak erabakitzen dituen organoa,"auzitegia, epaitegia",exact
+gudu,noun,"gutxienez bi talde armatu, batez ere, talde militarrak borrokara lotzea",borroka,narrower
+gudu,noun,"gutxienez bi talde armatu, batez ere, talde militarrak borrokara lotzea",bataila,exact
+gudu,noun,"herri, giza talde edo estatu bi edo gehiagoren arteko arma bidezko borroka",gerra,exact
+haize,noun,presio handitik presio txikira doan haizea (batzutan indar handiarekin),lurrazalarekiko higitzen den aire-masa,related
+haize,noun,presio handitik presio txikira doan haizea (batzutan indar handiarekin),aire-korrontea,exact
+haize,noun,urdailetik datorren eta ahotik modu zaratatsuan ateratzen den airea,sabelean gertatzen den gas-pilaketa,exact
+hanka,noun,"gizakian, beheko gorputz-adarretako bakoitza","(Anat.) gizakian, beheko gorputz-adarretako bakoitza",exact
+hanka,noun,"animaliek, gorputzari eusteko edo ibiltzeko dituzten gorputz adar edo luzakinetako bakoitza","animaliek gorputzari eusteko edo ibiltzeko dituzten gorputz-adarretako bakoitza; ornodunetan, bereziki, atzeko gorputz-adarretako bakoitza",exact
+hanka,noun,altzari edo bestelako objektuak zoruan oinarritzen diren pieza bakoitza,altzari edo bestelako objektuak zoruan oinarritzen diren pieza bakoitza,exact
+hanka,noun,"animaliek, gorputzari eusteko edo ibiltzeko dituzten gorputz adar edo luzakinetako bakoitza","animalietan, bereziki, zaldietan atzeko gainaldea",broader
+haserre,noun,"garra, lehia bizia; haserrea",batere atsegin edo gogoko ez denak eragiten duen poztasunik ezeko egoera edo sentimendu ageria,exact
+hiri,noun,"jende ugari bizitzeko etxe- eta eraikin-multzo egituratua, jarduera-mota desberdinetan, bereziki bigarren eta hirugarren sektorean, diharduen biztanleria duena","jende ugari bizitzeko etxe- eta eraikin-multzo egituratua, hainbat jardueretan, bereziki, bigarren eta hirugarren sektorekoetan, diharduen biztanleria duena",exact
+hiri,noun,"jende ugari bizitzeko etxe- eta eraikin-multzo egituratua, jarduera-mota desberdinetan, bereziki bigarren eta hirugarren sektorean, diharduen biztanleria duena",helburu baten inguruan eginiko eraikin- edota etxe-multzoa,related
+hiri,noun,hiriko biztanle-multzoa,hiriko biztanle-multzoa,exact
+hitz,noun,bertako hiztunek ezagut dezaketen hizkuntza unitatea,hizkuntza batean esanahia duen forma beregain txikiena,related
+hitz,noun,aktoreak ikasi eta antzeztu beharreko zatia,abesti edo musika-zati baten testua,exact
+hitz,noun,agintzen edo promesten dena,"agintzari, agintzen edo promes egiten den gauza",exact
+hizkuntza,noun,gizakiek bere pentsamendua azaltzeko eta elkarrekin komunikatzeko duten ahalmena,gizakiek bere pentsamendua azaltzeko eta elkarrekin komunikatzeko duten ahalmena,exact
+hizkuntza,noun,komunikatzea ahalbidetzen duen zeinu-sistema,giza talde bateko kideek elkarrekin komunikatzeko duten hitzezko adierazpidea,broader
+hizkuntza,noun,komunikatzea ahalbidetzen duen zeinu-sistema,"(Hizkl.) delako hitzezko adierazpidea, sistema edo egitura abstraktutzat hartua eta haren erabilerari (hizketari) kontrajarria",broader
+hizkuntza,noun,komunikatzea ahalbidetzen duen zeinu-sistema,komunikatzea ahalbidetzen duen zeinu-sistema ez hitzezkoa,broader
+hondar,noun,zerbaiten azken zatia,jaten edo erabiltzen den zerbaitetik gelditzen dena,broader
+hondar,noun,zerbaiten azken zatia,ia erabat hondatu edo desagertu den zerbaitetik gelditzen dena,broader
+hondar,noun,isurkari baten hondoan eratzen den hondarra,harea,exact
+ikara,noun,benetako nahiz ustezko arrisku baten aurrean sortzen den urduritasun- edo kezka-egoera,beldur guztiz handia,related
+ikara,noun,benetako nahiz ustezko arrisku baten aurrean sortzen den urduritasun- edo kezka-egoera,(Zool.) ikaraioa,broader
+ildo,noun,goldeaz lurra irauliz egiten den irekidura luzea,goldeaz lurra irauliz egiten den irekidura luzea,exact
+ildo,noun,"haria, bidea; ekintza edo ekimen bat burutzeko arau modukoa","haria, bidea",exact
+industria,noun,salmentarako diren produktuak fabrikatzeko jarduera antolatua,"(Ekon.) lehengaiak landuz eta transformatuz, ondasun materialak eta kontsumo-gaiak ekoiztea helburu duten ekonomia-jardueren multzoa",broader
+industria,noun,salmentarako diren produktuak fabrikatzeko jarduera antolatua,(Ekon.) jarduera-multzo horietako adar jakin bat; adar horretan diharduen enpresa-multzoa,broader
+industria,noun,industria lana egiteko eraikina,"industria-alorreko enpresa, fabrika",exact
+informazio,noun,jasotzaile denari ezagutarazten zaion oro,informatzea (ekintza eta ondorioa),narrower
+informazio,noun,"ikasketa, esperientzia nahiz heziketa bidez lortzen den jakintza","testu, irudi edo soinuen bitartez, horien jasotzaile denari ezagutarazten zaion oro",exact
+ingeniaritza,noun,"tresna, makina, prozedura eta metodo tekniko hauen garapenari buruzko azterketa edo ezagutza",ikerketa zientifikoaren emaitzak prozedura teknologiko bihurtzen dituen teknika-multzoa,exact
+ingeniaritza,noun,"tresna, makina, prozedura eta metodo tekniko hauen garapenari buruzko azterketa edo ezagutza",ingeniariaren lanbide eta jarduera,related
+ipar,noun,iparrorratzean 0 edo 360 gradua markatzen duen puntua,mendebaldeari begira dagoen behatzailearen eskuinean dagoen puntu kardinala,exact
+ipar,noun,iparralderantz dagoen edozein lurralde edo lurralde baten iparraldeko eremua,iparraldea,exact
+itsaso,noun,ozeano baten zati jakina edota lurralde batek partzialki inguratzen duen ur gaziko hedadura zabala,lurraren azalaren zatirik handiena estaltzen duen ur gazizko hedadura zabala,narrower
+itsaso,noun,ozeano baten zati jakina edota lurralde batek partzialki inguratzen duen ur gaziko hedadura zabala,"hedadura horren zati jakina, eskualde batean aurkitzen dena",broader
+iturri,noun,"lurretik ateratzen den euri ura, lur azalera isurtzen dena","lur azpitik ateratzen den ur-korrontea, lurrazalera isurtzen dena",exact
+iturri,noun,ubidez ekarririko urei aterabidea emateko antolatzen den eraikuntza,"ubidez ekarririko urei aterabidea emateko antolatzen den eraikina, gehienetan uraskaz hornitua",exact
+iturri,noun,"zerbaitek hasiera duen, zerbait sortzen den edo datorren denbora edo ingurunea","iturburua, jatorria",exact
+iturri,noun,informatzen duena; informazioa ematen duena,"zerbaiti edo norbaiti buruzko informazioa ematen duen dokumentua, liburua, pertsona eta abar",exact
+iturri,noun,"lurretik ateratzen den euri ura, lur azalera isurtzen dena",jarioa,narrower
+itxura,noun,pertsona baten kanpoko irudia,zerbaitek edo norbaitek ikusleen aurrean aurkezten edo agertzen duen era edo modua; zerbaitetik edo norbaitengandik ikusten dena,exact
+itxura,noun,"azalera batean produzitutako objektu, eszena edo pertsona baten irudikapena","irudia, imajina",exact
+izen,noun,"pertsona, animalia edo gauza bat aipatzen edo adierazten duen hitza","pertsona, animalia edo gauza bat aipatzen edo adierazten duen hitza; banako bat aipatzeko eta kidekoetatik bereizteko erabiltzen den hitza edo hitz-multzoa; kategoria edo mota bereko izakiak edo gauzak adierazteko erabiltzen den hitza",exact
+izen,noun,izen baten lekuan ager daitekeen izen edo izenordaina,"(Hizkl.) izaki, kontzeptu edo fenomeno bat izendatzeko hitza, izen-sintagmaren muina dena",exact
+jardunaldi,noun,gai bati buruz aritzeko eratzen diren lan-bilerak edo lan-saioak,zerbaitetan jarduten den aldia,narrower
+jardunaldi,noun,gai bati buruz aritzeko eratzen diren lan-bilerak edo lan-saioak,gai bati buruz aritzeko eratzen diren lan-bilerak edo lan-saioak,exact
+jardunaldi,noun,ikuspuntu-trukerako egiten den hizketaldi informala,"hizketaldia, berriketaldia",exact
+jatorri,noun,hasiera den gertaera,belaunez belaun datorren norbaiten nahiz zerbaiten aurretikoen segida,related
+jatorri,noun,"zerbaitek hasiera duen, zerbait sortzen den edo datorren denbora edo ingurunea","zerbaitek hasiera duen, zerbait sortzen den edo datorren denbora edo ingurunea",exact
+jatorri,noun,"zerbaitek hasiera duen, zerbait sortzen den edo datorren denbora edo ingurunea","eragilea, kausa",related
+jatorri,noun,"sorlekua, jaioterria","sorlekua, jaioterria",exact
+jatorri,noun,"sorlekua, jaioterria",adierazten den herrian sorlekua duena,related
+jende,noun,pertsona multzoa,"pertsona-kopuru zehaztu eta mugatu gabea, multzotzat hartua",exact
+jende,noun,pertsona multzoa,pertsona,related
+justizia,noun,justua edo bidezkoa izatearen ezaugarria,zuzentasuna,exact
+justizia,noun,aro jakin batean komunitate batek oinarritzat hartzen dituen eta guztien ongizatea lortzeko aplikatzen diren printzipioen multzoa,komunitate jakin batek oinarritzat hartzen dituen eta guztien ongizatea lortzeko aplikatzen diren printzipioen multzoa,exact
+justizia,noun,legea eta zuzenbidea prozedura jakin batzuen ondorengo ebazpenen bidez aplikatzea,"legea eta zuzenbidea aplikatzen duen erakundea, auzitegi, epaile eta abarrez osatua; botere judiziala",related
+justizia,noun,legea eta zuzenbidea prozedura jakin batzuen ondorengo ebazpenen bidez aplikatzea,legea eta zuzenbidea prozedura jakin batzuen ondorengo ebazpenen bidez aplikatzea,exact
+kanal,noun,"ur-masa handiagoak elkartzen dituen ur-masa estu samarra, itsasartea",itsasarte batzuen izena,exact
+kanal,noun,komunikazio-seinaleak igortzeko erabiltzen den euskarria,(Telekom.) irrati- edo telebista-emisio bat egiten den maiztasun-tartea,exact
+kexa,noun,ez-adostasunaren edo arbuioaren adierazpen formala,egoera mingarri edo desatsegin baten adierazpena,narrower
+kexu,noun,ez-adostasunaren edo arbuioaren adierazpen formala,"egoera mingarri baten adierazpena, kexa",narrower
+kirol,noun,"jostetarako batez ere parte hartzen duten indar, ahalmen fisiko edo trebetasunen jarduera edo jolasa","partaideen indar, ahalmen fisiko edo trebetasunak parte hartzen duen jarduera edo jolasa, indibidualki edo taldeka praktika daitekeena",exact
+kirol,noun,"jostetarako batez ere parte hartzen duten indar, ahalmen fisiko edo trebetasunen jarduera edo jolasa","delako jarduera edo jolas berezietako bakoitza, arau jakin batzuek burutuz egiten dena",broader
+kirol,noun,"jostetarako batez ere parte hartzen duten indar, ahalmen fisiko edo trebetasunen jarduera edo jolasa","jolasa, josteta",narrower
+klase,noun,ezaugarri berdinak dituzten gauzen multzoa,ezaugarri bereko elementuen multzoa,exact
+klase,noun,"izen berberaz izendatzen diren gauza edo izakien artean, ezaugarri berezien bidez mugatzen diren azpimultzoetatik bakoitza",pertsonak eta gauzak beren izaera edo garrantziaren arabera sailkatuak izan daitezkeen kategorietako bakoitza,related
+klase,noun,ezaugarri berdinak dituzten gauzen multzoa,"(Biol.) izaki bizidunen sailkapenean, ordenaren gaineko kategoria",broader
+kolore,noun,uhin-luzera jakineko uhin elektromagnetikoek begian sortzen duten sentsazioa,uhin-luzera jakineko uhin elektromagnetikoek begian sortzen duten sentsazioa,exact
+kolore,noun,uhin-luzera jakineko uhin elektromagnetikoek begian sortzen duten sentsazioa,koloredun substantzia edo materia,related
+kolore,noun,uhin-luzera jakineko uhin elektromagnetikoek begian sortzen duten sentsazioa,"zuri, beltz eta grisari kontrajartzen zaiona",related
+kolore,noun,uhin-luzera jakineko uhin elektromagnetikoek begian sortzen duten sentsazioa,koloreak begietan eragiten duen sentsazioaren antzekoa sortzen duen itxura; ñabardura-ugaritasuna edo bizitasuna,related
+kolore,noun,iritzi-ñabardura edo ikuspegi kulturala,talde baten iritzi-ñabardura edo ikuspegi politikoa,exact
+kongresu,noun,formalki finkatutako topaketa,"biltzarra; bereziki, talde bateko kideek bere ideiak edo ikerketak elkarri adierazteko egiten dena",related
+kongresu,noun,formalki finkatutako topaketa,zenbait estatutako ordezkariek nazioarteko arazo batzuez jarduteko biltzarra,related
+kongresu,noun,herriak hautatutako ordezkariez osatutako biltzar legegilea,herriak hautatutako ordezkariez osatutako biltzar legegilea,exact
+konpainia,noun,toki batean gertatzen diren lagunen multzoa,lagunartea,related
+konpainia,noun,antzokietan antzezten diharduen aktore-taldea,antzokietan antzezten diharduen aktore-taldea,exact
+konpainia,noun,pertsona bi edo gehiagok jarduera ekonomikoa egiteko eratutako elkartea,(Ekon.) pertsona bi edo gehiagok jarduera ekonomikoa egiteko eratutako elkartea,exact
+konpainia,noun,pertsona bi edo gehiagok jarduera ekonomikoa egiteko eratutako elkartea,(Ekon.) korporazioa,related
+konpainia,noun,"armadetako oinarrizko unitatea, kapitain baten agindupean dagoena","(Mil.) armadetako oinarrizko unitatea, kapitain baten agindupean dagoena",exact
+kontu,noun,"zerbaitetan, arriskua dagoelako edo beste arrazoiren batengatik jartzen den arreta berezia","arreta, ardura, arta",narrower
+kontu,noun,hausnartzera daraman egoera edo ekintza,"gertatzen, egiten, pentsatzen edo esaten den gauza; gaia; arazoa",narrower
+kopa,noun,oinarria eta enborra dituen edateko ontzi bat,edalontzi oinduna; edalontzi horren edukia,narrower
+kopa,noun,konpetizio bateko irabazleari ematen zaion bi helduleku dituen metalezko ontzi luze bat,"txapelketa batean, bereziki kirol-lehiaketa batean, garaile gertatzen denari ematen zaion kopa-moduko garaikurra",exact
+kopa,noun,konpetizio bateko irabazleari ematen zaion bi helduleku dituen metalezko ontzi luze bat,garaileari kopa bat ematen zaion lehiaketa,related
+kritika,noun,zerbaiten azterketa sakon eta epaiketa,literatura- edo arte-lanak analizatu eta epaitzeko artea,broader
+kritika,noun,"obra bati buruzko epaiketa; zerbaiten balioaren azterketa egin, alde onak eta hutsak nabarmenduz","obra bati buruzko epaiketa; zerbaiten balioaren azterketa egitea, alde onak eta hutsak nabarmenduz",exact
+kritika,noun,ekintza edo gertakari bat gaitzestea; aldeko ez den epaiketa,ekintza edo gertakari bat gaitzestea; aldeko ez den epaiketa,exact
+kultura,noun,"herri edo zibilizazio bateko gizarte-egitura eta ezagutza edo fenomeno zientifiko, artistiko edo erlijiosoen multzoa",ahalmen intelektualak lantzea; ahalmen intelektualen garapena dakarten ezagutzen multzoa,related
+kultura,noun,"herri edo zibilizazio bateko gizarte-egitura eta ezagutza edo fenomeno zientifiko, artistiko edo erlijiosoen multzoa","herri edo zibilizazio bateko gizarte-egitura eta ezagutza edo fenomeno zientifiko, artistiko edo erlijiosoen multzoa",exact
+kutxa,noun,"zurezko, metalezko, etab.ezko ontzi-moduko estalkiduna, gauzak gordetzeko erabiltzen dena","batik bat arropak gordetzeko erabiltzen den zurezko altzari sarrailaduna, estalkia jasoz irekitzen dena",broader
+kutxa,noun,"zurezko, metalezko, etab.ezko ontzi-moduko estalkiduna, gauzak gordetzeko erabiltzen dena","zurezko, metalezko eta abarrezko ontzi-moduko estalkiduna, gauzak gordetzeko edo garraiatzeko erabiltzen dena",exact
+landa,noun,"lur-zati edo lur-eremua; bereziki, ereiteko nahiz zerbait landatzeko egokitu eta prestatzen dena",lantzeko on den lur-eremua,exact
+landa,noun,"eraiki gabeko lur-eremua, herritik edo hiritik at dagoena","eraiki gabeko lur-eremua, herritik edo hiritik at dagoena",exact
+larre,noun,"landa lau edo lau samarra, batez ere belarrez betea","belarrez estalitako eremua, bereziki animaliak bazkatzeko dena",related
+laztan,noun,"kutuna, laztana","maitea, kutuna",exact
+liburu,noun,elkarren artean lotutako orrialde mordoxka bat (liburu) tresna gisa erabiltzen denean,idatzitako eta irakurtzeko prestatutako orri-multzo aski handia. Ertz batetik orriak bat eginik izaten ditu,exact
+liburu,noun,idatzitako lan baten kopia edo plazaratua izan den lan bat,liburu-eran argitaratutako idatzizko obra,exact
+lo,noun,jarduera kontzientea eten eta inguruneko estimuluekiko erreakzio-ahalmena moteltzean datzan organismoaren aldizkako egoera,jarduera kontzientea eten eta inguruneko estimuluekiko erreakzio-ahalmena moteltzen den organismoaren aldizkako egoera,exact
+maite,noun,"kutuna, laztana",maitatua dena,exact
+maite,noun,bereziki maitatzen den pertsona,maite den pertsona,exact
+makila,noun,"abar mehe, luze eta zuzena","egur-zati zuzena, mehea, luzea eta zilindrikoa, bereziki, ibiltzean euskarri edo lagungarri gisa edo jotzeko erabiltzen dena",broader
+marra,noun,espazioko puntu-segida (zuzena edo kurbatua),seinale edo marka luze eta estua,related
+marra,noun,espazioko puntu-segida (zuzena edo kurbatua),zerbaiten muga adierazten duen lerro zuzena,related
+masa,noun,itxura zehatza ez duen gorputz-masa handia,osotasun bat eratzen duten gauzen edo partikulen multzoa; solido edo likido baten kantitate aski handia,broader
+masa,noun,herri xeheak osatzen duen multzo handia,"pertsona-multzo handia; bereziki, klase sozial bat eratzen duena",narrower
+mezu,noun,igorleak jasotzaileari kanal baten bidez eta seinale-sistema baten erregelen eta alfabetoaren arabera igortzen dion seinale-multzoa,"pertsona batek beste bati, ahoz nahiz izkribuz bidaltzen dion ohar, berri edo adierazpena",broader
+motibo,noun,literatura edo arte-lan batean jarraitzen zaion gai bateratua,"(Art.) lan bateko oinarrizko gaia, eskuarki errepikatzen dena",exact
+musika,noun,musika-dibertimendua,soinuak denboran konbinatzeko artea; antolaketa horren emaitza,related
+musika,noun,musika-dibertimendua,"herri, garai, konpositore, eskola eta abarretako musika-lanen multzoa",related
+musika,noun,belarriari atsegingarri gertatzen zaion edozein hots,musika gogorarazten duten hots-multzo edo segida,related
+nagusi,noun,"zerbaitekiko, delako hori berea duena","etxe, erakunde, talde, enpresa eta abarretako jaun, buru edo jabea, bere mendekoekiko; lehentasuna, agintea edo gailentasuna duena",related
+nagusi,noun,adinez heldua den pertsona,"adinez lehena dena, zaharrena",related
+nagusi,noun,adinez heldua den pertsona,adinez heldua,exact
+nortasun,noun,gizabanako bakoitzaren izaera eratzen duten ezaugarrien multzoa,gizabanako bakoitzaren izaera eratzen duten ezaugarrien multzoa,exact
+nortasun,noun,gizabanako bakoitzaren izaera eratzen duten ezaugarrien multzoa,pertsona bat besteengandik nolabait bereizten duten eta halako mailan nabarmen izatea dakarten ezaugarrien multzoa,broader
+nortasun,noun,zerbaiten izaera eratzen duten ezaugarrien multzoa,zerbaiten izaera eratzen duten ezaugarrien multzoa,exact
+okasio,noun,"zerbaitetarako unea, egokiera, aukera, besterik adierazten ez bada ona","aukera, egokiera",narrower
+okasio,noun,gai batekiko liskar edo desadostauna,"liskarra, sesioa",exact
+oker,noun,hutsegitea edo gabezia,"makurra, hutsa; oker dagoena",broader
+oposizio,noun,gehiengo baten jardueraren aurka dagoen pertsona-multzoa,gobernuan ez dauden alderdi eta indar politikoen multzoa,broader
+oposizio,noun,gehiengo baten jardueraren aurka dagoen pertsona-multzoa,gehiengo baten jardueraren aurka dagoen pertsona-multzoa,exact
+orri,noun,"hostoa, bereziki handia","hostoa, bereziki handia",exact
+orri,noun,"paper, pergamino, etab.ezko orri baten, eta batez ere liburu baten orrien aldeetako bakoitza",orrialdea,narrower
+orri,noun,"leiho, ate, etab.etan, higitzen den zatietako bakoitza","ate eta leihoetan, hutsunea ixteko edo irekitzeko jarritako pieza giltzatuetako bakoitza",exact
+orri,noun,"agarikaleen ordenako perretxiko gehienetan txapelaren azpian dauden xaflatxo erradial moduko egituretako bakoitza, bere azalean himenioak dituena",(Mikol.) perretxiko askotan txapelaren azpian dauden xaflatxo erradial moduko egituretako bakoitza,exact
+ospitale,noun,"gaixotasunen diagnostiko, tratamendu eta prebentzioa eginkizun duen erakunde publiko edo pribatua","zerbitzu medikoak eskaintzeko eginkizuna duen erakunde publiko edo pribatua, horretarako pertsonal eta instalazioz horniturik dagoena",exact
+ospitale,noun,"gaixotasunen diagnostiko, tratamendu eta prebentzioa eginkizun duen erakunde publiko edo pribatua","zerbitzu hori eskaintzeko prestatutako eraikina, bertan gaixoak eduki ditzakeena",exact
+ostatu,noun,"edariak, eta zenbaitetan janariak ere bai, saldu eta normalean bertako barra aurrean kontsumitzen diren lekua",diru truke jan eta lo egiten den etxea,narrower
+ostatu,noun,"edariak, eta zenbaitetan janariak ere bai, saldu eta normalean bertako barra aurrean kontsumitzen diren lekua","norbait, jan eta lo egiteko gonbidatuta dagoen tokia",related
+ostatu,noun,"edariak, eta zenbaitetan janariak ere bai, saldu eta normalean bertako barra aurrean kontsumitzen diren lekua",edariak zerbitzatzen diren denda,exact
+parte,noun,zerbait osatzen duten zatietako bakoitza,"zatia, atala",exact
+pena,noun,"atsekabe handia, samintasun-sentimendua","nahigabea, bihozmina",exact
+pena,noun,"huts edo hobenen bat egin duenari ezarririko kaltea, nekagarria edo zentzagarria den ekintza",zigorra,broader
+pena,noun,"atsekabe handia, samintasun-sentimendua","oinazea, nekea",narrower
+pertsona,noun,gizon-emakumeen multzoko bakoitza,giza espezieko banakoa,exact
+pertsona,noun,gizon-emakumeen multzoko bakoitza,"gizonezko edo emakumezko zehaztugabea, bere izena ezagutzen ez denean edo eman nahi ez denean",related
+pertsona,noun,izenordain eta adizkien gramatika kategoria,"(Hizkl.) elkarrizketa eta esakune bateko partaideen erreferentzian oinarritzen den gramatika-kategoria, aditz eta izenordainetan eragiten duena. Lehen pertsona hiztunari dagokio; bigarrena entzuleari; hirugarrena entzulea edo hiztuna ez den beste bati",exact
+pertsona,noun,gizon-emakumeen multzoko bakoitza,(Zuz.) eskubideak izateko eta obligazioak betetzeko gaitasuna duen izakietako bakoitza,related
+pieza,noun,sortua izan den musika-lana,(Mus.) musika-lan soltea,exact
+pista,noun,"zenbait kiroletan, jokoa gertatzen den esparrua; esparru hori dagoen eraikina, ikusleentzako harmailez eta behar diren instalazioez hornitua",zerbaitetarako bereziki prestatu eta egokitu den eremua,narrower
+pisu,noun,lurrak gorputz bati eraginiko erakarpen-indarra,Lurrak gorputz bati eraginiko erakarpen-indarra; indar horren neurria,narrower
+pisu,noun,kirolean eta pisu-jasoketan erabiltzen den tresneria,"(Kir.) atletismoan, jaurtiketa-frogetako batean erabiltzen den metalezko esfera",broader
+plaza,noun,oinezkoentzako leku publiko zabal bat herri edo hiri barruan,"herri barruko toki publiko eta zabala, eraikinez inguratua eta hainbat kaleren elkargune dena",broader
+plaza,noun,oinezkoentzako leku publiko zabal bat herri edo hiri barruan,"jendaurrean aritzeko lekua, zenbait jarduera (kirol- edo bertso-saioa, esaterako) egiten den tokia; bizitza publikoa gertatzen den irudizko eremua",narrower
+plaza,noun,merkataritza egiten den leku publikoa,"elikagaien aldizkako azoka, merkatua",broader
+plaza,noun,antolamendu hierarkiko bateko lanpostu bat,"lanpostua; bereziki, Administrazioan funtzionario batek betetzen duena",broader
+puska,noun,osotasun batetik bereiz daitekeen zatia,gauza solido baten zatia,related
+segurtasun,noun,finko segurtaturik dagoenaren egoera,finko segurtaturik dagoenaren egoera,exact
+solairu,noun,eraikuntza baten barneko azpiko gainazal horizontala (gela edo korridore batekoa),"eraikin bateko bata bestearen gaineko bi maila edo pisu bereizten dituen egitura horizontala, goikoaren zoladura eta behekoaren sabaia osatzen dituena",narrower
+sorta,noun,zerbaiten kantitate definitu gabea,laboreak eta antzeko landareak biltzen diren multzoetako bakoitza,related
+sorta,noun,objektu batzuekin batera lan egiteko konbinaketa,bi gauza baino gehiagoz osatutako multzoa; bilduma,related
+sumin,noun,"garra, lehia bizia; haserrea","haserre bizia, ernegua, amorrua",exact
+telebista,noun,geldirik nahiz mugimenduan dauden objektuen irudien transmititzea,irudi- eta soinu-seinaleak aldi berean igortzea eta erreproduzitzea ahalbidetzen duen sistema,broader
+telebista,noun,objektuen irudiak puntu batetik bestera transmititzen dituen komunikabidea,sistema horren bitartez saioak ematea helburu duen prozedura eta instalazioen multzoa,related
+telebista,noun,objektuen irudiak puntu batetik bestera transmititzen dituen komunikabidea,eremu horretan diharduen enpresa publiko edo pribatua,related
+telebista,noun,telebista-irudiak irudikatzen dituen hargailua,telebista-hargailua,exact
+tentsio,noun,"talde, estatu edota pertsonen arteko tirabira askoko harreman-egoera","talde, estatu edota pertsonen arteko tirabira askoko harreman-egoera",exact
+tentsio,noun,"jarduera bati ekin aurretik, zenbait muskulu uzkurtuta egotea","jarduera bati ekin aurretik, zenbait muskulu uzkurtuta egotea",exact
+tentsio,noun,"eremu edo zirkuitu elektriko baten bi punturen potentzial elektrikoen kendura, hots, karga-unitatea puntu batetik bestera higitzeko lana",(Elektr.) bi eroale elektrikoren edo elektrizitatez kargatutako bi gorputzen arteko potentzial-diferentzia,exact
+tentsio,noun,presio arteriala,(Med.) presio arteriala,exact
+test,noun,jakintza edo trebetasuna neurtzeko galdera edo ariketa-sorta,pertsona baten ezaugarri psikikoak neurtzeko proba,narrower
+test,noun,jakintza edo trebetasuna neurtzeko galdera edo ariketa-sorta,azterketa,narrower
+test,noun,zerbaiten egoeraren ebaluaketa,(Med.) analisia,broader
+titulu,noun,"ikasketak, sariak, etab. bermatzeko erakunde, fakultate, ikastetxe, etab.ek luzatzen duen agiria",pertsona batek lanbide- edo ikasketa-maila bat erdietsi duela egiaztatzen duen agiria; horren adierazgarri den izendapena,exact
+titulu,noun,egunkarietan berriak aurkezteko goiburuan idazten den esaldi labur eta nabarmendua,"kazetaritzan artikuluak, erreportajeak, editorialak eta abar labur aurkezten dituen esaldia, karaktere lodiago edo handiagoz idatzi ohi dena",exact
+tratu,noun,"irabaziak lortzearren, ondasunak saltzea nahiz erostearen eragiketa",salerosketa; bi pertsona edo alderen artean salerosketa egiteko lortutako akordioa,exact
+tratu,noun,"pertsona, pertsona-multzo, erakunde, etab.en artean gertatzen den truke, komunikazio edo elkarreragina",norbaitekin izaten den harreman edo erlazioa,narrower
+tratu,noun,"pertsona, pertsona-multzo, erakunde, etab.en artean gertatzen den truke, komunikazio edo elkarreragina",norbaitekin edo zerbaitekin izaten den jokaera,related
+tratu,noun,"pertsona, talde, estatu, erakunde, etab.ek zerbaitetarako hitzartzea, ados etortzea","pertsonen artean, zerbait eztabaidatu ondoren, hartutako erabaki bateratua",broader
+txoko,noun,"zerbaiten barrualdeko hiru horma (bi albo eta sabaia, bi albo eta zorua) elkartzen diren lekua",zokoa,narrower
+txoko,noun,helburu jakin batekin elkartzen diren lagun multzoaren lokala,elkarte gastronomikoa,broader
+txoko,noun,"zerbaiten barrualdeko hiru horma (bi albo eta sabaia, bi albo eta zorua) elkartzen diren lekua",(Kir.) frontisa eta ezker-pareta elkartzen diren leku edo ingurua,related
+zeinu,noun,idatzizko edo inprimatutako sinbolo bat (puntuaziorako erabiltzen dena),zerbaiten adierazgarri erabiltzen den ikur edo ezaugarria,narrower
+zeinu,noun,idatzizko edo inprimatutako sinbolo bat (puntuaziorako erabiltzen dena),idaztean edo inprentan erabiltzen diren karaktereetako bakoitza,narrower
+zelai,noun,"landa lau edo lau samarra, batez ere belarrez betea",toki laua; ordokia,narrower
+zelai,noun,"landa lau edo lau samarra, batez ere belarrez betea",belardia,narrower
+zelai,noun,"zenbait kiroletan, jokoa gertatzen den esparrua; esparru hori dagoen eraikina, ikusleentzako harmailez eta behar diren instalazioez hornitua","(Kir.) zenbait kiroletan, jokoa gertatzen den esparrua; esparru hori dagoen eraikina, ikusleentzako harmailez eta behar diren instalazioez hornitua",exact
+zelai,noun,"landa lau edo lau samarra, batez ere belarrez betea","lursail eta abarrez mintzatuz, laua, gorabeherarik ez duena",narrower

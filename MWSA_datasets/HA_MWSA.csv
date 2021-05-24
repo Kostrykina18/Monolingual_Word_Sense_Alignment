@@ -1,0 +1,950 @@
+lemma,sense_source,sense_target,semantic_relationship,pos
+alighogy," 〈vmely cselekvés, történés stb. csekély mértékének, gyengeségének kif-ére〉"," <Vmely kívánatos állapot, tulajdonság nagyon kis mértékére, vmely cselekvés végrehajtásának alig lehetséges voltára, végbemenésének nehézségeire utalva:> éppen csak, éppen (csak) hogy, nagy nehezen, de azért …",narrower,adverb
+alighogy," 〈vmely dolog, cselekvés stb. nehéz, szinte lehetetlen voltának kif-ére:〉 épphogy, éppen csak hogy"," <Vmely kívánatos állapot, tulajdonság nagyon kis mértékére, vmely cselekvés végrehajtásának alig lehetséges voltára, végbemenésének nehézségeire utalva:> éppen csak, éppen (csak) hogy, nagy nehezen, de azért …",exact,adverb
+alighogy," 〈vmely esemény, cselekvés, történés ritka voltának kif-ére〉"," <Annak érzékeltetésére, hogy a vele kapcsolt mellékmondatban foglaltak után vmi nem várt, meglepő, szokatlan cselekvés, történés, állapot következik be; a következő mondatot rendsz. s kötőszó vezeti be.>",related,adverb
+alighogy," 〈annak kif-ére, hogy vmi a jelölt csekélynek tartott mennyiséget, mértéket éppen hogy csak eléri, hogy nagyjából annyi〉"," A szóban forgó mennyiséget, számot kevés híján elérve",exact,particle
+alighogy," mihelyt,  amint ","  <Annak kifejezésére, hogy a vele kapcsolt mondatban foglalt cselekvés, történés, állapot még jóformán be sem fejeződött, mikor a másik mondatbeli megkezdődik; a főmondatban gyak. máris, azonnal, rögtön határozószó nyomósítja a két mondat cselekvésének érintkezését:> mihelyt, amint",narrower,conjunction
+alkonyodik, fokozatosan leszáll az esti szürkület," Fokozatosan beáll az esti szürkület, az alkony; az esti homály terjed; alkonyul",exact,verb
+alkonyodik," vége felé közeledik, elmúlóban, letűnőben, ill. hanyatlóban van vmi"," Elmúlóban, letűnőben van; vége felé jár",exact,verb
+bakfitty, csoportos bakugrás mint (gyermek)játék," Nekifutással végzett bakugrásos gyermekjáték: a játszók egyik része bakhátat (1) csinál, a másik szétterpesztett lábbal átugrik rajta, aztán szerepet cserélnek",exact,noun
+bakfitty," 〈fölényeskedő lekicsinylés kif-ére:〉 jelentéktelen, említésre sem méltó dolog"," <Felháborodás, lekicsinylés kifejezésére.>",exact,noun
+bár_1, 〈nagyobb intézmény részeként is:〉 zenés(-táncos) éjszakai szórakozóhely," Éjjeli, rendsz. táncos mulatóhely; berendezésében jellegzetes a kiszolgálásra való magas pult és előtte támla nélküli magas székek",narrower,noun
+bár_1," 〈nagyobb intézmény részeként is:〉 rendsz. hosszú, keskeny pulttal és előtte magas, támla nélküli székekkel berendezett, italokat és egyszerűbb ételeket kínáló büfé, bisztró"," Éjjeli, rendsz. táncos mulatóhely; berendezésében jellegzetes a kiszolgálásra való magas pult és előtte támla nélküli magas székek",broader,noun
+biztos_1," ténynek, valóságnak vehető, kétségtelennek tartható v. hitelt érdemlő 〈dolog〉, ill. ilyen dolog által igazolt, megalapozott v. arra épülő, abból származó"," Olyan, amihez kétség nem fér, ami valóságnak, ténynek vehető",exact,adjective
+biztos_1," olyan 〈személy〉, aki meggyőződött vmiről, aki kétségtelennek, bizonyosnak v. nagyon valószínűnek tart vmit, ill. ilyen személyre jellemző 〈magatartás, érzés, meggyőződés stb.〉"," Olyan, amit nem v. csak nehezen lehet megingatni, megzavarni v. benne változást előidézni.",broader,adjective
+biztos_1, egyértelmű(en meghatározott)," Kétségtelen, nyilvánvaló",exact,adjective
+biztos_1," olyan 〈hely, idő, eszköz, módszer stb.〉, amely vmilyen eredményt, vminek a bekövetkeztét kétségtelenné v. valószínűvé teszi"," Bizonyára, biztosan, bizonyosan",related,adjective
+biztos_1," olyan 〈személy〉, aki minden kétséget kizáróan v. nagy valószínűséggel elér, teljesít v. megtesz vmit"," Olyan <személy>, aki ritkán követ el hibát vmiben, aki nem könnyen téved",related,adjective
+biztos_1," szilárd, masszív, stabil 〈felület, alapozás stb.〉, ill. így rögzített v. így álló 〈dolog〉"," Olyan, amit nem v. csak nehezen lehet megingatni, megzavarni v. benne változást előidézni.",related,adjective
+biztos_1," szilárd alapokon nyugvó, nehezen megingatható v. megzavarható, ill. állandó(ságot mutató)〈dolog, jelenség〉"," Olyan, amit nem v. csak nehezen lehet megingatni, megzavarni v. benne változást előidézni.",exact,adjective
+biztos_1," határozott(ságról), magabiztos(ságról tanúskodó) 〈mozgás, megnyilvánulás stb.〉"," Biztos vmiben, vmiről, vmi felől: a) tudja, mit akar",related,adjective
+biztos_1," biztonságot nyújtó, veszélytől, bajtól védett 〈kül. hely〉, ill. olyan 〈helyzet, időszak, alkalom, tevékenység stb.〉, amellyel kapcsolatban veszélytől, bajtól v. zavartól, eredménytelenségtől nem kell félni", Biztonságos,broader,adjective
+biztos_1," veszélyt, bajt, kárt kizáró, vminek a biztonságát szolgáló 〈dolog, tevékenység, állapot〉"," Olyan, ami veszélytől védett, ami biztonságot nyújt",related,adjective
+biztos_1," megbízható, vkinek a bizalmára érdemes, ill. vkihez bizalmas 〈személy〉, ill. ilyen személyekből álló 〈csoport〉"," Olyan, akiben, amiben feltétlenül bízhatunk; megbízható",exact,adjective
+biztos_1," megalapozott, szilárd, ténynek vehető dolog, ill. kétségtelenül, bizonyosan bekövetkező történés, jelenség"," Olyan dolog, olyasmi, amelyben, amelynek valóságában, bekövetkezésében feltétlenül bízhatunk.",exact,noun
+celluloid," cellulózból és kámforból előállított, nagy szakítószilárdságú, átlátszó, jól színezhető, víznek és olajoknak ellenálló, gyúlékony műanyag"," Kámfornak nitrocellulózban való szilárd oldata; rugalmas, alakítható, áttetsző, gyúlékony műanyag.",exact,noun
+celluloid, ilyen anyagból készült filmszalag," Ebből való, ebből készült <eszköz, tárgy>",narrower,noun
+celluloid, ebből az anyagból készült 〈tárgy〉," Ebből való, ebből készült <eszköz, tárgy>",exact,adjective
+csapkod," ismételten, többször egymás után úgy üt meg vkit v. vmit, hogy az ütések csattanó hangot adnak"," Ismételten megüt, megcsap vkit, vmit.",broader,verb
+csapkod," ismételten, többször egymás után úgy üt vkire, vhova, hogy az ütések csattanó hangot adnak"," <Ember vmely kezében levő, ütésre alkalmas tárggyal> ide-oda v. többször egy irányba csap",narrower,verb
+csapkod," 〈kezet〉 ismételten, többször egymás után összeüt, összecsap"," <Kezét, tenyerét rendsz. kétségbeesés v. csodálkozás jeléül> ismételten egymáshoz csapja, összecsapja",narrower,verb
+csapkod," ismételten, többször egymás után megtámad vkit"," Ismételten megüt, megcsap vkit, vmit.",narrower,verb
+csapkod," ismételten, többször egymás után nagy lendülettel dob, vág vhova vki v. vmi vmit, es. vkit"," <Több hasonló jellegű dolgot, tárgyat> egymás után vhova csap",exact,verb
+csapkod," 〈eső, víz〉 (nagy erővel, hevesen) szüntelenül verdes vmit"," <Több hasonló jellegű dolgot, tárgyat> egymás után vhova csap",narrower,verb
+csapkod," 〈ajtót, ablakot〉 ismételten, többször egymás után bevág, becsap vki, vmi"," <Ajtót, ablakot> ismételten becsap",exact,verb
+csapkod," 〈hangok sora vkinek a fülét〉 hirtelen, nagy erővel éri"," Csapkod vmibe: ismételten belecsap vmibe (2, 3)",narrower,verb
+csapkod," heves, verdeső mozgást végez vmi"," <Élőlény> végtagjaival v. végtagjával ismételten heves és erőteljes mozdulatokat tesz, és ezzel rendsz. vmilyen hangot idéz elő",exact,verb
+csapkod, 〈állat szárnyát〉 gyorsan fel-le mozgatja," <Élőlény> végtagjaival v. végtagjával ismételten heves és erőteljes mozdulatokat tesz, és ezzel rendsz. vmilyen hangot idéz elő",related,verb
+csapkod," 〈áramló víz, szél〉 heves mozgást végezve, ide-oda csapódik", <Anyagi dolog> mozgás közben ismételten nekiütődik vminek,narrower,verb
+csapkod, 〈kezével v. vmely tárggyal〉 (összevissza) heves mozgásokat végez," <Élőlény> végtagjaival v. végtagjával ismételten heves és erőteljes mozdulatokat tesz, és ezzel rendsz. vmilyen hangot idéz elő",narrower,verb
+csapkod," 〈láng〉 ismételten fellobban, felcsap", Ismételten felcsap (6),narrower,verb
+csapkod," 〈lövedék, villám〉 többször egymás után lecsap (vhova)"," Csapkod vmibe: ismételten belecsap vmibe (2, 3)",narrower,verb
+csikorgó," olyan 〈tárgy, eszköz stb.〉, amely jellemzően csikorogni szokott"," Olyan, ami csikorog (1), ill. csikorogni szokott",exact,adjective
+csikorgó," fogcsikorgatóan hideg, fagyos 〈idő(szak)〉"," Olyan <időjárás, időszak>, amikor igen nagy hideg van, olyan hideg, mint amikor a hó csikorog a talpunk alatt",exact,adjective
+csikorgó," súrlódó felületek csikorgására emlékeztető, kellemetlen, éles 〈hang〉","  Csikorgáshoz hasonló <hangjelenség, ill. hangérzet>",exact,adjective
+csikorgó," nehézkes(en, akadozva működő), ill. kényszeredett, erőltetett 〈megnyilvánulás〉"," Nehézkesen haladó, ügyetlenül megszerkesztett <vers, versforma>",broader,adjective
+csikorgó," (női) csizmában a talp és a talpbélés közé tett, lépéskor súrlódva éles hangot adó bőrdarab"," Csizma, cipő talpbélése alá csikorgó hang adása végett beillesztett kiszárított bőr",exact,noun
+elő_1, 〈ruhadarabon:〉 elülső rész," Elülső rész, főleg ruhán",exact,noun
+elő_1," 〈vetéskor, kapáláskor, aratáskor:〉 az a(z egy karlendítéssel, egy kaszasuhintással kijelölt szélességű) földsáv, amelyet egyszeri végighaladással munkálnak meg", Megmunkálandó földdarabnak 60–80 lépés hosszú része,exact,noun
+elő_1, egy kaszavágással ledöntött gabona- v. fűcsomó, Egy kaszavágással felfogott fű v. gabona,exact,noun
+elő_2, érzékelhető v. elérhető helyre,"  jöjjön elő, lépjen elő!",exact,adverb
+elő_2, érzékelhető v. elérhető helyen," <Csak a van, lesz igével:> itt a közelben, elérhető helyen",exact,adverb
+elzüllik," 〈ember(ek) v. állat(ok csoportja nagyobb) csoportból, közösségből〉 kiválik, attól elszakad, ill. így (szétszéledve) eltávozik, elmegy (vhonnan v. vmerre, vhova)"," <Jószág, ritk. ember> elkóborol, elbitangol, s így elvadul v. elpusztul",related,verb
+elzüllik," 〈személy, közösség〉 életmódját tekintve erkölcsileg stb. tönkremegy, leromlik"," <Személy> egészen züllött lesz, a züllés nagy v. végső fokára jut",exact,verb
+elzüllik," 〈építmény, gazdaság stb.〉 teljesen elhanyagolt állapotba kerül, pusztulva tönkremegy"," <Gazdaság, intézmény stb.> züllött állapotba kerül",exact,verb
+alapító," vminek az alapításában, létrehozásában részt vevő, ahhoz (anyagi) segítséget nyújtó <személy, közösség>"," Olyan, aki vmit alapít.",narrower,adjective
+alapító, az 1787-es ún. philadelphiai konvención az USA alkotmányát kidolgozó és elfogadó személy," Olyan, ami az alapításhoz tartozik, azzal együtt jár",narrower,adjective
+alapító," vminek a létrehozásában részt vevő, abban fontos szerepet játszó férfi"," Olyan, aki vmit alapít.",narrower,adjective
+alapító," vminek a megalapításában, létrehozásában közreműködő személy"," Olyan, aki vmit alapít.",narrower,adjective
+alapító," vminek az alapításához tartozó, avval kapcs."," Az a személy, aki vmit alapít (1), ill. vminek alapításában hatékonyan részt vesz",exact,adjective
+alapító," alapítvány, intézmény, szervezet stb. felállítását, alapvető működési szabályait rögzítő hivatalos irat"," Olyan, ami az alapításhoz tartozik, azzal együtt jár",narrower,adjective
+alapító, ua.," Olyan, ami az alapításhoz tartozik, azzal együtt jár",narrower,adjective
+alapító," vmely intézmény, szervezet stb. alapításában kezdeményezőként részt vevő, ahhoz jelentős segítséget nyújtó személy"," Az a személy, aki vmit alapít (1), ill. vminek alapításában hatékonyan részt vesz",narrower,noun
+alapító," vmely szellemi mű, rendszer alkotója, létrehozója"," Az a személy, aki vmit alapít (1), ill. vminek alapításában hatékonyan részt vesz",narrower,noun
+ámen," <imádság, áldás, átok, eskü v. más (liturgikus) szöveg nyomatékosító lezárásaként, arra adott feleletként, ill. Istent dicsőítő áldásmondásként:> úgy legyen!"," <Ima, áldás végső szavaként:> úgy legyen!",exact,interjection
+ámen," imaformula utánzására, felidézésére", <Az ima hangulatának felkeltésére.>,exact,interjection
+ámen," ez, az imádság lezárásaként mondott szó"," Imádság utolsó, befejező szava",exact,noun
+ámen," beletörődés, beleegyezés, végső jóváhagyás kif-ére", Végső jóváhagyás,related,noun
+anarchista," az anarchizmusnak mint politikai irányzatnak híve, követője", Az anarchizmus híve,exact,noun
+anarchista, ehhez a (politikai) irányzathoz tartozó személyek pártja v. (laza) csoportosulása, Az anarchizmus híve,narrower,noun
+anarchista," a (külső) hatalmat, tekintélyuralmat nem tisztelő, (szélsőségesen) öntörvényű, autonóm ember, kül. művész"," A rendet, fegyelmet megbontó személy",exact,noun
+anarchista," olyan <személy v. csoport>, aki v. amely a politikai anarchizmus híve, követője"," Olyan <személy, közösség>, aki, amely az anarchizmus híve",exact,adjective
+anarchista," a politikai anarchizmus felfogását, eszméjét tükröző, azzal, ill. követőjével kapcs., arra jellemző"," Az anarchizmussal kapcs., rá jellemző. Anarchista merénylet, rendbontás, tanok.",broader,adjective
+anarchista," a (külső) hatalmat, rendet, fegyelmet elvető <ember v. csoport(osulás)>"," Olyan <személy>, aki a rendet, fegyelmet megbontja",exact,adjective
+annales, az események évenkénti feljegyzése időrendi sorrendben (mint ókori és középkori történetírási műfaj)<syn>évkönyv, Évkönyv (1).,exact,noun
+annales," vmely testület, intézmény működéséről szóló, ill. kiadásában rendsz. évenként megjelenő, tanulmányokat tartalmazó időszaki nyomtatvány"," Krónika (1, 1a)",narrower,noun
+annales," vkinek v. vminek a történetéről, ill. fontos eseményekről szóló beszámoló<syn special=""comma"">krónika"," Krónika (1, 1a)",narrower,noun
+antiszemita," a zsidósággal szemben ellenséges érzületű, zsidóellenes, zsidógyűlölő <személy, csoport>"," A zsidóság iránt ellenséges érzületű, zsidóellenes <személy, közösség>",exact,adjective
+antiszemita," ilyen személlyel, csoporttal kapcs., rá jellemző <magatartás, tevékenység>"," Ilyen személyre, közösségre jellemző, rá valló, tőle származó, vele kapcs.",narrower,adjective
+antiszemita," antiszemitizmust hirdető, valló, tükröző <(világ)nézet, megnyilvánulás stb.>"," Ilyen személyre, közösségre jellemző, rá valló, tőle származó, vele kapcs.",narrower,adjective
+antiszemita," erre a világnézetre épülő <(politikai) szervezet, politika(i irányzat), törekvés>"," Ilyen személyre, közösségre jellemző, rá valló, tőle származó, vele kapcs.",narrower,adjective
+antiszemita," antiszemitizmust hirdető, valló személy", Antiszemita személy,exact,noun
+arany," sárga színű, élénk fényű, nagy fajsúlyú nemesfém <tr>Au</tr>"," Sárga színű, nagy fajsúlyú, igen képlékeny, nem oxidálódó nemesfém (Au); a legértékesebb fémek egyike",exact,noun
+arany, ez a fém mint a vert pénz egyik alapanyaga s mint általános csereeszköz és az áru értékmérője," Ez a fém mint a vert pénz egyik alapanyaga s mint pénz, általános csereeszköz és az áru értékmérője",exact,noun
+arany," <kül. az ötvösiparban:> alapanyagként haszn., legnagyobb részben ezt a fémet tartalmazó ötvözet", Legnagyobb részben ezt a fémet tartalmazó ötvözet; az ékszeripar egyik legfontosabb alapanyaga,exact,noun
+arany," ilyen anyagból készült tárgy, ill. dísz(ítmény)", Ebből az anyagból készült tárgy,exact,noun
+arany," ilyen fémből vert, meghatározott pénznemű és egységű pénzérme, ill. ennek megfelelő érték", Ebből a fémből vert pénz; aranyérme,exact,noun
+arany," semmi áron, semmiképpen se(m)"," semmi pénzért, semmiért a világon nem k.",exact,noun
+arany," kincs, gazdagság"," Általában pénz, gazdagság",exact,noun
+arany," sokat ér, nagyon értékes", nagyon meg kellene becsülni,related,noun
+arany," aranyfonal, ill. aranyszál", Aranyszál (1),broader,noun
+arany, (vminek az) aranyszín(e), Aranyszín(ű fény),narrower,noun
+arany, kedveskedő megszólításként," Aranyom: <kedveskedő, becéző megszólításként>",exact,noun
+arany, (részben) ilyen fémből készült," Ilyen anyagból való, ebből készült",exact,adjective
+arany," aranyszínű, aranylóan fénylő"," Aranyhoz (1–2) hasonló, aranyszínű",exact,adjective
+arany," szélsőségeket kerülő, bölcs magatartás"," Arany középút v. középszer: szélsőségektől, túlzásoktól tartózkodó s ezért a legjobbnak tartott magatartás",narrower,adjective
+arany, ua.," Arany középút v. középszer: szélsőségektől, túlzásoktól tartózkodó s ezért a legjobbnak tartott magatartás",narrower,adjective
+arany," gondtalan, zavartalanul boldog"," Zavaró körülményektől mentes, kellemes, derűs <élet, életszak, életmód>",exact,adjective
+arany," kedveskedő, becéző megszólításban"," <Kedveskedő, becéző megszólításban>",exact,adjective
+ásónyom," a talajba tövig nyomott ásóval elért mélység, ill. az ásólap szélessége"," Az a mélység, amelyet a talajba tövig, köpüig (4) nyomott ásó feje vág",broader,noun
+ásónyom, az így elért <mélység>," Annyi <föld>, amennyit így lenyomott ásóval egyszerre ki lehet emelni",related,noun
+ásónyom, a lenyomott ásóval egyszerre kiemelhető föld mennyisége," Földből az a mennyiség, amelyet így lenyomott ásóval egyszerre ki lehet emelni",exact,noun
+áspiskígyó, halálos marású mérges kígyó," A viperával rokon, mintegy 50–60 cm hosszúságú, Európa délnyugati részein élő mérges kígyó; áspis (Vipera aspis).",broader,noun
+áspiskígyó," a viperafélék családjába tartozó, 50–70 centiméter hosszúra megnövő délnyugat-európai mérges kígyó, áspisvipera <tr>Vipera aspis</tr>"," A viperával rokon, mintegy 50–60 cm hosszúságú, Európa délnyugati részein élő mérges kígyó; áspis (Vipera aspis).",exact,noun
+áspiskígyó," álnok, gonosz, ill. házsártos személy, kül. nő"," Veszekedős, házsártos, rosszindulatú és alattomos személy, rendsz. asszony",exact,noun
+asztal," láb(ak)ból, ill. lábazatból és ez(ek)en nyugvó vízszintes lapból álló bútordarab"," Egy v. több lábból s ezeken nyugvó sima, rendsz. vízszintes lapból álló bútor, amely arra való, hogy egyenek, dolgozzanak, tárgyakat helyezzenek el v. bizonyos játékokat játsszanak rajta",exact,noun
+asztal, (megterített) étkezőasztal, Étkezésre haszn. ilyen bútordarab,exact,noun
+asztal, a megterített étkezőasztal mellett helyet foglal és nekilát az étkezésnek, étkezéshez kezd,exact,noun
+asztal," étkezés, evés","  (Asztalnál való) étkezés, lakoma",broader,noun
+asztal," közös étkezés, lakoma","  (Asztalnál való) étkezés, lakoma",narrower,noun
+asztal, az étkezőasztal körül (rendszeresen) helyet foglaló és étkező társaság, Az asztal (1a) körül ülő és ott étkező nagyobb társaság; asztaltársaság,exact,noun
+asztal," élelmezés, ellátás"," Élelmezés, koszt",exact,noun
+asztal," az a helyzet, lehetőség, amelyben vki részesül vmiben"," Az a hely(zet), lehetőség, ahol, ill. amelyben vki részesül vmiben",exact,noun
+asztal," <bridzsben:> a kiterített lapok, ill. maga a játékos, akinek a lapjai ki vannak terítve"," <Bridzsjátékban> azok a kártyalapok, amelyeket a felvevő játékos partnere az asztalra köteles kiteríteni",broader,noun
+asztal, <pénzre történő kártyajátékoknál:> a bankban levő pénz, <Hazárdjátékban> a bankban levő pénz,exact,noun
+asztal, gépnek a munkadarabot tartó vízszintes része," <Gépen> az a rendsz. vízszintes helyzetű rész, amelyre a megmunkálás vmely szakaszában a munkadarabok kerülnek",exact,noun
+atyamester, <céhben> a céhlegények felügyeletét ellátó (választott) elöljáró<syn>céhmester," <A céhrendszerben> a céh egyik tisztségviselője, a legények elöljárója, feje",exact,noun
+atyamester, vmely szakma kiváló művelője," Vmely szellemi, főleg tudományos v. művészeti tevékenység területén kimagasló, példamutató tekintély",narrower,noun
+atyamester," vmely tudomány, művészeti ág stb. megteremtője, ill. ennek (leginkább) elismert képviselője, tekintélye"," Vmely szellemi, főleg tudományos v. művészeti tevékenység területén kimagasló, példamutató tekintély",narrower,noun
+atyaúristen," <a keresztény tanítás szerint:> a Szentháromság első személye, a teremtő Isten; atyaisten", Atyaisten,narrower,noun
+atyaúristen," indulatos beszédben tiltakozás, hárítás, tagadás, ill. felháborodás kif-ére", Atyaisten (3).,narrower,noun
+atyaúristen, káromkodásban, Atyaisten (3).,narrower,noun
+automata," vmely műveletet v. műveletsort önműködően, közvetlen emberi beavatkozás nélkül végrehajtó eszköz, berendezés"," Önműködő készülék, gép(ezet), amely a belsejében levő szerkezet által mozog, hangot ad, vmely emberi tevékenységet utánoz, pótol, vmit kiszolgáltat, v. vmely (bonyolult) műveletet külső irányítás nélkül elvégez stb.",exact,noun
+automata," pénz(érme) bedobására v. egyéb fizetőeszköz behelyezésére vmely szolgáltatást nyújtó, kül. vmely terméket (el)árusító készülék"," Önműködő készülék, gép(ezet), amely a belsejében levő szerkezet által mozog, hangot ad, vmely emberi tevékenységet utánoz, pótol, vmit kiszolgáltat, v. vmely (bonyolult) műveletet külső irányítás nélkül elvégez stb.",narrower,noun
+automata," feladatát, munkáját gépiesen, érzelmek, ill. gondolkodás nélkül végző személy"," Tevékenységét gépiesen, lélek nélkül, mereven végző személy",exact,noun
+automata," vmely műveletet v. műveletsort önműködően, közvetlen emberi beavatkozás nélkül végrehajtó <eszköz, berendezés>; automatikus"," A beléje szerelt gépi szerkezet révén, (emberi kiszolgálás nélkül), mozgó, működő <készülék, gép, rendszer>; önműködő, automatikus",exact,adjective
+bázis," vmely építmény(rész)nek, oszlopnak, pillérnek, ritk. vmely tárgynak a tartó alapzata v. talapzata"," <Oszlopon v. pilléren> talp, talapzat",broader,noun
+bázis," mértani test alaplapja, ill. síkidom alapvonala; alap", <Vmely idomon> alapvonal v. <vmely testen> alaplap,exact,noun
+bázis," <területnek képzeletbeli háromszögekre bontásával végzett mérésében, az ún. háromszögelésben:> közvetlen méréssel fölvett (több kilométer hosszú) szakasz, amelyhez viszonyítva a háromszögoldal hosszát meghatározzák; alapvonal"," <A háromszögelésben> a háromszögnek az az oldala, melynek hosszúságát a lehető legnagyobb pontossággal közvetlenül megmérik; alapvonal",exact,noun
+bázis," nagyobb haderők számára a hadműveletek kiindulási pontjául létesített, ill. a készletek felhalmozására, csapatok állomásoztatására szolgáló, katonailag megerősített hely; támaszpont"," Olyan terület, amelyről a hadműveletek kiindulnak, s ahonnan a hadsereg ellátását biztosítják; támaszpont",exact,noun
+bázis," olyan matematikai részrendszer, amelyből bizonyos műveletekkel a teljes rendszer elemei (egyértelműen) előállíthatók, kifejezhetők", <Vmely logaritmusrendszerben v. (ritk.) vmely hatványban:> alap(szám),related,noun
+bázis," olyan kémiai anyag, amely atomok, atomcsoportok összekapcsolódása során elektronpárt ad le, és amelynek vizes oldatában a negatív töltésű hidroxidionok koncentrációja meghaladja a pozitív töltésű hidrogénionokét, ezért az oldat kémhatása lúgos", Lúgos hatású vegyület; savakkal sókat alkot,exact,noun
+bedob," vminek a belsejébe, mélyére, ill. vmely elkülönített területre dob, hajít vmit"," (Vhova) bedob: vminek a belsejébe, ill. vmely elkülönített helyre dob vmit, ritk. vkit",exact,verb
+bedob," vmit hanyagul(, nagy lendülettel) vminek a belsejébe tesz, helyez"," Bedob (vmibe): hirtelen mozdulattal v. elhatározással, gyak. könnyelműen odadob, odaad vmit vmely célra",related,verb
+bedob," <levelet, szavazólapot, pénzt stb.> nyíláson keresztül beejtve a megfelelő célú ládába helyez, hogy onnan majd rendeltetési helyére kerüljön"," (Vhova) bedob: vminek a belsejébe, ill. vmely elkülönített helyre dob vmit, ritk. vkit",narrower,verb
+bedob, <ablakot> (rádobott kemény tárggyal) betör," Elhajított kemény, súlyos tárggyal kilyukaszt, összetör, betör vmit",exact,verb
+bedob," <katonai egységet v. katonát> paranccsal hadba küld, vezényel"," <Csapatot, harci egységet> gyors elhatározással harcba küld, vet; bevet",exact,verb
+bedob," <hírt, ill. témát, javaslatot stb.> terjesztés, ill. megvitatás céljából (váratlanul) felvet"," Bedob vhova: <hírt, ötletet, javaslatot> hirtelen, váratlanul felvet vkinek v. vmely közösségnek megvitatás v. terjesztés végett",exact,verb
+bélyegző," jellegzetes, különösen jellemző v. vkit, vmit meghatározó"," Olyan <sajátság>, amely rányomja vmire a bélyegét (3); különösen jellemző, feltűnő, megkülönböztető, jellegzetes",exact,adjective
+bélyegző," Pecsételésre, bélyegzésre való eszköz (nyoma)"," Eszköz, amellyel pecsétet v. bélyeget (2) ütnek, nyomnak vmire",broader,noun
+bélyegző," iratokat, borítékokat stb. hitelesítő, azonosító pecsét, bélyeg nyomásához való(, gumi nyomófelületű) eszköz, ill. ennek lenyomata, nyoma"," Eszköz, amellyel pecsétet v. bélyeget (2) ütnek, nyomnak vmire",broader,noun
+bélyegző," az a (fém) nyomóforma, amellyel tulajdonjegyet, hitelesítő jelet, mintát stb. ütnek vmely tárgyba, ill. ennek lenyomata, nyoma"," Eszköz, amellyel pecsétet v. bélyeget (2) ütnek, nyomnak vmire",broader,noun
+bélyegző," <syn>bélyegzővas, ill. ennek lenyomata, nyoma"," Eszköz, amellyel pecsétet v. bélyeget (2) ütnek, nyomnak vmire",broader,noun
+béna," betegség v. sérülés következtében mozgásra, működésre képtelen <testrész, szerv>"," Betegség v. sérülés következtében működésre, mozgásra képtelen <szerv, testrész>",exact,adjective
+béna," olyan <ember, ritk. állat>, aki(nek) v. amely(nek egy v. több mozgásszerve, testrésze) mozgásra képtelen"," Olyan <ember>, akinek vmelyik mozgási szerve v. testrésze mozgásra képtelen",exact,adjective
+béna," mozdulatlan, tespedt, cselekvésre képtelen <közösség, intézmény(rendszer), ill. állapot>"," Tehetetlen, dermedt, mozdulatlan",related,adjective
+béna," (vmiben) ügyetlen(kedő), tehetetlen(kedő), nem rátermett"," Tehetetlen, dermedt, mozdulatlan",related,adjective
+béna," olyan ember, aki(nek egy v. több mozgásszerve, testrésze) mozgásra képtelen", Béna személy,exact,noun
+biz," Kijelentés megerősítésére, nyomatékosítására", <Érzelmileg színezett mondatokban:> bizony (I. 2–3),narrower,particle
+biz," állításban v. tagadásban, gyakr. annak bevezetéseként", <Érzelmileg színezett mondatokban:> bizony (I. 2–3),narrower,particle
+biz," kijelentéshez, kérdéshez kapcsolódó ellentétes v. eltérő jelentésű állításban v. tagadásban", <Érzelmileg színezett mondatokban:> bizony (I. 2–3),narrower,particle
+biz," ráhagyás, egyetértés kif-ére, az előző mondat vmelyik szavának megismétlésével, ill. igenlést v. tagadást követően", <Érzelmileg színezett mondatokban:> bizony (I. 2–3),narrower,particle
+biz," neheztelés, feddés, rosszallás enyhítésére", <Érzelmileg színezett mondatokban:> bizony (I. 2–3),narrower,particle
+bizonyítvány," vmit bizonyító, tanúsító hivatalos igazolás, (ok)irat, ill. magánszemély által kiállított igazoló írás, pl. ajánlólevél, (átvételi) elismervény"," Általában vmely hatóság által kiállított hivatalos irat vmely tény, helyzet, állapot, munka, teljesítmény igazolására",exact,noun
+bizonyítvány," tanulmányi eredményt, előmenetelt igazoló hivatalos iskolai irat, okmány, kisebb könyv, ill. az ebben rögzített tanulmányi eredmény"," Iskolai hatóság által kiállított hivatalos okmány vmely tanulmányi eredmény, előmenetel igazolására",exact,noun
+bizonyítvány," szépítgetve, nem túlságosan meggyőzően igazolja, mentegeti eredményét, eljárását stb."," <rendsz. kisebb jelentőségű ügyben> szépítgetve, de kevéssé meggyőzően igazolja eljárását, mulasztását; mentegeti magát",exact,noun
+bizonyítvány," vminek az igazolására szolgáló, vmit bizonyító tény, adat, érv, körülmény stb."," Bizonyság, tanúság, bizonyíték",narrower,noun
+bizonyítvány," a vádlott bűnösségét, ritk. ártatlanságát bizonyító tény, adat, tárgy stb."," Bizonyság, tanúság, bizonyíték",narrower,noun
+bizonyítvány," vminek meggyőző példája, tanújele"," Bizonyság, tanúság, bizonyíték",narrower,noun
+blokk," (sorszámozott v. nyomtatott) lapokból, űrlapokból álló tömb", Üres v. gyak. sorszámozott v. nyomtatott (űr)lapokból álló tömb (2),exact,noun
+blokk," tömbből v. pénztárgép által keskeny papírtekercsről leválasztott, fizetési nyugtaként szolgáló, a termék(ek), es. szolgáltatás árát rendsz. tételesen is feltüntető lap"," Nagyobb, keskeny papírtekercsből a pénztárgép által leválasztott 5–6 cm hosszú darab, amelyre a gép rányomja a vásárláskor fizetett összeget",exact,noun
+blokk, <syn>bélyegblokk," Általában száz bélyeget tartalmazó összefüggő, perforált ív",broader,noun
+blokk," (politikai) meggyőződésében, érdekeiben v. nemzetiségében hasonló személyek vagy közösségek, szervezetek alkotta tömörülés, csoport(osulás), ill. ennek formációja<syn>tömb"," Tömb (3, 3a)",exact,noun
+blokk," épületegyüttesnek (külső formájában egységes tömbként megjelenő) különálló épülete, ill. vmely épületnek több (hasonló rendeltetésű) egységből, helyiségből álló része, részlege", Háztömb,broader,noun
+blokk," <kül. a romániai és szlovákiai magyarok szóhasználatában:> sokemeletes lakótelepi (panel)épület<syn special=""comma"">tömbház", Háztömb,related,noun
+blokk," Anyagnak súlyos, nagy, egybefüggő darabja, ill. egynemű anyagból való ilyen tárgy", Tömb (1),exact,noun
+blokk," Vmit akadályozó, gátló, elzáró szerkezet"," Olyan szerkezet, berendezés, amelynek az a feladata, hogy megakadályozza vminek az áthaladását vhol",exact,noun
+blokk," <elektromechanikus vasúti jelző- és váltóberendezésben:> annak megfelelő helyzetét, ill. az ilyen berendezések összehangolt működését biztosító szerkezeti elem"," A vonatok összeütközésének megakadályozására való, a jelző- v. a váltószerkezet helyzetét rögzítő szerkezet",exact,noun
+bója," a víz felszínén vmely helyet v. irányt (meg)jelölő, rendsz. lehorgonyzott lebegő tárgy"," A víz felszínén lebegő, lehorgonyzott s rendsz. feltűnő színűre festett üres test a vízfelület vmely pontjának megjelölésére",exact,noun
+borít," álló v. függőleges helyzetéből kibillentve vhova lök, dönt vkit v. vmit"," Vhova borít: úgy dönt fel vmit, vkit, hogy az mélyebben fekvő helyre esik, borul",exact,verb
+borít," <(tartó- v. szállító)eszközt, ill. ennek tartalmát v. utasát> (az eszköz megdöntésével v. felfordításával) vhova önt(i), dönt(i)"," Vhova borít: <vmit tartalmazó tárgyat> úgy fordít v. dönt meg, hogy tartalma vmibe v. vmire esik, hull, ömlik",exact,verb
+borít," <tárgyat v. felületet vmely anyag> összefüggő rétegben takar, fed"," Vmi borít vmit: vmi úgy van vmin, vmi előtt v. fölött, hogy teljesen v. részben eltakarja",related,verb
+borít," sokaságával, sűrűségével vmi, ill. vki vhol <sűrűn elhelyezett dolgokkal> (majdnem) teljesen takar, fed vmit"," Vmi borít vmit: vmiből olyan sok van vmin, hogy szinte befödi, betakarja",broader,verb
+borít," <ráterített hajlékony, puha anyag> takar, fed vmit"," Vmi borít vmit: vmi úgy van vmin, vmi előtt v. fölött, hogy teljesen v. részben eltakarja",narrower,verb
+borít," <kendőt, terítőt, ruhaneműt stb.> terít vkire v. vmire"," <Leplet, takarót> terít v. <domború, üreges tárgyat> tesz vmire úgy, hogy az nagy részben v. egészen elfedi, betakarja",exact,verb
+borít," <ülőbútort rajta kifeszített és rögzített textilneművel v. más vékony anyaggal> takar, ill. behúz vki"," <Takaró, védő, díszítő anyaggal> fed, burkol vmit",related,verb
+borít," <hajlékony, puha anyaggal> szorosan körülvesz, <ilyen anyagba> burkol vmit"," <Takaró, védő, díszítő anyaggal> fed, burkol vmit",related,verb
+borít," <élőlény vmely részét> természettől fogva fedi, körülveszi vmi"," Vmi borít vmit: vmi úgy van vmin, vmi előtt v. fölött, hogy teljesen v. részben eltakarja",related,verb
+borít," <tűz, folyadék stb.> (terjedve, áradva) elönt, ellep vmit"," <Főleg állandósult szókapcsolatban:> vmibe borít: <dolog> okozza, hogy vmi nagy mértékben elárasszon vmit, rajta elhatalmasodjon. Vkit, vmit gyászba borít: <rendsz. vmely közösségnek> mély gyászt v. nagy szomorúságot okoz; könnybe borítja vkinek az arcát, szemét; lángba borít vmit: vhol, vmiben nagy tűzvészt okoz; lángba borítja az erdőt, a házat; vmi lángba borítja vkinek az arcát: <felindulástól, szégyentől> hirtelen nagyon elpirul (az arca); vérbe borít vmit: nagy vérontást okoz, vérengzést visz végbe vhol",narrower,verb
+borít," <köd, homály stb.> terjedve, áradva elönt vmit"," <Főleg állandósult szókapcsolatban:> vmibe borít: <dolog> okozza, hogy vmi nagy mértékben elárasszon vmit, rajta elhatalmasodjon. Vkit, vmit gyászba borít: <rendsz. vmely közösségnek> mély gyászt v. nagy szomorúságot okoz; könnybe borítja vkinek az arcát, szemét; lángba borít vmit: vhol, vmiben nagy tűzvészt okoz; lángba borítja az erdőt, a házat; vmi lángba borítja vkinek az arcát: <felindulástól, szégyentől> hirtelen nagyon elpirul (az arca); vérbe borít vmit: nagy vérontást okoz, vérengzést visz végbe vhol",narrower,verb
+borít," <arcá(nak egy részé)t lelki v. testi állapot jele, azt tükröző szín> jellemzi"," <felindulástól, szégyentől> hirtelen nagyon elpirul (az arca)",exact,verb
+borít," vmivel (ellenállhatatlanul) eláraszt, elönt vmit"," <Főleg állandósult szókapcsolatban:> vmibe borít: <dolog> okozza, hogy vmi nagy mértékben elárasszon vmit, rajta elhatalmasodjon. Vkit, vmit gyászba borít: <rendsz. vmely közösségnek> mély gyászt v. nagy szomorúságot okoz; könnybe borítja vkinek az arcát, szemét; lángba borít vmit: vhol, vmiben nagy tűzvészt okoz; lángba borítja az erdőt, a házat; vmi lángba borítja vkinek az arcát: <felindulástól, szégyentől> hirtelen nagyon elpirul (az arca); vérbe borít vmit: nagy vérontást okoz, vérengzést visz végbe vhol",related,verb
+borít," <vmilyen, kül. kedvezőtlen, szomorú állapotba> juttat vkit v. vmit", <rendsz. vmely közösségnek> mély gyászt v. nagy szomorúságot okoz,broader,verb
+bors," az ún. fekete bors növény termése, ill. ebből különböző érettségi fokban különféle eljárásokkal készített, apró gömb alakú, leggyakrabban fekete színű, jellegzetesen csípős ízű fűszer (őrölt változata)"," Egy trópusi növény (Piper nigrum) fűszerként használt éretlen termése; fekete színű, apró gömb alakú, erősen csípős ízű fűszer",exact,noun
+bőr," az ember, ill. a gerinces állatok azon kiterjedt érhálózattal és idegvégződésekkel rendelkező érzékszerve, amely a testet többrétegű (jellegzetesen pigmentált) kültakaróként borítja, megvédve a különféle környezeti ártalmaktól"," Az emberi és állati testet védő, egymásra rétegeződő szövetek összessége, amelynek kisebb-nagyobb mértékben elszarusodott felső rétegét részben v. egészen szőrzet, tollazat v. pikkely takarja",exact,noun
+bőr," <ember, testrész, es. állat ált. esőtől> addig ázik v. annyira elázik, hogy a ruhája, ill. <állat> bundája, tollazata teljesen átnedvesedik", nagyon megázik,exact,noun
+bőr, nagyfokú soványság kif-ére, <Állandósult szókapcsolatokban a testi állapot jelképeként.>,narrower,noun
+bőr," az egészség, a testi épség, ill. az élet jelképeként", <Állandósult szókapcsolatokban a testi állapot jelképeként.>,broader,noun
+bőr, láthatóan vmilyen egészségi állapotban van, <Állandósult szókapcsolatokban a testi állapot jelképeként.>,related,noun
+bőr," lelki érzékenység, szemérem- v. szégyenérzet, ill. ezek hiányának jelképeként", <Állandósult szókapcsolatokban a testi állapot jelképeként.>,exact,noun
+bőr," lenyúzott (és kikészített, ill. feldolgozott) állatbőr (mint vmely tárgy anyaga)"," Az állati testet borító réteg lehúzott, lenyúzott, nyers, még feldolgozatlan állapotban",exact,noun
+bőr, ez v. ennek darabja mint (használati) tárgy (része)," Ugyanaz kikészített, feldolgozott, kicserzett, ipari célokra használhatóvá tett v. már fel is használt állapotban",exact,noun
+bőr, futball-labda, Futball-labda,exact,noun
+bőr," különböző növényi részek felületét körülvevő (vékony) külső réteg, héj, kéreg stb.", A fiatal fa vékony kérge,broader,noun
+bőr," vmit befedő, beborító v. körülburkoló hártyaszerű réteg"," A gyümölcs húsát fedő és védő hártyás, héjas réteg",broader,noun
+bőr," folyadék, pép felszínén kül. lehűléskor keletkező hártyaszerű réteg"," <Folyadék, oldat, folyékony v. pépszerű étel felszínén> a párolgás és lehűlés közben képződő hártyaszerű réteg",exact,noun
+bőr," (csinos, kívánatos) nő"," Jó bőr: a férfiakra ható, izgató külsejű, kívánatos, szép nő.",exact,noun
+bőr," öltözet, ruha, ill. külső megjelenés, küllem"," Öltözet, ruha",broader,noun
+brit," Nagy-Britannia szigetét kb. az i. e. 7-6. századtól az i. sz. 5. századbeli angolszász hódításig benépesítő, kelta nyelvet beszélő <nép>, ill. e néppel v. annak kultúrájával kapcs."," A britek (I. b) közé tartozó <személy, csoport>",exact,adjective
+brit," az európai kontinens északnyugati partjainál található, egykor e nép által lakott, jelenleg az Egyesült Királyság területének legnagyobb részét képező <sziget>, e szigetet, az Ír-szigetet és számos kisebb szigetet magában foglaló <szigetcsoport> v. e sziget(ek)hez tartozó <terület>, ill. e területen levő v. ott végbemenő, bekövetkező"," Nagy-Britanniához, ill. az Egyesült Királysághoz tartozó",narrower,adjective
+brit," e szigetcsoport területén, Nagy-Britanniában, kül. Angliában élő <népesség>"," Nagy-Britanniához, ill. az Egyesült Királysághoz tartozó",narrower,adjective
+brit," e népességből való <eredet, származás> v. ilyen származású, nagy-britanniai, ill. angol <személy, csoport>", Szűk. ért. angol,narrower,adjective
+brit," E néppel v. Nagy-Britanniával, ill. Angliával kapcs"," Nagy-Britanniához, ill. az Egyesült Királysághoz tartozó",exact,adjective
+brit," e nép által v. Nagy-Britanniában, ill. Angliában létrehozott, készített v. művelt"," Nagy-Britanniához, ill. az Egyesült Királysághoz tartozó",narrower,adjective
+brit," e néppel v. Nagy-Britanniában, Angliában megeső, történő, ill. e nép körében zajló, általa megvalósuló"," Nagy-Britanniához, ill. az Egyesült Királysághoz tartozó",narrower,adjective
+brit," e nép által szervezett, Nagy-Britannia, ill. Anglia területén működő <állam> v. ennek fennhatósága alá tartozó <birodalom, államközösség stb.>", az angol korona uralma alatt álló b.,related,adjective
+brit," e birodalom v. állam, Nagy-Britannia, ill. Anglia jelképeként", Anglia,related,adjective
+brit," ezen állam v. e nép szervezett közössége által létrehozott, ahhoz tartozó, arra jellemző, ill. abban vmilyen szerepet, funkciót betöltő"," Nagy-Britanniához, ill. az Egyesült Királysághoz tartozó",narrower,adjective
+brit," Nagy-Britannia szigetét kb. az i. e. 7-6. századtól az i. sz. 5. századbeli angolszász hódításig benépesítő, kelta nyelvet beszélő nép", A britek: a) a Nagy-Britanniában lakó népek összessége; b) <az i. sz. V. századig> a mai Nagy-Britannia déli részén uralmon levő kelta eredetű őslakosság,narrower,noun
+brit," Nagy-Britanniában, kül. Angliában élő lakosság, nép, nemzet", A britek: a) a Nagy-Britanniában lakó népek összessége; b) <az i. sz. V. századig> a mai Nagy-Britannia déli részén uralmon levő kelta eredetű őslakosság,narrower,noun
+brit, e néphez tartozó személy," Angol személy, főleg férfi",broader,noun
+bugyor," (kendőre, lepedőre helyezett holmikból az átellenes sarkok összecsomózásával elkészített,) rendsz. háton hordott, gömbölyded alakú csomag, ill. ilyen csomagba kötött holmibatyu"," Négy sarkán összekötött gömbölyű kis batyu, rendsz. kézben, bot végére akasztva vállon v. háton viszik.",exact,noun
+bugyor, <Dante Isteni színjátéka szerint:> a pokolban a különböző bűnökre kirótt büntetések színhelyeinek vmelyike, <A dantei elképzelésben> a pokolnak tölcsérszerűen mélyülő egyik völgye.,exact,noun
+bujt," <növény hajtását, vesszejét> szaporítás végett egy-két szem kihagyásával a föld alá dugja v. földdel takarja, hogy a föld alatti rész gyökeret verjen, ill. <növényt> ilyen eljárással szaporít"," Bujt vmit: vmely növény hajtását, vesszejét szaporítás végett egy-két szem kihagyásával a föld alá dugja v. földdel takarja, hogy a föld alatti rész gyökeret verjen; homlít",exact,verb
+bujt," (izgatással) vki, vmi ellen ingerel"," Titokban ingerel, izgat vkit vki ellen",exact,verb
+bujt," <tüzet, vágyat, szenvedélyt stb.> szít, éleszt"," <Szenvedélyt> szít, éleszt (vkiben)",exact,verb
+buli," (vmilyen haszonnal járó, jövedelmező, es. törvénybe is ütköző) ügy(let), munka, alkalom, vállalkozás, ill. ebben részt vevő, erre szerveződő (érdek)közösség, társaság, csoport"," <Főleg állandósult szókapcsolatokban:> vmely közösen végzett, nem nagy fáradsággal járó, jövedelmező, ill. egyéb feltételek szempontjából kellemes munka, vállalkozás v. szórakozás, ill. az az együttes, amely ezt eltervezte, kigondolta",exact,noun
+buli," <egyes kártyajátékokban:> a játék egy köre, ill. egy menete, játszmája"," <Egyes kártyajátékokban> a játék egy köre (3b), ill. egy játszmája",exact,noun
+buta," ilyen emberre valló, butaságot, ostobaságot tükröző <megnyilvánulás, viselkedés, külső megjelenés>, ill. ilyen emberre jellemző(en gyenge, lassú) <elme, értelem>"," Buta emberre valló, jellemző, tőle származó, vele kapcs. <megnyilatkozás, cselekvésmód>",narrower,adjective
+buta," <bosszankodás kif-ére is:> gyakr. a körültekintés, a megfontolás hiányából származó, bajt, kárt, kellemetlenséget okozó v. azzal járó <esemény, körülmény, helyzet stb.>"," Az emberi logika szempontjából bosszantóan esztelen, értelmetlen, oktalan <tárgy, dolog, esemény>",exact,adjective
+buta," <bosszankodás kif-ére is, gyakr. elhomályosult jelentéstartalommal:> (önálló) ésszel, értelemmel nem bíró, oktalan, ill. szokatlanul, az emberi logikával, megfontolással ellentétesen v. nem az elvárásoknak megfelelően cselekvő, megnyilvánuló, működő <állat v. dolog>"," Az emberi logikával v. érdekkel ellenkező módon viselkedő, működő, ható <állat, ritk, más jelenség, dolog>",broader,adjective
+buta," <vminek> tompa <vége, hegye, éle>, ill. tompa, lekerekített végű v. életlen <dolog, tárgy>"," Életlen, tompa <eszköz, szerszám>, ill. tompa végű tömpe <tárgy, dolog>",exact,adjective
+buta," tompa, nem (élesen) csengő <hang>, ill. ilyen hangú <hangszer>"," Tompa hangú, tompa hangot adó <tárgy, dolog>",exact,adjective
+buta," gyenge értelmi képességű v. vmiben járatlan, vmihez nem értő, ill. az emberi logikával ellentétesen, értelmetlenül cselekvő személy", Buta ember,narrower,noun
+buta, kórosan gyengeelméjű v. elbutult személy, Buta ember,narrower,noun
+buta," ésszerűtlenül, helytelenül v. nem az elvárásoknak megfelelően cselekvő személy", Buta ember,narrower,noun
+buta," butaságot tükröző, ostoba tett, beszéd, megnyilvánulás", Buta dolog,narrower,noun
+bűvös," csodás, természetfeletti, mágikus <erő, hatalom, hatás stb.>"," Olyan <dolog>, amelynek csodás, csodatevő, varázsszerű tulajdonsága, ereje, képessége, hatása van",narrower,adjective
+bűvös," ilyen erőket megidéző és saját szolgálatába állító, ill. ilyen erővel, hatalommal rendelkező <személy, ill. (természetfeletti, mesebeli) lény>"," Varázsló képességű, bájoló <személy>. Bűvös vadász",exact,adjective
+bűvös," csodás, természetfeletti, mágikus erőket előhívó, megidéző <szöveg, tevékenység>"," Bűvöléssel, varázslással kapcs. <eljárás>",broader,adjective
+bűvös," csodás, természetfeletti erővel, mágikus hatással, tulajdonsággal rendelkező, ill. mágikus tevékenység során haszn. <tárgy, eszköz, szer stb.>"," Olyan <dolog>, amelynek csodás, csodatevő, varázsszerű tulajdonsága, ereje, képessége, hatása van",narrower,adjective
+bűvös," olyan <jelenség, dolog stb.>, amely varázslatos volta v. (varázs)ereje révén hatása alá von vkit, vmit"," Lenyűgöző hatású, bűvöletes",narrower,adjective
+bűvös," nagy hatású, különleges hatást keltő <jel, szó, mondat>"," Lenyűgöző hatású, bűvöletes",narrower,adjective
+bűvös," csodás, természetfeletti, mágikus erőket megidéző és saját szolgálatába állító személy, varázsló"," Olyan személy, akinek varázserőt, emberfölötti képességet tulajdonítanak",exact,noun
+cakompakk," vkihez tartozó (és nála levő) tárgyak, holmik összessége, cókmók"," Mindenféle, főleg kisebb holmi, ruhanemű, cókmók",exact,noun
+cakompakk, katonai menetfelszerelés, Teljes katonai felszerelés,exact,noun
+cakompakk," (csipetkével, burgonyával készített) húsos, zöldséges, sűrű bableves"," (Vidékenként változó) sűrű tésztaleves, melyben rendsz. burgonya és hús is van",exact,noun
+cakompakk," mindenestül, mindent beleértve, ill. teljes egészében, összesencaklipaklicakpakk"," Mindenestül, mindennel együtt, mindent beleértve",exact,adverb
+cakompakk, teljes katonai menetfelszereléssel, Teljes katonai felszereléssel,exact,adverb
+cégéres," olyan <üzlethelyiség, műhely, es. jármű>, amelynek bejárata fölé v. tetejére az abban űzött mesterség jelvényeként haszn. cégért helyeztek, ill. ilyen üzletet, műhelyt stb. működtető <személy>", Cégérrel (1) ellátott <helyiség>,exact,adjective
+cégéres," (súlyos) bűnöket elkövető, hírhedt, rossz hírű <személy v. csoport>"," Rossz híréről közismert, hírhedt <személy>",exact,adjective
+cégéres," ilyen személyre jellemző, rá valló, kirívóan erkölcstelen, bűnös <cselekvés, magatartás, tulajdonság stb.>", Ilyen személyre valló,exact,adjective
+cella," Kis alapterületű, ablaktalan v. kisméretű ablakkal ellátott, szegényes berendezésű helyiség", Általában zárka.,narrower,noun
+cella," <a szerzetesi élet jelképeként is, kolostorban:> szerzetesi szoba"," Szerzetes magános, szűk kolostori szobája",exact,noun
+cella," <börtönben, rendőrségen:> letartóztatott, ill. elítélt személy(ek) fogva tartására való, ill. <elmegyógyintézetben:> beteg(ek) elhelyezésére, elkülönítésére szolgáló kisebb zárt helyiség", <Börtönben> rab(ok) zárkája,exact,noun
+cella," <tárgy v. építmény belsejében, ill. a földben:> üreg, rekesz"," Vmely tartálynak, készüléknek a környezettől elzárt kis része, rekesze",exact,noun
+cicázik," fogócskát játszik, kergetőzik", Cicajátékot (1–2) játszik,narrower,verb
+cicázik," pajkosan enyeleg, szerelmi játékként évődik, ill. szerelmeskedik vkivel"," <Férfi nővel v. nő férfival> pajkosan, dévajkodva enyeleg, szerelmeskedik",exact,verb
+cicázik," ingerkedik, kötekedik, ill. kellemetlenkedik, packázik vkivel", Játékosan ingerkedve kötődik vkivel,exact,verb
+cifra," gazdagon, rendsz. feltűnően, aprólékosan díszített <dolog>"," Gazdagon, pompázóan díszített <tárgy, kül. ruha, eszköz, épület>",broader,adjective
+cifra," díszesen, hivalkodóan öltözködő, cifrálkodni szerető <személy>, ill. ilyen személyre jellemző, rá valló"," Túlságosan, ízléstelenül, rikítón díszített, feltűnően tarka <tárgy>",exact,adjective
+cifra," a jólét látszatával leplezett nyomorúságos állapot, ill. ilyen állapotot leplező, szépítő, jólétet, gazdagságot sejtető dolog", Cifra nyomorúság: a jólét külszínével leplezett ny.,exact,adjective
+cifra," túldíszített v. (feleslegesen) bonyolult <stílus>, ill. ilyen stílusú <szó, megnyilatkozás>"," Keresetten, mesterkélten s feleslegesen ékesített v. bonyolultan, körülményesen fogalmazott kacskaringós <stílus>",broader,adjective
+cifra," durva v. különleges szavakat halmozó <átok, káromkodás>"," Furcsa v. durva szavakat kacskaringósan, játékosan halmozó <beszéd>",exact,adjective
+cifra," feltűnő, tarka mintázatú <állati szőr, toll, testrész, növényi rész stb.>", Tarka (szőrű) <állat>,broader,adjective
+cifra," vmely részén, testtáján jellegzetesen ilyen <állat, növény>"," Cifra sás: a pázsitfűfélék családjába tartozó, tömött, tojásdad bugájú növény; olajtartalmú magja madáreledel (Phalaris).",broader,adjective
+cifra," sok színben pompázó, ill. sokféle egyedből, darabból összetevődő, változatos, gazdag", Sokféle színben pompázó s változatosságával szemet gyönyörködtető,exact,adjective
+cifra," különböző korú v. fajtájú tenyészállatokból válogatott <gulya, ménes>"," Cifra gulya, ménes: válogatott tenyészállatokból álló g., m.",exact,adjective
+cifra," furcsasága, bonyolultsága, váratlansága miatt meghökkentő, különleges <dolog>"," <Érzelmileg színezett beszédben> feje tetejére állított, kifogásolható, nem kívánatosan szabálytalan, furcsasága, bonyolultsága, váratlansága miatt meghökkentő <dolog>",exact,adjective
+cifra," <ruhán, használati tárgyon, épületen stb.:> kacskaringós, csavarodó vonal(ak)ból kialakított bonyolult minta, dísz(ítés), ill. <kül. ruházat részeként:> rendsz. ilyen alakú v. mintájú díszítő, ékesítő tárgy, ékszer stb."," Cifra (I. 1) díszítmény ruhán, eszközön, épületen; cifrázat (1)",exact,noun
+cifra," kacskaringós vonal, ill. ilyen vonalú ábra, rajz"," Kör v. félkör alakú vonal, díszítmény v. kacskaringó",exact,noun
+cifra," ének, zene, tánc rögtönzésszerű díszítő elemecifrázat"," Ének, zene, tánc v. vers rögtönzésszerű díszítőeleme; cifrázat (2)",exact,noun
+cifra," bonyolult, kacskaringós szó, kifejezés, stíluselem"," Kacskaringós, feleslegesen bonyolult kifejezés",exact,noun
+cifra," kihívóan, hivalkodóan öltözködő, cifrálkodó személy"," Kihívóan, feltűnően öltözködő, cifrálkodó (gyak. rosszhírű) nő",broader,noun
+cifra," könnyűvérű, feslett nő"," Kihívóan, feltűnően öltözködő, cifrálkodó (gyak. rosszhírű) nő",narrower,noun
+cifra," vminek a nehezebb, bonyolultabb, kínosabb része"," Cifrája: vminek a neheze, bonyolultabb, kínosabb része",exact,noun
+cifra," vmely szám, mennyiségi érték, kül. a nulla feltüntetésére haszn. írásjegy, számjegy, ill. annak értéke"," A zérust jelölő számjegy, ill. ennek értéke",broader,noun
+cionista," olyan <személy, csoport>, aki v. amely a cionizmus híve, követője"," A cionizmus elvét valló, a cionizmus ügyét szolgáló <személy>",exact,adjective
+cionista," a cionizmus felfogását, eszméjét tükröző, azzal v. követőjével kapcs., arra jellemző"," Ilyen személyre jellemző, vele kapcs., tőle származó",narrower,adjective
+cionista," a cionizmus elveinek megfelelően működő, ill. a cionizmust támogató <rendszer, társadalom>"," Ilyen személyre jellemző, vele kapcs., tőle származó",narrower,adjective
+cionista," a cionizmus híve, követője", Cionista személy,exact,noun
+civil," egyenruha v. megkülönböztető öltözet viselésére kötelezett szervezet, alakulat v. társaság kötelékébe nem tartozó <személy>", A hadsereg kötelékébe nem tartozó; polgári,broader,adjective
+civil," ilyen személyre jellemző <megnyilvánulás, viselet stb.>"," Civil (főleg I. 1, ritk. 2) személyre jellemző, vele kapcs., általa viselt, gyak. megkülönböztetésül attól, ami katonai; polgári, magán",exact,adjective
+civil," egyenruha v. megkülönböztető öltözet viselésére kötelezett szervezet, alakulat v. társaság kötelékébe nem tartozó személy"," Civil (I. 1, 2) ember",narrower,noun
+civil," <vmely egyenruhával, megkülönböztető öltözékkel szemben:> polgári öltözet"," Civil (I. 1, 2) ember",narrower,noun
+civil," nem katonai minőségben, (katonai szolgálata idején) polgári személyként"," Civilben: a) magánéletben | b) (, ) mint nem hivatásos, mint magánember",narrower,noun
+civil," hivatásától, állásától, közéleti szerepvállalásától függetlenül (tekintve), nem hivatalos minőségben, magánemberként"," Civilben: a) magánéletben | b) (, ) mint nem hivatásos, mint magánember",narrower,noun
+cucc," vkihez tartozó (és nála levő) tárgyak összessége, ill. ezek közül egy"," Úti v. egyéb holmi, cókmók",broader,noun
+csabai," olyan helységgel való vmilyen összefüggésnek, kapcsolatnak mint tulajdonságnak a kif-ére, amelynek neve -csaba utótagra végződik"," Vmelyik Csaba nevű (Békéscsaba, Hejőcsaba, Piliscsaba, Rákoscsaba) helységbe való, onnan származó, ott készülő v. készült csabai kolbász: zsíros sertéshúsból készült, esetleg marhahússal kevert, paprikával és borssal fűszerezett, nyersen is fogyasztható k.",broader,adjective
+csabai," eredetileg, ill. a hivatalos követelményeknek megfelelően Békéscsaba (és Gyula) területén belül előállított, sertéshúsból készült, speciális fűszerezésű és füstölésű, paprikás kolbász(fajta)"," Vmelyik Csaba nevű (Békéscsaba, Hejőcsaba, Piliscsaba, Rákoscsaba) helységbe való, onnan származó, ott készülő v. készült csabai kolbász: zsíros sertéshúsból készült, esetleg marhahússal kevert, paprikával és borssal fűszerezett, nyersen is fogyasztható k.",narrower,adjective
+csabai, csabai kolbász, Csabai kolbász,exact,noun
+csarnok," Tágas, magas, (oszlopokkal tagolt,) rendsz. egyterű fedett épület"," Tágas, magas, levegős, gyak. oszlopos nagy helyiség, amelynek részben v. egészen üvegből van a fala v. a teteje",exact,noun
+csarnok," <az ókorban:> oszlopsorokkal tagolt, nyitott v. zárt, minden pontján azonos magasságú mennyezettel ellátott, előadásoknak, gyűléseknek helyet adó épület"," <Az ókorban> oszlopsorokkal tagolt, nyitott v. zárt, egyforma magas mennyezettel ellátott térség; előadásokat, gyűléseket tartottak benne.",exact,noun
+csarnok," rendsz. vmely közösségi funkciót betöltő, nyilvános eseménynek helyet adó tágas, egyterű épület"," Tágas, magas, levegős, gyak. oszlopos nagy helyiség, amelynek részben v. egészen üvegből van a fala v. a teteje",narrower,noun
+csarnok," nagy pályaudvarnak a vonatok indulását és beérkezését biztosító, (üveggel) fedett térsége, ill. <repülőtéren:> hasonló (funkciójú) épület"," Nagyobb pályaudvarnak rendsz. üveggel fedett része; ide futnak be, és innen indulnak a vonatok",exact,noun
+csarnok," élelmiszerek, háztartási eszközök stb. nagy tömegben való árusítására szolgáló tágas épület<syn special=""comma"">vásárcsarnok, ill. kül. zöldség, gyümölcs, hús, virág árusítására való fedett piac", Vásárcsarnok,broader,noun
+csarnok," az a helyiség, amelyben a tejet a termelőktől felvásárolják, összegyűjtik és árusítják<syn special=""comma"">tejcsarnok"," Tejcsarnok (1, 1a)",exact,noun
+csarnok," az a tágas üzemi helyiség, amelyben munkagépek működnekgépcsarnok"," <Gyárban, üzemben> nagyobb, magas, rendsz. üveges tetejű v. oldalú terem",exact,noun
+csarnok," rendsz. díszes, tágas nagyterem"," Magas, díszes nagyterem",exact,noun
+csatorna," (szenny)víz elvezetésére v. öntözésre szolgáló, ill. mocsaras területet lecsapoló v. vízszabályozásra való ásott meder, árok (vize)"," Nyílt árok, ásott meder (szenny)víz vezetésére",exact,noun
+csatorna," szennyvizet (és esővizet) a földfelszín alatt elvezető(, kiépített medrű) árok(-) v. cső(hálózat), es. annak felszíni szakasza v. építménye, ill. abban levő folyadék", Föld alatt épített csővezeték szennyvíz elvezetésére,exact,noun
+csatorna," ilyen hálózatot a föld felszínével összekötő, felül rendsz. ráccsal lezárt akna az esővíz elvezetésére"," Ezt a csővezetéket a föld felszínével összekötő, felül rendsz. ráccsal lezárt akna az esővíz elvezetésére",exact,noun
+csatorna," mesterségesen létrehozott, hajózható vízi út folyók, tavak, tengerek között"," Mesterséges, hajózható vízi út folyók, tavak, tengerek között",exact,noun
+csatorna," <tengerparti, ill. a tenger közelében fekvő városban:> a tengerrel összefüggő, utcákat helyettesítő vízi utak egyike"," <Tengerparti, ill. a tenger közelében fekvő városban> a tengerrel összefüggő, az utcákat helyettesítő vízi utak egyike",exact,noun
+csatorna," vmely épület tetejéről a lefolyó esővizet összegyűjtő és elvezető, ereszcsatornából és ahhoz csatlakozó csőből v. csövekből álló szerkezet, hálózat, ill. ennek vmely eleme"," Esőcsatorna, tetőcsatorna",exact,noun
+csatorna," <vmely tárgyon, képződményen stb.:> hosszanti bevágás, vájat kül. nedv, folyadék vezetésére"," <Vmely tárgyon> hosszanti bevágás, vájat, főleg nedv, folyadék vezetésére",exact,noun
+csatorna," vminek a(z el)vezetésére, pl. elektromos v. vízvezeték, fűtés, szellőzés számára épített v. mesterségesen kialakított járat, hosszú üreg v. cső(rendszer)"," Szellőzésre v. fűtésre haszn., falba épített hosszú üreg; akna.",broader,noun
+csatorna," <ember, állat, ritk. növény szervezetében v. vmely szervében:> vminek a vezetésére való csőszerű járat, vezeték"," <Élőlény szervezetében v. vmely szervében> vminek a vezetésére való járat, vezeték",exact,noun
+csatorna," (információhordozó) jeleket vezető, azok átvitelére, továbbítására alkalmas közvetítőrendszer, közeg, pl. frekvenciasáv","  Híradástechnikában a híradást továbbító elektromos energia frekvenciájának terjedelme, ill. az elektromos jelek, információk (3) továbbítására alkalmas vezető rendszer, közeg (pl. vezeték, levegő).",exact,noun
+csatorna," szellemi v. gazdasági javak kicserélésének vmely (kialakult) útja, módja, meghatározott formája"," A szellemi v. gazdasági javak kicserélésének vmely kialakult útja, módja",exact,noun
+csepegős," rajta v. benne levő, ill. képződött folyadékot cseppekben hullató"," Olyan, ami állapotánál, anyagánál fogva állandóan v. gyakran csepeg. (2)",exact,adjective
+csepegős," olyan <időjárás, ill. időszak>, amelyben apró cseppekben, időnként abbamaradva esik az eső"," Csepegős idő: olyan i., amikor apró cseppekben, időnként abbamaradva, majd újra meg újra megindulva hull az eső.",broader,adjective
+csesz," mozgás közben vmihez közel kerülve (könnyedén) érint, súrol, horzsol vmit","  Gyors mozgás közben könnyedén súrol, érint",exact,verb
+csesz," nemileg egyesül, közösül", Csesz vkit: <férfi> közösül vkivel.,exact,verb
+dagadt," kövér, elhízott, ill. nagy testű <ember v. állat>"," Kövér, hájas <személy>",exact,adjective
+dagadt," sérülés, betegség stb. miatt rendellenesen megnagyobbodott, megduzzadt <test(rész) v. testtáj>"," <Betegség, ütés v. vérkeringési zavar következtében> feltűnően kidomborodó felszínű, rendellenesen duzzadt <testrész>",exact,adjective
+dagadt," (a benne levő anyagtól) domború(an kiemelkedő), ill. gömbölyded <dolog>"," <Széltől, beleszorult levegőtől> domborúvá, öblössé vált <szövött anyag>",broader,adjective
+deli," <nyomatékosításként, fokozásként is:> szép, magas, arányos termetű, egyenes tartású(, vitéz, hősies) <személy>, ill. ilyen személyekből álló <csoport>"," Karcsú, magas, arányos, csinos termetű, ruganyos mozgású <fiatal személy>; daliás, délceg",exact,adjective
+deli," ilyen személyre jellemző, rá valló, tőle származó <(test)alkat, testrész, tulajdonság, megnyilvánulás stb.>"," Ilyen személyre jellemző, hozzá illő, nyalka, csinos",exact,adjective
+deli," szép, pompás v. kiváló, remek, ragyogó <dolog, tulajdonság stb.>"," Pompás, remek; ragyogó",broader,adjective
+deli," szép, magas, arányos termetű, egyenes tartású(, vitéz, hősies) férfidalia"," Délceg, daliás ifjú; nyalka (öltözetű) vitéz katona; dalia",exact,noun
+deli, hódoltság korabeli török önkéntes lovas katona v. testőr, <A hódoltság korában> török katona,exact,noun
+depó," Vmilyen anyag, készlet, tartalék stb. raktározására szolgáló hely, ill. az ott tárolt készlet", Építési v. egyéb ipari anyag(ok) tárolására való raktár.,broader,noun
+depó," az a hely v. létesítmény, ahol vmely faanyagot, terményt, kitermelt (meddő) anyagot v. hulladékot, veszélyes anyagot stb. felhalmoznak, ill. az ott tárolt készlet, anyag", Építési v. egyéb ipari anyag(ok) tárolására való raktár.,broader,noun
+depó," letét mint jogintézmény, ill. letétbe helyezett értéktárgy, pénzösszeg", Építési v. egyéb ipari anyag(ok) tárolására való raktár.,broader,noun
+ebadta," kül. indulatos beszédben: másoknak bajt, kárt v. bosszúságot okozó személyre vonatkoztatva"," Komisz, hitvány <személy>",broader,adjective
+ebadta," huncutságokra, csalafintaságokra kész, csibészkedő <gyerek, ill. ilyen gyerekek csoportja>"," Komisz, hitvány <személy>",narrower,adjective
+ebadta," alávaló, hitvány, minden rosszra képes ember v. közösség megnevezéseként v. szidalmazó megszólításaként"," <Megszólításként is:> komisz, hitvány ember",narrower,noun
+ebadta," huncutságokra, csalafintaságokra kész, csibészkedő gyerek"," <Megszólításként is:> komisz, hitvány ember",narrower,noun
+ebadta," bosszúság kif-ére v. szitkozódásként, a mondanivaló nyomatékosítására"," (határozott névelővel v. anélkül, csak ragtalanul v. tárgyraggal) Az ebadta! v. (az) ebadtát! v. ebadtája! v. (az) ebadtáját!: <bosszankodást, elégedetlenséget kifejező enyhébb szitokszó; kb. egyértékű ezekkel:> a kutyafáját!; a teremtésit!",exact,interjection
+éget," <jelképes cselekedetként is: tüzet, ill. éghető anyagot> meggyújt, hogy (el)égjen", Vmit meggyújtva tüzel vele,broader,verb
+éget, <holtat>hamvaszt," Tűzzel folyamatosan elemészt, megsemmisít vmit v. ritk. vkit",narrower,verb
+éget," <eretnekként, boszorkányként> máglyán kivégez"," Tűzzel folyamatosan elemészt, megsemmisít vmit v. ritk. vkit",narrower,verb
+éget," <házat, települést> szándékosan felgyújt, ill. (tűzvészt okozva) pusztító szándékkal gyújtogat"," Tűzzel folyamatosan elemészt, megsemmisít vmit v. ritk. vkit",narrower,verb
+éget," <arra való anyagot v. eszközt> meggyújtva égni hagy, ill. be- v. felkapcsol(va fűtésre v. világításra használ)"," <Világító eszközt, anyagot> világításra használ",broader,verb
+éget," tűzzel v. hevítési eljárással készít, létrehoz vmit"," Vmit tűz segítségével, hevítve készít, folyamatosan létrehoz, ill. ily módon használati cikké alakít",exact,verb
+éget," tűzzel, hevítési eljárással vmi mássá v. vmilyenné változtat vmit"," Éget vmit: tűz segítségével vminek a minőségét megváltoztatja, ill. vmivé változtat vmit",exact,verb
+éget," <forró dolog, ill. ilyen dologgal vki> süt, perzsel vkit, vmit"," Éget vmit: <forró tárgy, anyag> folyamatosan az égési seb fájdalmához hasonló, sajgó fájdalmat okoz vmely testrészen",exact,verb
+éget, <kéményt> lánggal tisztít, <Kéményt> lánggal tisztít,exact,verb
+éget," <szemölcsöt, kinövést> izzó műszerrel v. maratással eltávolít"," <Sebet, kinövést tüzesített műszerrel, villannyal v. maró vegyi szerrel> gyógyít, ill. folyamatosan eltávolít",narrower,verb
+éget," <jelet, ábrát> bele- v. rányomott izzó eszközzel, sugárral belesüt vmibe, rásüt vmire", Vhova éget vmit: izzó eszköznek vmire v. vmibe való nyomásával létrehoz vmit,exact,verb
+éget," <testrészt vele érintkező dolog> csípő, maró v. perzselő érzéssel kínoz"," Éget vmit: <vmely anyag, növény, seb> folyamatosan csípő, maró v. sajgó fájdalmat okoz vkinek a testén v. vmely testrészén",exact,verb
+éget," <szem, tekintet, ill. szemével, tekintetével vki> zavarba ejt v. lázba hoz, izgat vkit, ill. ingerel vmit"," <Szem, nézés, tekintet, érzés> szégyenkezésre, ill. pirulásra késztet vkit, vmit",exact,verb
+éget," <érzés, érzelem> feszültséget okozva izgalomban tart, ill. vmely cselekvésre sarkall vkit"," <Vmely heves érzés> emészt vkit, vmit",exact,verb
+egyívású," (vmilyen szempontból) egyforma, megegyező, azonos (vkivel, vmivel)"," Vkivel azonos származású, azonos rétegbe tartozó, esetleg azonos felfogású <személy>",broader,adjective
+egyívású," ugyanannyi idős, ugyanolyan (élet)korú, ill. vkivel azonos (élet)korú <személy>, es. vmivel azonos korú <dolog><syn special=""default"">egyidős<syn special=""comma"">egykorú"," Ugyanabba a korosztályba, nemzedékbe tartozó; kb. ugyanolyan életkorú; egyidős, egykorú",exact,adjective
+abrak," (nagy tápértékű) szemes v. egyéb nem szálas takarmány, kül. ló számára"," Általában nem szálas takarmány, ló v. szarvasmarha táplálására",broader,noun
+alma, az almafa termése," Az almafának kb. gyermekököl nagyságú, gömbölyded, húsos, leves bélű, apró magvú ehető termése",exact,noun
+alma, viszályt kirobbantó ok, vmely viszályt v. nézeteltérést kirobbantó ok,exact,noun
+alma," a rózsafélék családjába tartozó, gömbölyded, húsos termésű, nemesített gyümölcsfa (Malus domestica), ill. e fajba tartozó növény; almafa", Almafa,exact,noun
+alma," az almafa v. az almáskert teljes termése, hozama"," Az almafa összes termése, hozama",broader,noun
+alma," nincs, ill. semmi", <Nyomatékos tagadás kifejezésére:> semmi; nincs,exact,noun
+átvisz," <ember, közlekedési eszköz, ill. ember közlekedési eszközön> más(, közeli) helyre visz, szállít vkit, vmit, ill. kísér vkit"," Vmely másik helyre visz vkit, vmit",narrower,verb
+átvisz," <helyhez kötődő élőlényt, intézményt> máshova helyez, áttelepít"," Vmely másik helyre visz vkit, vmit",narrower,verb
+átvisz, <értéket ellenkező előjellel> az egyenlet másik oldalára helyez át," vmit vmely más helyre ír, v. más csoporthoz számít",narrower,verb
+átvisz," más szervezet, párt, intézmény kötelékébe juttat vkit, vmit"," Vmely másik helyre visz vkit, vmit",narrower,verb
+átvisz," <közösséget, intézményt>(segítve) más tevékenységre, ill. más körülmények közé juttat, vezet"," közösséget, intézményt közvetlen ráhatással vmely más helyzetbe, más korszakba, más viszonyok közé juttat; vmi felé való fejlődés útján elindít",exact,verb
+átvisz," más hatáskörbe v. tulajdonba juttat, ill. örökül hagy vmit"," eléri, okozza v. hagyja, hogy vmi egy későbbi időszakban is meglegyen",exact,verb
+átvisz, (egyéb tevékenység folytatása közben) más helyre juttat vmit," Vmely másik helyre visz vkit, vmit",narrower,verb
+átvisz," <szél, víz(áramlat)> máshova sodor vmit, vkit"," Vmely másik helyre visz vkit, vmit",narrower,verb
+átvisz," <fertőzést, kór(okozó)t>(akaratlanul) másik szervezetbe juttat", vmely fertőzést v. kórokozókat más ember v. állat szervezetébe visz,exact,verb
+átvisz," <érzelmet, hangulatot> vki másra átragaszt"," <vmely mozgalmat, hangulatot, jelleget> eddigi helyéről érintkezés útján vmely másik helyre is elvisz és ott meghonosít v. elterjeszt",narrower,verb
+átvisz," <erőt, munkát (berendezés segítségével)>(átalakítva) máshova juttat, irányít"," <Erőt, munkát berendezés segítségével> gyak. átalakítva máshova, más helyre juttat, irányít",narrower,verb
+átvisz," <energiát, ill. energia segítségével információt> továbbít"," <Erőt, munkát berendezés segítségével> gyak. átalakítva máshova, más helyre juttat, irányít",narrower,verb
+átvisz," <elvet, tanítást gyakorlatba> átültet, megvalósít"," vmely elvet, elgondolást, gondolatot a gyakorlatban megvalósítani, érvényesíteni kezd",narrower,verb
+átvisz," <vmely gondolatot, elvet, viszonyt> vmi másra kiterjeszt, alkalmaz"," vmely elvet, elgondolást, gondolatot a gyakorlatban megvalósítani, érvényesíteni kezd",narrower,verb
+átvisz," <szót, ill. nevet> más tárgy, ill. hely(ség) jelölésére használ(ni kezd)", <Szót vmely más fogalom jelölésére> kezd használni,exact,verb
+átvisz," <érzést, érzelmet> más személyre, tárgyra, helyzetre stb. kiterjeszt"," <vmely mozgalmat, hangulatot, jelleget> eddigi helyéről érintkezés útján vmely másik helyre is elvisz és ott meghonosít v. elterjeszt",narrower,verb
+átvisz," <írást, ill. szöveg vmely részét> a következő lapon, egységen folytat"," Vmely másik helyre visz vkit, vmit",narrower,verb
+átvisz, <időben vmely következő szakaszhoz> számít(va vesz figyelembe) vmit," <tételeket> összegezve vmely másik helyen is feltüntet, vmely másik helyre bevezet",narrower,verb
+átvisz," <szót, társalgást> más témára terel, ill. más nyelven folytat"," úgy beszél, hogy a szó vmely más tárgyra terelődjék",exact,verb
+átvisz," vmely területen, nyíláson, akadályon stb. áthaladva keresztülvisz vkit v. vmit"," vmely közbeeső téren v. akadályon keresztül annak túlsó szélére v. azon is túl visz vkit, vmit",broader,verb
+átvisz," <út, nyílás stb.> vmin keresztül vhova átvezet, visz (vkit, vmit)"," <Út, átjáró> vmely másik helyre visz (II. 8, 8a); átvezet",exact,verb
+átvisz," <akadályt, ill. ugrólécet v. az azzal jelzett magasságot> átugrik"," <Ugrólécet, magasságot> átugrik v. át tud ugrani",exact,verb
+beárnyékol," árnyékát rávetítve a közvetlen (nap)fénytől eltakar, árnyékba borít vmit"," árnyékot vet vmire, teljesen árnyékba borít vmit",exact,verb
+beárnyékol," <rajzot, ill. festményt> sűrű vonalkázással, ill. sötétebb színezéssel térhatásúvá tesz; árnyékol"," <Rajzon vmely részt> párhuzamos, rézsútos vonalakkal sötétebbé v. egészen sötétté tesz",exact,verb
+beárnyékol," <gond, bánat stb. vkinek az arcán, megnyilvánulásán, ill. vmely életszakaszán> érzékelhető nyomot hagy, befelhőz vmit"," Körülvesz, övez, keretez vmit",narrower,verb
+beárnyékol," <érzékelhető jelenség vmely vele egynemű jelenséget> erőteljesebb hatásával elnyom, háttérbe szorít, kevésbé észlelhetővé tesz"," árnyékot vet vmire, teljesen árnyékba borít vmit",narrower,verb
+békés," vmely ország, nép életében olyan <állapot, ill. időszak>, amikor a területén nincs háború"," Harc, viszály, háborúság nélkül végbemenő, ill. a béke megőrzésének szándékát tükröző",narrower,adjective
+békés," háború nélküli időszakra, állapotra jellemző, ill. a békét, egyetértést szolgáló <folyamat, esemény, tevékenység stb.>"," A béke céljait szolgáló, a békében szokásos fejlődést lehetővé tevő",narrower,adjective
+békés," harc, ellenségeskedés, (fegyveres) erőszak nélkül történő, ill. nem háborús célú <elfoglaltság, tevékenység stb.>"," Harc, viszály, háborúság nélkül végbemenő, ill. a béke megőrzésének szándékát tükröző",narrower,adjective
+békés," békét, egyetértést kedvelő és kereső, ártani nem tudó v. akaró, ill. higgadt, nyugodt <személy v. csoport>"," A békét, egyetértést kedvelő, kereső <személy, csoport>; viszályt, ellenségeskedést kerülő; jóindulatú, békeszerető",exact,adjective
+békés," ilyen személyre jellemző <tulajdonság, magatartás>, ill. vkinek ilyen voltát v. állapotát tükröző <arc, megnyilvánulás>"," Ilyen személyre jellemző, rá valló <magatartás, megnyilatkozás, tulajdonság>",exact,adjective
+békés," zavartalan, háborítatlan, nyugodt <hely, idő(szak), állapot, tevékenység>"," Olyan <állapot, hely, idő, tárgy, dolog>, amelyet v. amelynek nyugalmát semmi sem zavarja; nyugodt, csendes",exact,adjective
+bél," pékárunak, es. egyéb sült tésztafélének a keményebb héjtól elkülönülő puha belső része"," Bizonyos, főként sült tésztaféléknek héja v. burkolata alatti puha belső része, belseje",exact,noun
+bél," növényi termésnek a héj alatti (húsos) része, belseje"," Növényi termésnek, gyümölcsnek a kéreg v. héj alatti (húsos) része, belseje",exact,noun
+bél," a hajtásos növények gyökerének, szárának közepét kitöltő, alapszövetből álló, rendsz. puha rész"," Egyes, főleg fás növények szárának és gyökerének puha, laza szövetű, taplószerű belső része, közepe",exact,noun
+bél, a táplálék befogadására és feldolgozására szolgáló szervek összefüggő rendszere; emésztőcsatorna," <Főleg a magasabb rendű élőlényeknél> az emésztőcsatornának a hasüregben levő, a gyomor és a végbélnyílás közti hosszú, csőszerű része, ill. ennek vmely szakasza",broader,noun
+bél," <gerincesekben:> ennek a gyomor kimeneti nyílásától a végbélnyílásig tartó része, ill. ennek vmely szakasza"," <Főleg a magasabb rendű élőlényeknél> az emésztőcsatornának a hasüregben levő, a gyomor és a végbélnyílás közti hosszú, csőszerű része, ill. ennek vmely szakasza",exact,noun
+bél," <alsóbbrendű állatokban:> a táplálék megemésztésére, a tápanyagok felszívására szolgáló(, szakaszokra nem tagolódó) szerv"," <Főleg a magasabb rendű élőlényeknél> az emésztőcsatornának a hasüregben levő, a gyomor és a végbélnyílás közti hosszú, csőszerű része, ill. ennek vmely szakasza",narrower,noun
+bél," leölt patás állatnak, kül. sertésnek, juhnak, marhának a hasüregből kiemelt, megtisztított bélcsatornája v. annak vmely szakasza, ill. ennek műanyag utánzata (mint vmely töltelékes húsáru burkolója)"," A leölt állatnak, kül. disznónak, juhnak, marhának a bele a hasüregből kiemelve és megtisztítva, egészben v. felszabdalva",exact,noun
+bél," vmely tárgynak a közepébe, belsejébe (betétként) beillesztett, a külsejétől eltérő anyagú, ill. rendsz. puhább állagú (alkat)része"," Vmely tárgynak, eszköznek egy külső burkolat alatti belső része; közepe, belseje",exact,noun
+bél, világítóeszköz kanóca," <Némely világító eszközben> folyékony v. megolvadt éghető anyagot fölszívó, könnyen égő, szálas, rostos fonal v. szövet; kanóc",exact,noun
+belga," Németalföld (délnyugati) területén, ill. a mai Belgiumban élő, a flamand és a vallon közösségek alkotta <népesség>"," túlnyomóan Belgiumban élő, részben francia, részben flamand nyelven beszélő nép; Belgium állampolgárai",narrower,adjective
+belga," a flamand v. a vallon közösségből való <eredet, származás>, ill. ilyen származású, e népességhez tartozó <személy, csoport>"," túlnyomóan Belgiumban élő, részben francia, részben flamand nyelven beszélő nép; Belgium állampolgárai",narrower,adjective
+belga, E népességgel kapcs," A belgákra jellemző, velük v. országukkal kapcs.; e földön termelt v. termő, onnan származó, ill. erről elnevezett",broader,adjective
+belga," e népesség által létrehozott, készített, ill. művelt, folytatott v. haszn."," A belgák történeti élete folyamán létrehozott, létrejött, kialakult, szerzett",exact,adjective
+belga," e népességre v. tagjaira jellemző, náluk szokásos"," A belgákra jellemző, velük v. országukkal kapcs.; e földön termelt v. termő, onnan származó, ill. erről elnevezett",exact,adjective
+belga," e népességgel megeső, történő, ill. e közösség körében zajló, általa megvalósuló"," A belgákra jellemző, velük v. országukkal kapcs.; e földön termelt v. termő, onnan származó, ill. erről elnevezett",narrower,adjective
+belga, Németalföld délnyugati területén beszélt flamand <nyelv>," A belgákra jellemző, velük v. országukkal kapcs.; e földön termelt v. termő, onnan származó, ill. erről elnevezett",narrower,adjective
+belga," e népesség által lakott, ill. Németalföld (délnyugati) részéhez, a mai Belgiumhoz tartozó <terület>, ill. e területen levő"," A belgákra jellemző, velük v. országukkal kapcs.; e földön termelt v. termő, onnan származó, ill. erről elnevezett",narrower,adjective
+belga," e népesség által szervezett, Németalföld (délnyugati) területén, ill. a mai Belgiumban működő <állam>"," A belgákra jellemző, velük v. országukkal kapcs.; e földön termelt v. termő, onnan származó, ill. erről elnevezett",narrower,adjective
+belga," ezen állam által létrehozott, ahhoz tartozó, arra jellemző, ill. abban vmilyen szerepet, funkciót betöltő <személy, intézmény stb.>"," A belgák közé tartozó <személy>, belgákból álló <csoport>",narrower,adjective
+belga," Németalföld (délnyugati) területén, ill. a mai Belgiumban élő, a flamand és a vallon közösségek alkotta népesség"," túlnyomóan Belgiumban élő, részben francia, részben flamand nyelven beszélő nép; Belgium állampolgárai",exact,noun
+belga, e népességhez tartozó személy," E néphez tartozó személy, főleg férfi; belgiumi állampolgár",exact,noun
+belga," hibásan, hebegve, dadogva, ill. hadarva beszélő"," Hebegő, kapkodó, dadogó beszédű",exact,adjective
+belő," <lövedéket> úgy lő, hogy az (vmin keresztül) vhova, vmely (elkerített) helyre v. vminek a belsejébe jut"," <Lőfegyverrel> úgy lő, hogy a lövedék – rendsz. vmin áthatolva – vmely zárt térbe, bent levő helyre jusson",exact,verb
+belő," <labdát v. korongot> az ellenfél kapujába juttat, ill. így <gólt> szerez"," <Labdarúgásban a labdát> az ellenfél kapujába juttatja, s ezzel gólt ér el",broader,verb
+belő," <büntetőrúgást v. -dobást, ill. gólhelyzetet> góllal fejez be"," <Büntetőt, szabadrúgást, szögletrúgást> úgy rúg, hogy azzal gólt ér el",exact,verb
+belő, <(kézi) lőfegyvert> próbalövésekkel pontos célzásra alkalmassá tesz, <Lőfegyvert> próbalövésekkel pontos célzásra alkalmassá tesz,exact,verb
+belő," <vmely leendő célpontot> annak távolságát, hely(zet)ét próbalövésekkel meghatározva bemér"," <lövész, aknavető osztag v. tüzérség> egyes lövésekkel megállapítja, milyen lőelemekkel lehet vmely célra hatásosan tüzelni",narrower,verb
+belő," <lőfegyvert, ill. tüzérség(i egység)et> vmely kiszemelt célpontra – próbalövésekkel meghatározva annak pontos távolságát, hely(zet)ét – beirányoz, beállít"," <lövész, aknavető osztag v. tüzérség> egyes lövésekkel megállapítja, milyen lőelemekkel lehet vmely célra hatásosan tüzelni",narrower,verb
+belő, elégtelenre felel," Elégtelenre felel; beszekundáz, beszed",exact,verb
+bemegy," <ember, állat, jármű> (vmin keresztül) zárt v. fedett helyre, vminek a belsejébe, ill. <ember> bent levő személyhez megy"," <Személy, állat, jármű> vmely bent levő v. belsőnek tekintett helyre, vmely hely(i)ségnek a belsejébe megy",narrower,verb
+bemegy," vminek a belseje, közepe felé (gyalogolva, úszva stb.) megy"," <Személy, állat, jármű> vmely bent levő v. belsőnek tekintett helyre, vmely hely(i)ségnek a belsejébe megy",narrower,verb
+bemegy," kisebb v. közeli helyről vmely helységbe, ill. központinak tekintett helyre megy, utazik vki"," <Az ismert v. szóban forgó közeli városba v. nagyobb községbe> a közelében levő kisebb helyről, kintről megy v. utazik",exact,verb
+bemegy," Vmely céllal ennek megfelelő intézménybe, ill. személyhez megy vki"," <Személy> a munka végzése, folytatása végett munkahelyére megy",broader,verb
+bemegy, munkahelyére dolgozni megy," <Személy> a munka végzése, folytatása végett munkahelyére megy",exact,verb
+bemegy," <beteg> (megfelelő helyre, intézménybe menve) orvosi vizsgálatnak, kezelésnek veti alá magát"," <beteg> kivizsgáltatás, gyógykezeltetés, megoperáltatás végett több napra vagy huzamosabb időre kórházba megy, kórházi tartózkodásra szánja magát, kórházi gondozásnak veti alá magát",exact,verb
+bemegy, <kártyajátékban:> vállalja a kezdeményezést (vmely színre), némely kártyajátékban> a játszma megnyerésének reményében vállalja a játékban a kezdeményező szerepet (vmely színnek aduvá nyilvánítása esetén),exact,verb
+bemegy," <hegyes, éles, ill. nagy sebességgel haladó tárgy> (befúródva) behatol vmibe, kül. testrészbe"," <Hegyes tárgy, romboló eszköz> behatolva bejut vmibe",exact,verb
+bemegy," <légnemű v. folyékony anyag> beáramlik, ill. szivárogva bejut vhova"," <Folyadék> belejut, belefolyik, beleszivárog vmibe",exact,verb
+bemegy, elhelyezkedése folytán vmi mélyen benyúlik vhova," <Út, vezeték stb.> olyan helyzetű, úgy van építve, hogy vmely bent levő helyre vezet",narrower,verb
+bemegy," terjedelmét tekintve elhelyezhető benne, belefér", Belefér vmibe,exact,verb
+benéz," kívül levő helyről (vmin keresztül) vhova, vminek a belsejébe néz, betekint", Kívül eső helyről vhová néz; betekint,exact,verb
+benéz," rövid időre bemegy, betér, belátogat vhova v. vkihez"," Rövid tartózkodásra bemegy, rövid időre befordul vhova",exact,verb
+bogár," erősen fejlett előtorú, rágó szájszervvel rendelkező rovar, amelynek elülső szárnya kemény szárnyfedő"," Olyan rovar, melynek kemény szárnyfedői vannak, szájával pedig rágni tud",exact,noun
+bogár, az e rovarok fajait magában foglaló rend nevezéktani elnevezéseként, Bogarak: az ilyen rovarok rendje (Coleoptera),exact,noun
+bogár," általában vmely ízelt lábú állat, rendsz. (apró, repülni tudó) rovar"," Tág. ért. rendsz. repülni tudó és káros v. károsnak tekintett, kicsiny, ízelt lábú állat",exact,noun
+bogár, szembogár; pupilla," szembogár, pupilla",exact,noun
+bogár," nagyon sötét, (bogár)fekete"," Fekete színű, fekete <szem>",exact,noun
+bogár, rendsz. kisgyermek v. fiatal lány kedveskedő megnevezéseként, (rendsz. személyragos alakban) <Főleg kis gyermek v. fiatal nő kedveskedő megszólításaként.>,narrower,noun
+bogár, kedveskedő megszólításként, (rendsz. személyragos alakban) <Főleg kis gyermek v. fiatal nő kedveskedő megszólításaként.>,narrower,noun
+bogár," szeszély, különcség, furcsa, hóbortos szokás, ill. szokatlan meggyőződés, (rög)eszme"," Vkinek a szeszélye, különös, furcsa szokása, ötlete, amelyhez csökönyösen ragaszkodik",exact,noun
+bogoz," <kötelet, fonalat, szalagot stb.> úgy köt meg, hogy csomó(k sora) keletkezik rajta, ill. <bogo(ka)t, csomó(ka)t> így létrehoz"," <Szalagot, fonalat, kötelet> csomó(k)ba köt; bogot, csomót köt rajta",exact,verb
+bogoz," <kötel(ek)et, fonal(ak)at stb.> ráköt vmire v. egymáshoz köt, ill. szálak összecsomózásával <hálót, csipkét stb.> létrehoz", <Csipkét> ver,broader,verb
+bogoz," <kötéllel, fonállal stb.> hozzákötöz, hozzáerősít vmihez, ill. egymáshoz kötöz", Csomóval vmihez hozzáköt vmit,broader,verb
+bogoz," <rendsz. az elbeszélő> a cselekmény szálait bonyolítja, ill. <bonyolult cselekményt v. a cselekményben vmely csomópontot> így létrehoz", <Elbeszélő v. drámai műben a cselekmény szálait> bonyolítja,broader,verb
+bogoz," <bogot, csomót, ill. összegubancolódott v. csomóra kötött szál(ak)at stb.> bontogat, ill. kiold, kibogoz"," <Csomót, bogot, görcsöt stb.> oldoz, nyitogat, ill. kioldását végzi; kibogozni igyekszik",exact,verb
+bogoz," <kérdést, feladatot, problémát, (bűn)ügyet stb.> megérteni, megválaszolni, megoldani igyekszik, vizsgál, kutat"," <Vmely kérdést, problémát> megoldani, megfejteni igyekszik",exact,verb
+civilizáció," az a fejlődési folyamat, amelynek során az emberi társadalom az anyagi és szellemi kultúrának, a gazdasági és társadalmi életnek magasabb fokára, színvonalára jut"," <A marxizmus–leninizmus felfogása szerint a vadság és barbárság után> a társadalom fejlődésének az a foka, amelyben a munkamegosztás, az egyének közötti csere és az árutermelés kialakul",broader,noun
+civilizáció," a polgári politikai, gazdasági, kulturális életforma (tömeges) megjelenésének folyamata, polgárosodás"," Vmely ország v. terület fejlődésének az a foka, amelyben a polgári társadalom intézményei már kialakultak; polgárosodás",exact,noun
+civilizáció," magas szintű kulturális, ipari-technikai fejlettség, ill. ennek következménye, eredménye"," A társadalom technikai fejlettsége, anyagi kultúrája a szellemi kultúrával szembeállítva",narrower,noun
+civilizáció, vmely közösség által létrehozott anyagi és szellemi kultúra egésze," Tág. ért. társadalmi, gazdasági és szellemi művelődés, műveltség",narrower,noun
+civilizáció," <a szellemi kultúrával szemben:> a társadalom technikai fejlettsége, anyagi kultúrája"," A társadalom technikai fejlettsége, anyagi kultúrája a szellemi kultúrával szembeállítva",exact,noun
+civilizáció, ipari-technikai fejlettség révén átalakított emberi környezet," A társadalom technikai fejlettsége, anyagi kultúrája a szellemi kultúrával szembeállítva",narrower,noun
+copfos, haját copfban viselő <személy>, Copfot (1) viselő <személy>,exact,adjective
+copfos, ilyen parókát viselő <személy>, Copfot (1) viselő <személy>,narrower,adjective
+copfos, ilyen paróka viselésével ált. jellemezhető <divat(korszak)>," Olyan <időszak>, amelyre a copf (1) általános viselete jellemző",exact,adjective
+copfos," ilyen személyre jellemző, maradi, vaskalapos <magatartás, megnyilatkozás stb.>"," Elavult, maradi, főleg bürokratikus formaságokhoz ragaszkodó <magatartás, megnyilatkozás>",exact,adjective
+cukor," magas cukortartalmú növényből, kül. cukorrépából v. cukornádból előállított, rendsz. fehér, kristályos, könnyen oldódó anyag, amelyet édesítőszerként, tartósításra stb. használnak, ill. annak porrá őrölt változata"," Egyes növények, kül. a cukorrépa v. cukornád főzetéből gyártott kristályos, rendsz. fehér, könnyen oldódó anyag, amelyet étel- és italneműek édesítésére használnak",exact,noun
+cukor," annak kif-ére, hogy vki(nek vmije) (túlságosan) érzékeny, hogy könnyen árt neki vmi, kül. eső"," Egyes növények, kül. a cukorrépa v. cukornád főzetéből gyártott kristályos, rendsz. fehér, könnyen oldódó anyag, amelyet étel- és italneműek édesítésére használnak",narrower,noun
+cukor," ilyen anyag vmilyen alakúra sajtolva, tömörítve, ill. vmilyen kiszerelésben mint árucikk"," Egyes növények, kül. a cukorrépa v. cukornád főzetéből gyártott kristályos, rendsz. fehér, könnyen oldódó anyag, amelyet étel- és italneműek édesítésére használnak",narrower,noun
+cukor," ilyen anyagból készült máz v. massza sütemény, gyógyszer stb. bevonására, díszítésére, ill. figurák formázására", Cukorból (1) készített máz sütemények bevonására,exact,noun
+cukor," édesség, cukrászati készítmény, kül. cukorka", Cukorka,broader,noun
+cukor," vízben oldódó, édes ízű egyszerű szénhidrát", Édes ízű szénhidrát,exact,noun
+cukor," a vérben oldott szőlőcukor koncentrációja, ill. annak kórosan magas szintje; vércukorszint", A vérnek kóros mérvben emelkedett cukortartalma,exact,noun
+cukor, nő kedveskedő megszólításaként," <Személyragos alakban, főleg megszólításként:> édesem!, kedvesem!, drágám!",exact,noun
+család, szülő(k) és egy vagy több (vér szerinti) gyermek (együtt élő) közössége," Szülő(k), esetleg nagyszülők és gyermek(ek) rendsz. együttélő vérségi közössége",narrower,noun
+család," rokonok több generációt magába foglaló összessége, rokonság"," Szülő(k), esetleg nagyszülők és gyermek(ek) rendsz. együttélő vérségi közössége",narrower,noun
+család," <vmely érték, tulajdon> nem jut idegen kézre", nem jut idegen kézre,exact,noun
+család, <vminek a híre> nem kerül nyilvánosságra, nem kerül vmely szűkebb közösség körén kívül,exact,noun
+család," ugyanazon őstől származó, azonos nevű nemzedékek sora, nemzetség", Vérségi kapcsolat által összetartozó nemzedékek sora; nemzetség,narrower,noun
+család, uralkodóház, Vérségi kapcsolat által összetartozó nemzedékek sora; nemzetség,narrower,noun
+család," <szülőkhöz való viszonyában:> közvetlen leszármazott, gyermek, ill. ritk. egyéb családtag"," A család (1) vmelyik tagja, főként gyermek; családtag",exact,noun
+család, egy méhanya körül szervezetten élő méhek összessége, Méhcsalád,exact,noun
+család, egymással szolidáris és egymásra utalt emberek v. csoportok közössége, (nagy) testvéri közösség,exact,noun
+család," a nem(zetség)nél nagyobb és a rendnél kisebb rendszertani egység, kategória (familia)", A nemnél nagyobb és a rendnél kisebb rendszertani egység,exact,noun
+család," vmely szó(tő), valamint a belőle képzett származékok (és vele alkotott összetételek) csoportja; szócsalád", szócsalád,exact,noun
+családi," ált. a családra v. vmely két- v. többgenerációs családra vonatk., vele kapcs. <dolog>"," Családra vonatk., családdal kapcs",exact,adjective
+családi," vkinek a házastársi viszonnyal kapcs. <állapota>, ill. családtagjaira vonatk. <kapcsolata>", Házassággal v. házasélettel kapcs. <állapot>,exact,adjective
+családi," vmely családba v. családhoz tartozó, ill. a családban vmely szerepet betöltő <személy v. csoport>"," Vmely meghatározott családra vonatk., vele kapcs",narrower,adjective
+családi," vmely család több v. összes tagjából álló, általuk működtetett <csoport, gazdasági egység stb.>"," Vmely meghatározott családra vonatk., vele kapcs",narrower,adjective
+családi," vmely két- v. többgenerációs család együttes tulajdonában levő, ill. hozzá tartozó(, nemzedékeken át megőrzött) <tárgy v. dolog>", Vmely család birtokában levő,narrower,adjective
+családi," kialakításában, (nagy) méreteiben egy v. vmely család igényeinek megfelelően, a családtagok együttes használatára készített, ill. vmely család tulajdonában v. használatában levő <építmény, tárgy>"," A rendesnél nagyobb, nemcsak egy személy, hanem egy család (1) számára való <dolog>",exact,adjective
+családi," kialakításában, méreteiben egy házaspár igényeinek megfelelően, az ő együttes használatukra készített <tárgy>"," A rendesnél nagyobb, nemcsak egy személy, hanem egy család (1) számára való <dolog>",narrower,adjective
+családi," családok több generációját (együtt) olvasóként v. nézőként megnyerni szándékozó <kiadvány, rendezvény>"," A rendesnél nagyobb, nemcsak egy személy, hanem egy család (1) számára való <dolog>",narrower,adjective
+családi," vmiből nagy mennyiséget tartalmazó, egy család fogyasztására alkalmas <csomagolás>, ill. abban árult <árucikk, termék>"," A rendesnél nagyobb, nemcsak egy személy, hanem egy család (1) számára való <dolog>",narrower,adjective
+családi," szülők és gyermekeik által együtt igénybe vehető, vmely intézmény által kedvezményesen kínált <jegy>"," A rendesnél nagyobb, nemcsak egy személy, hanem egy család (1) számára való <dolog>",narrower,adjective
+családi," vmely családban az eltartott gyermekekre, ezek számára, ill. a házastársra való tekintettel igénybe vehető <pénzösszeg, lehetőség, kedvezmény>"," Családra vonatk., családdal kapcs",narrower,adjective
+családi," család(ok)ban megtapasztalható, előforduló, történő, zajló, a családtagok között fennálló, ill. a család (tagjai) által létrehozott <dolog>"," Családban, családtagok közt fennálló, velük kapcs. <dolog>",exact,adjective
+családi," családtagok részére v. részvételével történő v. rendezett <összejövetel, rendezvény stb.>", Családtagok részére v. részvételével rendezett,exact,adjective
+családi, vmely családra jellemző <dolog>," Vmely meghatározott családra vonatk., vele kapcs",narrower,adjective
+családi," vmely családra jellemző, egyes tagjaiban megjelenő, biológiailag öröklődő <tulajdonság, betegség>"," Vmely családra jellemző, vmely családban biológiailag öröklődő",exact,adjective
+családi," vmely családot azonosító, a többitől megkülönböztető(, apai ágon öröklődő) <név, címer stb.>"," Vmely meghatározott családra vonatk., vele kapcs",narrower,adjective
+családi," kizárólag vmely családon belül haszn., a család tagjai számára ismert, rájuk jellemző, a közöttük levő szoros kapcsolatból eredő és azt kifejező <jel, szóhasználat>"," Vmely meghatározott családra vonatk., vele kapcs",narrower,adjective
+csokoládé," megőrölt kakaóbab, kakaóvaj, cukor, es. tej és különféle fűszerek, ízesítő anyagok felhasználásával előállított szilárd halmazállapotú, (sötét)barna színű anyag"," Kakaópor, cukor és fűszerek keverékéből gyártott édesség; ízesítőként v. formába, táblába öntve csemegeként fogyasztják",narrower,noun
+csokoládé," ez mint élelmiszer, kül. az ebből az anyagból készült, tábla alakban v. más formában forgalomba hozott édesipari termék"," Kakaópor, cukor és fűszerek keverékéből gyártott édesség; ízesítőként v. formába, táblába öntve csemegeként fogyasztják",narrower,noun
+csokoládé," ebből az anyagból, ritk. kakaóporból forró tejjel, es. vízzel készült, rendsz. cukrozva, ízesítve fogyasztott ital", Csokoládéból (1) v. kakaóporból tejjel készített ital,exact,noun
+csokoládé," megőrölt kakaóbab, kakaóvaj, cukor, es. tej és különféle fűszerek, ízesítő anyagok felhasználásával előállított szilárd halmazállapotú, sötétbarna színű anyagból készült <édesipari termék>"," Csokoládéból (1) készült <édesség, kül. ajándéktárgy>",exact,adjective
+déli," dél körüli, déltájra eső <időszak, időpont>"," Dél tájban való, akkor történő <dolog>",exact,adjective
+déli," (rendszeresen) délre, ill. déltájra eső, akkor végbemenő <esemény, tevékenység, jelenség>"," Dél idején való, akkor történő <dolog>",exact,adjective
+déli," (szokásosan) délben, ill. déltájban megvalósuló tevékenységhez, kül. étkezéshez való"," Dél tájban való, akkor történő <dolog>",narrower,adjective
+déli," a dél idejére jellemző látványát, állapotát mutató"," Dél tájban való, akkor történő <dolog>",narrower,adjective
+déli," dél felé eső <irány>, ill. ilyen irányú <fekvés, tájolás>"," Délen levő, fekvő, található, délre eső <dolog>",narrower,adjective
+déli," <a Föld v. az éggömb, ill. a földrajzi koordináta-rendszer részeként:> az északi félgömbbel átellenes <félgömb>, ill. ahhoz tartozó v. ott tapasztalható", A Föld egyenlítőjétől délre levő <dolog>,exact,adjective
+déli," <vmely területnek, természeti képződménynek, építménynek stb.> délre eső <része, pontja>"," Dél felé néző, mutató, haladó <dolog>",narrower,adjective
+déli," délen élő v. onnan való <személy v. nép>, ill. arra jellemző <sajátosság>"," Délen lakó, élő <személy, csoport>",broader,adjective
+déli," délen honos, ill. elterjedt <állat v. növény>"," Délen lakó, élő <személy, csoport>",narrower,adjective
+déli," délen jellemző, ott történő v. létrejött, ill. ilyen térséggel kapcs., azt érintő, oda irányuló <esemény, folyamat, tevékenység stb.>"," Délen levő, fekvő, található, délre eső <dolog>",narrower,adjective
+déli," dél felől érkező, ill. onnan származó", Dél felől jövő <dolog>,broader,adjective
+déli," délen, vmely földrésznek, országnak v. területnek ebbe az irányba eső részén élő népesség"," Délen, délvidéken, déli vidéken élő személy",exact,noun
+demonstrál, (oktatás céljából) szemléltetve bemutat vmit," Szemléltet, bemutat vmit",narrower,verb
+demonstrál," <szöveget (fény)kép, ábra, ill. azzal vki v. vmely kiadvány> szemléltet, illusztrál"," Szemléltet, bemutat vmit",narrower,verb
+demonstrál," érvekkel, adatokkal v. vmilyen eljárással bizonyít, szemléletesen igazol vmit"," Bizonyít, igazol vmit",exact,verb
+demonstrál," vki v. vmi melletti, ill. elleni állásfoglalását szóban v. vmely cselekedettel nyilvánosan kifejezi", tüntet,narrower,verb
+demonstrál," <nagy csoport v. tömeg, ill. annak részeként vki> vmely ügy támogatására v. ellene való tiltakozásul tüntetésen, felvonuláson, es. egyéb megmozduláson vesz részt", tüntet,narrower,verb
+depresszió," <emberben, es. állatban:> tartós v. időszakonként visszatérő nagyfokú lehangoltsággal, életuntsággal, beszűkült érdeklődéssel, öngyilkossági vággyal, evés- és alvászavarokkal járó lelki betegség, ill. vkinek ilyen betegsége, beteg volta"," Nagyfokú, beteges levertség",broader,noun
+depresszió," a közhangulatban bekövetkező kiábrándultság, elkeseredettség, csüggedtség"," Nyomott hangulat; lehangoltság, elkedvetlenedés",broader,noun
+depresszió," gazdasági ciklusnak az a szakasza, amelyben a termelés, beruházás, fogyasztás, foglalkoztatás, kereskedelem stb. visszaesik, alacsony szinten van, ill. az egész gazdaság stagnál; pangás"," <A kapitalizmusban> a gazdasági válság legmélyebb szakasza, a pangás időszaka, melyre az erősen csökkent termelés, az árak és bérek alacsonysága, valamint a munkanélküliség jellemző",exact,noun
+depresszió," alacsony légnyomás v. légnyomási minimum, ill. a légkörnek ilyen légnyomású tartománya", A légköri nyomásnak nagy légtömegek mozgásával kapcs. csökkenése,broader,noun
+depresszió," a tengerszintnél v. a környező szilárd földfelszínnél alacsonyabban fekvő terület, bemélyedés, ill. vmely földrajzi képződménynek az a tulajdonsága, hogy ennél a szintnél alacsonyabban fekszik", A tengerszintnél mélyebben fekvő terület,exact,noun
+depresszió, vmely csillagnak a látóhatár alatti negatív magassága," Csillag állása a látóhatár alatt, szögekben kifejezve",broader,noun
+dug," <szűk nyílásba, résbe, ill. vminek a belsejébe> csúsztatva behelyez, betesz, ill. betöm vmit"," <Tárgyat, testrészt> egyetlen v. folyamatos mozdulattal nyílásba, résbe, ill. laza v. folyékony anyag közé juttat",narrower,verb
+dug," <testrészt ruhába, lábbelibe> bújtat"," <Tárgyat, testrészt> egyetlen v. folyamatos mozdulattal nyílásba, résbe, ill. laza v. folyékony anyag közé juttat",narrower,verb
+dug, <kül. gyereket ágyba> fektet vki," <Tárgyat, testrészt> egyetlen v. folyamatos mozdulattal nyílásba, résbe, ill. laza v. folyékony anyag közé juttat",narrower,verb
+dug," <puha, ill. folyékony anyagba v. tűzbe> belenyom, beletesz vmit"," <Tárgyat, testrészt> egyetlen v. folyamatos mozdulattal nyílásba, résbe, ill. laza v. folyékony anyag közé juttat",narrower,verb
+dug," <vmely (zárt) helyre, intézménybe v. testülethez> (akarata ellenére) elhelyez, ill. juttat vkit"," <Tárgyat, testrészt> egyetlen v. folyamatos mozdulattal nyílásba, résbe, ill. laza v. folyékony anyag közé juttat",narrower,verb
+dug," <testrészt v. kezében tartott tárgyat> egy mozdulattal (oda)tol, nyújt vhova, vkihez, vmihez"," <Tárgyat, testrészt> egyetlen v. folyamatos mozdulattal nyílásba, résbe, ill. laza v. folyékony anyag közé juttat",narrower,verb
+dug," titokban, észrevétlen tesz, csúsztat vhova vmit, ill. elrejt vki elől vmit v. vkit", Vhová rejt vmit,exact,verb
+dug," titokban juttat, ad vkinek vmit"," Titokban, lopva juttat, ad vkinek vmit",exact,verb
+dug," <állatot, kül. kacsát, libát> töm (vmivel)"," <Libát, kacsát> töm",exact,verb
+egybeköt," <több ugyanolyan jellegű dolgot kötél, lánc stb., ill. (azzal összefogva) vki> egymáshoz erősít, összeköt, ill. körbeköt vmit vki"," <Két v. több tárgyat zsineggel v. más hasonló eszközzel> úgy köt össze, hogy egy csomag lesz belőle",narrower,verb
+egybeköt, ilyen módon összekötött elemekből létrehoz vmit," <Két v. több tárgyat zsineggel v. más hasonló eszközzel> úgy köt össze, hogy egy csomag lesz belőle",narrower,verb
+egybeköt," <több művet, ill. vmivel vmit> egy kötetbe köt, ill. <kötetet, gyűjteményt> így létrehoz"," <Különálló iratokat, füzeteket, köteteket> egy kötetbe köt",exact,verb
+egybeköt," <két v. több személyt v. vkivel vkit vmilyen kapcsolat, ill. vki> összeköt, kül. összeházasít"," <Két v. több személyt vmely kötelék> összefűz, összeköt",exact,verb
+egybeköt," <több különálló dolgot, helyet, ill. vmivel vmit> (a köztük levő távolságot áthidalva) összekapcsol"," két önálló rész, hely, hely(i)ség között kapcsolatot, összeköttetést létesít; összeköt vmit (vmivel)",narrower,verb
+egybeköt," <vmely funkciót betöltő helyet vmely más, vele összefüggő funkciójú hellyel> térben összekapcsol"," két önálló rész, hely, hely(i)ség között kapcsolatot, összeköttetést létesít; összeköt vmit (vmivel)",narrower,verb
+egybeköt," <két v. több elvont dolgot, ill. vmivel vmit> összekapcsol, társít, ill. vmilyen viszonyba hoz"," két önálló rész, hely, hely(i)ség között kapcsolatot, összeköttetést létesít; összeköt vmit (vmivel)",narrower,verb
+egybeköt," <vmely eseményt, tevékenységet vmely másikkal> úgy kapcsol össze, hogy azzal egy időben v. közvetlenül egymás után, egy alkalommal történjen"," <Két eseményt, ill. egyiket a másikkal> összekapcsol, összeköt",exact,verb
+egyenes," olyan <vonal>, amelynek bármely két pontja a legrövidebb úton van összekötve"," Egyik térbeli ponttól a másikig a legrövidebb úton haladó, irányát nem változtató <irányvonal>",exact,adjective
+egyenes," ehhez hasonló, ezt megközelítő, hajlások, görbületek, törések nélküli <vonal(szerű dolog)>"," Olyan <hosszanti irányban húzódó, kiterjedő dolog>, amelyben egy valóságos v. képzelt tengely iránya ehhez hasonló, ezt megközelítő",narrower,adjective
+egyenes," <vmely (néző)pontból kiindulva> előrefelé, nem oldalirányba irányuló v. irányított <mozgás, mozdulat>, ill. arra jellemző <irány>"," Olyan <hosszanti irányban húzódó, kiterjedő dolog>, amelyben egy valóságos v. képzelt tengely iránya ehhez hasonló, ezt megközelítő",narrower,adjective
+egyenes," <a harántfuvolával szemben:> olyan fuvola, amelyet egyik vége felől belefújva szólaltatnak meg"," Olyan <hosszanti irányban húzódó, kiterjedő dolog>, amelyben egy valóságos v. képzelt tengely iránya ehhez hasonló, ezt megközelítő",narrower,adjective
+egyenes," vmely függőleges v. vízszintes tengelytől (jelentősen) el nem térő, nem ferde, ill. vmire merőleges"," Olyan <hosszanti irányban húzódó, kiterjedő dolog>, amelyben egy valóságos v. képzelt tengely iránya ehhez hasonló, ezt megközelítő",narrower,adjective
+egyenes," álló, felegyenesedett <testtartás, járás>"," Olyan <hosszanti irányban húzódó, kiterjedő dolog>, amelyben egy valóságos v. képzelt tengely iránya ehhez hasonló, ezt megközelítő",narrower,adjective
+egyenes," (lényeges) kiemelkedések, bemélyedések nélküli, sima, sík <felület>, ill. ilyen felületű <dolog>"," Olyan <síkban kiterjedő dolog, felület>, melyen nincsenek (lényeges) kiemelkedések v. bemélyedések; sík, sima",exact,adjective
+egyenes," köztes v. közvetítő dolog, ill. személy nélküli, közvetlen <kapcsolat, hatás stb.>"," Olyan <személy, dolog>, aki, amely közvetlen kapcsolatban van vkivel, vmivel",narrower,adjective
+egyenes," <a közvetett adóval v. adóz(tat)ással szemben:> olyan <adó v. adóz(tat)ás>, amelynek adófizetésre kötelezett adóalanya közvetlenül megegyezik azzal a személlyel, akit gazdasági értelemben az adó ténylegesen terhel", közvetlenül az adóalap után fizetett adó,exact,adjective
+egyenes," olyan <rokonság(i), leszármazás(i vonal)>, amelyben a megnevezett személyek között gyerek-szülő kapcsolat áll fenn, ill. olyan <személy>, aki vkivel ilyen származási viszonyban áll"," olyan leszármazási viszonyban, hogy az egyik személy közvetlenül v. közvetve a másiktól származik, annak fia, unokája stb. v. apja, nagyapja stb.",narrower,adjective
+egyenes," <a függővel szemben:> vmely szöveget, megnyilatkozást eredeti formájában rögzítő, közlő <idézési mód>, ill. vmely kijelentést, kérdést stb. ilyen módon idéző <mondat>"," vkinek szó szerint idézett beszéde, szavai",broader,adjective
+egyenes," közvetlen ok-okozati kapcsolaton alapuló, direkt"," Olyan <személy, dolog>, aki, amely közvetlen kapcsolatban van vkivel, vmivel",narrower,adjective
+egyenes," <a fordítottal szemben:> olyan <kapcsolat, viszony két dolog között>, amelyben az egyik változásának mértékével azonos arányú a másik változása"," olyan a., melyben az egyik tag növekedése v. csökkenése a másik tag ugyanolyan arányú növekedésével, ill. csökkenésével jár",broader,adjective
+egyenes," világos(an), egyértelmű(en kifejezett) <gondolkozás, megnyilatkozás stb.>"," Határozott, világosan, félreérthetetlenül kifejezett <akarati megnyilatkozás>",broader,adjective
+egyenes," nyílt, őszinte (természetű) <személy>, ill. ilyen személyre jellemző <szándék, magatartás stb.>"," Őszinte és becsületes <személy v. ennek tulajdonsága, cselekedete>",narrower,adjective
+egyenes," igazságos és elfogulatlan (természetű) <személy>, ill. ilyen személyre jellemző, tárgyilagos, pártatlan <tevékenység (eredménye)>"," Őszinte és becsületes <személy v. ennek tulajdonsága, cselekedete>",narrower,adjective
+egyenes," olyan vonal, amelynek bármely két pontja a legrövidebb úton van összekötve"," Mindkét végén a végtelenbe nyúló, irányát állandóan megtartó vonal",exact,noun
+egyenes," út, sportpálya stb. kanyarok közötti szakasza"," <Futópályán> a két kanyar közé eső, ill. a cél előtt levő egyenes rész",broader,noun
+egyenes," <ökölvívásban, ill. egyes küzdősportokban:> küzdőállásból az öklöt vízszintesen előrelendítve indított ütés", <Ökölvívásban> egyenes ütés,exact,noun
+egyenes," <járműre vonatkoztatva:> a menetirányt, ill. a sávot, repülési magasságot tartó, attól el nem térő helyzet"," <Néhány állandó szókapcsolatban:> kényelmetlen, kínos, bonyolult helyzetet követő nyugodt, megoldódott állapot",narrower,noun
+egyenes," a(z anyagi) nehézségek, bonyodalmak megszűnése, rendeződése után bekövetkező nyugalmas, biztonságos, kiegyensúlyozott állapot"," <Néhány állandó szókapcsolatban:> kényelmetlen, kínos, bonyolult helyzetet követő nyugodt, megoldódott állapot",narrower,noun
+egyszínű, egyetlen színt v. színárnyalatot mutató <dolog>," Egyetlen színt mutató, egy színnel festett",narrower,adjective
+egyszínű," egyetlen szín árnyalatait mutató, használó <kép>, ill. ilyen képet létrehozó, megjelenítő <tevékenység, technika, eszköz stb.>; monokróm"," Egyetlen színt mutató, egy színnel festett",narrower,adjective
+egyszínű," ugyanolyan színű, ill. vmivel azonos színű <dolog>"," Egyetlen színt mutató, egy színnel festett",narrower,adjective
+egyszínű," azonos színjellel ellátott, különböző értékű kártyalapokból álló <sorozat, kombináció>"," Egyetlen színt mutató, egy színnel festett",narrower,adjective
+egyszínű," olyan <többelemű, összetett dolog v. csoport>, amely egységes, homogén, amelynek részei, elemei, tagjai bizonyos jellemző tulajdonságaikban ugyanolyanok, azonos jellegűek"," Egyetlen színt mutató, egy színnel festett",narrower,adjective
+egyszínű," jellemző tulajdonságaiban, véleményében stb. ugyanolyan, ill. vmivel v. vkivel megegyező, azonos jellegű <személy, közösség>"," Ugyanolyan színű, vmivel egyező színű",narrower,adjective
+egyszínű," azonos politikai oldalt képviselő, ugyanahhoz a párthoz tartozó emberekből álló <testület>, ill. ilyen testület által végzett <tevékenység>"," Egyetlen színt mutató, egy színnel festett",narrower,adjective
+egyszínű," ugyanolyan, ill. vkivel v. vmivel azonos politikai oldalt képviselő <személy, csoport>"," Ugyanolyan színű, vmivel egyező színű",narrower,adjective
+éjszaka," a késő estétől hajnalig tartó napszak (ideje), ill. <rendsz. a nappallal szemben:> a napnak a sötétedéstől reggelig terjedő fele", Az estétől reggelig tartó napszak,exact,noun
+éjszaka," ebben a napszakban, ill. nyugovóra térés előtt haszn. búcsúzó köszönésben", <(késő) esti búcsúzó köszöntés>,broader,noun
+éjszaka," annak kif-ére, hogy vki (kényszerűségből) megválik vmitől, ill. (vki előidézi, hogy) vkinek, vminek vége (legyen)"," vége; elpusztult, odavan; lemondhatunk róla",exact,noun
+éjszaka," az éjjel beálló sötétség, ill. a külvilág úgy, ahogyan annak idején érzékelhető, mutatkozik", Sötétség,narrower,noun
+éjszaka," a fény, világosság hiánya, teljes sötétség", Sötétség,narrower,noun
+éjszaka," a késő estétől hajnalig tartó napszakban, annak ideje alatt (vmikor)", Az estétől reggelig tartó napszakban; éjjel,narrower,adverb
+ejt," annak kif-ére, hogy vki v. vmi előidézi, okozza vminek, vkinek az esését"," Vmit szándékosan esni hagy, enged vhova",broader,verb
+ejt, szándékosan elenged és esni hagy vmit (vhova), Kezéből véletlenül kiengedve esni hagy vmit (vkit) vhová,narrower,verb
+ejt," <játékos labdát> puhán ívelve juttat (vhova), ill. <gólt kapuba> így lő"," (Labdát) puhán ívelve juttat, emel vhová",exact,verb
+ejt," <vmely testrészét> hirtelen leteszi, leereszti vhova"," Vmit szándékosan esni hagy, enged vhova",narrower,verb
+ejt," (kezéből) véletlenül, akaratlanul eleresztve esni hagy vmit, es. vkit", Kezéből véletlenül kiengedve esni hagy vmit (vkit) vhová,exact,verb
+ejt," mond, hallat, ill. írásban v. szóban említ vmit"," <Szóbeli megnyilatkozást> röviden, mintegy mellékesen v. mértékkel mond, hallat, tesz",exact,verb
+ejt," <beszédhangot> vmely módon képez, ill. <szót, szöveget> vmilyen kiejtéssel mond", vmilyen módon képez vmely hangot v. vmilyen jellegű hangon mond vmely szót,exact,verb
+ejt," <rendsz. éles, hegyes tárgy, dolog v. éles, hegyes tárggyal vki sérülést, sebet stb.> előidéz, okoz (vmin, vkin)"," <Személy v. dolog rendsz. vmely eszközzel, kisebb tárggyal, anyaggal vmely kisebb kárt, sérülést> előidéz, okoz",narrower,verb
+ejt," <hibát, csorbát, foltot stb.> csinál, létrehoz (vmiben v. vmin) vki, vmi"," <Kárt, hibát> előidéz, létrehoz, rendsz. nem szándékosan",broader,verb
+ejt," annak kif-ére, hogy a tárggyal megnevezett cselekvést végzi"," <Személy v. dolog rendsz. vmely eszközzel, kisebb tárggyal, anyaggal vmely kisebb kárt, sérülést> előidéz, okoz",narrower,verb
+ejt," annak kif-ére, hogy alkalmat, lehetőséget talál arra, hogy végrehajtson, elvégezzen vmit", alkalmat talál vmire,exact,verb
+ejt," <vadat, régen: ellenséget> (lövéssel) leterít, megöl"," <Foglyot, zsákmányt> ügyes taktikával megszerez, birtokába kerít; zsákmányol",broader,verb
+ejt," <zsákmányt, zsákmányként vmit v. foglyot, túszt stb.> szerez, ill. <fogolyként, túszként stb.> elfog vkit"," <Foglyot, zsákmányt> ügyes taktikával megszerez, birtokába kerít; zsákmányol",exact,verb
+ejt," bizalmát megvonva mellőz, félreállít, ill. a bizalmas kapcsolatot vele megszüntetve elhagy vkit"," nem kell neki tovább vki; iránta való vonzalmát v. megbecsülését elvesztve szabadulni akar tőle, nem törődik tovább vele",exact,verb
+ejt," <vmely helyzetbe, (lelki)állapotba> juttat"," vmely érzelmi, lelki tartalmat v. állapotot, helyzetet hoz létre, idéz elő vkiben",exact,verb
+eladó," olyan <tárgy, árucikk stb.>, amelyet megvételre kínálnak, áruba bocsátanak"," Olyan <tárgy, cikk, eszmei érték>, amelyet eladásra szánnak, kínálnak, amelyet meg lehet venni",exact,adjective
+eladó," olyan <lány>, aki már elérte azt az életkort, amelyben férjhez adható"," Olyan <lány>, aki már elérte azt a kort, v. abban a korban van, amelyben a lányokat általában férjhez adják",exact,adjective
+eladó," olyan személy, aki áruba bocsát, elad vmit"," Az a személy, aki áruba bocsát, elad (1) vmit",exact,noun
+eladó," <boltban, üzletben:> az árusítást alkalmazottként végző személy"," Az a kereskedelmi alkalmazott, akinek hivatásszerű foglalkozása az eladás; segéd",exact,noun
+eladó," olyan tárgy, árucikk stb., amelyet eladásra kínálnak"," Az az árucikk, amelyet eladásra szánnak, kínálnak",exact,noun
+elágazik," <növényi v. állati rész> (növekedve) szétágazik, ill. <ágakra> bomlik"," <Növény, kül. fa> több irányban ágakat hajt, növeszt",exact,verb
+elágazik," (mozgás közben) ágakra oszlik, szakad vmi"," <Út, folyó, hegyvonulat, vezeték> ágakra szakad",narrower,verb
+elágazik," elszakad vmitől, amivel korábban együtt haladt"," <Út, folyó, hegyvonulat, vezeték> ágakra szakad",narrower,verb
+elágazik," <két v. több dolog> (vmitől v. vmely irányban, tekintetben) különbözőséget v. ellentétet mutat, megoszlik"," <Két v. több nézet, vélemény> bizonyos egyezés ellenére eltérést mutat, különbözővé válik",exact,verb
+elágazik, származik vkitől," <A család vmely tagja v. ága> eredeti lakóhelyéről elköltözve v. más családhoz csatlakozva, eddigi kapcsolatainak lazulásával vhova elkerül",narrower,verb
+elágazik," származási helyéről máshova kerül(ve letelepedik), elszármazik"," <A család vmely tagja v. ága> eredeti lakóhelyéről elköltözve v. más családhoz csatlakozva, eddigi kapcsolatainak lazulásával vhova elkerül",narrower,verb
+elágazik, <jelenség> (szélesebb területre) kiterjed," vmely eljárás, szervezet eredeti egységének megszűntével két v. több ágra szakad",related,verb
+eláll," ellép, elmegy vhonnan"," Ellép vhonnan, vmi mellől, félrébb áll, félreáll",exact,verb
+eláll," elfordul, elpártol vkitől, ill. <máshoz> átáll, átpártol"," Elpártol, elszakad vkitől, vmitől, s így megszeg vmely vállalt kötelezettséget",narrower,verb
+eláll," eltekint vmitől, lemond, letesz róla"," vmely tervének, szándékának végrehajtásához nem ragaszkodik tovább; lemond vmiről",exact,verb
+eláll," <vmely feladata, kötelezettsége elől> kitér, nem teljesíti azt"," Elpártol, elszakad vkitől, vmitől, s így megszeg vmely vállalt kötelezettséget",narrower,verb
+eláll, a felszólalni kívánó visszalépését v. a felszólaló elhallgatását követelő bekiabálásként," <tiltakozó közbekiáltásaként vmely nem tetsző beszéd közben:> ne beszéljen tovább, hagyja abba!",exact,verb
+eláll," olyan helyzetben van, úgy helyezkedik el vmihez képest vmi, hogy nem simul hozzá"," <ruhadarab, némely testrész, ill. hajzat> nem simul vmihez, amihez simulni, tapadni szokott, hanem köztük bizonyos távolság van",exact,verb
+eláll," odaáll, odalép vhova, ill. (rejtett v. védett helyre) beáll vki"," <ember, állat> bizonyos hosszabb ideig türelmesen áll",related,verb
+eláll, (leshelyre) beáll vki," <ember, állat> bizonyos hosszabb ideig türelmesen áll",related,verb
+eláll," (munkára) beáll, elszegődik vhova v. vkihez, elszerződik vminek vki", Elszegődik vhová szolgálni,exact,verb
+eláll," <ember, állat (vmennyi ideig)> hosszasan, türelmesen áll(va), álldogál(va elidőzik) vhol"," <ember, állat> bizonyos hosszabb ideig türelmesen áll",exact,verb
+eláll," annak kif-ére, hogy tartósan vmely helyen van vmi"," <Tárgy> huzamosabb ideig érintetlenül egy helyen maradhat, ellehet; jó, alkalmas helyen van vhol",related,verb
+eláll," <étel, ital v. más bomló anyag, ill. tárgy (bizonyos ideig)> épségben, eredeti állapotban megmarad, nem romlik meg, ill. nem megy tönkre"," <Étel, ital v. más bomló anyag, test> bizonyos ideig épségben, eredeti állapotban megmarad, nem romlik meg",exact,verb
+eláll," <ember, állat> nem megy tovább, megáll", Megáll (s utána mozdulatlanul áll),exact,verb
+eláll, <szerkezet v. élő szerv> működése leáll," <Szerv, lelki képesség, gépezet> nem működik tovább, többé-kevésbé hosszabb időre megáll",exact,verb
+eláll," <(természeti v. élettani folyamatként) vminek a folyása, áramlása> nem tart tovább, abbamarad"," <Természeti v. élettani folyamat> nem tart v. nem működik tovább; abbamarad, elakad v. megszűnik, megáll",exact,verb
+eláll," <cselekvés, tevékenység> megszűnik, nem folytatódik"," <Cselekvés, tevékenység> megszűnik, abbamarad",exact,verb
+eláll," teljesen elfárad, kimerül"," Kifárad, kimerül",exact,verb
+eláll, <vminek a haladását> akadályként meggátolja vki v. vmi," <személy> odaáll vmely nyílás (ajtó, kapu stb.) elé, és megakadályozza a közlekedést azon át",narrower,verb
+eláll," <ajtót, utat, útvonalat stb.> az azon való közlekedést lehetetlenné téve akadályként v. vmely akadállyal elzár, ill. ottlétével megközelíthetetlenné tesz vmit vki v. vmi"," <személy> odaáll vmely nyílás (ajtó, kapu stb.) elé, és megakadályozza a közlekedést azon át",narrower,verb
+eláll," úgy áll vhol, olyan helyen van, hogy vki v. vmi elől teljesen eltakar vmit"," <tárgy, személy> olyan helyen, ill. helyzetben van, hogy (ott) a tevékenységet v. a mozgást, látást akadályozza",related,verb
+eláll," elvisel, ill. el tud viselni, kibír vmit"," Szó nélkül áll, elvisel, eltűr vmit",exact,verb
+akármelyik," több közül tetszőlegesen vmelyik, akármely"," Kettő v. több közül válogatás nélkül akár (az) egyik, akár (a) másik; mindegy, hogy melyik",exact,pronoun
+akármelyik," több közül tetszőlegesen vmelyik, akármely", Akármely (I. 1).,exact,pronoun
+akármelyik, 〈kérdésre adott kitérő feleletként〉," <Dacos feleletben:> az, amelyik éppen; kinek mi köze hozzá, hogy melyik?!",exact,pronoun
+akármelyik, a szóban forgó személyek közül tetszőlegesen vmelyik, A személyraggal v. a szövegösszefüggésben meghatározott személyek közül akárki,exact,pronoun
+akármelyik," több közül tetszőlegesen vmelyik, akármely"," (Ha) akár egyik …, akár másik …, akár … (is); amelyik csak …; amelyik éppen",broader,pronoun
+baj," vesződség, bajlódás v. fáradsággal járó munka"," Gondot, vesződséget okozó kedvezőtlen, rossz helyzet, állapot v. annak átélése",exact,noun
+baj," gond(ot), nehézség(et, kárt okozó eset, esemény)"," Gondot, vesződséget v. kárt okozó eset; kedvezőtlen, rossz fordulat.",exact,noun
+baj," vkinek a képességeiben, megnyilvánulásában, ill. vminek az összetételében, működésében stb. fellelhető hiba, hiány(osság), fogyatkozás"," vminek a működésében, összetételében v. felépítésében mutatkozó hiba, fogyatkozás",exact,noun
+baj," betegség, kór(os állapot v. közérzet)"," Vkinek, vminek vmiféle betegsége",exact,noun
+baj," 〈élőlénnyel kapcs.:〉 (lelki) sérülés, ártalom, ill. 〈tárggyal kapcs.:〉 rongálódás, károsodás"," Embernek, állatnak vmiféle sérülése",related,noun
+baj," havibaj,  havivérzés,  menstruáció ", Menstruáció,exact,noun
+baj," szükség, vagyis székelés, ill. vizelés",  Székelés. Baj történt: <kisgyermek> ágyba vizelt v. székelt,exact,noun
+baj," bánat, szomorúság, fájdalom"," Lelki fájdalom, főleg szerelmi bánat",exact,noun
+baj," fegyveres küzdelem, harc, ill. párbaj, bajvívás"," Párviadal, párbaj",exact,noun
+bár_2," ámbár, jóllehet, noha¹"," Igaz, hogy …; annak ellenére, hogy …; noha, habár, ámbár",exact,conjunction
+beoszt," 〈vmely nagyobb egészet〉 egységének megszüntetése nélkül (egyenlő) részekre oszt, tagol"," <Vmely nagyobb egészet> gyakorlati céllal, rendsz. könnyebb áttekinthetőség végett (megközelítőleg) egyenlő részekre oszt anélkül, hogy tényleges egységét megszüntetné",exact,verb
+beoszt," 〈erőt, pénzt, élelmiszert stb.〉 előre megállapított részletekben úgy használ fel, hogy vmely meghatározott időpontig nem fogy ki belőle"," <Időt, pénzt, ennivalót> előre megállapított részletekben úgy használ fel, hogy vmely meghatározott időpontig nem fogy ki belőle",exact,verb
+beoszt," vmit úgy tagol, ütemez, hogy mindenre jusson ideje"," <Munkát> úgy tervez, ill. végez el, hogy gazdaságosan használja fel az idejét",broader,verb
+beoszt," 〈(több) személyt v. dolgot〉 jellemző sajátságai alapján, vmely sorrend v. szempont szerint vmely helyre v. csoportba besorol, betesz, ill. csoportonként, páronként v. egyenként elrendez",  Beoszt vmit vhova: <gondolatban v. a valóságban> vmely csoportba oszt vmit; besorol,exact,verb
+beoszt," vmely munkakörbe, munkaterületre helyez, rendel, ill. vmely feladat elvégzésére kijelöl vkit",  Beoszt vkit (vhova): vmely munkakörbe rendel vkit,exact,verb
+biztos_2, vmely feladat elvégzésére rendsz. a végrehajtó hatalom (vmely szerve) által meghatározott jog- és hatáskörrel kiküldött hivatalos személy, Vmely meghatározott feladat elvégzésére a végrehajtó hatalom által sajátos jog- és hatáskörrel kiküldött hivatalos személy,exact,noun
+biztos_2," a közrend, a közbiztonság fenntartására kirendelt önkormányzati tisztviselő, ill. 〈az állami rendőri hatóság megalakulása után:〉 legénységi állományú rendőr v. csendőr"," Egyenruhás, legénységi állományú rendőr",broader,noun
+darás, (búza)darából v. (búza)darával készült 〈étel v. alapanyag〉," Búzadarával készített <étel, rendsz. főtt tészta>",exact,adjective
+darás, (búza)darából v. (búza)darával készült 〈étel v. alapanyag〉," Dara (1) hozzáadásával készült, darával kevert",exact,adjective
+darás, apró jégszemcsékből álló 〈csapadék〉, Apró hópelyhekből v. kis jégszemekből álló <csapadék> v. ezzel kevert <eső>,exact,adjective
+darás, szemcsés nagyságú(ra őrölt) 〈anyag〉," Apró részecskékre, darára (3) szétzúzott <anyag>",exact,adjective
+egér," világszerte honos, 5–15 centiméteres hosszúságú, rendsz. nagy szemű és fülű, hegyes orrú rágcsáló, amelynek ált. gyéren szőrözött, hosszú farkán 160–180 pikkelysor van, kül. az ún. házi egér fajba (Mus musculus) tartozó, az emberlakta területekhez kötődő, 7–10 centiméteres, szürkésbarna színű, gazdasági kártevőnek tekintett állat"," Emberi lakóhelyek körül élő, szürke hátú, hosszúkás testű, hosszú, vékony farkú, a patkánynál jóval kisebb rágcsáló állat; élelmiszerben, gabonafélében nagy károkat okoz (Mus musculus); háziegér",broader,noun
+egér," 〈emberi v. állati test vmely csomószerű képződményének, ill. (kórosan) duzzadt szervének megnevezéseként〉"," A ló testén, kül. a nyakán, torkában v. füle tövén keletkezett duzzanat, daganat, gümő",broader,noun
+ahajt," a szövegkörnyezetben v. rámutatással megjelölt helyen, ott (azon a helyen)"," Ott, amott, a szóban forgó helyen v. annak tájékán",exact,demonstrative adverb
+ahajt," azonnal, rögvest, azon nyomban, ritk. imént"," Azonnal, mindjárt.",broader,demonstrative adverb
+ahán," hirtelen észrevevés, ráeszmélés, felismerés kif-ére", <Hirtelen felvillanó gondolat közlését bevezető szóként.>,exact,interjection
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind, A vele bevezetett jelzői mellékmondatban közelebbről meghatározott v. jellemzett s a főmondatban gyak. mutató szóval jelzett személy,broader,relative pronoun
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind," A vele bevezetett jelzői mellékmondatban közelebbről meghatározott, megjelölt állat, tárgy, dolog",broader,relative pronoun
+aki," nem valódi alárendelésben (ksz-val kapcsolt) ez, az mut nm, ill. ő szem nm helyett"," <Nem valóságos jelzői mellékmondatban, amelynek cselekménye később következik be v. ellentétet fejez ki, mutató névmás h.>",exact,relative pronoun
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind," A vele bevezetett alanyi, tárgyi, határozói mellékmondatban közelebbről meghatározott, olykor a főmondatban mutató névmással megjelölt személy",exact,relative pronoun
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind," Olyan jellegű személy, amilyet a vele bevezetett mellékmondat tartalma jellemez",exact,relative pronoun
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind, <Személyragos alakban:> aki; vmely vele kapcsolatos személy,exact,relative pronoun
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind," Aki csak: mindenki, aki egyáltalán",exact,relative pronoun
+aki," <más von nm v. hsz előtt, általánosító értelemben:> minden egyes személy, mindenki, ki-ki"," <Más vonatkozó névmással v. határozóval kapcs., általánosító értelemben:> minden egyes személy; mindenki; ki-ki",exact,relative pronoun
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind," <Szitkozódásban, a főmondat elhallgatásával.>",exact,relative pronoun
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind," Amely, amelyik",narrower,relative pronoun
+aki, a vele kapcsolt mellékmondatban megjelölt személyek mind, (általánosító értelmű kifejezésben) Aki … csak: ahány … (a szóban forgó személyek közül) csak … mind …,exact,relative pronoun
+alacsony, függőleges irányban (aránylag) kicsi, Függőleges irányban viszonylag nem nagy v. a szokottnál kisebb méretű; nem magas,broader,adjective
+alacsony, függőleges irányban (aránylag) kicsi, Az átlagosnál kisebb <termet>,broader,adjective
+alacsony, függőleges irányban (aránylag) kicsi, Ilyen termetű <személy>,broader,adjective
+alacsony," (viszonylag) lapos, sík <terület, város>", A föld felszínétől v. vminek a szintjétől aránylag kis távolságban levő,exact,adjective
+alacsony," csekély, kevés, kicsi <mennyiség, érték stb.>"," Az átlagosnál kisebb <összeg, mennyiség>",exact,adjective
+alacsony," (minőségét tekintve) a kívánt mértéket el nem érő, ill. annál kisebb fokú, mértékű", A kívánt mértéket el nem érő <színvonal>,broader,adjective
+alacsony," (minőségét tekintve) a kívánt mértéket el nem érő, ill. annál kisebb fokú, mértékű"," <Vmilyen mértékkel mért folyamatról, helyzetről, állapotról szólva:> kis mértékű, kisebb fokú",broader,adjective
+alacsony," társadalmi, anyagi v. műveltségi tekintetben hátrányos, kevésbé megbecsült, kedvezőtlen <helyzet, sors stb.>"," Anyagi tekintetben szűkös, szegényes <társadalmi helyzet>",broader,adjective
+alacsony," alsóbb rendű, alárendelt helyzetű"," Alacsony néposztály, népréteg: szűkös anyagi körülmények közt, kezdetlegesebb műveltségi fokon élő n., n.",exact,adjective
+alacsony," társadalmi, anyagi v. műveltségi tekintetben hátrányos, kevésbé megbecsült, kedvezőtlen <helyzet, sors stb.>", Alacsony származás: <osztálytársadalomban> az uralkodó osztálytól megvetett társadalmi rétegből való sz.,exact,adjective
+alacsony," ilyen helyzetű, sorsú <személy, csoport>", Ilyen származású <személy>,exact,adjective
+alacsony, <rangsorban> alsóbb szinten álló, Ilyen rangú <személy>,exact,adjective
+alacsony," (erkölcsileg) megvetendő, hitvány, alantas <cselekedet, magatartás, érzés stb.>"," Finomabb erkölcsi érzék híján való, nemesebb dolgok iránt érzéketlen <lelkület>",broader,adjective
+alacsony, ilyen <személy>," Aljas, alávaló, becstelen <személy>",exact,adjective
+alacsony," közönséges, alantas <dolog>"," Erkölcsileg emelkedett, nemesen érző és gondolkodó emberhez nem méltó, megvetendő <cselekvés, érzés>",exact,adjective
+alul," függőleges irányban lent, alacsonyan, a földhöz közelebbi részen, ill. vminek a lent levő, (leg)alsó végén, szélén"," <Függőleges helyzetű tárgyon v. ilyen módon rendezett tárgyak együttesében:> a földhöz közelebbi végén v. ahhoz közel, a feljebb levő részekkel szemben",exact,adverb
+alul," függőleges irányban lent, alacsonyan, a földhöz közelebbi részen, ill. vminek a lent levő, (leg)alsó végén, szélén"," <Írott, nyomtatott szövegben v. ábrázolásban:> a lap végén v. ahhoz közel",related,adverb
+alul," társadalmi, anyagi v. műveltségi tekintetben kedvezőtlen(ebb) helyzetben", Alul van: más valaki fölébe kerekedett,broader,adverb
+alul," <fejlődési sorban, értékrendben, rangsorban stb.:> a (leg)alsó szinten"," <Bizonyos elv szerint rendezett sorban, együttesben:> a fő helytől legtávolabb",related,adverb
+alul," társadalmi, anyagi v. műveltségi tekintetben kedvezőtlen(ebb) helyzetben", Alulról emelkedett fel: alacsonyabb társadalmi helyzetből jutott magasabb körbe,broader,adverb
+alul," függőleges irányban lent, alacsonyan, a földhöz közelebbi részen, ill. vminek a lent levő, (leg)alsó végén, szélén"," Alulra: alul (1, a) levő helyre. Alulra tedd a nagyobb könyveket!",related,adverb
+alul," (vkinél, vminél) alacsony(abb)an levő helyre", A névszóban v. névmásban kifejezett személyhez v. dologhoz viszonyítva alacsonyabban,exact,conjunction
+alul," a szokásosnál, a kelleténél, az elvárhatónál kisebb mértékben, fokban, ill. alacsonyabb szinten"," Vmin alul; vmely szintet, fokot el nem érve",broader,conjunction
+alul," a szokásosnál, a kelleténél, az elvárhatónál kisebb mértékben, fokban, ill. alacsonyabb szinten"," <Mennyiséggel, összeggel kapcs.:> az -n ragos névszóval kifejezett mennyiségnél kisebb összegben, mértékben",broader,conjunction
+alul," a szokásosnál, a kelleténél, az elvárhatónál kisebb mértékben, fokban, ill. alacsonyabb szinten"," <Meghatározott v. szokott értéket, képességet, eredményt jelentő szóval kapcs.:> annál kisebb mértékben, fokban",broader,conjunction
+amoda," arra a másik helyre, abba a másik irányba, ill. az előbbivel ellentétes helyre v. irányba"," <Az oda szóval szemben mint annak hangsúlyozott, helyesbítő v. ellentétes párja:> tőlem, a beszélőtől távolabb eső másik helyre v. irányban",exact,demonstrative adverb
+amoda," <az ide hsz-val együtt:> a szóban forgó dolog ellenére, ill. azt figyelmen kívül hagyva", <Az emide v. ide határozószóval szembeállítva:> a távolabbinak jelzett helyre v. irányban; oda,exact,demonstrative adverb
+amoda, amott, <Rendsz. más határozóval együtt:> amott,exact,demonstrative adverb
+ángy, <megszólításként is:> a testvérbáty felesége <az öcs szempontjából>," Általában közeli, idősebb férfirokon felesége <vmely rokonához való családi viszonyában; 1. személyű birtokos személyraggal megszólításként is>.",related,noun
+ángy, <megszólításként is:> a testvérbáty felesége <az öcs szempontjából>, A testvérbátya felesége <az öccshöz való családi kapcsolatában>,exact,noun
+ángy, <megszólításként is:> vkinek (magánál) idősebb sógornője," Tág. ért. sógornő, sógorasszony",exact,noun
+ángy," <megszólításként is:> idősebb asszonyrokon, kül. nagybácsi felesége"," Idősebb rokon, kül. nagybácsi felesége <fiatalabb rokonához való kapcsolatát tekintve>",broader,noun
+ángy," <megszólításként is:> idősebb asszonyrokon, kül. nagybácsi felesége"," Idősebb, közeli rokon asszony <fiatalabb rokonához való kapcsolatát tekintve>.",broader,noun
+ántiját, bosszúság v. csodálkozás kif-ére az Antikrisztusát szó használata helyett, <Enyhe bosszúság kifejezésére.>,broader,interjection
+árnyékol," árnyékba von, sötétbe borít vmit", Árnyékba (1) borít vmit,related,verb
+árnyékol," árnyékba von, sötétbe borít vmit"," Árnyékba von, erős fény elől takar, véd vmit",exact,verb
+árnyékol," <rajzot, festményt> sűrű vonalkázással, satírozással, ill. sötétebb színezéssel térhatásúvá tesz<syn>árnyékoz"," <Rajzot, képet, ill. azon vmely árnyékos, homályos részt> sűrűbb vonalazással v. sötétebb festékkel jelölve kidolgoz; árnyal",exact,verb
+árnyékol," villamos v. elektromágneses hatásoktól, káros sugárzástól véd, szigetel vmit"," <Híradástechnikai készüléket> egyes alkatrészek (pl. tekercsek) egymásra való zavaró hatásától vagy külső elektromágneses terek hatásától fémlemezek, fémdobozok, árnyékoló serlegek alkalmazásával vmilyen mértékben mentesít",exact,verb
+árnyékol," árnyékba von, sötétbe borít vmit"," <Lámpa burája, ernyője> bizonyos irányban megszünteti v. csökkenti a fény sugárzását",broader,verb
+árnyékol, <ökölvívó> árnyékbokszolást végez, <Edzését végző ökölvívó> az ütéseket ellenfél és segédeszköz nélkül gyakorolja.,exact,verb
+ásványvíz," az átlagosnál több oldott vegyi anyagot tartalmazó, ill. ilyen anyaggal dúsított (gyógyhatású forrás)víz"," Az a forrásvíz, amelyet többnyire magas hőfoka, gáztartalma, ill. szénsavban, sókban való gazdagsága, gyakran pedig e tulajdonságok összessége különböztet meg a közönséges ivóvíztől és tesz rendsz. gyógyhatásúvá",broader,noun
+ásványvíz," az átlagosnál több oldott vegyi anyagot tartalmazó, ill. ilyen anyaggal dúsított (gyógyhatású forrás)víz"," Közönséges ivóvíz, amelyet szénsavval v. gyógyító hatású ásványi anyaggal telítenek",broader,noun
+ásványvíz," az átlagosnál több oldott vegyi anyagot tartalmazó, ill. ilyen anyaggal dúsított (gyógyhatású forrás)víz"," Ez mint palackozott v. kimért üdítő hatású ital, fogyasztási cikk",broader,noun
+atom," az anyagot alkotó kémiai elemek vegyi úton tovább nem osztható legkisebb alkotórésze, melynek kémiai tulajdonságai megegyeznek az eleméivel"," Az anyagot alkotó kémiai elem(ek) legkisebb, magból s elektronokból álló része, melyben az elem minden i és kémiai tulajdonsága még megtalálható",exact,noun
+atom, ilyen mennyiségű," <Vmely elemből> annyi, amennyi abból egy atomot alkot",exact,noun
+atom," radioaktív anyag, ill. atomenergia, atomerő", Atomenergia,broader,noun
+atom," apró, parányi rész, kis darab"," Vminek igen kis része, vmiből igen kicsi mennyiség",exact,noun
+atom," atombomba, atomfegyver, atomháború"," Atombomba, atomfegyver",exact,noun
+áttelefonál, telefonon átszól vhova v. vkinek, Áttelefonál vhova: vmely nem nagyon távoli helyre telefonál,exact,verb
+áttelefonál, így áthív vkit," Áttelefonál vkit: telefonon áthív vkit kül. azért, hogy rendelkezzék vele v. felvilágosítást, tájékoztatást kérjen tőle",exact,verb
+bír," <súlyt, terhe(lés)t> szilárdsága, ill. ereje révén képes tartani, mozgatni v. vinni, elbír, megbír vmit"," Van ereje ahhoz, hogy vmely terhet tartson, viseljen, hordjon, v. vmit elviseljen, kiálljon, vmit (el)végezzen.",related,verb
+bír," <súlyt, terhe(lés)t> szilárdsága, ill. ereje révén képes tartani, mozgatni v. vinni, elbír, megbír vmit"," <Súlyt, terhet> tartani v. vinni képes",exact,verb
+bír," <huzamosabb ideig tartó, ill. a szokásosnál nagyobb fizikai, anyagi, lelki stb. megterhelést> győz vmivel"," Nem bírja vminek a súlyát, terhét: nem képes hordozni, elviselni vmit",broader,verb
+bír," <huzamosabb ideig tartó, ill. a szokásosnál nagyobb fizikai, anyagi, lelki stb. megterhelést> győz vmivel"," Képes elviselni, kiállani, elszenvedni vmit; kibír, elbír vmit",narrower,verb
+bír," <élőlény (szervezetének vmely része) kedvezőtlen, ártalmas körülményt> képes fiziológiai károsodás nélkül elviselni"," sokat tud inni anélkül, hogy megártana neki; jó ivó",broader,verb
+bír," ereje, képessége van, tud <(el)végezni, (meg)tenni vmit>"," Képessége, ereje van <vmit végezni v. fizetni>; képes rá, győzi",exact,verb
+bír," <huzamosabb ideig tartó, ill. a szokásosnál nagyobb fizikai, anyagi, lelki stb. megterhelést> győz vmivel"," Bírja vmivel; vmit bír vmivel: vmiből elege van neki ahhoz, hogy vmely cselekvést, erőfeszítést végezni, folytatni tudjon",related,verb
+bír," <használati tárgy (anyaga v. alkatrésze)> ép, használható állapotban marad, nem megy tönkre"," Még bírja (egy darabig): még használható, még tart egy darabig",exact,verb
+bír," <élőlény> életben van, ill. tartható"," Nem sokáig bírja már: hamarosan meg fog halni, <állat> el fog pusztulni.",exact,verb
+bír," kellő ereje, hatalma van ahhoz, hogy megfékezzen, féken tartson v. legyűrjön, ill. irányítson v. vmire kényszerítsen vkit, vmit"," Kellő ereje, hatalma van ahhoz, hogy vkit, vmit megfékezzen, féken tartson, vele megbirkózzék, v. vkit rávegyen vmire.",related,verb
+bír," kellő ereje, hatalma van ahhoz, hogy megfékezzen, féken tartson v. legyűrjön, ill. irányítson v. vmire kényszerítsen vkit, vmit"," Bír vkivel, vmivel: meg tud fékezni, kordában tud tartani vkit, vmit",exact,verb
+bír," <feladattal, teendővel stb.> képes megbirkózni, el tudja végezni, boldogul vele"," <Feladattal, teendővel> meg tud küzdeni; el tudja végezni",exact,verb
+bír," arra késztet vkit v. vmit, hogy (meg)tegyen vmit, rávesz, rábír vkit v. vmit vmire"," Vkit vmire bír: vkit arra késztet, hogy tegyen vmit; rávesz, rábír, rábeszél vkit vmire",exact,verb
+bír," hatalmában tart, ural vmit, es. vkit"," Vkit, vmit vmely módon hatalmában, birtokában tart, birtokol.",exact,verb
+bír," <vki (vmely) test(rész)ét> képes megfelelően használni, irányítani"," Bírja: <vmely testrészét> tudja használni, mozgatni",exact,verb
+bír," jó anyagi körülmények között él, tehetős"," (Jól) bírja magát: a) jó erőben van. | b) jó anyagi körülmények között él, tehetős",narrower,verb
+bír," <vmely (idegen) nyelvet, ill. nyelvváltozatot> (jól) tud, ért és használ"," <Vmely nyelvet> jól, folyékonyan beszél",exact,verb
+bír," (tulajdonosként) rendelkezik vmivel, birtokában van vminek, van vmije", Birtokában tart; birtokol vmit,exact,verb
+bír," hatalmában tart, ural vmit, es. vkit"," Bír vkit, vmit: uralkodik vki, vmi fölött; parancsol neki",exact,verb
+bír, <kül. férfi> szerelmeseként v. hitveseként magáénak tudhat vkit," <Nőt> magáénak tudhat, házasságban él vele, szerelmére számíthat",exact,verb
+bír, <kül. férfi> szerelmeseként v. hitveseként magáénak tudhat vkit," Vkit nőül, hitvesül v. férjül bír: házasságban él vele",related,verb
+bír," <vmely (óhajtott, kívánt) dolgot> magáénak mondhat, rendelkezik vele"," <Vmely óhajtott, kívánt dolog> tulajdonának mondhat",exact,verb
+bír," (tulajdonosként) rendelkezik vmivel, birtokában van vminek, van vmije", Bír vmely titkot: be van avatva vmely titokba,broader,verb
+bír," (tulajdonosként) rendelkezik vmivel, birtokában van vminek, van vmije"," Birtoka, vagyona van vhol",related,verb
+bír," <vmely (óhajtott, kívánt) dolgot> magáénak mondhat, rendelkezik vele", Bír vmivel: vmivel mint (anyagi v. szellemi) tulajdonával rendelkezik,exact,verb
+bír," <vmely sajátsággal, képességgel, ill. tudással, ismerettel stb.> rendelkezik"," Vmivel bír: vmely sajátsága, képessége van",exact,verb
+birétum," <katolikus papok liturgikus viseletében:> a papi rangnak megfelelő színű, gerezdszerűen tagolt, kemény bélésre feszített, három- v. négysarkú fejfedő"," <Katolikusoknál> a papoknak főleg szertartások alkalmával viselt különféle színű sapkája, amelynek három v. négy ága a tetején összefut",exact,noun
+bocsát," előidézi v. elősegíti, hogy vhova, kül. vmely lenti, benti helyre jusson vmi, ritk. vki"," Vhova bocsát vmit: eszközli, hogy vmi vhova, kül. lejjebb levő helyre jusson, kerüljön, hatoljon, vhova ereszt, leereszt vmit",exact,verb
+bocsát," (vmilyen céllal) vhova enged, ereszt v. küld vkit, vmit", <újonnan elkészült v. egy ideig nem használt vízi járművet> a partról v. vmely építményről a vízbe csúsztat,broader,verb
+bocsát," <hegyes v. apró tárgyat> vkibe, vmibe behatolni késztet"," <Apró v. hegyes tárgyat> vkibe, vmibe behatolni késztet",exact,verb
+bocsát," <egy geometriai pontból kiindulva vmely egyenesre v. síkra (merőleges) egyenest> húz, rajzol", Merőlegest bocsát az alapra: vmely kívül eső pontból merőlegest szerkeszt v. húz az alapra.,exact,verb
+bocsát," (Ki)enged, (ki)ereszt (magából vmit)"," Vmit bocsát (magából): engedi, hogy vmi kinőjön, kijöjjön, kiáradjon belőle; ereszt, kiereszt",exact,verb
+bocsát," Hagyja, hogy vhova, vmire, vmibe jusson vmi"," Vkit vhova bocsát: engedi, hogy vki vhova menjen; ereszti vhova",broader,verb
+bocsát," (vmilyen céllal) vhova enged, ereszt v. küld vkit, vmit"," elereszti (hosszabb) útra, rendsz. útravalóval felszerelve",broader,verb
+bocsát," (vmilyen céllal) vhova enged, ereszt v. küld vkit, vmit"," engedi, hogy távozzék, menjen, ahova akar, v. ahova mennie kell",broader,verb
+bocsát," (vmilyen céllal) vhova enged, ereszt v. küld vkit, vmit"," Szabadon bocsát vkit: börtönből, fogságból kiengedi",broader,verb
+bocsát," (vmilyen céllal) vhova enged, ereszt v. küld vkit, vmit"," Szabadon enged, elenged, elereszt",broader,verb
+bocsát," abba a helyzetbe enged v. hoz vkit, vmit, hogy a határozóban megjelölt tevékenység, folyamat (meg)történjék, végbemenjen rajta"," Vkit vmire bocsát: engedi, hogy vki vmely tevékenységet, gyak. vmely hivatalos ténykedést elvégezzen",broader,verb
+bocsát," abba a helyzetbe enged v. hoz vkit, vmit, hogy a határozóban megjelölt tevékenység, folyamat (meg)történjék, végbemenjen rajta"," Vmibe, vmire, vmi alá bocsát vmit: engedi, hogy vmely, a határozóban megjelölt tevékenység, folyamat megtörténjék vele, végbemenjen rajta",broader,verb
+bocsát," abba a helyzetbe enged v. hoz vkit, vmit, hogy a határozóban megjelölt tevékenység, folyamat (meg)történjék, végbemenjen rajta", elzálogosítja,broader,verb
+bocsát," abba a helyzetbe enged v. hoz vkit, vmit, hogy a határozóban megjelölt tevékenység, folyamat (meg)történjék, végbemenjen rajta"," megengedi, hogy szabadon vegyenek, zsákmányoljanak belőle",broader,verb
+bocsát," abba a helyzetbe enged v. hoz vkit, vmit, hogy a határozóban megjelölt tevékenység, folyamat (meg)történjék, végbemenjen rajta"," átadja, megengedi, hogy osztozkodjanak vmin",broader,verb
+bocsát," abba a helyzetbe enged v. hoz vkit, vmit, hogy a határozóban megjelölt tevékenység, folyamat (meg)történjék, végbemenjen rajta"," megengedi, hogy vki szabadon, tetszése szerint rendelkezzék vmivel, vkivel; átadja, átengedi",broader,verb
+bocsát," abba a helyzetbe enged v. hoz vkit, vmit, hogy a határozóban megjelölt tevékenység, folyamat (meg)történjék, végbemenjen rajta", alkalmat ad megbírálására,broader,verb
+bocsát," abba a helyzetbe enged v. hoz vkit, vmit, hogy a határozóban megjelölt tevékenység, folyamat (meg)történjék, végbemenjen rajta"," engedélyezi, elrendeli, hogy szavazással döntsenek róla; megindítja a szavazást, a döntést a szavazás eredményére bízza",broader,verb
+bokázó," a bokák megfelelő ütemre való összeütéséből álló, a magyar táncokra jellemző <táncmotívum, tánclépés>, ill. ilyen tánclépést, motívumot tartalmazó <tánc>"," Bokázó tánc: a magyar táncnak egy figurája, amelyben a férfiak bokájukat összeütögetik, a nők sarkukat felkapva apró keresztlépéseket tesznek",exact,adjective
+bokázó," a bokák megfelelő ütemre való összeütéséből álló, a magyar táncokra jellemző táncmotívum, tánclépés, ill. ilyen tánclépést, motívumot tartalmazó tánc", Bokázó tánc,exact,noun
+bokázó," ilyen táncmotívumnak megfelelő zenei fordulat, ill. ilyen zenei fordulatot tartalmazó zenemű", A bokázó táncmozdulatnak megfelelő zenei motívum <a múlt század magyaros zenéjében>.,exact,noun
+bolha," emlősökön és madarakon élősködő, 1–8 milliméter nagyságú, oldalirányban lapított testű, nagyokat ugró szárnyatlan vérszívó rovar"," Az emberi testen, valamint kutyán és macskán élősködő, szárnyatlan, nagyokat ugró, apró, barna, vérszívó rovar; csípése kellemetlen viszketést okoz (Pulex irritans)",exact,noun
+bolha, az ilyen rovarok fajait magában foglaló rend nevezéktani elnevezéseként," Bolhák: melegvérű állatokon élősködő szárnyatlan rovarok rendje, melyre jellemző, hogy egyedeinek hátsó lábpárja ugró szervvé, szája pedig szúró-szívó szervvé alakult át (Aphaniptera).",exact,noun
+bolha," tollszárból készült, nyomásra magasra pattanó játékszer"," Mindkét végén többször behasított madártoll v. csavarszerűen összegöngyölt papírlap mint gyermekjátékszer, mely ha ujjheggyel kemény felülethez nyomják, magasra pattan.",exact,noun
+bolha," kisebb méretű, egyik végén meghegyezett fapecket röptető csoportos ügyességi játék, ill. ennek eszköze"," Pasztilla alakú és nagyságú celluloid lapocska, mint gyermekjátékszer, melyet egyik végén egy kissé lenyomva tovább lehet ugratni.",exact,noun
+bolha," ütés, csapás", Az emberi testet érő csípős labdaütés,broader,noun
+bombázó, bombák ledobására való <harci repülőeszköz>," Olyan, aki, ami bombáz (1–4) vmit, vkiket",narrower,adjective
+bombázó, bombák ledobására való harci repülőeszköz, Bombázó repülőgép,exact,noun
+borzasztó," iszonyatot, rémületet, félelmet keltő, ill. szenvedést, gyötrelmet okozó"," Borzadást, rémületet keltő; borzalmas",exact,adjective
+borzasztó," nagyon nagy (mértékű, fokú), óriási"," Rendkívül nagy, igen nagy; óriási",broader,adjective
+borzasztó," nagyon nagy (mértékű, fokú), óriási"," (határozóraggal határozószó-szerűen) Borzasztóan: rendkívüli mértékben, igen-igen nagyon",broader,adjective
+borzasztó," irtó, rendkívül","  <Fokozás kifejezésére, melléknév, határozatlan számnév és határozó előtt, rendsz. érzelmileg színezett beszédben.> Nagyon-nagyon, igen-igen, rendkívül; szörnyen; szörnyű, rettentő",exact,particle
+borzasztó," <megbotránkozás, bosszúság kif-ére is:> kellemetlen, felháborító, kétségbeejtő(en rossz) <jelenség, helyzet stb.>", <Megbotránkozás kifejezésére.>,exact,adjective
+boszorkánymester," <a népi hiedelemben és a középkori, kora újkori (vallásos) felfogásban:> boszorkánynak tartott, titokzatos erőket megidéző, varázsló képességekkel rendelkező férfi"," <A babona szerint> férfi boszorkány, aki titokzatos földalatti erőket tud felidézni",broader,noun
+boszorkánymester," <a népi hiedelemben és a középkori, kora újkori (vallásos) felfogásban:> boszorkánynak tartott, titokzatos erőket megidéző, varázsló képességekkel rendelkező férfi"," <A babona szerint> varázsló, varázslással foglalkozó férfi",broader,noun
+boszorkánymester, (vmely tevékenységben) szemfényvesztő ügyességű művész," Bűvész, szemfényvesztő",related,noun
+bosszúálló," vmely bosszút végrehajtó, ill. bosszúállásra kész, képes v. arra hajló <személy, csoport>"," Olyan <személy v. csoport>, akinek, amelynek olyan a természete, hogy sérelmét – nem felejtve – igyekszik erős eszközökkel megtorolni",exact,adjective
+bosszúálló," bosszúállásra indító, késztető <érzelem, indulat>", Ilyen személyre jellemző,narrower,adjective
+bosszúálló," megtorlásra, bosszúállásra irányuló <terv, tevékenység stb.>"," Bosszúállással kapcs., erre irányuló",narrower,adjective
+bosszúálló," megtorlás, bosszúállás, ill. büntetés végrehajtásának eszközéül szolgáló <kéz, fegyver, törvény>"," A bosszú végrehajtására alkalmas, haszn. <eszköz>",exact,adjective
+bosszúálló," vmely megtorló tettet, tevékenységet végrehajtó személy", Bosszúálló személy.,exact,noun
+bronzszín," a bronz színéhez hasonló, (fényes) barnásvörös szín, ill. vmely dolog ilyen színe"," A bronzéhoz hasonló, fényes, meleg barna szín",exact,noun
+bronzszín," bronzszínű <árnyalat>, ill. ilyen színű <dolog>", Bronzszínű,exact,adjective
+bugyi," <a 19. század elejétől a 20. század első feléig:> hosszú, bő v. buggyos, ill. <a 20. század második felétől:> testre simuló, a comb felső részéig v. a fölé érő nadrágféle női v. gyermekalsóneműbugyogó", Női v. gyermek- (alsó)nadrág.,exact,noun
+bujakór," nemi érintkezéssel terjedő fertőző betegség, kül. a Treponema pallidum nevű baktérium okozta vérbaj, szifilisz"," Szifilisz, vérbaj",exact,noun
+bulvár," <nagyobb városban:> rendsz. vmely városrészt ív alakban körülölelő széles, hosszabb körút, ill. (vmely központi térből kiinduló) hosszú, egyenes, gyakr. fákkal szegélyezett sugárút", Körút,broader,noun
+bulvár," <nagyobb városban:> rendsz. vmely városrészt ív alakban körülölelő széles, hosszabb körút, ill. (vmely központi térből kiinduló) hosszú, egyenes, gyakr. fákkal szegélyezett sugárút"," Széles, fásított nagyvárosi út.",broader,noun
+bumm," robbanás, lövés, mennydörgés erős, tompa hangjának utánzására"," <Robbanás hangjának, ágyúszónak utánzására.>",exact,interjection
+bumm," esés, üt(köz)és (hangjának) érzékeltetésére", <Erős ütés v. ütődés tompa hangjának utánzására.>,broader,interjection
+bumm," esés, üt(köz)és (hangjának) érzékeltetésére", <Esés tompa hangjának utánzására.>,broader,interjection
+burgonyabogár," az amerikai kontinensről Európába a 19. században behurcolt, jellegzetesen domború testű, barnássárga színű, a burgonya zöld részeit pusztító levélbogár, amelynek szárnyfedőin öt-öt hosszanti fekete sáv húzódik végig, ill. e bogarak faja<tr>Leptinotarsa decemlineata</tr>kolorádóbogárkrumplibogár"," Erősen domború hátú, sárga v. vörösessárga színű, tíz hosszanti fekete sávval tarkázott, különösen a burgonyában nagy kárt tevő bogár (Leptinotarsa decemlineata); kolorádóbogár.",exact,noun
+bürokrácia," az államnak mint intézményrendszernek a közigazgatás, államigazgatás feladatait ellátó, hierarchikus felépítésű, szigorúan szabályozott, bürokraták által működtetett része, ritk. az ebben dolgozó hivatalnokok összessége, ill. olyan hatalmi berendezkedés, amelyben a hatalom ezen a területen összpontosul", Az állam v. közületek igazgatási szerveinek hálózata; hivatali gépezet. Igénybe vették a bürokrácia egész szervezetét.,exact,noun
+bürokrácia," az államigazgatás vmely területéhez v. vmely egyéb szervezethez, szakterülethez tartozó hivatali gépezet(ben), apparátus(ban dolgozók összessége)"," Az állami és közületi tisztviselők összessége; hivatalnoki kar, intézmény",exact,noun
+bürokrácia," formaságok és merev szabályok szerint, rendsz. feleslegesen nagy apparátussal történő, túlzottan mechanikus(, az ügyfelekkel szemben közömbös, személytelen) ügyintézés(i), igazgatás(i mód, rend)"," A hivatali szervek károsan túltengő hatalma, uralkodó szerepe, és ennek egészségtelen hatása az államgépezet működésére; hivatal(nok)uralom",broader,noun
+bürokrácia," formaságok és merev szabályok szerint, rendsz. feleslegesen nagy apparátussal történő, túlzottan mechanikus(, az ügyfelekkel szemben közömbös, személytelen) ügyintézés(i), igazgatás(i mód, rend)"," <Vmely hivatalban, intézményben, szervezetben> olyan igazgatási rendszer, amelyben az ügyintézők v. irányítók vélt kiváltságos helyzetükbe gőgösen elzárkózva, lélektelenül, a külsőségekhez, a törvénynek csak betűihez ragaszkodva, az élettől idegenül és a nép igényeitől elszakadva intézik az ügyeket; bürokratizmus.",broader,noun
+bürokrácia," formaságok és merev szabályok szerint, rendsz. feleslegesen nagy apparátussal történő, túlzottan mechanikus(, az ügyfelekkel szemben közömbös, személytelen) ügyintézés(i), igazgatás(i mód, rend)"," Az ebből a szellemből eredő, a hivatali formaságokhoz mereven ragaszkodó lélektelen, gépies, kicsinyeskedő, hosszadalmas és nehézkes ügyintézési, igazgatási mód(szer), hivatali szellem; bürokratizmus",broader,noun
+cédula," Rövidebb szöveg feljegyzésére való, rendsz. téglalap alakú kisebb papírlap, ill. azon levő szöveg"," (Többnyire téglalap alakú) kisebb papírlap, amelyre alkalmi feljegyzéseket szoktak írni",broader,noun
+cédula," alkalmi feljegyzést tartalmazó v. annak rögzítésére való papírlap, cetli"," Feljegyzést, főként tudományos munkához adatot tartalmazó, rendsz. téglalap alakú kisebb papírlap v. ritkábban kartonlap",narrower,noun
+cédula," egy lapnyi rövid, hivatalos iratot v. vmilyen hivatalos jelzést tartalmazó papírlap v. (kitöltött) kis űrlap"," Egy lapnyi rövid hivatalos irat, <kitöltött> kis űrlap",exact,noun
+cédula," vmit népszerűsítő, kihirdető, reklámozó stb., kis alakú, rendsz. nyomtatott papírlap, ill. azon levő szöveg"," Kis alakú, rendsz. nyomtatott papírlap, címke; számolócédula, reklámcédula",narrower,noun
+cédula," vmit népszerűsítő, kihirdető, reklámozó stb., kis alakú, rendsz. nyomtatott papírlap, ill. azon levő szöveg", Az ilyen papírlapra írt szöveg,broader,noun
+cigánykodik," tolakodó módon (rimánkodva), ill. ravaszkodva, hosszas alkudozással igyekszik vmit elérni, megkapni, megszerezni"," Ravaszkodva hízeleg, rimánkodik, kunyerál, hogy vmit elérhessen",exact,verb
+cigánykodik," tolakodó módon (rimánkodva), ill. ravaszkodva, hosszas alkudozással igyekszik vmit elérni, megkapni, megszerezni"," Hazudozva, ravaszkodva alkudozik, igyekszik a másikat rászedni",broader,verb
+cigánykodik," hazud(oz)ik, színlel, ill. ilyen módon igyekszik az igazságot leplezni", Az igazságot ravaszul igyekszik szavaival leplezni,exact,verb
+cigánykodik," hazud(oz)ik, színlel, ill. ilyen módon igyekszik az igazságot leplezni", Hazudozik,broader,verb
+cini-cini," hegedű, es. egér hangjának utánzására", <A hegedű hangjának utánzására.>,broader,interjection
+cini-cini," hegedű, es. egér hangjának utánzására", <Az egér hangjának utánzására.>,broader,interjection
+csatlakozás," a csatlakozik igével kifejezett cselekvés, történés"," Általában a csatlakozik igével kifejezett cselekvés, magatartás, folyamat, ill. állapot.",exact,noun
+csatlakozás," Az a hely, ahol vmi csatlakozik, kapcsolódik vmihez."," Az a hely, ahol vmi csatlakozik (4) vmihez, érintkezik vele",exact,noun
+csatlakozás," vezetéket vmihez csatlakoztató eszköz, szerkezet"," Az az eszköz, szerkezet, amelynek segítségével vmi vmihez csatlakozik (4).",exact,noun
+csatlakozás," vezetéken az a hely, ahol egy másik vezeték hozzácsatlakozik"," <Kül. a nemzetközi forgalomban az országhatáron> két távbeszélő- v. távíróvonal kapcsolódása; csatlakozási állomás, pont",broader,noun
+csatlakozás," menetrend szerinti v. egyéb rendszeres járatról egy másik járatra való átszállási, kapcsolódási lehetőség, ill. ilyen lehetőséget biztosító járat"," A csatlakozik (5) igével kifejezett történés, ill. állapot; vmely vonat-, autóbusz-, hajó-, repülőjáratnak egy másikhoz mintegy folytatásként (átszállási lehetőséggel) való kapcsolódása menetrendi szempontból",broader,noun
+csatlakozás," menetrend szerinti v. egyéb rendszeres járatról egy másik járatra való átszállási, kapcsolódási lehetőség, ill. ilyen lehetőséget biztosító járat"," Vmely vonat-, autóbusz-, hajó-, repülőjárathoz (közvetlenül v. rövid időn belül) csatlakozó már járat",broader,noun
+csatlakozás," az a hely, ill. állomás, ahol két v. több vasútvonal v. út találkozik, egyesül"," Két v. több vasútvonal találkozása, egyesülése, ill. ennek helye; csatlakozó állomás.",exact,noun
+csihi-puhi," verés, ütés, ill. verekedés (hangjának utánzására és) érzékeltetésére"," <Főleg személyre, állatra irányuló verés, ütlegelés kifejezésére, a verés zajának érzékeltetésére.>",exact,interjection
+csihi-puhi," verés, ütés, ill. verekedés (hangjának utánzására és) érzékeltetésére"," <Annak a közlésnek bevezetésére, hogy vki vmely kemény tárggyal, eszközzel ver vmit.>",related,interjection
+csihi-puhi," emberre v. állatra irányuló verés, ütlegelés, ill. emberek közötti verekedés (zaja, lármája)"," Főleg személyre, állatra irányuló verés, ütlegelés",broader,noun
+csihi-puhi," emberre v. állatra irányuló verés, ütlegelés, ill. emberek közötti verekedés (zaja, lármája)"," Kisebb ellenséges erők összecsapásával járó harc, verekedés",related,noun
+csihi-puhi," emberre v. állatra irányuló verés, ütlegelés, ill. emberek közötti verekedés (zaja, lármája)"," Ilyen verés, ütlegelés zaja",broader,noun
+dekagramm, <a tömeg mértékegységeként:> egyszázad kilogramm," Tíz gramm, a kilogramm századrésze (rövidítve: dkg).",exact,noun
+dekagramm," vhány ilyen egységnyi <tömeg>, ill. vhány ilyen egységnyi tömegű <dolog>",  Ilyen súlyú,exact,noun
+dekagramm, vhány ilyen egységnyi tömeg, Ekkora mennyiség vmiből,exact,noun
+egészséges," olyan <ember v. állat>, akinek v. amelynek az életműködése zavartalan, aki v. amely nem szenved betegség(ek)ben", Jó egészségben levő,exact,adjective
+egészséges," megfelelően működő, ill. ép, nem sérült <szerv(ezet), test(rész) stb.>"," Olyan, ami a szervezetben megfelelően betölti rendeltetését; nem beteg",exact,adjective
+egészséges," a jó egészségben levő emberre v. állatra jellemző, rá valló, hozzá tartozó <állapot, folyamat stb.>, ill. olyan <időszak>, amelyre ilyen állapot jellemző"," Egészséges (1) emberre, szervezetre jellemző, tőle származó, vele kapcs.",narrower,adjective
+egészséges," az egészség megőrzéséhez v. betegség(ek) megszüntetéséhez hozzájáruló, ill. az egészségre nem ártalmas <tevékenység, körülmény, étel stb.>"," Olyan, ami az egészségnek nem árt",broader,adjective
+egészséges," az egészség megőrzéséhez v. betegség(ek) megszüntetéséhez hozzájáruló, ill. az egészségre nem ártalmas <tevékenység, körülmény, étel stb.>"," Olyan, ami hozzájárul ahhoz, hogy vki megőrizze az egészségét.",broader,adjective
+egészséges," kórokozóktól mentes, jól fejlődő <növény(i rész)>, ill. ép, nem hibás, nem romlott <termés, mag stb.>"," Jól fejlődő, jó termést hozó <növény>.",broader,adjective
+egészséges," kórokozóktól mentes, jól fejlődő <növény(i rész)>, ill. ép, nem hibás, nem romlott <termés, mag stb.>"," Olyan <termés, gyümölcs>, amelyben nincs romlott, hibás rész",broader,adjective
+egészséges," a kívánalmaknak megfelelő, vmilyen célt v. a fejlődést elősegítő <folyamat, gondolat stb.>, ill. megfelelően működő <szervezet, rendszer stb.>"," A kívánalmaknak megfelelő, a célt elősegítő s a fejlődést biztosító; helyénvaló",exact,adjective
+egészséges," nagy erejű, erőteljes <nevetés, ütés, csók stb.>"," Jókora nagy, kiadós",exact,adjective
+egészséges," zavartalan életműködésű, betegség(ek)ben nem szenvedő ember v. állat", Egészséges ember.,broader,noun
+egészséges," vmely cselekvés, megnyilvánulás nagyobb mértékének a kif-ére"," Egy (jó) egészségeset: jókora ütést, vágást",exact,noun
+előbb, a szövegkörnyezetben említett (esemény) időpont(já)nál (vmennyi idővel) korábban," <Vmely ismert, szóban forgó v. odaértett időpontnál> korábban",exact,adverb
+előbb," időben vkit, vmit, ill. minden(ki)t megelőzően, sorrendileg először"," Két v. több cselekvésből, eseményből álló sorozat első mozzanataként, a következő(ke)t megelőzve",exact,adverb
+előbb, a szövegkörnyezetben említett (esemény) időpont(já)nál (vmennyi idővel) korábban, A mostani időpontot megelőző időben; a közeli múltban; nemrég,exact,adverb
+előbb," a mostaninál kis idővel korábban, az imént", (rendsz. az névelővel) A mostani időpontot csak nagyon kevéssel megelőzőleg; az imént,exact,adverb
+előbb," térben vki, vmi előtt levő, azt (vmekkora távolsággal) megelőző helyen"," <Térbeli egymásutánban> vkit, vmit megelőzve",exact,adverb
+előbb," <(fontossági) sorrendben, értékrendben, rangsorban:> az elejéhez közelebbi helyen, az elöl levő hely irányában", <Sorrendben> a szóban forgó személy(ek) v. dolog (dolgok) előtt,exact,adverb
+előbb," <(fontossági) sorrendben, értékrendben, rangsorban:> az elejéhez közelebbi helyen, az elöl levő hely irányában"," Rangját, megbecsülését tekintve kedvezőbb helyzetben",broader,adverb
+előbb," <(fontossági) sorrendben, értékrendben, rangsorban:> az elejéhez közelebbi helyen, az elöl levő hely irányában"," Előbb való: nagyobb megbecsülést érdemlő; fontosabb, különb",broader,adverb
+ablak," <épületen, ajtón, járművön:> a világosság és a levegő bebocsátására szolgáló (fedhető) nyílás, ill. az ennek elzárására való, rendsz. nyitható-csukható szerkezet(, valamint ezek együtt)"," <Épületek, lakóhelyiségek falában> rendsz. üvegezett táblákkal elzárható nyílás a világosság és a friss levegő bebocsátására, ill. a külső, kellemetlen hatások (hideg, meleg, szél, eső, zaj stb.) kizárására",broader,noun
+ablak," <épületen, ajtón, járművön:> a világosság és a levegő bebocsátására szolgáló (fedhető) nyílás, ill. az ennek elzárására való, rendsz. nyitható-csukható szerkezet(, valamint ezek együtt)"," Ebbe a nyílásba beépített, fából v. vasból készült szerkezet, amely a falba erősített tokból v. keretből és az ebbe (rendsz. nyithatóan, csukhatóan) behelyezett szárnyakból (III. 3) áll",broader,noun
+ablak," <épületen, ajtón, járművön:> a világosság és a levegő bebocsátására szolgáló (fedhető) nyílás, ill. az ennek elzárására való, rendsz. nyitható-csukható szerkezet(, valamint ezek együtt)"," Hasonló rendeltetésű nyílás, ill. szerkezet <vmely helyiség ajtaján v. járművön>",broader,noun
+ablak, ablaküveg, Ablaküveg,exact,noun
+ablak, a kicenzúrázott szövegrész üresen maradt helye a nyomtatványban," A cenzúrázott szöveg üresen maradt helye <újságban, folyóiratban>",exact,noun
+ablak, szabadon hagyott nyílás a kötésen, Szabadon hagyott nyílás <a kötésen>,exact,noun
+ablak," kisebb nyílás, rés, lyuk vmin", Szövés közben a hanyag munka miatt keletkezett fonalszakadás nyoma <a szövetben>,broader,noun
+anya," az a nő, akinek gyermeke van"," Az a nő, aki gyermeket szült, akinek gyermeke van",exact,noun
+anya," várandós nő, terhes asszony"," Áldott állapotban levő, várandós nő, leendő anya",exact,noun
+anya, megszólításként v. megnevezésként gyermeke(i) részéről," <gyermek részéről az anya, vő v. meny részéről az anyós megszólításaként v. megnevezéseként>",narrower,noun
+anya," női előd, ős"," <Családi, vérségi kapcsolatban> vmelyik női előd",broader,noun
+anya," női előd, ős", <Nem közvetlen családi vonalon> távoli női ős,broader,noun
+anya," vki mellett szülői, gondviselői szerepet betöltő nő", <Vmilyen szempontból> az anya szerepét betöltő nő,exact,noun
+anya," idősebb (rendsz. tiszteletre méltó) nő <olyan vkinek a szempontjából, akinek életkorát tekintve anyja lehetne>"," Idősebb nő <olyan vkinek a szempontjából, aki életkorát tekintve gyermeke lehetne>",exact,noun
+anya, szaporításra alkalmas nőstény állat," Szaporításra, tenyésztésre tartott anyaállat",exact,noun
+anya," az, amiből vmi ered, származik, születik"," Az, amiből vmi ered, származik, születik",exact,noun
+anya," bosszúság kif-ére v. szitkozódásként, ill. szitkozódásban"," <Káromkodásként, ill. káromkodásként haszn. állandó szókapcsolatokban.>",exact,noun
+anya, anyacsavar, Anyacsavar,exact,noun
+avantgardista," az avantgardizmushoz tartozó, azt követő <irányzat, ill. művész(csoport)>; avantgárd"," Új, gyak. túlzó, szélsőséges formai forradalmat hirdető; a hagyomány(oka)t elvető",narrower,adjective
+avantgardista, az avantgardizmust követő művész," Avantgardista művész, író",exact,noun
+avar," lehullott, száraz  (fa)levelek összessége, rétege, es. azzal borított terület"," Lehullott, száraz lomb, száraz (fa)levelek tömege, rétege",broader,noun
+avar," lábon maradt, le nem kaszált száraz, aszott fű"," Lábon maradt, le nem kaszált száraz, aszott fű",exact,noun
+avar," száraz kóró, gizgaz, növényi törmelék"," Száraz kóró, giz-gaz, növényi törmelék",exact,noun
+avar," lehullott, száraz  (fa)levelek összessége, rétege, es. azzal borított terület", Avarral borított terület,broader,noun
+avar," kiszáradt, aszott <növényzet>, ill. ilyen növényzettel borított <terület>; aszú"," Kiszáradt, kiaszott, száraz <növényzet>; aszú",broader,noun
+cipő," a lábfejet beborító, a külső behatásoktól védő, a járást megkönnyítő, felül gyakr. fűzővel v. csattal összekapcsolható, alul talppal (és magasító sarokkal) ellátott, rendsz. bőrből v. más tartós, hajlékony anyagból készült lábbeli"," Főleg bőrből készült lábbeli, melynek talpa, sarka és a boka körül záruló, elöl többnyire nyitott vagy szétnyitható felsőrésze van",exact,noun
+cipő," járni még nem tudó kisbabának, kisgyermeknek való, puha anyagból készült, rendsz. kötött lábbeli;babacipő"," Hasonló formájú, de rendsz. nem bőrből készült, sarkatlan lábbeli",narrower,noun
+cupringer, háztartási alkalmazottak munkaközvetítője," Helyszerző, cselédközvetítő",exact,noun
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <A számba jövők közül> senki v. semmi más, mint ...; csupán, egyedül",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Főleg melléknév, határozó előtt, annak kifejezésére, hogy a számba jövő tulajdonságok, állapotok, helyzetek, viszonyítások közül a vele kiemelt(ek)en kívül másfélére nem érvényes az állítás v. a tagadás.>",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <tőszámnév, törtszámnév v. mennyiséget jelentő szó előtt:> nem több(et), mint …",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Tagadás után következő állításban, mennyiségi megszorítás kifejezésére.>",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Térbeli v. időbeli határt jelentő határozóval kapcsolatban:> nem tovább, mint …",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <időhatározóval kapcsolatban:> nem korábban, nem előbb, mint …",broader,particle
+csak, vminek az okát tudakoló kérdésre adott (udvariatlanul) kitérő feleletként," <A cselekvés, történés okát, célját tudakoló kérdésre adott dacos, indulatos feleletként, főleg gyermekek nyelvében, amikor az okot v. célt nem akarják, ill. nem tudják megmondani.>",broader,interjection
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Annak kifejezésére, hogy a szóban forgót viszonylag jelentéktelennek, nem különösen kiválónak vagy éppen rossznak tartjuk.>",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," számnév v. mennyiséget jelentő más szó, kifejezés előtt:> (bár ez kevés,) nem több v. ne többet, mint (csupán) …",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Térbeli távolsággal kapcs.:> nem v. ne messzebb, mint",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Időtartammal, időbeli távolsággal kapcs.:> nem v. ne tovább, mint",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Annak kifejezésére, hogy vmely múltbeli esemény idejét a jelenhez közelinek tartjuk.>",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Kisebb jelentőségű cselekvés körülírásában, főleg olyankor, ha súlyos következményével állítjuk szembe.>",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is", <Fokozó értékű tagadás nyomósítására:> még csak … se(m),broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Annak kifejezésére, hogy vmit térben v. időben távolinak, nehezen elérhetőnek v. nehezen kivárhatónak tartunk.>",broader,particle
+csak," annak jelölésére, hogy a mondat állítása a vele kiemelt elem mellett más elemre is igaz"," <A többi hasonlóról nem is szólva, más jelentős tételt nem is számítva> csupán, egyedül, pusztán",broader,particle
+csak," annak jelölésére, hogy a mondat állítása a vele kiemelt elem mellett más elemre is igaz"," <Annak kiemelésére, hogy a szóban forgó jelenség, körülmény viszonylag kevésbé jelentős ugyan, de az adott helyzetben mégis figyelemre méltó:> csupán, pusztán",broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is"," <Annak kifejezésére, hogy az e szóval kiemelt cselekvésnél v. magatartásnál többet, jelentősebbet v. szükségesebbet várnánk.>",broader,particle
+csak," vmely tulajdonság, állapot v. cselekvés, történés csekély mértékének, gyengeségének, ill. vmely tevékenység, folyamat kezdeti szakaszának jelölésében nyomatékosító jelleggel"," <Főleg tartós cselekvést, történést v. állapotot jelentő ige előtt, az ige ismétlésével is, a <Rövid ideig tartó cselekvésre vonatkozólag, mozzanatos és rövid ideig tartó ismétlődő cselekvést jelentő ige előtt, az ismétlődés kifejezésére:> újra meg újra, egyrelyamatosság nyomósítására:> szüntelenül, szakadatlanul, folytonosan, egyre",narrower,particle
+csak," az állítm-ban megnevezett cselekvés, történés intenzitásának, erőteljes voltának kif-ére"," <fokozó értelmű főhangsúlyos ige előtt, a fokozó értelem nyomósítására, rendsz. túlzó kifejezésben:> szinte, úgyszólván",broader,particle
+csak," az állítm-ban megnevezett cselekvés, történés intenzitásának, erőteljes voltának kif-ére"," <Hasonló helyzetben, következményként kifejezett fokozás nyomósítására:> (hogy) még … is",broader,particle
+csak," (érzelmi telítettséggel) annak kifejtése helyett, hogy vmely tulajdonság igen nagy mértékű, ill. ilyen mértékben van jelen"," <Fokozó értelmű következményes mellékmondatban:> anélkül, hogy bármire ideje maradna v. maradt volna; egyszerre hirtelen, azonmód",broader,particle
+csak," a várható v. lehetséges egyéb értékekhez képest alacsony érték jelölésére, lefokozó, lekicsinylő jelleggel is", <Kicsinyítés nyomósítására.>,broader,particle
+csak," a várható v. lehetséges egyéb értékekhez képest alacsony érték jelölésére, lefokozó, lekicsinylő jelleggel is", <Jelentéktelenség nyomósítására.>,broader,particle
+csak," a mondat vmely, kül. a lényegi, új információt hordozó részének a kiemelésére, az állítás érvényességét a szomszédos, rendsz. utána álló főhangsúlyos állítm-ra v. más (szerkezetes) mondatrészre korlátozva, es. lefokozó, lekicsinylő jelleggel is", <Múlt és jelen közti időbeli közelség nyomósítására.>,broader,particle
+csak," annak kif-ére, hogy a főmondat állítása a von nm-sal v. von hsz-val jelölt kategória minden egyes elemére érvényes"," <Állítás v. tagadás nyomósítására:> bizonyos vagyok benne, hogy …, kétségkívül; bizony",broader,particle
+csak," a kifejtett esemény váratlanságának, meglepő v. hirtelen voltának kif-ére, ill. nyomatékosítására"," <Váratlanság, meglepődés kifejezésére, rendsz. rövid ideig tartó v. mozzanatos cselekvéssel kapcsolatban, az egyszer v. ritkábban az egyszerre határozószóval együtt v. ezek nélkül:> váratlanul s meglepetést keltve; egyszerre",broader,particle
+csak," vmely állítás feltételezett v. esetleges tagadásának elutasítására, hárítására"," <Sértődés, sértődöttség kifejezésére, főleg olyankor, ha szavaink hihetőségét kétségbe vonja vki; mellékhangsúlyos szóként, a főhangsúly az igén.>",broader,particle
+csak," biztatás, rábeszélés v. fenyegetés, ill. beleegyezés, ráhagyás kif-ére, gyakr. a felszólítás enyhítéseként", <Fenyegetés kifejezésére; elbeszélésben is.>,broader,particle
+csak," annak kif-ére, hogy a főmondat állítása a von nm-sal v. von hsz-val jelölt kategória minden egyes elemére érvényes"," minden akadály, nehézség, tilalom ellenére (annál inkább)",exact,particle
+csak," annak kif-ére, hogy a főmondat állítása a von nm-sal v. von hsz-val jelölt kategória minden egyes elemére érvényes"," <Feltételességet kifejező felszólító alakú mondatban, a következő, érzelmileg színezett állítás bizonyosságának kiemelésére.>",broader,particle
+csak," (ellenkező értelemben mondott) értékelő, minősítő jellegű állítás nyomatékosítására"," <Érzelmileg színezett értékelésben; gúnyosan, ellenkező értelemben is:> aztán, még",exact,particle
+csak," annak kif-ére, hogy a főmondat állítása a von nm-sal v. von hsz-val jelölt kategória minden egyes elemére érvényes"," <Hangsúlytalan v. mellékhangsúlyos helyzetben, (fő)hangsúlyos ige előtt.>  különösebb cél nélkül, csupán csak, éppen csak hogy …; célzatosság nélkül",exact,particle
+csak," bizonytalanságot, tétovázást, tanácstalanságot kifejező kérdésben a válaszadásra való biztatás, sürgetés kif-ére"," <Elgondolkodást, bizonytalanságot, tétovázást tartalmazó kérdés színezésére, a közvetlenség érzékeltetésére.>",broader,particle
+csak," bizonytalanságot, tétovázást, tanácstalanságot kifejező kérdésben a válaszadásra való biztatás, sürgetés kif-ére"," <Általánosító, túlzó v. bizonytalan állítás, ill. tagadás után, némi csodálkozást, ellenvetést tartalmazó s megerősítést váró kérdésben.>",broader,particle
+csak," csodálkozás, meglepődés, ill. ellenvetés, megütközés, felháborodás kif-ére"," <Tagadó alakú eldöntendő kérdésben rendsz. a mondat élén, csodálkozásnak, kétkedésnek kifejezésére.>",broader,particle
+csak," csodálkozás, meglepődés, ill. ellenvetés, megütközés, felháborodás kif-ére"," <Hasonló mondatban, megütközés, méltatlankodás, felháborodás kifejezésére.>",broader,particle
+csak," csodálkozás, meglepődés, ill. ellenvetés, megütközés, felháborodás kif-ére"," <Hasonló mondatban, méltatlankodással vegyes fennhéjázás, gőg érzékeltetésére.>",broader,particle
+csak," csodálkozást, megütközést kifejező mondatban a hasonlítás nyomatékosítására"," <feltevéshez, elképzelt helyzethez való hasonlítás nyomósítására, főleg megütközés kifejezésében:> mintha bizony, mintha talán",exact,particle
+csak," biztatás, rábeszélés v. fenyegetés, ill. beleegyezés, ráhagyás kif-ére, gyakr. a felszólítás enyhítéseként"," <Bátorítás, biztatás kifejezésére.>",broader,particle
+csak," biztatás, rábeszélés v. fenyegetés, ill. beleegyezés, ráhagyás kif-ére, gyakr. a felszólítás enyhítéseként"," <felszólító módú ige után, főleg olyankor, ha a felszólító mód használatát magában ridegnek, keménynek éreznénk, kérés kifejezésére.>",broader,particle
+csak," biztatás, rábeszélés v. fenyegetés, ill. beleegyezés, ráhagyás kif-ére, gyakr. a felszólítás enyhítéseként"," <felszólító módú ige előtt, beleegyezés, ráhagyás nyomósítására, főleg lekicsinylést is tartalmazó feleletben:> hadd, hát csak",broader,particle
+csak," óhaj, kívánság erős érzelmi telítettségű kif-ére"," arra ugyan hiába vár, úgysem lesz abból semmi",broader,particle
+csak," <óhajtás, kívánás kif-ére:> jó lenne, ha…; bárcsak"," <Óhajtó mondat bevezető szavaként, ó!, hej!, haj!, jaj!, indulatszó után v. önállóan:> bár, bárcsak",broader,particle
+csak," <óhajtás, kívánás kif-ére:> jó lenne, ha…; bárcsak"," <Feltételes módú igével kapcs., rendsz. az ige után; óhajtó árnyalattal:> bezzeg, ha …",broader,particle
+csak," <óhajtás, kívánás kif-ére:> jó lenne, ha…; bárcsak"," <Óhajtást, vágyat közlő mondatban annak kifejezésére, hogy nem sok az, amit kívánunk; rendsz. is szóval, tőszámnév v. mennyiséget jelentő más szó, kifejezés előtt:> legalább",broader,particle
+csak," <óhajtás, kívánás kif-ére:> jó lenne, ha…; bárcsak"," <Térbeli távolságról szólva:> (ha messzebb v. tovább nem is,) legalább",broader,particle
+csak," a von nm-sal v. von hsz-val jelölt kategória teljességének, meghaladhatatlan mértékének, intenzitásának stb. a kif-ére"," <Vonatkozó névmás, vonatkozó határozószó után, az általánosítás v. általánosító túlzás jelentésmozzanatának kiemelésére:>",narrower,particle
+csak," a von nm-sal v. von hsz-val jelölt kategória teljességének, meghaladhatatlan mértékének, intenzitásának stb. a kif-ére"," amennyi …, mind, valamennyi; rendkívül sok, (szinte mind,) amennyi …",broader,particle
+csak," a von nm-sal v. von hsz-val jelölt kategória teljességének, meghaladhatatlan mértékének, intenzitásának stb. a kif-ére"," mindenféle, amilyen …; (rendkívül sokféle, szinte mindenféle,) amilyen …",broader,particle
+csak," állítás érvényességét megszorító, pontosító információ kiemelésére"," <Mellékmondat kötőszava, vonatkozó névmás, vonatkozó határozószó előtt, az oda érthető mutató névmás, mutató határozószó és a főmondat egyéb részei elhagyásával:> csak akkor, ha; csak azért (azt stb.), hogy",exact,particle
+csak," (érzelmi telítettséggel) annak kifejtése helyett, hogy vmely tulajdonság igen nagy mértékű, ill. ilyen mértékben van jelen","  <Érzelmileg színezett fokozásban, a következményt részletező mellékmondat helyett, annak érzékeltetésére, hogy a beszélő nem tudja kifejteni a következményt.> (Annyira … Olyan …, Úgy …) hogy csak!: hogy még! hogy no!",exact,particle
+csak, vminek az okát tudakoló kérdésre adott (udvariatlanul) kitérő feleletként," <Hasonló helyzetben, elzárkózó, a magyarázkodásnak elébe vágó feleletként.>",broader,interjection
+csak, vminek az okát tudakoló kérdésre adott (udvariatlanul) kitérő feleletként," <Hasonló kérdésre adott elgondolkodó, töprengő feleletként, a hát szóval bevezetve v. anélkül.>",broader,interjection
+csak, <az előző tagmondatban kifejtett állítás korlátozásának bevezetésére:>csakhogy; de," <Szembeállításban, főleg olyankor, mikor az előző alapján várható állítás helyett annak tagadása v. megszorítása következik:> de, azonban, ellenben",broader,conjunction
+csak, <az előző tagmondatban kifejtett állítás korlátozásának bevezetésére:>csakhogy; de," <Mentegetődzésben, főleg feltételes állításnak és a szándékolt cselekvés, magatartás akadályának szembeállításában:> csakhogy, de, azonban",broader,conjunction
+csak, <az előző tagmondatban kifejtett állítás korlátozásának bevezetésére:>csakhogy; de," <Szembeállításban, tagadó mondatot követő megszorító értelmű állító mondatban:> hanem; azonban, de",broader,conjunction
+csak, (korlátozó tartalmú) megengedés kif-ére," <Ellentétes mondatok, ellentétes fogalmak szembeállításában:> hanem csupán",broader,particle
+csak," a kifejtett esemény váratlanságának, meglepő v. hirtelen voltának kif-ére, ill. nyomatékosítására"," <Hangsúlyos szóként; az előzmény alapján nem várt következmény, folytatás bevezetésére, de, azonban, mindamellett kötőszóval v. ezek nélkül:> mégis",broader,particle
+csak, <az előző tagmondatban kifejtett állítás korlátozásának bevezetésére:>csakhogy; de," <Hasonló helyzetben, tagadó mondat bevezetésére.> mégsem",broader,conjunction
+csak," annak kif-ére, hogy a főmondat állítása a von nm-sal v. von hsz-val jelölt kategória minden egyes elemére érvényes"," <Megengedő értelmű mondat után, felszólító módú állítmánynyal kapcsolatban, annak érzékeltetésére, hogy a beszélő v. a szóban forgó személy a csak-kal bevezetett kívánság, vágy teljesülésén kívül mást nem akar, de azt nagyon kívánja.>",broader,particle
+csak, (korlátozó tartalmú) megengedés kif-ére," <Megengedő mondatban, annak kifejezésére, hogy már az ebben foglaltak is bizonyos fokú nehézséggel járnak, de nem olyan nagy mértékben, mint az utána következő mondatban foglaltak; gyakran megelőző még szóval nyomósítva; a következő tagmondatban de (hát), azonban kötőszó.>",broader,particle
+csak, (korlátozó tartalmú) megengedés kif-ére," <Megengedő mondatban, nyomósító értékkel, rendsz. méltatlankodást, felháborodást tartalmazó nyilatkozatban; a következő tagmondatban de (hát):> bár … igazán, … ugyan, igazán …; aztán",broader,particle
+csakhogy," <az előző állítás korlátozásának bevezetésére:> de, ámde, csak"," <Szándékolt cselekvés akadályának bevezetéseként:> csak az a baj, a bökkenő, hogy …; igen ám, de …; azonban",exact,conjunction
+csakhogy, vmely állítást (fokozó jelleggel) utólag pontosító (tag)mondat bevezetésére," <Vmely állítás utólagos, toldásszerű fokozásának bevezetéseként:> de, azonban",exact,conjunction
+csakhogy," vmely (erősen) vágyott v. váratlan(ul bekövetkező) dolog, kül. esemény miatti öröm, lelkesedés kif-ére"," <A lelkendezés, kitörő öröm v. a káröröm kifejezésében, gyak. a megkönnyebbülésnek, a feszültség megszűnésének levezetésére:> de jó, hogy …",broader,particle
+csakhogy," vmely (erősen) vágyott v. váratlan(ul bekövetkező) dolog, kül. esemény miatti öröm, lelkesedés kif-ére"," <Méltatlankodással, bosszankodással vegyes gúny kifejezésében.>",broader,particle
+csakhogy," annak kif-ére, hogy vmely cselekvés, történés stb. (már) majdnem bekövetkezik, (már) szinte megvalósul"," <Tagadó alakú fokozó mondat bevezetéseként; a tagadószó az igekötő v. bővítmény után, az ige előtt van:> olyan nagy mértékben, hogy (már-már) szinte …",exact,particle
+csap," úgy üt meg vkit v. vmit, hogy az ütés csattanó hangot ad"," Úgy üt meg vkit, vmit, hogy az ütés éles, csattanó hangot ad",exact,verb
+csap," úgy üt vkire, vhova, hogy ütése csattan"," Vkire, vmire olyat üt, hogy ütése csattan",exact,verb
+csap," Nagy erővel, lendülettel ér, jut vhova vmi"," Vmit, esetleg vkit nagy erővel v. lendülettel, hirtelen mozdulattal odatesz, gyak. ledob, odavág vhova, rendsz. úgy, hogy csattan",exact,verb
+csap, <rendsz. ünneplő ruhába> gyorsan felöltözik," gyorsan, sietve magára ölt <vmit, rendsz. díszes v. ünneplő ruhát>",exact,verb
+csap," (sebtében) még hozzátesz, hozzácsatol, ill. hozzászámít vmit vmihez"," <Vmi meglevőhöz> odadobva sebtiben, hanyagul hozzátesz vmit",exact,verb
+csap, <zálogba> tesz vmit," <hirtelen elhatározással, pillanatnyi ötlet alapján> zálogba tesz vmit",exact,verb
+csap," <lármát, zajt> kelt, előidéz heves megnyilvánulásával, működésével v. vmely eszközzel, ill. <vmely eseményt> nagy lármával, felhajtással rendez vki"," <Feltűnő zajt> hirtelen előidéz, okoz úgy, hogy másokat rendsz. zavar vele",broader,verb
+csap," <lármát, zajt> kelt, előidéz heves megnyilvánulásával, működésével v. vmely eszközzel, ill. <vmely eseményt> nagy lármával, felhajtással rendez vki"," <Mulatságot, vidám összejövetelt> nagy zajjal, hűhóval, feltűnést keltve rendez",broader,verb
+csap," <lármát, zajt> kelt, előidéz heves megnyilvánulásával, működésével v. vmely eszközzel, ill. <vmely eseményt> nagy lármával, felhajtással rendez vki"," Gyorsan, (eredményesen) lebonyolít, nyélbe üt vmit",broader,verb
+csap," <lövedék, villám> hirtelen, éles, csattanó hanggal bevágódik, becsapódik (vhova)"," <Lövedék, villám> hirtelen, éles, csattanó hanggal (bele)esik vmibe, vmi közé; bevág, be(le)csap(ódik)",exact,verb
+csap," <víz, szél, hő stb.> nagy erővel verődik, csapódik vhova"," <Áramló anyag v. terjedő jelenség> hirtelen eljut vhova, vmihez, és váratlanul, gyak. nagy erővel (hatva) megérinti v. belehatol",narrower,verb
+csap," <hang, szag vmely érzékszervbe> hirtelen(, nagy erővel) ér, jut"," Hirtelen, nagy erővel, vészjóslóan emelkedik v. átterjed vmerre",narrower,verb
+csap," <kül. érzés> hirtelen felerősödik, megnő(, és így ér vhova)"," <érzés vmitől táplálva> hirtelen megerősödik; fellobog, fellobban",exact,verb
+csap," <hadsereg(gel)> hirtelen, meglepetésszerűen támad vkire, ill. <idegen területre> meglepetésszerűen behatol"," vkin, vmin váratlanul rajtaüt, hirtelen, meglepetésszerűen megtámad vkit",exact,verb
+csap," (hirtelen) irányt változtatva megy, fordul vmerre"," hirtelen vmely más irányba tér, más területen folytatja tevékenységét",exact,verb
+csap," hirtelen másba fordul, mássá alakul vmi"," előbbi cselekvését abbahagyva, hirtelen vmi másba, kül. fokozottabb iramú cselekvésbe kezd",exact,verb
+csap," <állatokat, jószágot> hajt, terel vhova"," <állatokat, jószágot, rendsz. vmely zárt helyről> a legelőre hajt, és ott hagyja legelni (őket)",exact,verb
+eláraszt," <folyadék> bőven ömölve, egyre nagyobb területen szétáradva beborít vmit", <Álló- v. folyóvíz> megáradva elborít vmit,exact,verb
+eláraszt," <fény, hang, szag stb.> szétáradva betölt, átjár vmit"," <légnemű test, szag, fény> vhova behatolva ott nagymértékben érezteti hatását",exact,verb
+eláraszt," <tárgyak v. élőlények sokasága> (tömegesen tódulva vhova) elözönöl, ellep vmit, es. vkit"," <Sok-sok hasonló jellegű élőlény> ellep, elözönöl vmit",broader,verb
+eláraszt," annak kif-ére, hogy okozza v. előidézi, hogy terület v. térség folyadékkal legyen borítva", <személy vmely területet v. térséget> teljesen víz alá juttat,exact,verb
+eláraszt," <vminek a sokaságával> bőségesen ellát, elborít vkit v. vmit; elhalmoz"," okozza, hogy vmely térség megteljék vmivel",exact,verb
+eláraszt," annak kif-ére, hogy okozza v. előidézi, hogy terület v. térség folyadékkal legyen borítva"," vhol sok ember halálát, szenvedését és gyászát okozza",broader,verb
+eláraszt," <vminek a sokaságával> bőségesen ellát, elborít vkit v. vmit; elhalmoz", nagy tömegben széles területen elterjeszt vmit,broader,verb
+eláraszt," <vminek a sokaságával> bőségesen ellát, elborít vkit v. vmit; elhalmoz"," elhalmozza szeretetének, megbecsülésének bizonyos jeleivel",broader,verb
+eláraszt," <érzés> teljesen átjár, áthat vkit v. vmit"," <érzelem> teljesen úrrá lesz rajta, hatalmába keríti",exact,verb
+elbír," <súlyt, terhe(lés)t> szilárdsága, ill. ereje révén képes (meg)tartani, mozgatni v. (el)vinni"," <Ember, állat v. tárgy vmely terhet> képes tartani, vinni v. vele dolgozni, mert elég erős hozzá",exact,verb
+elbír," <(nehezen kezelhető) személlyel> (el) tud bánni, boldogul, ill. <nehézséget jelentő dologgal> megbirkózik, sikeresen megküzd vki, vmi"," <személy> elég erős ahhoz, hogy egymaga összemérje vkivel az erejét, v. vmely súlyos tárggyal, nagyobb teherrel megbirkózzék",broader,verb
+elbír," <(nehezen kezelhető) személlyel> (el) tud bánni, boldogul, ill. <nehézséget jelentő dologgal> megbirkózik, sikeresen megküzd vki, vmi"," <Ember, emberi lélek szenvedést v. neki személyileg kellemetlenséget jelentő dolgot> képes elviselni, eltűrni",broader,verb
+elbír," <súlyt, terhe(lés)t> szilárdsága, ill. ereje révén képes (meg)tartani, mozgatni v. (el)vinni"," hosszabb időn át el tudja viselni vkinek a kellemetlen jelenlétét v. közellétét; kibír, kiáll(hat) vkit",broader,verb
+elbír," <súlyt, terhe(lés)t> szilárdsága, ill. ereje révén képes (meg)tartani, mozgatni v. (el)vinni"," Vállalat, közösségi, pénzügyi alap vmely anyagi megterhelést, befektetést> képes vállalni, kifizetni, mert az a kellő mértékben v. időben visszatérül, futja belőle arra is",broader,verb
+elbír," <huzamosabb ideig tartó, ill. a szokásosnál nagyobb fizikai, anyagi, lelki stb. megterhelést v. más, kellemetlenséget jelentő dolgot> kár(osodás), baj nélkül elvisel, kibír"," olyan, hogy baj, veszedelem, nehézség nélkül v. anélkül, hogy ez hátrányára válnék, történhet vele vmi",broader,verb

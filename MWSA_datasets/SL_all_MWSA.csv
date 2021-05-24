@@ -1,0 +1,960 @@
+lemma,pos,semantic_relationship,sense_source,sense_target
+arhitektura ,noun,exact,veda in dejavnost,"disciplina, ki se ukvarja z načeli snovanja, izgradnje in okraševanja lepih zgradb"
+arhitektura ,noun,related,način gradnje in oblikovanja stavb,"poklic, ki snuje zgradbe in okolja z mislijo na njihov estetski učinek"
+arhitektura ,noun,broader,stavba; zgradba; objekt,arhitekturni izdelek ali delo
+arhitektura ,noun,exact,v računalništvu,(računalništvo) struktura in organizacija računalniške strojne ali programske opreme
+grmeti ,verb,broader,oddajati glasen zvok,izgovoriti besede glasno in močno
+grmeti ,verb,related,o nevihti,"obnašati se nasilno, kot v stanju velike jeze"
+grmeti ,verb,narrower,razburjati se; kritizirati,izgovoriti besede glasno in močno
+babica ,noun,exact,mati očeta ali matere,mati tvojega očeta ali matere
+babica ,noun,narrower,starejša ženska,mati tvojega očeta ali matere
+babica ,noun,exact,poklic,"ženska, ki je usposobljena za pomoč pri porodu otrok"
+balon ,noun,exact,zračno plovilo,"velika, trpežna, nerigidna vreča, napolnjena s plinom ali ogretim zrakom"
+balon ,noun,exact,napihljiva igrača,"majhna, tenka, napihljiva gumnata vreča z ozkim vratom"
+balon ,noun,related,"kar ima okroglo, trebušasto obliko","majhna, tenka, napihljiva gumnata vreča z ozkim vratom"
+barva ,noun,broader,lastnost predmetov in površin,"vizualna lastnost predmetov, ki je rezultat svetlobe, ki jo oddajajo, prevajajo ali odsevajo"
+barva ,noun,narrower,"na obrazu, telesu",izgled z vidika barve
+barva ,noun,broader,snov,"snov, uporabljena kot premaz za zaščito ali okraševanje površine (zlasti mešanica barvil v tekočini); ko se posuši, ustvari trden premaz"
+barva ,noun,exact,o zvokih,zven glasbenega tona
+briljanten ,adjective,exact,ki zbuja občudovanje; izjemen,zelo dober; najboljše kakovosti
+briljanten ,adjective,narrower,o dosežkih,zelo dober; najboljše kakovosti
+briljanten ,adjective,narrower,o umetnikih ali znanstvenikih,zelo dober; najboljše kakovosti
+briljanten ,adjective,narrower,zelo inteligenten; genialen,zelo dober; najboljše kakovosti
+briljanten ,adjective,narrower,ki prinaša velik uspeh ali dobiček,zelo dober; najboljše kakovosti
+roditi ,verb,broader,spraviti na svet,"povzročiti, da se nekdo rodi"
+roditi ,verb,narrower,o materi in otroku,"povzročiti, da se nekdo rodi"
+roditi ,verb,narrower,postati starš; dobiti otroka,"povzročiti, da se nekdo rodi"
+roditi ,verb,narrower,o živalih,"povzročiti, da se nekdo rodi"
+roditi ,verb,narrower,začeti živeti,"povzročiti, da se nekdo rodi"
+roditi ,verb,narrower,glede na čas in kraj,"povzročiti, da se nekdo rodi"
+roditi ,verb,narrower,glede na telesne in duševne lastnosti,"povzročiti, da se nekdo rodi"
+roditi ,verb,broader,pojaviti se; nastati,ustvariti ali tvoriti
+roditi ,verb,narrower,o ustanovah in pojavih,ustvariti ali tvoriti
+roditi ,verb,exact,"dati sad, pridelek; obroditi",ustvariti ali tvoriti
+roditi ,verb,narrower,o rastlinah,ustvariti ali tvoriti
+roditi ,verb,narrower,o zemlji,ustvariti ali tvoriti
+slikati ,verb,exact,fotografirati,narediti film ali fotografijo nečesa
+spati ,verb,exact,ležati v postelji z zaprtimi očmi,biti v spečem stanju
+spati ,verb,related,imeti prostor za spanje,biti zmožen gostiti nekoga za prenočevanje
+spati ,verb,narrower,biti nedejaven,biti v spečem stanju
+čeden ,adjective,exact,ki lepo izgleda; lep; privlačen,"prijeten po izgledu, zlasti zaradi skladnosti z idealom oblike in razmerja"
+čeden ,adjective,narrower,o človeku,"prijeten po izgledu, zlasti zaradi skladnosti z idealom oblike in razmerja"
+čeden ,adjective,narrower,o stvareh,zelo prijeten na pogled
+čeden ,adjective,exact,ki obstaja v veliki količini,"velik po količini, meri ali stopnji"
+čelo ,noun,related,vodilni položaj,prednji del vojaške postrojitve ali procesije
+čelo ,noun,narrower,sprednji del česa,"stran, ki je sprednja ali izstopa"
+čelo ,noun,exact,glasbilo,veliko glasbilo s strunami; igralec ga igra sede in ga med igranjem drži pokonci
+anatomija ,noun,broader,znanstvena veda,"veja morfologije, ki se ukvarja s sestavo živali"
+aplikacija ,noun,exact,računalniški program,"program, ki računalniku daje navodila, ki uporabniku dodelijo orodja, s katerimi lahko razreši nalogo"
+aplikacija ,noun,exact,prenos teorije v prakso; uporaba,"dejanje, s katerim začnemo delovanje nečesa"
+aplikacija ,noun,narrower,o znanju,"dejanje, s katerim začnemo delovanje nečesa"
+aplikacija ,noun,narrower,o pravilih,"dejanje, s katerim začnemo delovanje nečesa"
+enoglasno ,adverb,exact,soglasno; enotno,s popolnim strinjanjem; brez razhajanja
+enoglasno ,adverb,related,kot z enim glasom; v en glas,s popolnim strinjanjem; brez razhajanja
+aranžma ,noun,narrower,ureditev cvetja,"urejena skupina (stvari ali oseb), ki se šteje kot enota; rezultat aranžiranja"
+aranžma ,noun,exact,glasbeno delo,"glasbeno delo, ki je bilo prilagojeno za izvedbo s strani določenega števila glasov ali glasbil"
+gladko ,adverb,exact,brez težav; z lahkoto,brez problemov ali težav
+absoluten ,adjective,broader,splošno veljaven; brezpogojen; nesporen,dovršen in neomejen oz. brezpogojen;  v pogovorni rabi včasih uporabljen kot intenzifikator
+absoluten ,adjective,narrower,popoln; dokončen,popoln ali dovršen ali čist
+absoluten ,adjective,narrower,o obliki vladanja,zakonsko neomejen
+aktivirati ,verb,broader,"povzročiti, da postane kaj dejavno","sprožiti, začeti"
+aktivirati ,verb,related,"o človeku, dejavnosti",spraviti v dejavnost oz. spodbuditi k živahnejši dejavnosti
+aktivirati ,verb,related,o procesu v telesu,povečati adsorptivnost
+aktivirati ,verb,related,o kemični reakciji,"oksidirati (odplake) z namenom spodbuditi rast organizmov, ki razkrajajo organske snovi"
+aktivirati ,verb,narrower,v računalništvu,"sprožiti, začeti"
+aktivirati ,verb,narrower,povzročiti delovanje naprave,"sprožiti, začeti"
+aktivirati ,verb,related,o eksplozivih,narediti (snov) radioaktivno
+aplikacija ,noun,exact,računalniški program,"program, ki posreduje navodila računalniškemu orodju, s katerim lahko uporabnik opravi nalogo"
+aplikacija ,noun,exact,prenos teorije v prakso; uporaba,spraviti v uporabo
+aplikacija ,noun,narrower,o znanju,spraviti v uporabo
+aplikacija ,noun,narrower,o pravilih,spraviti v uporabo
+boben ,noun,exact,glasbilo,"glasbilo oz. tolkalo; v obliki votlega valja, ki ima na obeh straneh napeto opno"
+boben ,noun,narrower,v glasbeni skupini,"glasbilo oz. tolkalo; v obliki votlega valja, ki ima na obeh straneh napeto opno"
+boben ,noun,exact,naprava ali predmet,"izbočena, valjasta oblika; votla, s ploskimi stranicami"
+boben ,noun,narrower,za žrebanje,"izbočena, valjasta oblika; votla, s ploskimi stranicami"
+boben ,noun,narrower,pri strojih,"izbočena, valjasta oblika; votla, s ploskimi stranicami"
+boben ,noun,narrower,za navijanje,"izbočena, valjasta oblika; votla, s ploskimi stranicami"
+boben ,noun,narrower,na televiziji,"izbočena, valjasta oblika; votla, s ploskimi stranicami"
+boben ,noun,narrower,pri tiskalniku,"izbočena, valjasta oblika; votla, s ploskimi stranicami"
+boben ,noun,narrower,"pri revolverju, pištoli","izbočena, valjasta oblika; votla, s ploskimi stranicami"
+brazda ,noun,exact,dolg ozek rez v zemlji,dolg plitek jarek v zemlji (še posebno pri oranju)
+brazda ,noun,exact,zareza,dolga ozka vdolbina v površini
+cepiti ,verb,exact,prejeti ali vnesti cepivo,izvajati cepljenje oz. vzpostaviti imunost z vnašanjem cepiva
+cepiti ,verb,broader,deliti na več delov,"ločiti ali razsekati z orodjem, recimo z rezilom"
+cepiti ,verb,narrower,sekati,"ločiti ali razsekati z orodjem, recimo z rezilom"
+cepiti ,verb,broader,izboljšati kakovost,zraščati dele različnih rastlin
+cepiti ,verb,exact,o rastlinah,zraščati dele različnih rastlin
+deblo ,noun,exact,oleseneli del rastline,"glavno steblo drevesa; navadno prekrito z lubjem; del, ki je komercialno donosen v lesni industriji"
+deblo ,noun,exact,o rastlinah in živalih,"(botanika) taksonomska enota rastlinstva, ki ustreza deblu (phylum)"
+dialog ,noun,exact,pogovor,izmenjava mnenj z namenom doseči soglasje
+dialog ,noun,exact,komunikacija,izmenjava mnenj z namenom doseči soglasje
+dialog ,noun,exact,dvogovor,pogovor med dvema osebama
+dialog ,noun,exact,literarno delo,literarni sestavek v obliki pogovora med dvema osebama
+dialog ,noun,narrower,"v filmu, knjigi",literarni sestavek v obliki pogovora med dvema osebama
+dihati ,verb,exact,vdihavati in izdihavati zrak,zajeti in iztisniti zrak iz pljuč
+dihati ,verb,narrower,o ljudeh in živalih,zajeti in iztisniti zrak iz pljuč
+dihati ,verb,exact,izžarevati,"izražati, izkazati"
+formalen ,adjective,narrower,v skladu z uradnimi predpisi,v skladu z ustaljenimi normami in navadami in zahtevami (npr. formalna obleka)
+formalen ,adjective,narrower,o izobrazbi,v skladu z ustaljenimi normami in navadami in zahtevami (npr. formalna obleka)
+formalen ,adjective,exact,v skladu z družbenimi normami,v skladu z ustaljenimi normami in navadami in zahtevami (npr. formalna obleka)
+formalen ,adjective,narrower,o pomembnem dogodku,v skladu z ustaljenimi normami in navadami in zahtevami (npr. formalna obleka)
+formalen ,adjective,narrower,o oblačilu,v skladu z ustaljenimi normami in navadami in zahtevami (npr. formalna obleka)
+formalen ,adjective,narrower,"o načinu obnašanja, komuniciranja",v skladu z ustaljenimi normami in navadami in zahtevami (npr. formalna obleka)
+formalen ,adjective,narrower,o zunanji obliki,upodobljen v poenostavljeni ali simbolni obliki
+formalen ,adjective,narrower,o obliki,upodobljen v poenostavljeni ali simbolni obliki
+formalen ,adjective,exact,navidezen,zgolj na videz
+glas ,noun,broader,zvok,"zvok, ki ga povzroči vibracija glasilk v povezavi z resonanco vokalnega trakta"
+glas ,noun,broader,ko govorimo,značilna lastnost ali ton ali stanje posameznikovega govora
+glas ,noun,narrower,ko prepevamo,"zvok, ki ga povzroči vibracija glasilk v povezavi z resonanco vokalnega trakta"
+glas ,noun,narrower,oglašanje,"zvok, ki ga povzroči vibracija glasilk v povezavi z resonanco vokalnega trakta"
+glas ,noun,exact,ki ga proizvede predmet,"melodija, ki jo v polifoniji izvaja določen glas ali inštrument"
+glas ,noun,related,kot bolezenski simptom,"zvok, ki spominja na govorni izraz"
+glas ,noun,broader,najmanjši zvočni del besede,"(fonetika) posamezna zvočna enota govora, ne glede na to, ali v določenem jeziku deluje kot fonem"
+glas ,noun,broader,mnenje,"sredstvo ali dejanje, s katerim nekaj izrazimo ali sporočimo"
+glas ,noun,narrower,mnenje skupine ljudi,"sredstvo ali dejanje, s katerim nekaj izrazimo ali sporočimo"
+glas ,noun,related,"oseba, ki izraža mnenje",(metonimija) pevec
+glas ,noun,broader,splošno uveljavljeno mnenje o čem,"sredstvo ali dejanje, s katerim nekaj izrazimo ali sporočimo"
+glas ,noun,exact,misli ali občutki,"zvok, ki spominja na govorni izraz"
+glas ,noun,exact,"o glasovanju, volitvah","odločitev sprejeta na podlagi števila oseb, ki so v prid določene možnosti"
+glasben ,adjective,broader,o glasbi,za katerega je značilna glasba oz. ki je zmožen ustvariti glasbo
+glasben ,adjective,broader,o produkciji ali delu,za katerega je značilna glasba oz. ki je zmožen ustvariti glasbo
+globalen ,adjective,exact,svetovni; mednarodni,ki se nanaša na ves svet; ki ni omejenega dometa ali provincialen
+globalen ,adjective,broader,splošno veljaven; razširjen,ki se nanaša na ves svet; ki ni omejenega dometa ali provincialen
+globalen ,adjective,narrower,zemeljski; planetarni,ki se nanaša na ves svet; ki ni omejenega dometa ali provincialen
+globalen ,adjective,exact,ki zadeva celoto; celostni,ki obsega vse
+gojiti ,verb,exact,pridelovati; vzrejati,"pridelati z gojenjem, navadno s pomočjo izboljšav, ki jih vnašajo poljedelski postopki"
+gojiti ,verb,narrower,"imeti predstavo, pričakovanja","vztrajati pri (teoriji), podpirati (mnenje), vzdrževati (čustvo)"
+gojiti ,verb,exact,o občutkih,imeti rad; biti navezan
+gojiti ,verb,exact,izvajati in spodbujati; negovati,"pomagati razviti, pomagati vzgojiti"
+gojiti ,verb,narrower,o stikih,"pomagati razviti, pomagati vzgojiti"
+gojiti ,verb,narrower,o  [športu],"pomagati razviti, pomagati vzgojiti"
+gojiti ,verb,broader,ukvarjati se,"pomagati razviti, pomagati vzgojiti"
+igra ,noun,broader,šport,vnaprej določen načrt delovanja v skupinskih športih
+igra ,noun,broader,vrsta športa,posamična športna prireditev  oz. drugo tekmovanje
+igra ,noun,narrower,pri golfu,posamična športna prireditev  oz. drugo tekmovanje
+igra ,noun,related,pri tenisu,"(tenis) delitev tekme, pri kateri ima servis eden izmed igralcev"
+igra ,noun,exact,tekmovanje; srečanje,posamična športna prireditev  oz. drugo tekmovanje
+igra ,noun,narrower,del tekmovanja,posamična športna prireditev  oz. drugo tekmovanje
+igra ,noun,narrower,prireditev,posamična športna prireditev  oz. drugo tekmovanje
+igra ,noun,exact,film; predstava,gledališka uprizoritev dramskega teksta
+igra ,noun,exact,zabava,razvedrilo ali zabava
+igra ,noun,narrower,računalniška igra,razvedrilo ali zabava
+igra ,noun,narrower,partija,posamična športna prireditev  oz. drugo tekmovanje
+igra ,noun,narrower,prireditev,posamična športna prireditev  oz. drugo tekmovanje
+igra ,noun,exact,o otrocih,"otroška dejavnost, ki ji, bolj kot ustaljena pravila, botruje domišljija"
+igra ,noun,broader,dogajanje; splet dogodkov,"stanje, v katerem je možno delovati"
+igra ,noun,broader,nemoralno delovanje,"stanje, v katerem je možno delovati"
+intenzivno ,adverb,exact,"z veliko truda, napora in časa",na silovit način
+intenzivno ,adverb,exact,zelo čustveno,z energijo; energično
+izdati ,verb,exact,urediti za objavo in prodajo,pripraviti in dati v javni obtok ali v prodajo
+izdati ,verb,exact,o dokumentih in listinah,"napraviti, da stopi v veljavo javen dokument (npr. nalog)"
+izdati ,verb,broader,dati v obtok,"napraviti, da stopi v veljavo javen dokument (npr. nalog)"
+izdati ,verb,broader,razkriti,"povzročiti, da se nekaj razkrije in s tem ogroziti"
+izdati ,verb,exact,skrivne podatke,"povzročiti, da se nekaj razkrije in s tem ogroziti"
+izdati ,verb,exact,povedati kaj; zaupati,o nekom razkriti podatke
+izdati ,verb,exact,izneveriti; prevarati,"razočarati, izkazati se za nezanesljivega; zapustiti, zavreči"
+izkušen ,adjective,broader,ki je veliko doživel in se naučil,"ki ima izkušnje; ki ima znanje ali spretnosti, pridobljene z opazovanjem ali sodelovanjem"
+izkušen ,adjective,exact,izurjen in spreten,ki je z veliko vaje postal spreten
+izurjen ,adjective,exact,usposobljen,ki ima ali izkazuje znanje in spretnost in sposobnost
+izurjen ,adjective,narrower,"za poklic, dejavnost",ki ima ali izkazuje znanje in spretnost in sposobnost
+izurjen ,adjective,narrower,o živalih; izšolan,oblikovan ali naučen ali streniran s pomočjo vaje; navadno kot del zloženke
+izurjen ,adjective,exact,spreten; izkušen,ki je z veliko vaje postal spreten
+jezik ,noun,exact,organ,"premična mišična gmota, prekrita s sluzastim tkivom, ki se nahaja v ustni votlini"
+jezik ,noun,exact,kot hrana,meso jezika nekaterih živali
+jezik ,noun,broader,sredstvo za sporazumevanje,sistematsko sporočanje s z uporabo zvokov ali ustaljenih znakov
+jezik ,noun,exact,miselna sposobnost,miselna zmožnost ali sposobnost za govorno sporočanje
+jezik ,noun,exact,komunikacijski proces,sistematsko sporočanje s z uporabo zvokov ali ustaljenih znakov
+jezik ,noun,exact,način izražanja,način govorjenja
+jezik ,noun,narrower,v govoru,način govorjenja
+jezik ,noun,exact,[geografija],"ozek pas kopna, ki štrli v morje"
+jezik ,noun,exact,del čevlja,zaplata blaga pod vezalkami čevljev ali škornjev
+junaško ,adverb,exact,značilno za junake,herojsko
+junaško ,adverb,broader,zelo pogumno in odločno,herojsko
+kisel ,adjective,exact,takega okusa kot limona,eden od štirih osnovnih okusov; z okusom po kisu ali limonah
+kisel ,adjective,exact,o jedeh in živilih,kiselkastega okusa
+kisel ,adjective,exact,o vonju,ki ima vonj po fermentaciji ali postanem
+kisel ,adjective,exact,v kemiji,ki ima lastnosti kisline
+kisel ,adjective,related,neprijeten,"čemeren, razdražljiv"
+kisel ,adjective,broader,o občutkih; nerazpoložen,"čemeren, razdražljiv"
+kisel ,adjective,related,o situaciji,"čemeren, razdražljiv"
+kisel ,adjective,related,o vremenu,"čemeren, razdražljiv"
+konj ,noun,exact,žival,"štirinožna rastlinojeda žival z roževinastimi kopiti, udomačena že v prazgodovini"
+konj ,noun,exact,telovadno orodje,oblazinjeno gimnastično orodje na nogah
+konj ,noun,exact,šahovska figura,"šahovska figura, oblikovana kot konjska glava; se lahko premakne dve polji vzporedno in eno navpično (ali obratno)"
+konkurenčen ,adjective,exact,o boju za delež na trgu,ki verjame v kapitalistično tekmovalnost
+konkurenčen ,adjective,broader,rivalski,z borbenim duhom
+konkurenčen ,adjective,narrower,o športni ekipi,ki vključuje tekmovanje ali tekmovalnost
+korenina ,noun,exact,del rastline,"(botanika) običajno podzemeljski organ, ki nima poganjkov, listov ali vozlov; vpija vodo in minerale; rastlino po navadi zasidra v tla"
+korenina ,noun,broader,del telesa,"del zoba, ki je vraščen v čeljust in služi kot temelj"
+kožen ,adjective,broader,o vrhnjem delu telesa pri človeku,"ki se nanaša na kožo, obstaja na koži ali vpliva na kožo"
+kožen ,adjective,narrower,podoben človeški koži,"ki se nanaša na kožo, obstaja na koži ali vpliva na kožo"
+kožen ,adjective,narrower,o vrhnjem delu telesa pri živali,lociran v povrhnjici ali nanašajoč se na povrhnjico
+kraljica ,noun,exact,vladarica,vladarka
+kraljica ,noun,exact,kraljeva žena,kraljeva žena ali vdova
+kraljica ,noun,broader,najpomembnejša predstavnica,poosebljenje najboljše ali najpomembnejše ženske na določenem področju
+kraljica ,noun,narrower,zelo uspešna ženska,"tekmica, ki ima prevladujoč položaj"
+kraljica ,noun,narrower,zmagovalka tekmovanja,"tekmica, ki ima prevladujoč položaj"
+kraljica ,noun,exact,pomembna panoga ali disciplina,poosebljenje najboljše ali najpomembnejše ženske na določenem področju
+kraljica ,noun,exact,šahovska figura,(šah) najmočnejša figura
+krilo ,noun,exact,oblačilo,"oblačilo, ki se nosi okoli pasu; večinoma ga nosijo dekleta in ženske"
+krilo ,noun,exact,del telesa pri živali,gibljiv organ za letenje (eden v paru)
+krilo ,noun,exact,del letala,eden izmed dveh horizontalnih letalskih delov na obeh straneh letalskega trupa
+krilo ,noun,exact,del politične stranke,"skupina znotraj politične stranke ali zakonodajnega telesa ali druge organizacije, ki zagovarja določena prepričanja ali ima posebno nalogo"
+krilo ,noun,narrower,o Natu,"skupina znotraj politične stranke ali zakonodajnega telesa ali druge organizacije, ki zagovarja določena prepričanja ali ima posebno nalogo"
+krilo ,noun,narrower,o Evropski uniji,"skupina znotraj politične stranke ali zakonodajnega telesa ali druge organizacije, ki zagovarja določena prepričanja ali ima posebno nalogo"
+krilo ,noun,broader,o igralcu pri igrah z žogo,hokejski igralec na sprednjem položaju v obeh ekipah
+krilo ,noun,exact,o stavbi,"prizidek, ki podaljša glavno zgradbo"
+krilo ,noun,exact,o vojski,stran vojaške ali pomorske formacije
+krilo ,noun,related,leva ali desna polovica česa,"stranska ploskev, bočna stran"
+krona ,noun,exact,naglavno okrasje,"dragoceno okrasno pokrivalo, ki je znamenje vladarske oblasti"
+krona ,noun,broader,kar je podobno kroni,zgornje veje in listje na drevesu ali drugi rastlini
+krona ,noun,exact,kraljestvo,Krona (ali vladajoči monarh) kot simbol monarhične moči in avtoritete
+krona ,noun,exact,del zoba,"del zoba nad dlesnijo, ki je pokrit s sklenino"
+lak ,noun,exact,snov za zaščito,"trda, blesteča prevleka"
+lak ,noun,narrower,za vozila,"trda, blesteča prevleka"
+lak ,noun,narrower,za nohte,"trda, blesteča prevleka"
+lak ,noun,narrower,za lase,"trda, blesteča prevleka"
+lak ,noun,exact,sloj,"trd, lesketajoč, prozoren zaključni sloj na površini"
+lesen ,adjective,exact,izdelan iz lesa,ki je (delno ali v celoti) iz lesa oz. izdelano iz lesa
+lesen ,adjective,broader,okoren; nespreten,"s čimer je težko shajati; zlasti nekaj, kar povzroča neugodje in sram"
+lesen ,adjective,broader,o surovini,iz lesa ali izdelano iz lesa ali podobno lesu
+lesen ,adjective,broader,o proizvodnji in prodaji,iz lesa ali izdelano iz lesa ali podobno lesu
+lesen ,adjective,broader,o lastnostih,iz lesa ali izdelano iz lesa ali podobno lesu
+lesen ,adjective,narrower,o izdelkih,iz lesa ali izdelano iz lesa ali podobno lesu
+ljubiti ,verb,exact,imeti močan čustven odnos,čutiti močno naklonjenost do nekoga
+ljubiti ,verb,exact,biti zaljubljen,biti zaljubljen v nekoga
+ljubiti ,verb,broader,imeti zelo rad,čutiti močno naklonjenost do nekoga
+ljubiti ,verb,exact,spolno občevati,z nekom imeti spolne odnose
+meden ,adjective,broader,o medu,ki vsebuje med
+meden ,adjective,exact,narejen iz medu,ki vsebuje med
+meden ,adjective,broader,mamljiv,ki kaže v laskavi luči
+mesen ,adjective,exact,čuten; erotičen,ki se nanaša na telesne apetite in strasti
+mesen ,adjective,broader,o mesu,kot bi bilo oz. je iz mesa
+mesen ,adjective,exact,narejen iz mesa,kot bi bilo oz. je iz mesa
+mečkati ,verb,exact,delati gube,"na gladki površini narediti gube ali pregibe; vtisniti, preganiti ali nagubati"
+mečkati ,verb,narrower,gubati se,"na gladki površini narediti gube ali pregibe; vtisniti, preganiti ali nagubati"
+mečkati ,verb,broader,gnesti in stiskati,"nasilno stisniti, zmaličiti naravno obliko ali stanje"
+mečkati ,verb,exact,obotavljati se,postavati
+motiv ,noun,broader,umetniška tema,"osnovna ideja, ki se ponavlja v književnem ali umetniškem delu"
+motiv ,noun,exact,razlog,"psihološka značilnost, ki organizem spodbudi k delovanju v smeri želenega cilja; razlog za delovanje; tisto, kar osmišljuje vedenje"
+motiv ,noun,narrower,notranji vzgib,"psihološka značilnost, ki organizem spodbudi k delovanju v smeri želenega cilja; razlog za delovanje; tisto, kar osmišljuje vedenje"
+motiv ,noun,narrower,zavzetost za cilj,"psihološka značilnost, ki organizem spodbudi k delovanju v smeri želenega cilja; razlog za delovanje; tisto, kar osmišljuje vedenje"
+mreža ,noun,broader,"preplet niti, žic","blago iz vrvice ali vrvi ali žice, ki je prepletena v rednih presledkih"
+mreža ,noun,exact,material,"blago iz vrvice ali vrvi ali žice, ki je prepletena v rednih presledkih"
+mreža ,noun,narrower,predmet,"blago iz vrvice ali vrvi ali žice, ki je prepletena v rednih presledkih"
+mreža ,noun,exact,o ribolovu,"mrežasta past za lovljenje rib, ptic ali žuželk"
+mreža ,noun,broader,športni rekvizit,gol obdan z mrežo (npr. pri nogometu ali hokeju)
+mreža ,noun,exact,"o nogometu, hokeju",gol obdan z mrežo (npr. pri nogometu ali hokeju)
+mreža ,noun,exact,"o odbojki, tenisu","oprema za igro oz. trak iz mreže, ki deli igrišče pri tenisu ali badmintonu"
+mreža ,noun,narrower,pajčevina,"zapletena past, v katero se ujame ali zaplete žrtev"
+mreža ,noun,broader,povezan sistem,medsebojno povezan sistem stvari ali ljudi
+mreža ,noun,narrower,"o poslovnih enotah, ustanovah",medsebojno povezan sistem stvari ali ljudi
+mreža ,noun,narrower,o socialnih stikih,medsebojno povezan sistem stvari ali ljudi
+mreža ,noun,narrower,o nezakoniti ali tajni dejavnosti,medsebojno povezan sistem stvari ali ljudi
+mreža ,noun,narrower,o delih celote,medsebojno povezan sistem stvari ali ljudi
+mreža ,noun,exact,o infrastrukturi,sistem prekrižanih poti ali kanalov
+mreža ,noun,broader,o računalnikih,"računalniška mreža, sestavljena iz svetovne mreže računalniških mrež temelječih na TCP/IP mrežnih protokolih, ki omogočajo prenos in izmenjavo podatkov"
+mreža ,noun,narrower,organizacija; podjetje,"(radiotelevizija) komunikacijski sistem s skupino postaj, ki vse predvajajo iste programe"
+mrežast ,adjective,exact,"o prepletu niti, žic","podoben mreži, z odprtimi vmesnimi prostori"
+mrežast ,adjective,narrower,o tkanini,podoben mreži oz. ki tvori mrežo
+mrežast ,adjective,narrower,o vzorcu,podoben mreži oz. ki tvori mrežo
+mrežast ,adjective,narrower,"o živali, rastlini",podoben mreži oz. ki tvori mrežo
+mutacija ,noun,exact,sprememba v genih,"(genetika) dogodek, ki spremeni genetsko strukturo; kakršnakoli sprememba v podedovanem zaporedju nukleinskih kislin v genotipu organizma"
+mutacija ,noun,broader,nova oblika organizma,"(genetika) dogodek, ki spremeni genetsko strukturo; kakršnakoli sprememba v podedovanem zaporedju nukleinskih kislin v genotipu organizma"
+mutacija ,noun,exact,sprememba glasu,nenadna sprememba v tonu ali registru glasu (npr. zaradi pubertete ali čustev)
+mutacija ,noun,exact,pretvorba v drugačno obliko,sprememba ali preobrazba oblike ali lastnosti
+mutacija ,noun,narrower,nova različica,sprememba ali preobrazba oblike ali lastnosti
+naenkrat ,adverb,exact,v trenutku,hitro in brez opozorila
+naglas ,adverb,exact,"tako, da se sliši",s pomočjo glasu; ne tiho
+naglas ,adverb,exact,glasno,razmeroma glasno
+nalašč ,adverb,narrower,iz kljubovanja,hote
+nalašč ,adverb,exact,z določenim namenom,z namenom; namenoma
+naložiti ,verb,broader,natovoriti,napolniti ali obremeniti s tovorom
+naložiti ,verb,exact,obremeniti,vsiliti nekaj neprijetnega
+naložiti ,verb,exact,zahtevati izvršitev,uvesti in pobrati
+naložiti ,verb,broader,razporediti,napolniti ali obremeniti s tovorom
+naložiti ,verb,exact,investirati,investirati
+natančen ,adjective,broader,precizen in poglobljen,skrbno in do podrobnosti razviti ali izdelati
+natančen ,adjective,exact,"izdelan, jasen",jasno zamejen ali točen ali pravilen
+natančen ,adjective,exact,precizen; točen,"ki se strogo, posebej in popolnoma ujema z dejstvi"
+natančen ,adjective,narrower,"o dejanju, izveden s pozornostjo",skrbno in do podrobnosti razviti ali izdelati
+nedeljski ,adjective,broader,ki se zgodi ali dogaja v nedeljo,v povezavi z nedeljo kot Gospodovim dnem
+nedeljski ,adjective,broader,o družabnem dogodku,v povezavi z nedeljo kot Gospodovim dnem
+nemudoma ,adverb,exact,takoj,brez odlaganja ali oklevanja; brez vmesnega časa
+nemudoma ,adverb,narrower,v trenutku,brez odlaganja ali oklevanja; brez vmesnega časa
+neposredno ,adverb,broader,brez posrednika; direktno,brez ovinkov
+nota ,noun,broader,značilnost; stil,značilna čustvena lastnost
+nota ,noun,narrower,sestavina vonja ali okusa,značilna čustvena lastnost
+nota ,noun,related,zvok; ton,"notni zapis, ki označuje višino in trajanje glasbenega tona"
+nota ,noun,exact,zapis glasbe,"notni zapis, ki označuje višino in trajanje glasbenega tona"
+nota ,noun,narrower,znak za zapis tona,"notni zapis, ki označuje višino in trajanje glasbenega tona"
+oblak ,noun,exact,pojav v ozračju,"vidna gmota vode ali ledenih delcev, ki se giblje na precejšnji višini"
+oblak ,noun,broader,velika količina,množica stvari v zraku ali na tleh
+oblak ,noun,exact,o delcih in plinih,vidni skupek delcev (npr. dima ali prahu) ali plinov
+oblak ,noun,narrower,zlasti o žuželkah,množica stvari v zraku ali na tleh
+oblak ,noun,narrower,pojav v vesolju,vidni skupek delcev (npr. dima ali prahu) ali plinov
+okrepiti ,verb,broader,"narediti, da je kaj močnejše",ojačati
+okrepiti ,verb,narrower,"o stabilnosti gradenj, predmetov",ojačati
+okrepiti ,verb,broader,o človeškem telesu,ojačati
+okrepiti ,verb,narrower,"o čustvih, odnosih",povečati
+okrepiti ,verb,narrower,"o lastnostih, stanjih, vrednostih",povečati
+okrepiti ,verb,narrower,o dejavnostih,povečati
+okrepiti ,verb,narrower,o ustanovah,ojačati
+okrepiti ,verb,narrower,o naravnih pojavih,povečati
+okrepiti ,verb,narrower,povečati število ljudi,povečati
+omotičen ,adjective,broader,ki ima nejasne misli in občutek vrtoglavice,"ki povzroča ali ima občutek, da se vrti; ki čuti, da bo padel"
+omotičen ,adjective,broader,ki izraža občutek omamljenosti ali utrujenosti,napol buden
+opustiti ,verb,broader,"prenehati delovati, razmišljati na določen način","odpovedati se, nič več vztrajati; za ideje in prepričanja"
+opustiti ,verb,exact,"ne prizadevati si za uresničitev načrta, ideje","odpovedati se, nič več vztrajati; za ideje in prepričanja"
+opustiti ,verb,narrower,"ne uveljavljati pravice, zahteve","odpovedati se, nič več vztrajati; za ideje in prepričanja"
+opustiti ,verb,narrower,ne izpolniti dolžnosti,"odpovedati se, pustiti, ne držati se"
+osvojiti ,verb,exact,na tekmovanju,zmagati v tekmi ali na tekmovanju; biti zmagovalen
+osvojiti ,verb,broader,pridobiti nadzor,"prisvojiti si s silo, npr. z invazijo"
+osvojiti ,verb,exact,o boj,"prisvojiti si s silo, npr. z invazijo"
+osvojiti ,verb,narrower,naučiti se,doseči uspeh ali želeni cilj
+ozek ,adjective,exact,o širini,ki ni širok
+ozek ,adjective,broader,o obsegu,ki ni širok
+ozek ,adjective,exact,o obsegu,omejen v velikosti ali dometu
+ozek ,adjective,narrower,o prostoru,ki ni širok
+ozek ,adjective,narrower,o izbranosti,omejen v velikosti ali dometu
+ozek ,adjective,narrower,o področju delovanja,omejen v velikosti ali dometu
+ozek ,adjective,exact,o človekovem dojemanju in interesih; enostranski,netoleranten ali nefleksibilen ali brez širokega pogleda
+pero ,noun,broader,"o pisanju, risanju","priprava za pisanje s konico, ki spušča črnilo"
+pero ,noun,exact,pisalo,"priprava za pisanje s konico, ki spušča črnilo"
+pero ,noun,narrower,del pisala,"priprava za pisanje s konico, ki spušča črnilo"
+pero ,noun,exact,o pticah,perje na ptičji perutnici ali repu
+pika ,noun,broader,grafično znamenje,zelo majhna okrogla oblika
+pika ,noun,exact,ločilo,"ločilo (.) na koncu trdilnega stavka, ki označuje konec, ali po okrajšavah"
+pika ,noun,exact,enota za ločljivost,(računalništvo) najmanjša samostojna komponenta podobe ali slike na CRT zaslonu (po navadi obarvana)
+pika ,noun,exact,enota za velikost črk,"dolžinska enota, ki meri velikost tipa; približno 0,35 mm"
+pika ,noun,broader,okroglo znamenje,zelo majhna okrogla oblika
+pika ,noun,exact,točka pri tekmovanju,enota štetja pri točkovanju igre ali tekmovanja
+pika ,noun,exact,oddaljen predmet,zelo majhna točka
+plavati ,verb,exact,premikati se po vodi,potovati skozi vodo
+plavati ,verb,narrower,o človeku ali živali,potovati skozi vodo
+plavati ,verb,exact,o predmetih in snoveh,biti na ali pod gladino in se ne potopiti na dno
+plavati ,verb,narrower,premikati se po zraku,gibati se zaradi zračnega ali vodnega toka
+plavati ,verb,exact,biti prekrit s tekočino,biti prekrit s tekočino ali namočen v tekočino
+plašč ,noun,exact,vrhnje oblačilo,"vrhnje oblačilo z rokavi, ki prekriva telo od ramen navzdol; nosi se na prostem"
+plehek ,adjective,related,nepoglobljen; površinski,prevečkrat ponovljen; obrabljen zaradi prepogoste uporabe
+plehek ,adjective,exact,brez globlje vsebine in pomena,brez estetskega ali družbenega čuta
+plehek ,adjective,exact,brez okusa ali vonja,"brez okusa ali arome, nezanimiv"
+plesati ,verb,exact,gibati se po glasbi,premikati se po določenem vzorcu; po navadi ob glasbeni spremljavi; izvajati ples
+plesati ,verb,narrower,"ukvarjati se s plesom kot dejavnostjo, lahko za zaslužek",premikati se po določenem vzorcu; po navadi ob glasbeni spremljavi; izvajati ples
+plesati ,verb,narrower,izvajati konkreten ples kot nastop,premikati se po določenem vzorcu; po navadi ob glasbeni spremljavi; izvajati ples
+plesati ,verb,narrower,o plesnih navadah,premikati se po določenem vzorcu; po navadi ob glasbeni spremljavi; izvajati ples
+plesati ,verb,exact,premikati se kot pri plesu,"poskakovati, skakati, premikati se gor in dol ali sem ter tja"
+počivati ,verb,exact,"mirovati, ne biti telesno aktiven",ne premikati se; biti v mirujočem stanju
+pošteno ,adverb,related,moralno ustrezno,s častjo
+praksa ,noun,exact,"dejanska uporaba, izvedba",uresničenje ideje z delovanjem
+praksa ,noun,exact,pogosto izvajanje; vaja,sistematsko treniranje s pomočjo ponavljanja
+praksa ,noun,related,opravljanje strokovne dejavnosti,ustaljen način delovanja ali obnašanja
+praksa ,noun,exact,uveljavljen način dela,ustaljen način delovanja ali obnašanja
+praksa ,noun,narrower,način delovanja; model,ustaljen način delovanja ali obnašanja
+prevajati ,verb,exact,spremeniti v drug jezik,ponovno izraziti (besede) v drugem jeziku
+prevajati ,verb,related,pretvoriti v drugačno obliko,prenesti iz enega medija v drugega
+pričakovan ,adjective,broader,predviden ali predvidevan,"za katerega verjamejo, da se bo verjetno zgodil ali prispel"
+pričakovan ,adjective,exact,na katerega čakamo,"za katerega verjamejo, da se bo verjetno zgodil ali prispel"
+pričakovan ,adjective,narrower,"to, kar se predvideva","za katerega verjamejo, da se bo verjetno zgodil ali prispel"
+prostaški ,adjective,narrower,ki namiguje na spolnost;vulgaren,"neuglajen, nekultiviran, brezokusen"
+prostaški ,adjective,narrower,o človeku,"pomanjkljivo spoštljiv, značaj, vedenje ali zunanjost"
+prostaški ,adjective,narrower,o jeziku,"neuglajen, nekultiviran, brezokusen"
+rana ,noun,exact,odprta poškodba na telesu,poškodba živega tkiva (še posebej rez ali razpoka v koži)
+rana ,noun,related,o pokrajini,poškodba živega tkiva (še posebej rez ali razpoka v koži)
+rana ,noun,narrower,"primanjkljaj, praznina",bolečina v prenesenem pomenu (prizadeti čustva ali ponos)
+rana ,noun,exact,psihična ali čustvena bolečina,bolečina v prenesenem pomenu (prizadeti čustva ali ponos)
+rana ,noun,narrower,neprijeten občutek ob porazu,bolečina v prenesenem pomenu (prizadeti čustva ali ponos)
+računati ,verb,broader,o pogledu v prihodnost,vnaprej napovedati
+računati ,verb,broader,predvidevati; pričakovati,vnaprej napovedati
+računati ,verb,narrower,zanesti se,"oceniti, da je verjetno"
+računati ,verb,exact,upoštevati; vzeti v obzir,"za določeno publiko posebej zasnovati predmet, dogodek ali dejavnost"
+računati ,verb,broader,izvajati računske operacije,narediti matematični izračun ali oceno
+redno ,adverb,exact,v enakih časovnih razmikih,v istih časovnih presledkih
+redno ,adverb,narrower,precej pogosto,v istih časovnih presledkih
+relativen ,adjective,exact,ki ni absoluten; odvisen,ocenjen v primerjavi z nečim; ki ni absoluten ali popoln
+relativen ,adjective,narrower,glede na različno razumevanje,ocenjen v primerjavi z nečim; ki ni absoluten ali popoln
+relativen ,adjective,exact,glede na največjo izmerljivo vrednost,"primerljiv po velikosti, stopnji ali drugi merljivi lastnosti; po navadi mu sledi 'v primerjavi z'"
+relativno ,adverb,narrower,dokaj; razmeroma,sorazmerno; v primerjavi z nečim drugim
+relativno ,adverb,broader,ne absolutno,sorazmerno; v primerjavi z nečim drugim
+rep ,noun,exact,o živali,"zadnji del telesa pri vretenčarjih, podaljšek zadnjega dela trupa ali telesnega jedra"
+rep ,noun,exact,o letalu,zadnji del letala
+rep ,noun,related,"zadnji del, konec česa",(časovno) zadnji del nečesa
+rep ,noun,related,zadnje mesto,(časovno) zadnji del nečesa
+rumen ,adjective,exact,o barvi,na barvni lestvici barva med zeleno in oranžno; barve rumenjaka
+rumen ,adjective,exact,posušen ali star; rumenkast,ki je s starostjo orumenel
+rumen ,adjective,exact,o tisku in publikacijah; tabloidni,značilen za tabloide
+satelit ,noun,exact,nebesno telo,"nebesno telo, ki kroži okoli planeta ali zvezde"
+satelit ,noun,broader,o tehniki,"tehnična naprava, ki kroži okoli sonca ali lune"
+satelit ,noun,exact,vesoljska naprava,"tehnična naprava, ki kroži okoli sonca ali lune"
+senca ,noun,exact,"predel, ki ni obsijan s soncem","sorazmerna tema, ki nastane, ko sončne žarke prestreže nepresojno telo"
+senca ,noun,narrower,oblika na površini,"sorazmerna tema, ki nastane, ko sončne žarke prestreže nepresojno telo"
+senca ,noun,related,temen predel prostora,zamejen senčnat prostor
+senca ,noun,exact,negativen učinek ali napoved česa,slutnja nevarnosti
+senca ,noun,related,negativna podoba,dominantna in vseprisotna navzočnost
+senca ,noun,broader,"ozadje, neizstopajoča pozicija","zatočišče, kjer si neopazen, varen pred izpostavljenostjo"
+siliti ,verb,broader,s prisilo usmerjati delovanje,"s pritiski ali zaradi nuje prisiliti k dejanju, s fizičnimi, moralnimi ali intelektualnimi sredstvi: ""Silila ga je, da se zaposli v mestu."""
+siliti ,verb,narrower,nadlegovati,"s pritiski ali zaradi nuje prisiliti k dejanju, s fizičnimi, moralnimi ali intelektualnimi sredstvi: ""Silila ga je, da se zaposli v mestu."""
+siliti ,verb,broader,"usmerjati, spodbujati k ravnanju","prisiliti se v stanje ali k delovanju ali v prenehanje stanja ali delovanja, fizično ali v prenesenem pomenu"
+siliti ,verb,narrower,o dejavnosti,spodbuditi ali prisiliti (osebo) v dejanje; zadržati ali motivirati
+slep ,adjective,broader,ki ne vidi,ki ni zmožen videti
+slep ,adjective,exact,zaradi okvare vida,ki ni zmožen videti
+slep ,adjective,exact,nesposoben videti ali dojeti,ki ni zmožen ali noče uvideti ali razumeti
+slep ,adjective,exact,nepremišljen; nerazumen,ki ne temelji na razumu ali dokazih
+slep ,adjective,narrower,ki ne vsebuje dvoma,ki ne temelji na razumu ali dokazih
+slep ,adjective,narrower,brezumen,ki ne temelji na razumu ali dokazih
+slep ,adjective,exact,brez izhoda,"ki ne pelje nikamor, brez možnosti razvoja ali napredka"
+soditi ,verb,broader,izrekati sodbo,"postaviti pred sodišče, biti sodnik oz. soditi v sodnem postopku"
+soditi ,verb,exact,na sodišču,"postaviti pred sodišče, biti sodnik oz. soditi v sodnem postopku"
+soditi ,verb,exact,"izraziti mnenje, meniti, presojati",držati se ali izraziti prepričanje ali mnenje
+soditi ,verb,exact,obsojati,nekoga obsoditi
+soditi ,verb,broader,"sklepati, ocenjevati",okvirno presoditi ali oceniti (količino ali čas)
+sosed ,noun,broader,"oseba ali stvar, ki je prostorsko ob nekom ali nečem drugem","oseba, ki živi (ali se nahaja) blizu druge osebe"
+sosed ,noun,exact,"oseba, ki živi v stavbi ali stanovanju v bližini","oseba, ki živi (ali se nahaja) blizu druge osebe"
+sosed ,noun,narrower,"prebivalci ali predstavniki države, občine, kraja, ki meji na drugo državo, občino, kraj","oseba, ki živi (ali se nahaja) blizu druge osebe"
+sosed ,noun,narrower,"športna ekipa države ali kraja, ki meji na drugo državo ali kraj","oseba, ki živi (ali se nahaja) blizu druge osebe"
+sosed ,noun,narrower,"oseba, ki sedi ali se nahaja zraven druge osebe","oseba, ki živi (ali se nahaja) blizu druge osebe"
+sosed ,noun,narrower,o delu pokrajine ali stavbi,bližnja stvar iste vrste
+sosed ,noun,related,o rastlini,"oseba, ki živi (ali se nahaja) blizu druge osebe"
+sovražnik ,noun,broader,"oseba, žival ali stvar, ki predstavlja nevarnost",sovražna skupina ljudi
+sovražnik ,noun,broader,"oseba, ki koga ne mara in ga skuša onemogočiti",osebni nasprotnik
+sovražnik ,noun,exact,"nasprotnik v spopadu, navadno oboroženem",nasprotna vojaška sila
+sovražnik ,noun,narrower,"oseba, ki jo skupnost dojema kot grožnjo",sovražna skupina ljudi
+sovražnik ,noun,narrower,"oseba, ki česa ali koga ne mara",sovražna skupina ljudi
+spomin ,noun,exact,pomnjenje česa iz preteklosti,sposobnost ohraniti ali priklicati pretekle izkušnje
+spomin ,noun,narrower,o dogodkih in ljudeh,sposobnost ohraniti ali priklicati pretekle izkušnje
+spomin ,noun,narrower,o zgodovinskih dogodkih,sposobnost ohraniti ali priklicati pretekle izkušnje
+spomin ,noun,narrower,o predmetih,sposobnost ohraniti ali priklicati pretekle izkušnje
+spomin ,noun,exact,sposobnost pomnjenja,sposobnost ohraniti ali priklicati pretekle izkušnje
+spomin ,noun,exact,del mišljenja,kognitivni proces pomnjenja preteklih izkušenj
+spomin ,noun,exact,zmogljivost računalnika,"elektronska, pomnilniška naprava"
+spremljati ,verb,broader,slediti poteku dogajanja,nečemu slediti
+spremljati ,verb,exact,seznanjati se; biti na tekočem,"slediti razvoju dogodkov, odkriti ali dognati razvoj dogodkov"
+spremljati ,verb,exact,dogajati se hkrati,biti zraven oz. soditi k dogodku ali stvari
+spremljati ,verb,narrower,"o dejavnosti, prireditvah",biti zraven oz. soditi k dogodku ali stvari
+spremljati ,verb,exact,o glasbi,igrati spremljavo
+spremljati ,verb,exact,iti zraven,skupaj z nekom iti ali potovati
+spremljati ,verb,narrower,biti prisotno; doživljati,biti zraven oz. soditi k dogodku ali stvari
+standarden ,adjective,exact,usklajen z veljavnimi merili,ki ustreza ali vzpostavlja standardno merilo ali vrednost; običajen ali narejen po pravilih ali splošno sprejet
+standarden ,adjective,exact,izdelan po uveljavljenih postopkih ali merah,ki se redno in povsod uporablja ali prodaja
+standarden ,adjective,exact,o jeziku,enak jezikovni rabi uveljavljeni med izobraženimi maternimi govorci
+standarden ,adjective,exact,uveljavljen; običajen,v splošni uporabi
+standarden ,adjective,exact,klasični; temeljni,uveljavljen ali dobro znan ali splošno priznan kot vzor zaradi svoje avtoritete ali odličnosti
+statičen ,adjective,exact,mirujoč; negiben,ki se ne giblje
+statičen ,adjective,exact,fiksen; nespremenljiv,ki se malo ali nič ne spreminja
+stisniti ,verb,broader,premakniti del telesa,stiskati ali pritisniti skupaj
+stisniti ,verb,broader,stisniti z dlanjo,stiskati ali pritisniti skupaj
+stisniti ,verb,narrower,približati enake dele telesa,stiskati ali pritisniti skupaj
+stisniti ,verb,exact,pritisniti skupaj,zadrgniti ali zožiti
+stisniti ,verb,exact,oblikovati s stiskanjem,narediti bolj kompaktno s stiskanjem ali stiskanju podobnim dejanjem
+stisniti ,verb,exact,uspeti doseči,pridobiti s prisilo ali zastraševanjem
+tip ,noun,broader,skupina stvari ali oseb s skupnimi značilnostmi,"značilna narava, osebnost ali vrsta"
+tip ,noun,narrower,vrsta izdelkov,vrsta ali kategorija
+tip ,noun,narrower,vrsta osebe,"značilna narava, osebnost ali vrsta"
+tip ,noun,broader,"tipičen predstavnik skupine oseb, ki ima posebej izraženo imenovano lastnost",vrsta ali kategorija
+tip ,noun,exact,moški,fant ali moški
+tip ,noun,narrower,ljubezenski partner,fant ali moški
+tip ,noun,exact,eden od petih čutov,čut za zaznavanje zunanjih predmetov ali sil skozi stik s telesom (še posebno z rokami)
+tisk ,noun,exact,tiskarska dejavnost,dejavnost izdelave tiskanega materiala za prodajo ali distribucijo
+tisk ,noun,narrower,postopek ali način tiskanja,dejavnost izdelave tiskanega materiala za prodajo ali distribucijo
+tisk ,noun,narrower,printanje,reproducirati za objavo z nanašanjem črnila na papir
+tisk ,noun,exact,natisnjene črke in znaki,"besedilo v knjigi, časopisu ali drugem tiskanem delu"
+tisk ,noun,narrower,natisnjena dela,"tiskani mediji, ki zbirajo in objavljajo podatke v časopisih ali revijah"
+tisk ,noun,exact,časopisi in revije; tiskovine,"tiskani mediji, ki zbirajo in objavljajo podatke v časopisih ali revijah"
+tiskati ,verb,broader,"prenašati črke, znake ali vzorce na papir",reproducirati s tiskom
+tiskati ,verb,narrower,printati,natisniti
+tiskati ,verb,exact,objavljati,reproducirati s tiskom
+tradicija ,noun,broader,kar se prenaša iz roda v rod; običaj,dolgoleten običaj
+tradicija ,noun,exact,kar se ponavlja in je postalo vsakdanje; navada,podedovan vzorec mišljenja ali delovanja
+tradicija ,noun,narrower,kar že dolgo obstaja in se uveljavilo,podedovan vzorec mišljenja ali delovanja
+tradicija ,noun,narrower,uveljavljena dejavnost,podedovan vzorec mišljenja ali delovanja
+tradicija ,noun,narrower,"kar se je skozi daljše časovno obdobje ustalilo, uveljavilo na določenem področju delovanja",dolgoleten običaj
+tradicionalen ,adjective,exact,"skladen z običaji, izročilom",ki se ujema s tradicijo ali izhaja iz tradicije
+tradicionalen ,adjective,related,nesodoben; nazadnjaški,"ki se nanaša na uveljavljena, ortodoksna prepričanja"
+vedno ,adverb,exact,"ob vsaki priložnosti, ob vsakem času",brez prenehanja; ves čas in ob vsaki priložnosti
+vedno ,adverb,exact,že od nekdaj,za vedno; za vse čase
+vedno ,adverb,exact,"v vsakem primeru, kljub vsemu",brez prenehanja; ves čas in ob vsaki priložnosti
+vulgaren ,adjective,exact,prostaški; žaljiv,opazno in brezokusno nespodoben
+vulgaren ,adjective,exact,neprimeren; nesprejemljiv,neuglajen ali nekultiviran ali brez okusa
+vulgaren ,adjective,broader,navaden; vsakdanji,nizke oz. slabe kvalitete ali vrednosti
+zaman ,adverb,exact,brez uspeha,brez koristi
+zaman ,adverb,exact,zastonj; za nič,neproduktivno
+zaviti ,verb,broader,oviti,"trdno oviti ali popolnoma obdati, kot z oblogo"
+zaviti ,verb,narrower,kot paket,"trdno oviti ali popolnoma obdati, kot z oblogo"
+zaviti ,verb,related,obleči,"zagrniti, kot s pregrinjalom"
+zaviti ,verb,related,okrog dela telesa,"zagrniti, kot s pregrinjalom"
+zaviti ,verb,broader,prekriti; zajeti,"zagrniti, kot s pregrinjalom"
+zaviti ,verb,narrower,"o vremenskem pojavu, dimu","zagrniti, kot s pregrinjalom"
+zaviti ,verb,narrower,o razpoloženju,"zagrniti, kot s pregrinjalom"
+zemlja ,noun,exact,planet,"tretji planet po oddaljenosti od Sonca; planet, na katerem živimo"
+zemlja ,noun,exact,površina planeta,"rahla, mehka snov, ki tvori večji del zemeljske površine"
+zemlja ,noun,narrower,podlaga na kateri stojimo,"snov v zgornji plasti zemeljske površine, v kateri rastejo rastline (nanaša se zlasti na kvaliteto ali rabo zemlje)"
+zemlja ,noun,broader,gospodarska dobrina; zemljišče,"snov v zgornji plasti zemeljske površine, v kateri rastejo rastline (nanaša se zlasti na kvaliteto ali rabo zemlje)"
+zemlja ,noun,narrower,o kmetijstvu,"snov v zgornji plasti zemeljske površine, v kateri rastejo rastline (nanaša se zlasti na kvaliteto ali rabo zemlje)"
+zemlja ,noun,related,življenjski prostor,prebivališče smrtnikov (v nasprotju s peklom ali rajem)
+zemlja ,noun,broader,zmes kamnin; prst,"snov v zgornji plasti zemeljske površine, v kateri rastejo rastline (nanaša se zlasti na kvaliteto ali rabo zemlje)"
+zemlja ,noun,broader,osnovni element,"po antičnem prepričanju eden izmed štirih elementov, ki tvorijo kozmos (Empedokel)"
+zvezda ,noun,broader,geometrijski lik ali predmet,dvodimenzionalna oblika s pet ali več konicami; pogosto se uporablja kot simbol
+zvezda ,noun,narrower,kot simbol,dvodimenzionalna oblika s pet ali več konicami; pogosto se uporablja kot simbol
+zvezda ,noun,exact,žareče nebesno telo,"nebesna telesa, ki se jih ponoči vidi z Zemlje (kot svetle točke)"
+zvezda ,noun,narrower,pri astrologiji,"(astronomija) nebesno telo, ki ga tvorijo razžarjeni plini in ki zaradi notranjih termonuklearnih reakcij izžareva energijo"
+zvezda ,noun,exact,slavna medijska osebnost ali skupina,"izvajalec, ki ga močno promovirajo"
+zvezda ,noun,broader,najpomembnejša oseba ali vsebina dogodka,"slavna oseba, ki je vzor drugim"
+zvezda ,noun,related,najuspešnejša oseba ali ekipa,"slavna oseba, ki je vzor drugim"
+zvezda ,noun,related,slava,"slavna oseba, ki je vzor drugim"
+školjka ,noun,broader,žival,"nevretenčar z nesegmentiranim, mehkim telesom, ki je običajno obdano z lupino"
+školjka ,noun,narrower,jed,"katerikoli izmed številnih užitnih tropskih mehkužcev iz roda Strombus, z živobarvno spiralno lupino z debelim robom"
+školjka ,noun,narrower,odmrla lupina,"nevretenčar z nesegmentiranim, mehkim telesom, ki je običajno obdano z lupino"
+školjka ,noun,exact,del stranišča,"stranišče, ki izpira odpadke z vodnim tokom"
+šola ,noun,broader,o izobraževanju,učitelji in študenti v izobraževalni ustanovi
+šola ,noun,exact,ustanova,izobraževalna ustanova
+šola ,noun,exact,stavba,"zgradba, v kateri se izobražujejo mladi"
+šola ,noun,exact,ljudje v stavbi,učitelji in študenti v izobraževalni ustanovi
+šola ,noun,exact,izobraževalni proces,proces formalnega izobraževanja v šoli
+šola ,noun,narrower,prostočasna izobraževalna dejavnost,proces formalnega izobraževanja v šoli
+šola ,noun,exact,"smer v izobraževanju, znanosti","skupina umetnikov ali pisateljev ali mislecev, ki jih povezuje podoben stil ali učitelj"
+športen ,adjective,exact,o športu,ki se nanaša na šport oz. se uporablja pri športu
+športen ,adjective,narrower,namenjen športnim aktivnostim,ki se nanaša na šport oz. se uporablja pri športu
+športen ,adjective,exact,o obnašanju; fer,ki izkazuje ali zahteva športnost ali fair play
+športen ,adjective,related,o načinu oblačenja,ki se nanaša na šport oz. se uporablja pri športu
+šteti ,verb,broader,delati s števili,ugotoviti število ali količino
+šteti ,verb,narrower,imenovati števila po vrsti,ugotoviti število ali količino
+šteti ,verb,exact,ugotavljati število,ugotoviti število ali količino
+šteti ,verb,exact,upoštevati,imeti za ali upoštevati na določen način
+šteti ,verb,narrower,o pomembnosti,upoštevati; vzeti v obzir
+željno ,adverb,exact,z veseljem; v pričakovanju,z vnemo; vneto
+željno ,adverb,narrower,"z zanimanjem, užitkom",z vnemo; vneto
+alkohol ,noun,broader,alkoholna pijača,"pijača, ki vsebuje alkohol kot aktivno sestavino"
+alkohol ,noun,broader,alkoholna pijača,nezakonito destilirana alkoholna pijača (ponavadi slabše kakovosti)
+alkohol ,noun,broader,alkoholna pijača,"alkoholna pijača, ki je destilirana namesto fermentirana"
+alkohol ,noun,broader,alkoholna pijača,"žganje, destilirano iz fermentirane melase"
+alkohol ,noun,exact,kemična spojina,"katerakoli od vnetljivih hidroksilnih spojin, ki nastanejo iz ogljikovodikov pri destilaciji"
+priden ,adjective,broader,delaven,"takšen, ki dela s skrbjo in z vztrajnim trudom"
+priden ,adjective,broader,delaven,ki ga zaznamujeta trdo delo in vztrajnost
+priden ,adjective,broader,delaven,"ki ga zaznamuje izjemen trud, zlasti fizičen"
+aktiven ,adjective,exact,ki se veliko giblje ali dela,za katerega je značilna energična dejavnost
+aktiven ,adjective,exact,ki se redno ali poklicno ukvarja,ki je v rednem delovnem razmerju
+aktiven ,adjective,exact,ki veliko sodeluje in se redno udeležuje,polno dejaven oz. ki se udejstvuje v  neprekinjeni dejavnosti
+aktiven ,adjective,exact,ki vključuje različne dejavnosti,nagnjen k udejstvovanju oz. udejanjanju sprememb
+aktiven ,adjective,broader,v fazi delovanja,(npr. za vulkan) bruhajoč oz. pred izbruhom
+aktiven ,adjective,broader,v fazi delovanja,(npr. za vulkan) delujoč
+aktiven ,adjective,exact,usmerjen v izboljšanje,ki vpliva ali učinkuje ali spreminja
+aktiven ,adjective,broader,ki veliko sodeluje in se redno udeležuje,udeležen v dejavnosti
+aktiven ,adjective,related,ki se redno ali poklicno ukvarja,udeležen v vojaških ali pomorskih operacijah oz. pripravljen na vojaške ali pomorske operacije
+cenen ,adjective,exact,ki ni drag; poceni,razmeroma poceni oz. ki zaračuna nizke cene
+cenen ,adjective,broader,slabše kakovosti,malo oz. nič vreden
+cenen ,adjective,exact,slabše kakovosti,slabe kvalitete; nekvaliteten
+debel ,adjective,narrower,ki ima preveč telesne maščobe,imeti na telesu (pre)obilje mesa
+debel ,adjective,exact,ki ima preveč telesne maščobe,pretirano rejen
+debel ,adjective,broader,ki ima med dvema ploskvama veliko razdaljo,nabrekel na eni strani
+debel ,adjective,narrower,ki ima preveč telesne maščobe,zajeten za svojo težo
+debel ,adjective,related,o denarju,dobičkonosen
+debel ,adjective,related,ki ima preveč telesne maščobe,nizek in krepke postave
+debel ,adjective,exact,ki ima med dvema ploskvama veliko razdaljo,"nasprotno od ozek; dokaj širok oz. razsežen med najbližjima nasprotnima ploskvama, navadno pri najmanjši izmed treh dimenzij"
+debel ,adjective,exact,precej velik,z razmeroma velikim premerom
+igrati ,verb,exact,ne misliti resno,"neresno ukvarjati se s čim, kot bi bilo igra"
+igrati ,verb,narrower,[v športu],udejstvovati se v igri oz. športu
+igrati ,verb,narrower,z igračo ali napravo,"v igro vključiti (karto ali figuro) ali delovati strateško, kot pri igri s kartami"
+igrati ,verb,narrower,"v filmu, predstavi",nastopati (v nečem)
+igrati ,verb,broader,za zabavo; nastopati,izvajati ali predstaviti v javnosti
+igrati ,verb,narrower,"v filmu, predstavi",imeti ali odigrati vlogo
+igrati ,verb,broader,"v filmu, predstavi",nastopati na odru ali v gledališču
+igrati ,verb,broader,pretvarjati se; delati se,obnašati se nenaravno ali prisiljeno
+igrati ,verb,narrower,s človekom,"pretvarjati se, da si določena oseba, v okviru igre oz. razvedrilne dejavnosti"
+igrati ,verb,narrower,z glasbilom,preigrati (kot melodijo)
+igrati ,verb,exact,ustvarjati glasbo,ustvariti glasbo s glasbilom
+igrati ,verb,exact,z glasbilom,izvajati glasbo (z glasbenim inštrumentom)
+koža ,noun,exact,pri živali,telesni ovoj žive živali
+koža ,noun,exact,pri človeku,"naraven, zaščitni telesni ovoj; mesto čuta dotika"
+koža ,noun,exact,ovoj ali lupina,olupek sadja ali zelenjave
+koža ,noun,exact,odstranjen vrhnji del živalskega telesa,strojena koža živali (praviloma velike živali)
+koža ,noun,broader,odstranjen vrhnji del živalskega telesa,"zglajena in zmehčana živalska koža, ki ji naprej ostranijo dlako in jo nato strojijo"
+kralj ,noun,exact,šahovska figura,(šah) najšibkejša in obenem najpomembnejša šahovska figura
+kralj ,noun,exact,igralna karta,v svežnju kart ena izmed štirih igralnih kart s podobo kralja
+kralj ,noun,broader,o družabnih igrah,"v dami figura, ki so jo postavili  v nasprotnikovo prvo vrsto, kjer se zdaj lahko premika tako naprej kot nazaj"
+kralj ,noun,broader,kdor je zelo uspešen v čem,zelo bogat ali vpliven poslovnež
+kralj ,noun,broader,vladar,suveren; vladar kraljevine
+kralj ,noun,exact,vladar,"vladar naroda ali države, po navadi zaradi nasledstvene pravice"
+kralj ,noun,exact,najpomembnejši predstavnik,superiornost v določeni kategoriji ali skupini ali na določenem področju
+kriti ,verb,broader,o zavarovanju,zaščititi z zavarovanjem
+kriti ,verb,narrower,varovati,"zavarovati pred nevarnostjo, poškodbo, uničenjem ali škodo"
+kriti ,verb,broader,"v spopadu, z orožjem",imeti nekoga v dometu strelnega orožja
+kriti ,verb,broader,pri igrah z žogo,ščititi ali varovati (položaj v igri)
+kriti ,verb,exact,pri igrah z žogo,biti zadolžen za odbijanje nasprotnika v tekmovanju
+kriti ,verb,exact,izpolnjevati potrebe,"zadostovati, da se pokrije, plača ali nadomesti stroške"
+kriti ,verb,exact,poravnati stroške,nositi stroške
+kriti ,verb,broader,varovati,zaščititi se pred morebitnimi bodočimi težavami
+kriv ,adjective,broader,odgovoren za kaj,ki kaže krivdo
+kriv ,adjective,exact,v pravnih kontekstih,odgovoren za kaznivo ali zavrženo dejanje
+kriv ,adjective,exact,za negativna dejanja,"ki si zasluži grajo ali očitek, ker je v zmoti ali zel ali škodljiv"
+kriv ,adjective,exact,"neraven, upognjen",upognjen ali gladko zaobljen
+masten ,adjective,exact,o površini,umazan od masti ali olja
+masten ,adjective,exact,z veliko maščobe,ki vsebuje oz. je sestavljen iz maščobe
+masten ,adjective,exact,o vsebini,ki vsebuje nenavadno veliko masti ali olja
+masten ,adjective,related,nespodoben,ki izraža žaljiv očitek
+masten ,adjective,related,visoke vrednosti,ki prinaša materialno korist ali dobiček
+masten ,adjective,exact,visoke vrednosti,ki ustvarja znaten dobiček
+mesto ,noun,exact,zaposlitev,"položaj, kjer si (ali želiš biti) zaposlen"
+mesto ,noun,exact,funkcija,položaj v delovni organizaciji
+mesto ,noun,exact,del besedila,"odlomek besedila, ki se ga prebira"
+mesto ,noun,exact,"uvrstitev, razvrstitev, položaj na lestvici",točka na seznamu ali v nizu
+mesto ,noun,related,urbano naselje,"prebivalstvo, ki živi v velikem, gosto poseljenem urbanem naselju"
+mesto ,noun,related,urbano naselje,"prebivalstvo, ki živi v naselju, manjšem kot veliko mesto"
+mesto ,noun,exact,prostor za določen namen,prostor oddeljen z določenim namenom
+mesto ,noun,exact,urbano naselje,"veliko, gosto poseljeno urbano področje; lahko sestavljeno iz več neodvisnih upravnih okrožij"
+mesto ,noun,broader,urbano naselje,"uradno administrativno okrožje, ki ga določa ustanovna listina"
+mesto ,noun,exact,prostor za določen namen,"določen del prostora, ki ga nekaj zavzema"
+mesto ,noun,narrower,"kraj, točka z določenimi značilnostmi",točka določena v odnosu do površinskih značilnosti nekega območja
+mesto ,noun,broader,urbano naselje,"urbano območje z urejenimi mejami, ki je manjše kot veliko mesto"
+mir ,noun,broader,stanje,stanje brez napetosti ali čustev
+mir ,noun,exact,premirje,dogovor o prenehanju sovražnosti
+mir ,noun,exact,brez hrupa; tišina,stanje spokojnosti in tišine
+mir ,noun,exact,"brez motenj, dogajanja",spokojno stanje; brez motenj
+mir ,noun,exact,brez nesoglasij in prepirov,"skladni odnosi, brez nesoglasij"
+mir ,noun,narrower,čas brez vojne,"prevladujoče stanje, ko ni vojne"
+mir ,noun,broader,"brez motenj, dogajanja",splošna varnost javnih krajev
+mir ,noun,exact,čas brez vojne,"obdobje, v katerem ni vojne"
+mučiti ,verb,exact,imeti neprijetne občutke,povzročati telesno trpljenje ali bolezen in slabost
+mučiti ,verb,exact,povzročati neprijetne občutke,podvreči trpinčenju
+mučiti ,verb,broader,povzročati neprijetne občutke,trpinčiti ali mrcvariti kot mučenika
+mučiti ,verb,broader,obremenjevati,nadlegovati z nenehno kritiko ali zbadanjem
+mučiti ,verb,narrower,obremenjevati,nenehno ali vztrajno nadlegovati
+mučiti ,verb,broader,povzročati neprijetne občutke,čustveno ali duševno trpinčiti
+mučiti ,verb,related,povzročati neprijetne občutke,kruto ravnati z nekom
+mučiti ,verb,related,povzročati neprijetne občutke,vztrajno nadlegovati
+mučiti ,verb,related,povzročati neprijetne občutke,slabo ravnati z nekom
+objektiven ,adjective,exact,temelječ na dejstvih,ki se nanaša na neposredno doživetje resničnih stvari ali dogodkov
+objektiven ,adjective,exact,nepristranski; pravičen,"neskaljen s čustvi ali osebnimi predsodki; temelječ na pojavih, ki se jih da opazovati"
+objektiven ,adjective,broader,nepristranski; pravičen,ki ni pod vplivom močnih čustev ali predsodkov
+obleka ,noun,broader,oblačila,izrazito lepo ali okrasno oblačilo
+obleka ,noun,broader,oblačila,oblačila v določenem stilu ali za posebno priložnost
+obleka ,noun,exact,oblačila,"pokrivalo, ki se ga nosi na telesu"
+obleka ,noun,exact,posamezno oblačilo,kos oblačila
+obleka ,noun,broader,posamezno oblačilo,katerokoli ohlapno oblačilo
+obleka ,noun,broader,posamezno oblačilo,"komplet oblačil (navadno jakna in hlače ali krilo) iz istega blaga in iste barve, namenjen nošenju zunaj doma"
+odvisen ,adjective,exact,zasvojen,zasvojen z mamilom
+odvisen ,adjective,exact,pogojen s čim,z nečim pogojen
+odvisen ,adjective,exact,podrejen čemu,ki se za osnovno zanaša na osebo ali stvar ali potrebuje sredstva ali pomoč druge osebe ali stvari
+odvisen ,adjective,broader,podrejen čemu,podvržen ali podrejen avtoriteti ali kontroli drugega
+odvisen ,adjective,broader,podrejen čemu,podrejen moči ali suverenosti drugega ali drugih
+originalen ,adjective,exact,izvoren; prvoten; začetni,ki ni izpeljano ali prepisano ali prevedeno iz drugih virov
+originalen ,adjective,exact,izviren; nov,ki presega ali odstopa od običajnega ali pričakovanega
+originalen ,adjective,broader,izviren; nov,"kar je sveže ali nenavadno, kar vnaša svežino in nenavadnost; prva stvar, ki so jo naredili ali se jo domislili"
+originalen ,adjective,broader,izviren; nov,izvirno in še nikoli prej videno
+originalen ,adjective,broader,izvoren; prvoten; začetni,(npr. za podatke) ki ni iz druge roke ali pridobljeno prek posrednikov
+pretekel ,adjective,exact,ki se je zgodil ali je obstajal v preteklosti,ki je obstajal prej ali bil predhoden
+pretekel ,adjective,exact,ki se je zgodil pred kratkim; minul,prej kot v sedanjosti; ki ni zdajšnji
+pretekel ,adjective,broader,ki se je zgodil ali je obstajal v preteklosti,časovno odmaknjen v preteklost; nekdanji
+prostor ,noun,exact,odprto območje,"neomejena razsežnost, v kateri se vse nahaja"
+prostor ,noun,exact,za določen namen ali dejavnost,del območja s točno določeno funkcijo ali določenimi značilnostmi
+prostor ,noun,exact,v športu,"katerokoli izmed številnih označenih območij na igrišču, kjer se nahajajo odbijalec, lovilec ali trenerji"
+prostor ,noun,broader,zaprto območje,"kraj v zgradbi, ki je zamejen s stenami, tlemi in stropom"
+prostor ,noun,related,območje človekovega delovanja,abstrakten mentalen kraj
+prostor ,noun,narrower,zaprto območje,"območje, ki je namenjeno posebni vsebini"
+prostor ,noun,related,za določen namen ali dejavnost,"določeno mesto, na katerem se nekaj nahaja"
+prostor ,noun,broader,za določen namen ali dejavnost,območje rezervirano za določen namen
+prostor ,noun,broader,za določen namen ali dejavnost,kraj za gibanje
+prostor ,noun,exact,prazno ali prosto mesto,prazno območje (med stvarmi po navadi zamejeno )
+prostor ,noun,related,območje človekovega delovanja,priložnost za
+prostor ,noun,related,območje človekovega delovanja,določeno okolje ali družbena sfera
+prozoren ,adjective,broader,"o predmetih, snoveh in materialih",ki prepušča svetlobo; skozi katerega se jasno vidi
+prozoren ,adjective,broader,"o predmetih, snoveh in materialih",jasen in svetel
+prozoren ,adjective,exact,o dejanjih,"lahko razumljiv, ki se ga zlahka spregleda (zaradi pomanjkanja subtilnosti)"
+prozoren ,adjective,broader,o dejanjih,brez prevare
+prozoren ,adjective,exact,"o predmetih, snoveh in materialih","tako tenek, da prepušča svetlobo"
+rak ,noun,exact,žival,tipski rod iz družine rakovic (Cancridae)
+rak ,noun,exact,jed,užitno meso različnih rakov
+rak ,noun,exact,astrološko znamenje,četrto znamenje horoskopa; sonce je v tem znamenju od 21. junija do 22. julija
+rak ,noun,related,astrološko znamenje,"(astrologija) oseba, ki se je rodila v času, ko je bilo sonce v Raku"
+rak ,noun,exact,bolezen,"maligna tvorba, ki jo povzroča abnormalna in nekontrolirana delitev celic; skozi krvni obtok ali limfni sistem se lahko razširi  v druge dele telesa"
+rak ,noun,broader,bolezen,"maligen tumor, ki je nastal iz povrhnjičnega tkiva; ena izmed štirih glavnih vrst raka"
+stena ,noun,narrower,skalnato pobočje; del gore,navpična površina zgradbe ali vzpetine
+stena ,noun,exact,predelni zid,"navpična površina, ki omejuje ali ločuje (npr. zid, ki loči eno sobo od druge)"
+stena ,noun,exact,zid,"arhitekturna pregrada z višino in dolžino, ki presegata širino; ločuje ali pregrajuje ali omejuje prostor oz. podpira drugo konstrukcijo"
+stena ,noun,exact,kar omejuje prostornino česa,"plast snovi, ki obdaja prostor"
+stena ,noun,exact,o telesnem organu,"(anatomija) snov (sluznica ali membrana), ki obdaja tvorbo"
+stena ,noun,exact,skalnato pobočje; del gore,strmo in visoko pobočje
+stena ,noun,narrower,"o jami, rovu",navpična (ali skoraj navpična) in gladka površina skale (npr. v pečini ali v gorah)
+vesel ,adjective,related,o gibih in izrazih,prijeten na pogled
+vesel ,adjective,narrower,o gibih in izrazih,veder in jasen
+vesel ,adjective,broader,o veselju,brezskrben in srečen in radosten
+vesel ,adjective,narrower,o razpoloženju; radosten,"živahen, radosten"
+vesel ,adjective,broader,o razpoloženju; radosten,jasen in prijeten; ki vzbuja radost
+vesel ,adjective,broader,o razpoloženju; radosten,"radostno, živahno in samozavestno vedenje"
+vesel ,adjective,broader,o občutku zadovoljstva,"srečen in ponosen, zlasti ob zmagi ali uspehu"
+vesel ,adjective,related,o občutku zadovoljstva,čutiti radostno hvaležnost
+vesel ,adjective,broader,o veselju,ki kaže ali vzbuja radost in veselje; zelo se razveseliti
+vesel ,adjective,exact,o razpoloženju; radosten,"poln radosti, značilno radosten"
+vesel ,adjective,exact,o občutku zadovoljstva,poln razigranega veselja
+vesel ,adjective,broader,"o dogodkih, predmetih in abstraktnih stvareh",ki nudi zabavo in smeh
+vesel ,adjective,broader,o razpoloženju; radosten,(ki je videti) poln razigranega veselja
+zapeljati ,verb,exact,prepričati v negativno delovanje,"prepričati nekoga, da nekaj naredi z obljubami (pogosto lažnimi ali pretiranimi) ali nagovarjanjem"
+zapeljati ,verb,broader,prepričati v negativno delovanje,"zvabiti ali zavesti k zanemarjanju dolžnosti, načel ali pravilnega vedenja"
+zapeljati ,verb,broader,prepričati o svoji kvaliteti,"povzročiti, da nekdo verjame v laž"
+zapeljati ,verb,broader,prepričati v ljubezensko zvezo,napeljati k spolnim odnosom
+zapeljati ,verb,exact,prepričati v ljubezensko zvezo,vzbuditi nepremišljeno ljubezen ali strast in sprožiti nerazumno vedenje
+zapeljati ,verb,related,prepričati v negativno delovanje,"speljati nekoga v napačno smer, dati napačne napotke"
+zapeljati ,verb,related,prepričati o svoji kvaliteti,biti lažniv; biti do nekoga neiskren
+zapeljati ,verb,broader,prepričati v negativno delovanje,moralno izpriditi s čezmernostjo ali čutnostjo
+zaspan ,adjective,broader,ki kaže posledice spanja,ki kaže pomanjkanje pozornosti ali dolgčas
+zaspan ,adjective,exact,ki kaže posledice spanja,napol buden
+zaspan ,adjective,exact,utrujen in pripravljen na spanje,"na tem, da zaspi"
+zaspan ,adjective,broader,ki kaže posledice spanja,"nagnjen k dremavosti, značilno dremav"
+zaspan ,adjective,broader,"miren, neaktiven",pomanjkljivo pozoren ali dejaven
+zavarovati ,verb,exact,zagotoviti denarno pomoč,zagotoviti finančno podporo
+zavarovati ,verb,narrower,o plačevanju denarja zavarovalnici,zaščititi z zavarovanjem
+zavarovati ,verb,exact,zaščititi,"zaščititi pred nevarnostjo, poškodbo, uničenjem ali škodo"
+zavarovati ,verb,exact,preprečiti škodo z dejanji; ukrepati,zaščititi
+zavarovati ,verb,broader,o plačevanju denarja zavarovalnici,vplačati zavarovanje
+zavarovati ,verb,broader,skleniti pogodbo,"zaščititi pred morebitno izgubo, poškodbo ali obveznostmi; biti porok za"
+zavarovati ,verb,exact,zagotoviti denarno pomoč,jamčiti za plačilo
+zavarovati ,verb,broader,preprečiti škodo z dejanji; ukrepati,"ukrepati na način, ki varuje pred bodočimi težavami"
+čaroben ,adjective,broader,zelo lep; privlačen,"ki vzbuja zanimanje, kot bi uročil"
+čaroben ,adjective,exact,zelo lep; privlačen,osupljivo lep
+čaroben ,adjective,exact,ki ima nadnaravno moč,"ki poseduje oz. uporablja nadnaravne moči, ki je značilen za ali lasten nadnaravnim močem"
+abeceda,noun,narrower,nabor črk v ustaljenem zaporedju v latinični pisavi,abeceda |ustaljeno zaporedje črk|
+abeceda,noun,narrower,nabor črk v ustaljenem zaporedju v kaki pisavi sploh,abeceda |ustaljeno zaporedje črk|
+abecednik,noun,exact,učbenik za začetno učenje branja in pisanja,abecednik |prvo berilo|
+ajda,noun,narrower,kulturna rastlina z gostimi rdečkastimi ali belimi cvetovi v socvetjih in užitnimi semeni,ajda |kulturna rastlina z gostimi rdečkastimi ali belimi cveti v gostem socvetju ali njeno seme|
+ajda,noun,narrower,"semena te rastline kot hrana, jed",ajda |kulturna rastlina z gostimi rdečkastimi ali belimi cveti v gostem socvetju ali njeno seme|
+ajdov,adjective,exact,ki je v zvezi z ajdo 1.,ajdov |ki se nanaša na ajdo|
+ajdov,adjective,narrower,ki je del ajde 1.,ajdov |ki se nanaša na ajdo|
+ajdov,adjective,narrower,ki je del ajde 1.1.,ajdov |ki se nanaša na ajdo|
+ajdov,adjective,narrower,ki je iz ajde 1.1. ali vsebuje ajdo 1.1.,ajdov |ki se nanaša na ajdo|
+babica,noun,exact,mati očeta ali matere v razmerju do njunih otrok,"babica, stara mama, stara mati"
+babica,noun,exact,"ženska, ki se poklicno ukvarja z vodenjem porodov","babica |ženska, ki pomaga pri porodu|"
+balin,noun,exact,"najmanjša krogla pri balinanju, ki se ji je treba z večjimi kroglami čim bolj približati",balin |najmanjša krogla pri balinanju|
+balinanje,noun,exact,"šport, pri katerem se skuša zakotaliti kroglo čim bližje manjši kroglici ali s svojo kroglo zbiti nasprotnikovo","balinanje |(športna) igra, pri kateri se mečejo krogle k balinu|"
+belica,noun,exact,"majhna sladkovodna riba z dolgim tankim telesom in večjimi očmi, ki leže ikre v posebnem ovoju, da lahko preživijo tudi izven vode",belica |majhna srebrno bela sladkovodna riba|
+belouška,noun,exact,"nestrupena kača s svetlejšima pegama na zadnjem delu glave, ki živi zlasti ob vodi",belouška |nestrupena kača z belo pego za ušesi|
+bezeg,noun,exact,grm ali nizko drevo z drobnimi rumenkasto belimi cvetovi v socvetjih in črnimi plodovi,bezeg |grm ali nizko drevo z zdravilnimi rumenkasto belimi cveti in črnimi jagodami|
+bezgov,adjective,exact,ki je v zvezi z bezgom 1.,bezgov |ki se nanaša na bezeg|
+bezgov,adjective,narrower,ki je del bezga 1.,bezgov |ki se nanaša na bezeg|
+bezgov,adjective,narrower,ki je iz bezga 1.1. ali vsebuje bezeg 1.1.,bezgov |ki se nanaša na bezeg|
+brin,noun,exact,zimzeleni iglasti grm z drobnimi temno modrimi plodovi,brin |zimzelen iglast grm z drobnimi jagodami|
+brinje,noun,broader,"brinovo grmovje ali njegov del, zlasti veje",brinje |brinovo grmovje|
+brinov,adjective,exact,ki je v zvezi z brinom 1.,brinov |ki se nanaša na brin|
+brinov,adjective,narrower,ki je del brina 1.,brinov |ki se nanaša na brin|
+brinov,adjective,narrower,ki je iz brina 1.1. ali vsebuje brin 1.1.,brinov |ki se nanaša na brin|
+briti,verb,exact,odstranjevati dlake z rezanjem tik ob koži,|rezati dlake tik ob koži|
+briti,verb,exact,"pihati tako, da se čuti hud, močan mraz",|ostro pihati|
+britof,noun,exact,navadno ograjen prostor za pokopavanje umrlih,pokopališče |navadno ograjen prostor za pokopavanje mrličev|
+buča,noun,narrower,kulturna rastlina s plazečim se steblom in navadno užitnimi plodovi trebušaste oblike,buča |kulturna rastlina s plazečim se steblom ali njen debeli sad|
+buča,noun,narrower,plod te rastline,buča |kulturna rastlina s plazečim se steblom ali njen debeli sad|
+buča,noun,exact,"glava, zlasti človeška","[*buča], glava"
+bučanje,noun,narrower,"oddajanje močnega, globokega zvoka, zlasti ob nekaterih naravnih pojavih",bučanje |glagolnik od bučati|
+bučanje,noun,narrower,oddajanje temu podobnega zvoka sploh,bučanje |glagolnik od bučati|
+bučati,verb,narrower,"oddajati močen, globok zvok, zlasti ob nekaterih naravnih pojavih","bučati |dajati močne, zamolkle glasove|"
+bučati,verb,narrower,premikati se ob oddajanju takega zvoka,"bučati |dajati močne, zamolkle glasove|"
+bučati,verb,narrower,"z govorjenjem, kričanjem, premikanjem, navadno več oseb, povzročati močne, globoke zvoke, hrup","bučati |dajati močne, zamolkle glasove|"
+bučati,verb,narrower,"pojavljati se, izražati se kot tak zvok","bučati |dajati močne, zamolkle glasove|"
+bučnica,noun,exact,"bučno seme, navadno užitno",bučnica |bučno seme|
+bula,noun,narrower,"okroglasta nabreklina, oteklina, navadno na koži ali tik pod njo","bula |oteklina, nabreklina|"
+bula,noun,narrower,"skupek izrojenih celic kakega tkiva, navadno znotraj telesa","bula |oteklina, nabreklina|"
+cajtenge,noun,exact,"periodično, navadno dnevno, tedensko izhajajoča publikacija za seznanjanje javnosti z aktualnim dogajanjem, novicami","[*cajtenge], časopis"
+cediti,verb,narrower,"ločevati trdno snov od tekočine s pretakanjem skozi kaj luknjičastega, mrežastega","cediti, precejati"
+cediti,verb,narrower,teči počasi in v manjših količinah,"cediti, precejati"
+crkniti,verb,exact,"priti v stanje, ko osnovni življenjski procesi ne potekajo več",poginiti
+crkniti,verb,narrower,"priti v stanje, ko osnovni procesi, ki zagotavljajo obstoj, delovanje, preživetje, ne potekajo več",umreti
+čebela,noun,exact,"žuželka s sivim in rjavim ali rumenim progastim zadkom, ki daje med in vosek","čebela |žuželka, ki daje med in vosek|"
+česen,noun,narrower,"kulturna rastlina z razvejanim steblom in podzemno čebulico s stroki belkaste barve, ki se uporablja zlasti kot začimba",česen |začimbna rastlina z dolgimi ozkimi listi ali njeni iz strokov sestavljeni podzemeljski deli|
+česen,noun,narrower,"stroki te rastline, zlasti kot hrana, jed",česen |začimbna rastlina z dolgimi ozkimi listi ali njeni iz strokov sestavljeni podzemeljski deli|
+čist,adjective,narrower,"ki je brez umazanije, odpadkov, neželenih snovi","|ki je brez umazanije, prahu|"
+čist,adjective,narrower,ki tako stanje odraža ali je zanj značilno,"|ki je brez umazanije, prahu|"
+čist,adjective,narrower,"ki je brez tujih prvin, dodatkov, primesi",|ki je brez primesi|
+čist,adjective,narrower,"ki se mu pripisuje, da je brez tujih prvin",|ki je brez primesi|
+čist,adjective,narrower,"ki je brez česa odvečnega, nepotrebnega, neželenega sploh",|ki je brez primesi|
+čist,adjective,Narrower,ki je brez česa drugega,|ki je brez primesi|
+čistiti,verb,exact,"delati, povzročati, da kje ni več umazanije, odpadkov, neželenih snovi","čistiti |odstranjevati umazanijo, prah|"
+čistiti,verb,related,"postajati prost umazanije, odpadkov, neželenih snovi","|odstranjevati pleve, smeti|"
+čistiti,verb,narrower,"odstranjevati umazanijo, neželene snovi z dela telesa v skrbi za osebno higieno, urejenost","čistiti |odstranjevati umazanijo, prah|"
+čistoča,noun,exact,"stanje, ko je kaj brez umazanije, odpadkov, neželenih snovi","čistoča |stanje brez umazanije, prahu|"
+čivkati,verb,narrower,"oglašati se s kratkimi, visokimi glasovi, značilnimi za ptico","čivkati |oglašati se s kratkimi, visokimi glasovi|"
+čivkati,verb,narrower,oglašati se s temu podobnimi zvoki,"čivkati |oglašati se s kratkimi, visokimi glasovi|"
+čivkati,verb,narrower,"peti, govoriti s temu podobnim glasom","čivkati |oglašati se s kratkimi, visokimi glasovi|"
+čmrlj,noun,exact,čebeli podobna žuželka z debelim dlakavim telesom,"čmrlj |čebeli podobna žuželka z debelim, kosmatim telesom|"
+čutara,noun,exact,"steklenici podobna lažja posoda za nošenje pijače in pitje neposredno iz nje, zlasti med telesno aktivnostjo","čutara |ploščata, steklenici podobna okrogla posoda za nošenje pijače|"
+da,conjuction,narrower,"uvaja vsebino, ki dopolnjuje nadrejeni stavek kot predmet","da |za uvajanje stavka, ki dopolnjuje nadrednega"
+da,conjuction,narrower,"uvaja želelno vsebino, ki dopolnjuje nadrejeni stavek kot predmet","da |za uvajanje stavka, ki dopolnjuje nadrednega"
+da,conjuction,narrower,"uvaja vsebino, ki dopolnjuje nadrejeni stavek s poročanjem o povedanem","da |za uvajanje stavka, ki dopolnjuje nadrednega"
+da,conjuction,narrower,"uvaja vsebino, ki dopolnjuje nadrejeni stavek kot osebek","da |za uvajanje stavka, ki dopolnjuje nadrednega"
+da,conjuction,narrower,"uvaja vrednoteno vsebino, ki dopolnjuje nadrejeni stavek kot osebek","da |za uvajanje stavka, ki dopolnjuje nadrednega"
+da,conjuction,narrower,"uvaja vsebino, ki dopolnjuje nadrejeni stavek kot prilastek","da |za uvajanje stavka, ki dopolnjuje nadrednega"
+da,conjuction,exact,"izraža način, kako (naj) poteka dejanje v nadrejenem stavku, da se uresniči dejanje, stanje v podrejenem stavku","da |za izražanje načina, kako poteka dejanje nadrednega stavka|"
+da,particle,related,"izraža (grozeč) ukaz, zahtevo, opozorilo",za izražanje naklonskosti
+da,particle,related,"izraža začudenje, nejevero",za poudarjanje ugibanja
+da,particle,exact,izraža pritrjevanje,za pritrditev povedanemu
+da,particle,exact,"poudarja, potrjuje povedano",za poudarjanje povedanega
+dinar,noun,related,denarna enota Srbije in nekaterih drugih držav,|denarna enota Jugoslavije in nekaterih drugih držav|
+dinar,noun,exact,kovanec v vrednosti te enote,|kovanec v vrednosti te enote|
+dinarček,noun,related,denar,dinarček |manjšalnica od dinar|
+dinarček,noun,related,"bankovec, kovanec",dinarček |manjšalnica od dinar|
+fajfa,noun,exact,"priprava za kajenje, ki se napolni s tobakom",pipa |priprava za kajenje|
+gabez,noun,exact,"dlakava rastlina s črno koreniko, širšimi suličastimi listi in visečimi zvončastimi cvetovi ali del te rastline",gabez |dlakava rastlina z jajčastimi listi in lilastimi cveti|
+hektoliter,noun,exact,"enota za merjenje prostornine, 100 litrov","hektoliter |prostorninska mera, 100 litrov|"
+hov,noun,exact,posnema oglašanje psa,hov |posnema pasji glas|
+hruška,noun,narrower,sadno drevo z razpokanim lubjem sivkasto rjave barve in spodaj odebeljenimi plodovi,hruška |sadno drevo ali njegov pečkati sad stožčaste oblike|
+hruška,noun,narrower,"plod tega drevesa, zlasti kot hrana, jed",hruška |sadno drevo ali njegov pečkati sad stožčaste oblike|
+hruškov,adjective,narrower,ki je v zvezi s hruško 1.,hruškov |ki nanaša se na hruško|
+hruškov,adjective,narrower,ki je del hruške 1.,hruškov |ki nanaša se na hruško|
+hruškov,adjective,narrower,ki je v zvezi s hruško 1.1.,hruškov |ki nanaša se na hruško|
+hruškov,adjective,narrower,ki je iz hrušk 1.1. ali vsebuje hruške 1.1.,hruškov |ki nanaša se na hruško|
+jetičen,adjective,narrower,ki je v zvezi z jetiko ,jetičen |ki ima jetiko|
+jetičen,adjective,narrower,ki ima jetiko ,jetičen |ki ima jetiko|
+jetičen,adjective,narrower,kdor ima jetiko,jetičen |ki ima jetiko|
+jetika,noun,exact,"nalezljiva bakterijska bolezen, pri kateri se v tkivih, zlasti pljučih, pojavljajo krogličaste vnetne tvorbe","jetika, tuberkuloza"
+kateri,pronoun,narrower,"sprašuje po izbiri osebe, stvari iz določenega nabora, zaporedja, zlasti glede na njeno vrsto",|izraža vprašanje po izbiri osebe ali stvari iz določene vrste|
+kateri,pronoun,narrower,"sprašuje po izbiri osebe, stvari iz določenega nabora, zaporedja, zlasti glede na njeno vrsto",|izraža vprašanje po izbiri osebe ali stvari iz določene vrste|
+kateri,pronoun,narrower,"izraža posplošeno, poljubno izbiro osebe, stvari, navadno iz določenega nabora, zaporedja",|izraža vprašanje po mestu v zapovrstju|
+kateri,pronoun,narrower,"izraža posplošeno, poljubno izbiro osebe, stvari, navadno iz določenega nabora, zaporedja","|izraža nedoločeno, poljubno osebo ali stvar iz določene vrste|"
+kegljanje,noun,exact,"šport, pri katerem se s kroglo podira devet kegljev, postavljenih na koncu igralne steze",kegljanje |glagolnik od kegljati se|
+kegljanje,noun,narrower,ta šport kot rekreativna dejavnost,kegljanje |glagolnik od kegljati se|
+kegljišče,noun,exact,igrišče za kegljanje,kegljišče |igrišče za kegljanje|
+kikirikanje,noun,exact,"oglašanje z visokimi, zateglimi, predirljivimi glasovi, značilnimi za petelina",kikirikanje |glagolnik od kikirikati|
+kikirikati,verb,exact,"oglašati se z visokimi, zateglimi, predirljivimi glasovi, značilnimi za petelina",kikirikati |oglašati se z glasom kikiriki|
+kočnik,noun,exact,"zob v stranskem delu čeljusti s široko grizno ploskvijo za drobljenje, mletje hrane","kočnik |zob v stranskem delu čeljusti za drobljenje, mletje hrane|"
+kravjak,noun,exact,kravji iztrebek,"kravjak |goveji, zlasti kravji iztrebek|"
+krepniti,verb,exact,"priti v stanje, ko osnovni življenjski procesi ne potekajo več",poginiti
+krepniti,verb,related,"priti v stanje, ko osnovni procesi, ki zagotavljajo obstoj, delovanje, preživetje, ne potekajo več",umreti
+krtača,noun,related,"priprava za čiščenje, pri kateri so navadno v leseno, plastično osnovo vstavljeni šopi ščetin, žice",gradaše |priprava za česanje volne|
+krtačenje,noun,broader,čiščenje česa s krtačo,gradašanje |glagolnik od krtačiti|
+krtačenje,noun,broader,"česanje, nega telesa s krtačo, ščetko",gradašanje |glagolnik od krtačiti|
+krtačenje,noun,related,"čiščenje, česanje živali s krtačo",gradašanje |glagolnik od krtačiti|
+krtačiti,verb,broader,"čistiti kaj s krtačo, ščetko",gradašati |česati volno z gradašami|
+krtačiti,verb,broader,"česati, negovati telo s krtačo, ščetko",gradašati |česati volno z gradašami|
+krtačiti,verb,related,"čistiti, česati žival s krtačo, ščetko",gradašati |česati volno z gradašami|
+krvavica,noun,exact,"klobasa z nadevom iz krvi, drobovine, mesa in riža, kaše v svinjskem ali govejem črevesu","krvavica, krvava klobasa |klobasa z nadevom, ki mu je primešana kri|"
+kvakanje,noun,exact,"oglašanje z nizkimi, odsekanimi, enakomernimi glasovi, značilnimi za žabo",kvakanje |glagolnik od kvakati|
+kvakati,verb,exact,"oglašati se z nizkimi, odsekanimi, enakomernimi glasovi, značilnimi za žabo",kvakati |oglašati se z glasom kva(k)|
+lakirati,verb,exact,nanašati lak na površino česa,lakirati |prekrivati z lakom|
+lakirati,verb,narrower,nanašati lak na nohte,lakirati |prekrivati z lakom|
+livada,noun,exact,"večja površina, porasla s travo, cvetlicami","livada, travnik"
+livada,noun,related,"večja površina, naravno porasla z nižjimi, travi podobnimi rastlinami","livada, travnik"
+maček,noun,related,"domača žival z ostrimi zobmi in kremplji ter daljšim repom, ki se oglaša z visokimi, zateglimi glasovi in lovi zlasti miši, ptiče",|mačji samec|
+maček,noun,exact,samec te živali,|mačji samec|
+mačica,noun,exact,"mačka, zlasti mlajša, manjša",mačica |manjšalnica od mačka /žival/|
+mačica,noun,narrower,socvetje pri moški rastlini v obliki podolgovate dlakave kepice ali nitke,mačica |(vrbovo) socvetje v obliki podolgovate kepice ali vejica s takim socvetjem|
+mačica,noun,narrower,vejica s takim socvetjem,mačica |(vrbovo) socvetje v obliki podolgovate kepice ali vejica s takim socvetjem|
+mačji,adjective,narrower,ki je v zvezi z mačkami 1.,mačji |ki se nanaša na mačke|
+mačji,adjective,narrower,ki je del telesa mačk 1.,mačji |ki se nanaša na mačke|
+mačji,adjective,narrower,ki je namenjen za mačke 1.,mačji |ki se nanaša na mačke|
+mačji,adjective,narrower,"ki se pojavlja pri mačkah 1., prizadene mačke 1.",mačji |ki se nanaša na mačke|
+mačji,adjective,narrower,"ki ga sestavljajo, tvorijo mačke 1.",mačji |ki se nanaša na mačke|
+mačji,adjective,narrower,ki spominja na mačko 1. ali je tak kot pri mački 1.,mačji |ki se nanaša na mačke|
+mačka,noun,exact,"domača žival z ostrimi zobmi in kremplji ter daljšim repom, ki se oglaša z visokimi, zateglimi glasovi in lovi zlasti miši, ptiče","mačka |domača žival, ki lovi miši|"
+mačkica,noun,exact,"mačka, zlasti mlajša, manjša",mačkica |manjšalnica od mačka /žival/|
+mišnica,noun,related,past za miši in druge manjše glodalce,mišnica |strup za miši|
+modras,noun,exact,strupena kača z rožičku podobnim kožnim izrastkom na glavi in verigi podobnimi lisami po hrbtu,modras |strupena kača z verigi podobnimi lisami po hrbtu in rožičkom na glavi|
+narcisa,noun,exact,"rastlina z daljšimi ozkimi listi in večjimi, navadno belimi ali rumenimi zvezdastimi cvetovi","narcisa |rastlina z dolgimi ozkimi listi in z zvezdastimi dišečimi, navadno belimi ali rumenimi cvetovi|"
+obad,noun,exact,"večja, muhi podobna žuželka, ki sesa kri, zlasti sesalcev","obad |velika, muhi podobna žuželka, ki sesa kri|"
+obrasti,verb,exact,"s svojo rastjo priti vse naokoli, po površini česa","obrasti |rastoč biti, pojaviti se okrog česa|"
+obrasti,verb,narrower,"postati prekrit s širjenjem rastlinja vse naokoli, po svoji površini","obrasti |rastoč biti, pojaviti se okrog česa|"
+očim,noun,exact,"materin mož, partner v razmerju do njenih otrok iz prejšnje zakonske, partnerske zveze",očim |materin drugi mož v razmerju do njenih otrok iz prejšnjega zakona|
+očistiti,verb,exact,"narediti, povzročiti, da kje ni več umazanije, odpadkov, neželenih snovi","|odstraniti umazanijo, prah|"
+očistiti,verb,related,"postati prost umazanije, odpadkov, neželenih snovi",otrebiti |odstraniti odvečno iz česa|
+očistiti,verb,related,"odstranjevati neuporabne, neužitne dele hrane, živil",otrebiti |odstraniti odvečno iz česa|
+očistiti,verb,narrower,"odstraniti umazanijo, neželene snovi z dela telesa v skrbi za osebno higieno, urejenost","|odstraniti umazanijo, prah|"
+opica,noun,exact,umsko zelo razvita dlakava žival z oprijemalnimi sprednjimi in zadnjimi okončinami,opica |umsko zelo razvita žival z oprijemalnimi sprednjimi in zadnjimi okončinami in z naprej obrnjenimi očmi|
+otročnica,noun,exact,ženska prvih šest tednov po porodu,otročnica |ženska v prvih šest do osem tednih po porodu|
+ožuliti,verb,exact,povzročiti manjšo poškodbo v obliki mehurčka ali odrgnine na koži zaradi drgnjenja,"|narediti, povzročiti žulj, žulje|"
+ožuliti,verb,narrower,povzročiti manjšo poškodbo v obliki mehurčka ali odrgnine na koži zaradi drgnjenja,"|s tiščanjem, pritiskanjem poškodovati|"
+pelerina,noun,related,"vrhnje oblačilo, navadno gumijasto, za zaščito pred dežjem","pelerina |vrhnje oblačilo brez rokavov, ki pokriva zgornji in spodnji del telesa|"
+pelerina,noun,exact,"vrhnje oblačilo brez rokavov, zlasti žensko, ki se ogrne okrog zgornjega dela telesa","pelerina |vrhnje oblačilo brez rokavov, ki pokriva zgornji in spodnji del telesa|"
+pizda,noun,exact,žensko spolovilo,|žensko spolovilo|
+pizda,noun,exact,"ničvredna, prezira vredna oseba","|ničvreden, slab človek|"
+po,preposition,related,"izraža neusmerjenost, večsmernost gibanja, premikanja",|za izražanje neurejenega premikanja ali stanja 
+po,preposition,related,"izraža razpršenost nahajanja, umeščenost na več mestih",|za izražanje neurejenega premikanja ali stanja 
+po,preposition,related,"izraža, da premikanje po površini česa poteka v vzdolžni smeri",|za izražanje usmerjenega premikanja na površini česa podolžnega|
+po,preposition,related,"izraža, da se z gibanjem, premikanjem doseže cilj","|za izražanje premikanja, usmerjenosti na površino predmeta|"
+po,preposition,exact,"izraža zaporednost dogodkov, časovnih obdobij",|za izražanje (časovnega) zaporedja|
+po,preposition,related,"uvaja razmerje hotenja, volje, prizadetosti v odnosu do koga, česa","|za izražanje usmerjenosti duševne dejavnosti k predmetu, ki je vir, izhodišče čustvovanja|"
+po,preposition,related,"uvaja razmerje načina, sredstva v odnosu do koga, česa","|za izražanje sredstva, posrednika|"
+po,preposition,exact,"uvaja razmerje načina, poteka dejanja v odnosu do koga, česa","|za izražanje načina, kako dejanje poteka|"
+po,preposition,related,"uvaja razmerje vzroka, posledice v odnosu do koga, česa","|za izražanje vzroka, zaradi katerega se kaj dogaja|"
+po,preposition,exact,"uvaja razmerje izhajanja, izvora v odnosu do koga, česa","|za izražanje vira, izvora"
+po,preposition,related,"izraža, da gibanje, premikanje, navadno na določeno mesto, poteka z namenom dobiti, poiskati koga, kaj","|za izražanje premikanja z namenom, da pride oseba, stvar na cilju na izhodiščni položaj premikanja|"
+po,preposition,related,"izraža način ravnanja, dojemanja, vrednotenja česa","|za izražanje načina, kako dejanje poteka|"
+po,preposition,broader,"uvaja razmerje mere, obsega, vrednosti v odnosu do koga, česa",|za izražanje cene|
+počistiti,verb,exact,"narediti, povzročiti, da kje ni več umazanije, odpadkov, neželenih snovi","počistiti |odstraniti umazanijo, prah|"
+polkno,noun,exact,"zunanje okensko krilo, navadno leseno, za zatemnitev in zaščito pred vetrom, soncem, dežjem","[*polkno], naoknica, oknica"
+povečerjati,verb,exact,pojesti večerjo,povečerjati |pojesti večerjo|
+precediti,verb,exact,"ločiti trdno snov od tekočine s pretakanjem skozi kaj luknjičastega, mrežastega",precediti |pretočiti skozi cedilo|
+prehlad,noun,exact,"virusno vnetje zlasti zgornjih dihal s kašljem, izcedkom iz nosu, navadno ob nekoliko povišani telesni temperaturi","prehlad |vnetje sluznice, navadno na dihalih, z nekoliko povišano temperaturo|"
+prehladiti se,verb,exact,zboleti za prehladom,"prehladiti se |z ohladitvijo povzročiti vnetje sluznice, navadno na dihalih|"
+presti,verb,related,"izdelovati nit s sukanjem, tanjšanjem kosmov",|z orodjem ali strojem oblikovati predivo v nit|
+presti,verb,exact,"delati pajčevino, ovoj s sukanjem, navijanjem posebnega izločka",|delati pajčevino|
+presti,verb,narrower,"oddajati enakomeren, nizek zvok, značilen za mačko, navadno ob občutju ugodja, zadovoljstva","|oglašati se z mrmrajočim, brnenju podobnim glasom|"
+presti,verb,narrower,"oddajati temu podoben zvok ob občutju ugodja, zadovoljstva","|oglašati se z mrmrajočim, brnenju podobnim glasom|"
+presti,verb,narrower,"govoriti, pripovedovati z glasom, podobnim takemu zvoku","|oglašati se z mrmrajočim, brnenju podobnim glasom|"
+presti,verb,narrower,"oddajati temu podoben zvok ob pravilnem, tekočem delovanju","|oglašati se z mrmrajočim, brnenju podobnim glasom|"
+radirati,verb,exact,"z radirko brisati, odstranjevati, navadno s svinčnikom, barvico napisano, narisano s papirja","radirati |navadno z radirko brisati, odstranjevati napisano, narisano|"
+radirka,noun,exact,"gumijast pripomoček za brisanje, odstranjevanje, navadno s svinčnikom, barvico napisanega, narisanega s papirja","radirka |manjši izdelek, navadno iz gume, za brisanje, odstranjevanje napisanega, narisanega|"
+sir,noun,exact,"mlečni izdelek, ki se dobi s strjevanjem mleka, odstranitvijo sirotke, navadno z zorenjem","sir |živilski izdelek, ki se dobi z izločitvijo trdne snovi iz mleka in odstranitvijo odvečne vode|"
+sirček,noun,related,"sir, zlasti manjši ali v manjšem kosu","skuta |mehka snov, ki ostane po odstranitvi sirotke iz kislega mleka|"
+sirek,noun,exact,koruzi podobna kulturna rastlina s podolgovatimi povoščenimi listi in lati z veliko semeni,sirek |koruzi podobna kulturna rastlina z latastim socvetjem in drobnimi semeni ali njeno seme|
+sirek,noun,related,koruza,sirek |koruzi podobna kulturna rastlina z latastim socvetjem in drobnimi semeni ali njeno seme|
+sirkov,adjective,narrower,ki je del sirka 1.,sirkov |ki se nanaša na sirek|
+sirkov,adjective,narrower,ki je narejen iz sirka 1.,sirkov |ki se nanaša na sirek|
+sirkov,adjective,narrower,ki je iz koruze ali vsebuje koruzo,sirkov |ki se nanaša na sirek|
+sirov,adjective,narrower,ki je v zvezi s sirom 1.,sirov |narejen s sirčkom|
+sirov,adjective,narrower,ki je iz sira 1. ali vsebuje sir 1.,sirov |narejen s sirčkom|
+sirov,adjective,related,ki je iz skute 1. ali vsebuje skuto 1.,sirov |narejen s sirčkom|
+spresti,verb,related,"izdelati nit s sukanjem, tanjšanjem kosmov",spresti |z orodjem ali strojem izoblikovati predivo v nit|
+sršen,noun,exact,"večja, osi podobna žuželka z rjavimi in rumenimi progami po glavi in oprsju","sršen |velika, čebeli podobna žuželka z rjavo rdečimi progami po glavi in oprsju|"
+stonoga,noun,exact,podolgovata členasta žuželka z večjim številom parnih nožic,"stonoga |kopenski členonožec s podolgovatim, členastim telesom|"
+stric,noun,exact,brat matere ali očeta,|očetov brat|
+stric,noun,exact,"moški, navadno neznan, starejši",|starejši znan moški|
+svak,noun,broader,brat (zakonskega) partnerja ali sorojenčev (zakonski) partner,svak |sestrin mož|
+svakinja,noun,broader,sestra (zakonskega) partnerja ali sorojenčeva (zakonska) partnerica,svakinja |bratova žena|
+šibra,noun,related,"kroglica, zlasti iz svinca, kot polnilo za nekatere vrste nabojev","[*šibra], drobec, kos"
+šoja,noun,exact,"ptica pevka z rjavkastim telesom, črno-belimi perutmi in repom ter s svetlo modrimi in črnimi progami na delu peruti",šoja |gozdna ptica z močnim kljunom in modrimi in črnimi črtastimi peresci na krilih|
+špilati,verb,related,"sodelovati, ukvarjati se s športom, športno igro, zlasti za več igralcev",|biti dejaven v določeni družabni igri|
+špilati,verb,exact,"z glasbilom ustvarjati, proizvajati glasbo",|povzročati glasbo z glasbilom|
+špilati,verb,related,"sodelovati v namizni družabni igri s kartami, figurami",|biti dejaven v določeni družabni igri|
+talent,noun,exact,"prirojena sposobnost, da se kaj dela zelo dobro, nadpovprečno","talent, dar |velika prirojena sposobnost za določeno umsko ali fizično dejavnost|"
+talentiran,adjective,exact,"ki ima prirojeno sposobnost, da kaj dela zelo dobro, nadpovprečno",talentiran |posebno nadarjen za kaj|
+tavžentroža,noun,broader,"zdravilna rastlina s trikotnimi, nasproti rastočimi listi in rožnatimi zvezdastimi cvetovi ali del te rastline",|zdravilna rastlina z drobnimi rožnatimi cveti|
+termofor,noun,exact,"gumijast grelni pripomoček, ki se napolni z vročo vodo, navadno obdan s prevleko iz tkanine","termofor |blazini podobna grelna priprava, ki se napolni s toplo vodo|"
+tropina,noun,exact,"kar ostane po iztisnjenju tekočine iz plodov, semen",tropina |kar ostane po iztisnjenju tekočine iz sadja|
+trot,noun,exact,samec čebele,trot |čebelji samec|
+večerjati,verb,exact,jesti večerjo,večerjati |jesti večerjo|
+vidra,noun,exact,"mesojedi sesalec z vitkim telesom in kratkimi nogami s plavalno kožico ter dolgim sploščenim repom, ki živi ob vodi",vidra |ob vodah živeča roparska žival vitkega telesa in kratkih nog|
+vitamin,noun,exact,"organska snov, ki jo telo v majhnih količinah potrebuje za različne presnovne procese in pozitivno vpliva na delovanje organizma","vitamin |organska snov, potrebna za rast in pravilno delovanje organizma|"
+zabetonirati,verb,exact,"narediti, utrditi kaj z vlivanjem, nanosom, vgradnjo betona","zabetonirati |narediti stene, tla česa z betonom|"
+zabetonirati,verb,narrower,"s takim vlivanjem, nanosom, vgradnjo utrditi kaj, da ostane, stoji na določenem mestu","zabetonirati |narediti stene, tla česa z betonom|"
+zabetonirati,verb,narrower,"s takim vlivanjem, nanosom pokriti, zapreti","zabetonirati |narediti stene, tla česa z betonom|"
+zabučati,verb,exact,"oddati ali začeti oddajati močen, globok zvok, zlasti ob nekaterih naravnih pojavih","zabučati |dati močne, zamolkle glasove|"
+zabučati,verb,narrower,premakniti se ob oddajanju takega zvoka,"zabučati |dati močne, zamolkle glasove|"
+zabučati,verb,narrower,"z govorjenjem, kričanjem, premikanjem, navadno več oseb, povzročiti ali začeti povzročati močne, globoke zvoke, hrup","zabučati |dati močne, zamolkle glasove|"
+zabučati,verb,narrower,"pojaviti se, izraziti se kot tak zvok","zabučati |dati močne, zamolkle glasove|"
+zobotrebec,noun,exact,"koničasta, navadno lesena paličica za odstranjevanje ostankov hrane med zobmi, za nabadanje hrane","zobotrebec |na obeh straneh priostrena, navadno lesena paličica za odstranjevanje ostankov hrane iz zobovja, za natikanje koščkov hrane|"
+zradirati,verb,exact,"z radirko izbrisati, odstraniti, navadno s svinčnikom, barvico napisano, narisano s papirja","zradirati |navadno z radirko zbrisati, odstraniti napisano, narisano|"
+žaba,noun,exact,"dvoživka brez repa, z večjo glavo in močnimi nogami s plavalno kožico","žaba |manjša dvoživka s široko glavo, širokim trupom in daljšimi zadnjimi okončinami|"
+žabica,noun,exact,manjša žaba,žabica |manjšalnica od žaba|
+žabji,adjective,narrower,ki je v zvezi z žabami 1.,žabji |ki se nanaša na žabe|
+žabji,adjective,narrower,ki je del telesa žab 1.,žabji |ki se nanaša na žabe|
+žabji,adjective,narrower,ki spominja na žabo 1. ali je tak kot pri žabi 1.,žabji |ki se nanaša na žabe|
+žajfa,noun,exact,milo,"[*žajfa], milo"
+žarek,adjective,related,"ki je izrazit, močan, zlasti pri oddajanju, odboju svetlobe","žarek |ki oddaja zelo močno svetlobo, toploto|"
+žolna,noun,exact,"ptica z močnim dletastim ali šilastim kljunom, prilagojenim za dolbenje dupel in iskanje žuželk pod drevesnim lubjem","žolna |ptica z močnim dletastim kljunom in nogami, prilagojenimi za plezanje po deblu|"
+žuliti,verb,related,"povzročati neprijeten občutek, bolečino zaradi drgnjenja","žuliti |delati, povzročati žulj, žulje|"
+baba,noun,related,ženska,[*baba] |stara ženska|
+baba,noun,related,"moški, ki se mu pripisujejo nekatere stereotipne ženske vedenjske, telesne lastnosti","[*baba] |nezanesljiv, strahopeten moški|"
+babjak,noun,exact,"moški, ki pogosto menja spolne partnerice ali se mu to pripisuje","babjak, ženskar"
+cedilo,noun,exact,luknjičasta ali mrežasta priprava za ločevanje trdne snovi od tekočine s pretakanjem,cedilo |luknjičasta priprava za precejanje tekočin|
+čeljust,noun,narrower,"vsaka od obeh kosti, v katero so vraščeni zobje, z obdajajočimi mehkimi tkivi ali ti dve kosti z obdajajočimi tkivi kot celota","čeljust |del obraza, v katerem so vraščeni zobje|"
+flek,noun,broader,madež,"madež, zlasti od masti, olja"
+flek,noun,related,lisa,"krpa, zaplata"
+grapa,noun,exact,"jarek na strmem pobočju, ki ga navadno oblikuje voda","grapa |jarek, ki ga je strmo v breg naredila voda|"
+grapa,noun,related,manjša ozka dolina s strmimi pobočji,"grapa |jarek, ki ga je strmo v breg naredila voda|"
+kapnik,noun,exact,"podolgovata tvorba, ki v kraških jamah nastaja z nalaganjem mineralov, izločenih iz kapljajoče vode","kapnik |podolgovata tvorba v kraških jamah, nastala s kristalizacijo raztopljenih rudnin|"
+kardinal,noun,exact,"najvišji dostojanstvenik v Katoliški cerkvi, ki ga imenuje papež",kardinal |najvišji dostojanstvenik v Rimskokatoliški cerkvi|
+naduha,noun,exact,"kronična vnetna bolezen dihalnih poti, za katero so značilni piskanje, občutek dušenja, tiščanja v prsih in kašelj","naduha, astma"
+plitek,adjective,exact,"ki ima od površine proti notranjosti, zlasti v navpični smeri, razmeroma majhno razsežnost","plitek, plitev |ki ima v navpični smeri navzdol razmeroma majhno razsežnost|"
+plitek,adjective,narrower,"ki ne sega globoko, zajema le manjše področje pod površino","plitek, plitev |ki ima v navpični smeri navzdol razmeroma majhno razsežnost|"
+polenta,noun,exact,"gosta jed iz zdroba, zlasti koruznega, in vode","polenta |gosta jed iz zdroba, zlasti iz koruznega, in vode|"
+ponev,noun,exact,"nižja, navadno okrogla posoda z ročajem za cvrenje in pečenje","ponev |nizka okrogla posoda za pečenje, cvrenje, navadno z dolgim ročajem|"
+razoglav,adjective,exact,ki je brez pokrivala,razoglav |ki je brez pokrivala|
+stričev,adjective,exact,"ki je v zvezi s stricem 1., pripada stricu 1.",stričev |ki se nanaša na strica|
+stričev,adjective,narrower,"ki je v sorodstvenem, družbenem razmerju s stricem 1.",stričev |ki se nanaša na strica|
+zaškripati,verb,exact,"oddati ali začeti oddajati glasen, predirljiv, visok zvok, zlasti zaradi trenja, drgnjenja","zaškripati |zaradi trenja, drgnjenja dati kratke, visoke glasove|"
+žajfnica,noun,exact,milnica,"[*žajfnica], milnica |raztopina mila v vodi|"

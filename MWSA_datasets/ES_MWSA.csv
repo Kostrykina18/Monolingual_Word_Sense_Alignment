@@ -1,0 +1,1260 @@
+lemma,pos,sense_source,sense_target,semantic_relationship
+verde,adjective,"por extensión, dicho de cualquier cosa, que aún está falta de desarrollo y preparación.",dicho de una cosa: que está en los principios y a la cual falta mucho para perfeccionarse.,related
+verde,adjective,"en particular, dicho de una persona, que carece de experiencia en general, o en alguna actividad, disciplina o profesión.",dicho de una persona: inexperta y poco preparada.,exact
+verde,adjective,"dicho de una expresión verbal u obra artística, que ofende las reglas morales comúnmente aceptadas, en especial en materia de sexualidad.","dicho de un cuento, de una comedia, de una poesía, etc.: libres, indecentes, obscenos.",related
+verde,adjective,"por extensión de los anteriores, dicho de una persona, que manifiesta un apetito sexual normalmente juzgado impropio en alguien de su edad o condición.",dicho de una persona: que conserva inclinaciones galantes impropias de su edad o de su estado.,related
+verde,adjective,"dicho de un espacio urbano, reservado para parques y jardines y no apto para edificar.",se dice del lugar destinado a parque o jardín y en el que no se puede edificar.,exact
+verde,adjective,"dicho de un movimiento político, que defiende primariamente la conservación de la naturaleza y el equilibrio ecológico.",se dice de ciertos partidos ecologistas y de sus miembros.,related
+verde,adjective,"del color percibido por el ojo humano de la luz con una longitud de onda entre 520 nanómetros y 570 nanómetros, el color del follaje vivo o las esmeraldas.","de color semejante al de la hierba fresca, la esmeralda, el cardenillo, etc. es el cuarto color del espectro solar.",related
+verde,adjective,"dicho de una planta, que aún conserva la savia.","en contraposición a seco, se dice de los árboles y las plantas que aún conservan alguna savia.",broader
+verde,adjective,"dicho de la leña, recién cortada, que por contener aún savia no es apta para arder.",dicho de la leña: recién cortada del árbol vivo.,exact
+verde,adjective,"dicho de una legumbre, que se cosecha y consume sin secar previamente.","dicho de una legumbre: que se consume fresca, para diferenciarla de la que se guisa seca.",exact
+verde,adjective,"dicho de un fruto, que aún no ha alcanzado su madurez.",que aún no está maduro.,exact
+verde,adjective,forraje que se consume sin secar.,alcacer y demás hierbas que se siegan en verde y las consume el ganado sin dejarlas secar.,exact
+verde,adjective,conjunto de hojas y otras partes verdes<sub>1</sub> de las plantas.,follaje conjunto de hojas de los árboles y de otras plantas.,exact
+verde,adjective,billete de dólar estadounidense.,dólar unidad monetaria de los estados unidos.,broader
+verde,noun,"por extensión, dicho de cualquier cosa, que aún está falta de desarrollo y preparación.",dicho de una cosa: que está en los principios y a la cual falta mucho para perfeccionarse.,related
+verde,noun,"en particular, dicho de una persona, que carece de experiencia en general, o en alguna actividad, disciplina o profesión.",dicho de una persona: inexperta y poco preparada.,exact
+verde,noun,"dicho de una expresión verbal u obra artística, que ofende las reglas morales comúnmente aceptadas, en especial en materia de sexualidad.","dicho de un cuento, de una comedia, de una poesía, etc.: libres, indecentes, obscenos.",related
+verde,noun,"por extensión de los anteriores, dicho de una persona, que manifiesta un apetito sexual normalmente juzgado impropio en alguien de su edad o condición.",dicho de una persona: que conserva inclinaciones galantes impropias de su edad o de su estado.,related
+verde,noun,"dicho de un espacio urbano, reservado para parques y jardines y no apto para edificar.",se dice del lugar destinado a parque o jardín y en el que no se puede edificar.,exact
+verde,noun,"dicho de un movimiento político, que defiende primariamente la conservación de la naturaleza y el equilibrio ecológico.",se dice de ciertos partidos ecologistas y de sus miembros.,related
+verde,noun,"del color percibido por el ojo humano de la luz con una longitud de onda entre 520 nanómetros y 570 nanómetros, el color del follaje vivo o las esmeraldas.","de color semejante al de la hierba fresca, la esmeralda, el cardenillo, etc. es el cuarto color del espectro solar.",related
+verde,noun,"dicho de una planta, que aún conserva la savia.","en contraposición a seco, se dice de los árboles y las plantas que aún conservan alguna savia.",broader
+verde,noun,"dicho de la leña, recién cortada, que por contener aún savia no es apta para arder.",dicho de la leña: recién cortada del árbol vivo.,exact
+verde,noun,"dicho de una legumbre, que se cosecha y consume sin secar previamente.","dicho de una legumbre: que se consume fresca, para diferenciarla de la que se guisa seca.",exact
+verde,noun,"dicho de un fruto, que aún no ha alcanzado su madurez.",que aún no está maduro.,exact
+verde,noun,forraje que se consume sin secar.,alcacer y demás hierbas que se siegan en verde y las consume el ganado sin dejarlas secar.,exact
+verde,noun,conjunto de hojas y otras partes verdes<sub>1</sub> de las plantas.,follaje conjunto de hojas de los árboles y de otras plantas.,exact
+verde,noun,billete de dólar estadounidense.,dólar unidad monetaria de los estados unidos.,broader
+lomo,noun,parte de la espalda debajo de los omóplatos y hasta el comienzo de las nalgas,parte inferior y central de la espalda.,exact
+lomo,noun,"en los cuadrúpedos, zona equivalente, desde la cruz hasta la grupa","en los cuadrúpedos, todo el espinazo, desde la cruz hasta las ancas.",exact
+lomo,noun,carne que se corta de esta zona para su consumo,cada una de las dos piezas de carne de cerdo o de vacuno que están junto al espinazo y bajo las costillas.,narrower
+lomo,noun,parte de un códice por la que se unen las páginas mediante costura y pegado,"parte del libro opuesta al corte de las hojas, en la cual se pone el rótulo.",related
+lomo,noun,montoncillo de tierra que queda a ambos lados del surco al pasar el arado,tierra que levanta el arado entre surco y surco.,exact
+lomo,noun,"en las armas blancas de un solo filo, lado de la hoja opuesto a este","en los instrumentos cortantes, parte opuesta al filo.",broader
+lomo,noun,"por extensión, saliente romo de cualquier objeto",parte saliente y más o menos roma de cualquier cosa.,exact
+lomo,noun,"pequeña elevación, menor y menos abrupta que una colina",loma.,exact
+lomo,noun,parte de la espalda debajo de los omóplatos y hasta el comienzo de las nalgas,espalda del cuerpo humano.,narrower
+cuando,conjuction,en frases sin verbo indica la época de los hechos o lapsos de tiempo</i>.,"en frases sin verbo, adquiere función prepositiva.",narrower
+cuando,conjuction,"se usa también para distribuir los miembros de una oración, y equivale a «algunas veces»</i>.",unas veces y otras veces.,related
+cuando,conjuction,en caso que.,"en caso de que, si.",exact
+cuando,conjuction,introduce una contradicción que no impide la realización de la acción</i>.,aunque.,related
+cuando,conjuction,"introduce una oración explicativa, justificativa o probatoria de la idea expresada</i>.",puesto que.,related
+cuando,conjuction,introduce una oración que indica el momento en que ocurre algo</i>.,"en el tiempo, en el punto, en la ocasión en que.",related
+feliz,adjective,que siente felicidad.,que tiene felicidad. hombre feliz.,exact
+feliz,adjective,que provoca o anuncia felicidad.,que causa felicidad.,exact
+feliz,adjective,"dicho de un pensamiento o palabra, conveniente a la ocasión.","dicho de un pensamiento, de una frase o de una expresión: oportuno, acertado, eficaz.",exact
+lejos,adverb,a gran distancia.,"a gran distancia, en lugar distante o remoto. está muy lejos de mi ánimo.",
+cartón,noun,"material barato compuesto de varias hojas de papel superpuestas y prensadas, utilizado principalemente para embalaje","conjunto de varias hojas superpuestas de pasta de papel que, en estado húmedo, se adhieren unas a otras por compresión y se secan después por evaporación.",exact
+cartón,noun,"material barato compuesto de varias hojas de papel superpuestas y prensadas, utilizado principalemente para embalaje","hoja de varios tamaños, hecha de pasta de trapo, papel viejo y otras materias.",broader
+cartón,noun,"por extensión, bulto que contiene varias unidades de un producto embalado en cartón, para su distribución mayorista",envase de cartón que suele contener diez cajetillas de cigarrillos.,narrower
+cartón,noun,formato de historieta criticando -las situaciones del cotidiano,"dibujo sobre papel o lienzo, a veces colorido, de una composición o figura, ejecutado en el mismo tamaño que ha de tener la obra de pintura, mosaico, tapicería o vidriería para la que servirá de modelo.",related
+yacer,verb,estar en posición horizontal o supina,dicho de una persona: estar echada o tendida.,exact
+yacer,verb,"por extensión, estar en algún sitio determinado",dicho de una persona o de una cosa: existir o estar real o figuradamente en algún lugar.,broader
+yacer,verb,"eufemísticamente, tener relaciones sexuales",tener trato carnal con alguien.,related
+yacer,verb,"dicho de un animal, pastar por la noche",dicho de una caballería: pacer de noche.,narrower
+ceder,verb,cesar una resistencia.,"rendirse, someterse.",narrower
+ceder,verb,"decaer la fuerza o vigor de una manifestación de la naturaleza (viento, fiebre).","dicho del viento, de la fiebre, etc.: mitigarse, disminuir su fuerza.",exact
+ceder,verb,"disminuir la resistencia, dureza o elasticidad de un objeto.",dicho de una cosa: disminuir o cesar su resistencia.,exact
+ceder,verb,soltarse o quebrarse algo.,dicho de algo sometido a una fuerza excesiva: romperse o soltarse.,narrower
+ceder,verb,valer menos alguien o algo comparado con otra persona o cosa.,dicho de una persona o de una cosa: ser inferior a otra con la que se compara.,exact
+ceder,verb,traspasar algo una cosa a otra.,"dar, transferir, traspasar a alguien una cosa, acción o derecho.",broadeer
+ceder,verb,"perder una ventaja sobre la competencia, rival o enemigo.","perder tiempo, espacio, posición, etc., en favor de un rival.",exact
+ceder,verb,"dicho del balón, traspasarlo a otro jugador del mismo equipo.","dicho de un jugador: pasar la pelota a otro de su equipo, cuando ambos están cerca.",exact
+resentirse,verb,"perder o ver disminuidos la fuerza, tamaño o vitalidad de algo o de alguien.",empezar a flaquear debilitarse.,exact
+resentirse,verb,"experimentar dolor, enojo, tristeza, ofensa o rencor; ver lastimados los sentimientos.","tener sentimiento, pesar o enojo por algo.",narrower
+resentirse,verb,"dicho de la salud o de una parte del cuerpo: tener dolor, estar débil o estar lesionada o herida por algún accidente o enfermedad anteriores.","sentir dolor o molestia en alguna parte del cuerpo, a causa de alguna enfermedad o dolencia pasada.",exact
+catalán,adjective,"originario, relativo a, o propio de cataluña.",natural de cataluña.,narrower
+catalán,adjective,"originario, relativo a, o propio de cataluña.","perteneciente o relativo a este antiguo principado, hoy comunidad autónoma de españa.",narrower
+catalán,adjective,"lengua romance del grupo ibérico, muy similar al occitano o provenzal, hablada en el norte de la costa mediterránea española, el rosellón en francia, andorra, el languedoc, así como en las islas baleares y la ciudad sarda de alguer. es lengua oficial en andorra y, con el español, en baleares, cataluña y la comunidad valenciana.",lengua romance vernácula que se habla en cataluña y en otros dominios de la antigua corona de aragón.,exact
+catalán,noun,"originario, relativo a, o propio de cataluña.",natural de cataluña.,narrower
+catalán,noun,"originario, relativo a, o propio de cataluña.","perteneciente o relativo a este antiguo principado, hoy comunidad autónoma de españa.",narrower
+catalán,noun,"lengua romance del grupo ibérico, muy similar al occitano o provenzal, hablada en el norte de la costa mediterránea española, el rosellón en francia, andorra, el languedoc, así como en las islas baleares y la ciudad sarda de alguer. es lengua oficial en andorra y, con el español, en baleares, cataluña y la comunidad valenciana.",lengua romance vernácula que se habla en cataluña y en otros dominios de la antigua corona de aragón.,exact
+bosque,noun,terreno cubierto por árboles y otra vegetación,sitio poblado de árboles y matas.,exact
+bosque,noun,"por extensión, cuestión o asunto confuso y complejo","abundancia desordenada de algo, confusión, cuestión intrincada.",exact
+bosque,noun,pilosidad que en los varones adultos crece en las partes inferior y media de la cara,barba pelo que nace en la cara  .,exact
+urgencia,noun,condición o carácter de urgente,cualidad de urgente.,exact
+urgencia,noun,necesidad imperiosa y urgente,necesidad o falta apremiante de lo que es menester para algún negocio.,exact
+urgencia,noun,"situación, evento o problema urgente",caso urgente.,exact
+urgencia,noun,obligación inmediata de cumplir con los requerimientos estipulados.,inmediata obligación de cumplir una ley o un precepto.,exact
+claudicar,verb,terminar por ceder o rendirse a una presión,acabar por ceder a una presión o una tentación.,exact
+claudicar,verb,dolencia o afección de un órgano como consecuencia de la interrupción en la circulación sanguínea en un vaso que lo irriga,afectar un órgano a consecuencia de la interrupción de la circulación de la sangre en un vaso que lo irriga.,exact
+claudicar,verb,lo mismo que cojear,cojear .,exact
+clarificar,verb,"alumbrar, arrojar luz sobre algo.","iluminar, alumbrar.",exact
+clarificar,verb,"precisar, aclarar en un asunto o negocio aquellos aspectos o cuestiones que no aparecen bien determinados.","aclarar algo, quitarle los impedimentos que lo ofuscan.",related
+clarificar,verb,"dar transparencia, limpieza o claridad a un licor o bebida en general.","poner claro, limpio, y purgar de heces lo que estaba denso, turbio o espeso, especialmente un licor o el azúcar para hacer almíbar.",broader
+cercar,verb,"rodear con una valla, un seto, una alambrada, una muralla, un cerco, una cerca o cualquier obstáculo que impide el paso y protege el lugar de los extraños.","rodear o circunvalar un sitio con un vallado, una tapia o un muro, de suerte que quede cerrado, resguardado y separado de otros.",broader
+cercar,verb,rodear una plaza fuerte del enemigo y asediarlo.,"poner cerco o sitio a una plaza, ciudad o fortaleza.",narrower
+cercar,verb,"rodear una muchedumbre a una persona, cosa o lugar.",dicho de mucha gente: rodear a alguien o algo.,exact
+husmear,verb,seguir el rastro de un olor.,rastrear con el olfato algo.,broader
+husmear,verb,indagar movido por la curiosidad.,andar indagando algo con arte y disimulo.,narrower
+husmear,verb,oler a podrido.,"dicho de una cosa, especialmente de la carne: empezar a oler mal.",related
+pecio,noun,resto de un buque inutilizado o naufragado,pedazo o fragmento de la nave que ha naufragado.,narrower
+pecio,noun,"por extensión, resto de la carga o aparejo de un pecio<sub>1</sub>",porción de lo que ella contiene.,exact
+pecio,noun,tasa que el señor de un puerto cobraba de quienes naufragaban en su jurisdicción,derechos que el señor del puerto de mar exigía de las naves que naufragaban en sus marinas y costas.,exact
+zanahoria,noun,"(daucus carota</i>) planta herbácea bienal, de la familia de las apiáceas, que se cultiva desde finales del i milenio por su raíz comestible, de forma cónica y color habitualmente anaranjado. es una hierba de hasta 1 m de altura, con las hojas tri- o bipinnadas, el tallo ligeramente pubescente, y densas umbelas de pequeñas flores blancas. la raíz es ligeramente dulce, rica en betacaroteno, y se consume en numerosas preparaciones, cruda y cocida. en occidente no comenzó a emplearse hasta el siglo xv, pero ganó rápidamente popularidad y es una de las bases de numerosas salsas y caldos","planta herbácea umbelífera, con flores blancas, y purpúrea la central de la umbela; fruto seco y comprimido y raíz fusiforme, de unos dos decímetros de largo, amarilla o rojiza, jugosa y comestible.",exact
+zanahoria,noun,"por antonomasia, la raíz de esta planta usada en gastronomía",raíz de esta planta.,exact
+zanahoria,noun,persona corta de luces o falta de habilidad mundana,"hombre tonto, lelo y simplón.",exact
+yugada,noun,"actualmente, cantidad de tierra que es capaz de trabajar en un día una yunta de bueyes.",espacio de tierra de labor que puede arar una yunta en un día.,exact
+yugada,noun,"pareja de bueyes utilizados en labores agrarias, a veces también pareja de otros animales que se usan para lo mismo.","yunta, especialmente la de bueyes.",exact
+urna,noun,"caja herméticamente cerrada donde, durante una elección o sesión electoral, se depositan y guardan los votos hasta el momento de ser contados.","arca que sirve para depositar las cédulas, números o papeletas en los sorteos y en las votaciones secretas.",exact
+urna,noun,caja de cristal para guardar y exponer objetos valiosos.,caja de cristales planos a propósito para tener dentro visibles y resguardados del polvo efigies u otros objetos preciosos.,exact
+urna,noun,tipo de vasija o caja especial destinada a guardar objetos de valor o las cenizas de los muertos (urna funeraria).,"caja de metal, piedra u otra materia, que sirve para varios usos, como guardar dinero, los restos o las cenizas de los cadáveres humanos, etc.",exact
+urna,noun,antigua medida de líquidos.,medida antigua para líquidos.,exact
+urna,noun,caja o cajón donde se deposita un cadáver antes de ser enterrado.,ataúd para enterrar un cadáver  .,exact
+urdimbre,noun,el conjunto de estos hilos longitudinales en el trabajo de telar ya hecho.,estambre o pie después de urdido.,exact
+urdimbre,noun,en el telar: conjunto de hilos paralelos que forman la base estructural del tejido y que enlazados con la trama forman la tela. están dispuestos en sentido longitudinal (vertical con respecto a la persona que realiza el trabajo) y con espacios regulares. a veces estos hilos son de fibras de mejor calidad que las empleadas en la trama. pueden almidonarse o encolarse.,conjunto de hilos que se colocan en el telar paralelamente unos a otros para formar una tela.,exact
+urdimbre,noun,"acción de maquinar, urdir.",acción de  urdir maquinar algo  .,exact
+jeringa,noun,"instrumento compuesto por un tubo dentro del que se desplaza un émbolo y rematado por una aguja, que se emplea para inyectar fármacos u otras substancias en el tejido muscular o el sistema circulatorio","instrumento compuesto de un tubo que termina por su parte anterior en un cañoncito delgado, y dentro del cual juega un émbolo por medio del que asciende primero, y se arroja o inyecta después, un líquido cualquiera.",narrower
+jeringa,noun,"instrumento análogo rematado por un pico estrecho, usado para introducir una materia blanda en una vaina o funda","instrumento de igual clase dispuesto para impeler o introducir materias no líquidas, pero blandas, como la masa con que se hacen los embutidos.",exact
+jeringa,noun,situación molesta o incómoda,"molestia, pejiguera, importunación.   .",exact
+jeringa,noun,"por extensión, persona molesta o incómoda","persona molesta, inoportuna.",exact
+velada,noun,acción y efecto de velar,acción y efecto de  velar 1 .,exact
+velada,noun,"reunión nocturna de personas en un espacio de carácter público, especialmente acondicionado con motivo de alguna celebración o festividad","concurrencia nocturna a una plaza o paseo público, iluminado con motivo de alguna festividad.",exact
+velada,noun,reunión nocturna de personas para de algún modo divertirse o distraerse,reunión nocturna de varias personas para solazarse de algún modo.,exact
+velada,noun,"evento artísitico, social o deportivo que tiene lugar por la noche","fiesta musical, literaria o deportiva que se hace por la noche.",exact
+pedante,noun,"que alardea y se envanece de sus conocimientos, con o sin causa para ello","dicho de una persona: engreída y que hace inoportuno y vano alarde de erudición, téngala o no en realidad.",exact
+pedante,noun,maestro de primera enseñanza que dictaba clases privadas a domicilio para los hijos de familias pudientes,maestro que enseñaba a los niños la gramática yendo a las casas.,exact
+pedante,adjective,"que alardea y se envanece de sus conocimientos, con o sin causa para ello","dicho de una persona: engreída y que hace inoportuno y vano alarde de erudición, téngala o no en realidad.",exact
+pedante,adjective,maestro de primera enseñanza que dictaba clases privadas a domicilio para los hijos de familias pudientes,maestro que enseñaba a los niños la gramática yendo a las casas.,exact
+hez,noun,precipitado del fondo de una disolución.,"en las preparaciones líquidas, parte de desperdicio que se deposita en el fondo de las cubas o vasijas.",narrower
+hez,noun,lo más vil y despreciable de cualquier clase.,lo más vil y despreciable de cualquier clase.,exact
+hez,noun,"desecho maloliente de la comida ingerida, que se expulsa por vía anal.",excrementos .,broader
+halagüeño,adjective,"lisonjero, adulador.",que halaga.,narrower
+halagüeño,adjective,"lisonjero, adulador.",que lisonjea o adula.,exact
+halagüeño,adjective,"que causa placer, que seduce, agrada o tiene atractivo.",que atrae con dulzura y suavidad.,related
+rumor,noun,comentario o comunicación informal y sin fundamento que se propaga de boca en boca,voz que corre entre el público.,narrower
+rumor,noun,ruido de voces que se confunden y mezclan unas con otras sin poderse distinguir lo que se habla o comenta,ruido confuso de voces.,exact
+rumor,noun,"ruido confuso, monótono y apagado","ruido vago, sordo y continuado.",exact
+cillero,noun,"despensa, bodega en castellano tradicional.","bodega, despensa o sitio seguro para guardar algunas cosas.",exact
+cillero,noun,"hombre que tenía a su cargo la cilla pública, administrador y encargado de guardar los diezmos de los granos en la cilla y dar cuenta de ellos y hacer el reparto correspondiente. (castellano tradicional).","hombre que tenía a su cargo guardar los granos y frutos de los diezmos en la cilla, dar cuenta de ellos, y entregarlos a los partícipes.",exact
+zaquizamí,noun,último piso o nivel de una vivienda.,"desván, sobrado o último cuarto de la casa, comúnmente a teja vana.",exact
+zaquizamí,noun,"desván, cuarto pequeño poco limpio y desacomodado.","casilla o cuarto pequeño, desacomodado y poco limpio.",exact
+zaquizamí,noun,"cubierta de madera, generalmente decorada, que se pone a un techo.",enmaderamiento de un techo.,exact
+guiri,noun,"(ulex europaeus</i>) arbusto espinoso de la familia de las fabáceas, nativo de europa, de hasta 3 m de altura, con hojas trifoliadas que en los ejemplares adultos se convierten en espinas de hasta 3 cm de largo. florece en primavera, produciendo inflorescencias arracimadas en las brácteas axilares, que fructificarán en vainas pequeñas, pardorrojizas. es muy invasor, y rebrota con facilidad tras ser quemado",tojo planta papilionácea  .,exact
+guiri,noun,partidario del bando liberal en las guerras carlistas,"nombre con que, durante las guerras civiles del siglo xix, designaban los carlistas a los partidarios de la reina cristina, y después a todos los liberales, y en especial a los soldados del gobierno.",broader
+guiri,noun,natural de un país extranjero y no hispanohablante,turista extranjero.,narrower
+guiri,noun,agente de la guardia civil,miembro de la guardia civil.,exact
+valiente,adjective,de mucha fuerza o intensidad,fuerte y robusto en su línea.,exact
+valiente,adjective,que no teme enfrentar riesgos,"esforzado, animoso y de valor.",exact
+valiente,adjective,que vale,"eficaz y activo en su línea, física o moralmente.",exact
+valiente,adjective,de muy buena calidad o factura,"excelente, primoroso o especial en su línea.",exact
+valiente,adjective,"dicho de una persona, que presume de sus condiciones, reales o imaginarias, en especial de la de valiente<sub>3</sub>",grande y excesivo.,narrower
+valiente,adjective,"dicho de una persona, que presume de sus condiciones, reales o imaginarias, en especial de la de valiente<sub>3</sub>","valentón, baladrón.",narrower
+clavijero,noun,"pieza maciza larga y angosta, de madera o de hierro, en que están hincadas las clavijas de los clavicordios, pianos y otros instrumentos análogos.","pieza maciza, larga y estrecha, de madera o hierro, en que están hincadas las clavijas de los clavicordios, pianos y otros instrumentos análogos.",exact
+clavijero,noun,"nombre que se da a la parte del timón del arado, en la cual se encuentran los agujeros para poner la clavija.",parte del timón del arado en la cual están los agujeros para poner la clavija.,exact
+bozo,noun,"pequeño bigote fino y suave que asoma a comienzos de la pubertad de los varones, o después de la menopausia en las mujeres.",vello que apunta a los jóvenes sobre el labio superior antes de nacer la barba.,narrower
+bozo,noun,lado de afuera de la boca.,parte exterior de la boca.,exact
+bozo,noun,cabestro sobre la boca del caballo para conducirlo.,"cabestro o cuerda que se echa a las caballerías sobre la boca, y dando un nudo por debajo de ella, forma un cabezón con solo un cabo o rienda.",broader
+calcomanía,noun,técnica pictórica en que se prepara una mezcla de acuarela y trementina sobre papel antes de transferirla a la superficie que se decorará,"entretenimiento que consiste en pasar de un papel a objetos diversos de madera, porcelana, seda, estearina, etc., imágenes coloridas preparadas con trementina.",related
+calcomanía,noun,"por extensión, piezas creadas con esta técnica",imagen obtenida por este medio.,related
+calcomanía,noun,etiqueta autoadhesiva que contiene un distintivo o modelo decorativo,"papel o cartulina que tiene la figura, antes de transportarla.",exact
+virtuoso,adjective,que tiene virtudes.,que se ejercita en la virtud u obra según ella.,broader
+virtuoso,adjective,obrado con virtud.,se dice igualmente de las mismas acciones.,related
+virtuoso,adjective,"dicho de ciertas cosas, que tienen la cualidad o virtud que les corresponde.",dicho de una cosa: que tiene la actividad y virtud natural que le corresponde.,exact
+virtuoso,adjective,"dicho de un artista, que destaca por la calidad de la ejecución de su arte.",dicho de un artista: que domina de modo extraordinario la técnica de su instrumento.,exact
+virtuoso,adjective,"más generalmente, dicho de cualquier persona, que sobresale en su profesión.",dicho de una persona: que domina cualquier arte o técnica.,exact
+caos,noun,estado general de confusión y desorden.,estado amorfo e indefinido que se supone anterior a la ordenación del cosmos.,narrower
+caos,noun,estado general de confusión y desorden.,"confusión, desorden.",related
+caos,noun,"estado o comportamiento aparentemente aleatorio que está gobernado en realidad por principios muy complejos y sensibles a las condiciones iniciales, pero rigurosamente deterministas.","comportamiento aparentemente errático e impredecible de algunos sistemas dinámicos, aunque su formulación matemática sea en principio determinista.",exact
+pericón,noun,que puede ocupar cualquier lugar en una reata. se dice de caballos o mulas.,dicho de un caballo o de una mula: que sirve para cualquier puesto de tiro.,exact
+pericón,noun,"en {{rpl|}}, bailes criollos, semejantes a la cuadrilla; consta de cuatro partes o figuras llamadas: demanda o espejo, postrera o alegre, y la cadena y el cielo. se baila con seis u ocho parejas y la música de la guitarra es acompañada de canto. cada pareja debe decir un verso, o relación y es donde el gaucho luce la agudeza picaresca de su ingenio para decir una galantería o un disparate gracioso (bolazo) a su compañera.",baile popular típico de la argentina y del uruguay que se ejecuta acompañado de guitarras y se interrumpe para que los bailarines digan coplas.,exact
+pericón,noun,música del pericón<sub>1</sub>.,música de este baile.,exact
+pericón,noun,comodín del juego de las quínolas (caballo de bastos).,"en el juego de quínolas, caballo de bastos, que hace de comodín.",exact
+pericón,noun,abanico grande.,abanico de gran tamaño usado antiguamente por las mujeres.,exact
+pericón,adjective,que puede ocupar cualquier lugar en una reata. se dice de caballos o mulas.,dicho de un caballo o de una mula: que sirve para cualquier puesto de tiro.,exact
+pericón,adjective,"en {{rpl|}}, bailes criollos, semejantes a la cuadrilla; consta de cuatro partes o figuras llamadas: demanda o espejo, postrera o alegre, y la cadena y el cielo. se baila con seis u ocho parejas y la música de la guitarra es acompañada de canto. cada pareja debe decir un verso, o relación y es donde el gaucho luce la agudeza picaresca de su ingenio para decir una galantería o un disparate gracioso (bolazo) a su compañera.",baile popular típico de la argentina y del uruguay que se ejecuta acompañado de guitarras y se interrumpe para que los bailarines digan coplas.,exact
+pericón,adjective,música del pericón<sub>1</sub>.,música de este baile.,exact
+pericón,adjective,comodín del juego de las quínolas (caballo de bastos).,"en el juego de quínolas, caballo de bastos, que hace de comodín.",exact
+pericón,adjective,abanico grande.,abanico de gran tamaño usado antiguamente por las mujeres.,exact
+chango,noun,"pueblo amerindio originario de la costa sudamericana. habitaban las costas de camaná perú, hasta el río choapa en coquimbo chile. eran pescadores que utilizaban pequeñas embarcaciones hechas con cueros cosidos e inflados de lobos marinos, con los cuales se aventuraban hasta 30 kilómetros mar adentro. vivían de la pesca, y de la caza del lobo marino y la ballena. se reunína en pequeños campamentos de toldos hechos con pieles de lobo de mar. comerciaban con los pueblos del interior, aymaras, atacameños y diaguitas, para obtener los productos agrícolas. también fueron llamados camanchacos.",se dice del individuo de un pueblo amerindio que habitaba el norte de chile.,narrower
+chango,noun,"de buen gusto, escogido o distinguido en el vestir actuar.",elegante que tiene buen gusto y distinción para vestir  .,exact
+chango,noun,"afecto a las bromas, en especial pesadas.","bromista, guasón.",broader
+chango,noun,"niño, joven.","niño, muchacho.",exact
+chango,noun,"de actitud pueril, afectada o fantasiosa",persona de modales afectados o pueriles.,exact
+chango,noun,carro manual provisto por los supermercados para que los clientes transporten la mercadería dentro del establecimiento.,carrito que se lleva para cargar las compras.,exact
+chango,noun,"mono, simio.",mono simio  .,exact
+chango,noun,"niño, joven.","niña, muchacha.",narrower
+chango,adjective,"pueblo amerindio originario de la costa sudamericana. habitaban las costas de camaná perú, hasta el río choapa en coquimbo chile. eran pescadores que utilizaban pequeñas embarcaciones hechas con cueros cosidos e inflados de lobos marinos, con los cuales se aventuraban hasta 30 kilómetros mar adentro. vivían de la pesca, y de la caza del lobo marino y la ballena. se reunína en pequeños campamentos de toldos hechos con pieles de lobo de mar. comerciaban con los pueblos del interior, aymaras, atacameños y diaguitas, para obtener los productos agrícolas. también fueron llamados camanchacos.",se dice del individuo de un pueblo amerindio que habitaba el norte de chile.,narrower
+chango,adjective,"de buen gusto, escogido o distinguido en el vestir actuar.",elegante que tiene buen gusto y distinción para vestir  .,exact
+chango,adjective,"afecto a las bromas, en especial pesadas.","bromista, guasón.",broader
+chango,adjective,"niño, joven.","niño, muchacho.",exact
+chango,adjective,"de actitud pueril, afectada o fantasiosa",persona de modales afectados o pueriles.,exact
+chango,adjective,carro manual provisto por los supermercados para que los clientes transporten la mercadería dentro del establecimiento.,carrito que se lleva para cargar las compras.,exact
+chango,adjective,"mono, simio.",mono simio  .,exact
+chango,adjective,"niño, joven.","niña, muchacha.",narrower
+ciar,verb,marchar hacia atrás.,"andar hacia atrás, retroceder.",exact
+ciar,verb,abandonar frente a una dificultad o amenaza una decisión previamente tomada.,abandonar un empeño o negocio.,exact
+ciar,verb,bogar hacia atrás.,remar hacia atrás.,exact
+guanaco,noun,"(lama guanicoe</i>) mamífero artiodáctilo de la familia de los camélidos, nativo de la región andina, de hasta 160 cm de altura y 100 kg de peso, de denso pelaje en dos capas, pardo rojizo en el lomo y blanco en el vientre. se aprovecha tradicionalmente para la esquila, aunque rara vez se domestica hoy; la llama desciende de los guanacos domesticados en época precolombina","mamífero rumiante de unos trece decímetros de altura hasta la cruz, y poco más de longitud desde el pecho hasta el extremo de la grupa. tiene cabeza pequeña con orejas largas y puntiagudas, ojos negros y brillantes, boca con el labio superior hendido, cuello largo, erguido, curvo y cubierto, como todo el cuerpo, de abundante pelo largo y lustroso, de color generalmente pardo oscuro, a veces gris, rojo amarillento y hasta blanco; cola corta, alta y adornada de cerdas finas, patas delgadas y largas, con pies de dos dedos bien separados y con fuertes uñas. tiene en el pecho y en las rodillas callosidades como los camellos. es animal salvaje que habita en los andes meridionales.",exact
+guanaco,noun,falto de entendimiento o inteligencia,"persona tonta, simple.",exact
+catástrofe,noun,suceso desventurado que altera el orden de las cosas de forma dramática.,suceso infausto que altera gravemente el orden regular de las cosas.,exact
+catástrofe,noun,desenlace de una tragedia.,"última parte del poema dramático, con el desenlace, especialmente cuando es doloroso.",related
+catástrofe,noun,desenlace de una tragedia.,desenlace desgraciado de otros poemas.,related
+catástrofe,noun,cambio brusco en una función en forma o configuración debido a una alteración pequeña de los parámetros.,"cambio brusco de estado de un sistema dinámico, provocado por una mínima alteración de uno de sus parámetros.",exact
+cauce,noun,concavidad o depresión del terreno por donde corre un curso de agua,lecho de los ríos y arroyos.,exact
+cauce,noun,"canal o acequia descubierta que encauzan las aguas para riegos, abrevaderos, etc.",conducto descubierto o acequia por donde corren las aguas para riegos u otros usos.,exact
+cauce,noun,procedimiento o vía que se sigue para realizar algo,"modo, procedimiento o norma.",broader
+perinola,noun,"peonza pequeña y en forma de prisma, con un valor marcado en cada cara, usada como los dados en juegos de azar",peonza pequeña que baila cuando se hace girar rápidamente con dos dedos un manguillo que tiene en la parte superior. el cuerpo de este juguete es a veces un prisma de cuatro caras marcadas con letras y sirve entonces para jugar a interés.,exact
+perinola,noun,ornamento piriforme,adorno en forma de  perinola .,exact
+perinola,noun,mujer vivaz y menuda,mujer pequeña de cuerpo y vivaracha.,exact
+perinola,noun,"juguete en forma de objeto perforado, sujeto por un cordel a un palo; el juego consiste en arrojar al aire el objeto e intentar ensartarlo en el palo al caer",boliche juguete  .,exact
+vibrar,verb,experimentar un cuerpo pequeños y rápidos movimientos.,"dar un movimiento trémulo a la espada, o a otra cosa larga, delgada y elástica.",broader
+vibrar,verb,"sonar entrecortadamente una voz, como si el cuerpo que la emite vibrara<sub>1</sub>.",dicho de la voz y de otras cosas no materiales: tener un sonido trémulo.,exact
+vibrar,verb,arrojar o mover algo haciéndolo vibrar<sub>1</sub>.,"arrojar con ímpetu y violencia algo, especialmente haciéndolo  vibrar .",narrower
+vibrar,verb,"en particular, oscilar un cuerpo elástico en torno a un punto de equilibrio, deformándose sin necesariamente experimentar desplazamiento.",dicho de un cuerpo elástico: oscilar alternativamente en torno a su posición de equilibrio.,exact
+vibrar,verb,"figuradamente, experimentar una fuerte emoción.",conmoverse por algo.,exact
+valdiviano,adjective,"se dice de algo que proviene o tiene relación con valdivia, ciudad de chile.",natural de valdivia.,broader
+valdiviano,adjective,"persona originaria o habitante de valdivia, ciudad de chile.",perteneciente o relativo a esta ciudad de chile o a su provincia.,broader
+valdiviano,adjective,plato (tipo de comida) originario de la ciudad de valdivia en chile.,"guiso compuesto de cecina y cebolla frita, al cual se añade agua hirviendo y zumo de limón.",narrower
+valdiviano,noun,"se dice de algo que proviene o tiene relación con valdivia, ciudad de chile.",natural de valdivia.,broader
+valdiviano,noun,"persona originaria o habitante de valdivia, ciudad de chile.",perteneciente o relativo a esta ciudad de chile o a su provincia.,broader
+valdiviano,noun,plato (tipo de comida) originario de la ciudad de valdivia en chile.,"guiso compuesto de cecina y cebolla frita, al cual se añade agua hirviendo y zumo de limón.",narrower
+pekinés,adjective,"raza de perro pequeño, de hocico chato y pelo largo.",natural de pekín.,narrower
+pekinés,adjective,"raza de perro pequeño, de hocico chato y pelo largo.","perteneciente o relativo a esta ciudad, capital de china.",exact
+hindú,adjective,"originario, relativo a, o propio del indostán (región de asia).",natural de la india.,narrower
+hindú,adjective,"originario, relativo a, o propio del indostán (región de asia).",perteneciente o relativo a este país de asia.,narrower
+hindú,adjective,que pertenece o concierne al hinduismo o a su cultura.,perteneciente o relativo al hinduismo.,exact
+hindú,adjective,que profesa el hinduismo (religión predominante en la india).,partidario del hinduismo o adepto a él.,broader
+volumen,noun,cantidad de espacio tridimensional que ocupa algo,corpulencia o bulto de algo.,related
+volumen,noun,cantidad de espacio tridimensional que ocupa algo,"magnitud física que expresa la extensión de un cuerpo en tres dimensiones: largo, ancho y alto. su unidad en el sistema internacional es el  metro cúbico  (m  3  ).",related
+volumen,noun,cada uno de los tomos que componen una obra enciclopédica,"cuerpo material de un libro encuadernado, ya contenga la obra completa, o uno o más tomos de ella, o ya lo constituyan dos o más escritos diferentes.",narrower
+volumen,noun,potencia o intensidad de un sonido,intensidad del sonido.,narrower
+volumen,noun,cantidad de espacio tridimensional que ocupa algo,espacio ocupado por un cuerpo.,exact
+burundanga,noun,cosa de poca importancia o valor.,morondanga cosa inútil y de poca entidad  .,exact
+burundanga,noun,"gran desorden, enredo o confusión.","morondanga enredo, confusión  .",exact
+burundanga,noun,"nombre génerico dado a drogas hipnóticas usadas para abusar de las personas o robarles, en particular la escopolamina.",sustancia soporífera que se le administra a una persona para robarle.,related
+burundanga,noun,plato que se prepara con varias hortalizas.,plato en que entran diferentes hortalizas.,exact
+burundanga,noun,dicho o hecho sin sentido o totalmente fuera de lugar.,disparate hecho o dicho disparatado  .,exact
+centésimo,adjective,dícese del elemento con el número de orden 100 en un conjunto ordenado de elementos.,que sigue inmediatamente en orden al o a lo nonagésimo nono.,exact
+centésimo,adjective,una parte de cien partes en que se divide algo.,se dice de cada una de las 100 partes iguales en que se divide un todo.,exact
+centésimo,adjective,cada una de las cien unidades en que se fracciona una unidad monetaria mayor.,fracción de la unidad monetaria de algunos países americanos.,broader
+centésimo,noun,dícese del elemento con el número de orden 100 en un conjunto ordenado de elementos.,que sigue inmediatamente en orden al o a lo nonagésimo nono.,exact
+centésimo,noun,una parte de cien partes en que se divide algo.,se dice de cada una de las 100 partes iguales en que se divide un todo.,exact
+centésimo,noun,cada una de las cien unidades en que se fracciona una unidad monetaria mayor.,fracción de la unidad monetaria de algunos países americanos.,broader
+cartaginés,adjective,"persona originaria o habitante de cartago, ciudad de la antigüedad.","natural de cartago, antigua ciudad de áfrica.",narrower
+cartaginés,adjective,"persona originaria o habitante de cartago, ciudad de costa rica.","natural de cartago, ciudad de costa rica, o de su provincia.",broader
+cartaginés,adjective,"se dice de algo que proviene o tiene relación con cartago, ciudad de la antigüedad.","perteneciente o relativo a aquella antigua ciudad, a esta ciudad o a su provincia.",broader
+cartaginés,adjective,"se dice de algo que proviene o tiene relación con cartago, ciudad de costa rica.","perteneciente o relativo a aquella antigua ciudad, a esta ciudad o a su provincia.",broader
+trujillano,adjective,"persona originaria o habitante de trujillo, estado de venezuela.","natural de trujillo, estado de venezuela y ciudad, capital de dicho estado.",broader
+trujillano,adjective,"se dice de algo que proviene o tiene relación con trujillo, estado de venezuela.",perteneciente o relativo a aquellas ciudades o a este estado y a su capital.,broader
+chingadera,noun,"acto despreciable, desagradable, inaceptable.",acción ruin.,exact
+chingadera,noun,objeto de poco o nulo valor o importancia.,cosa objeto  .,related
+cabrío,noun,relativo a las cabras,perteneciente o relativo a las cabras.,exact
+cabrío,noun,ganado de cabras.,ganado  cabrío .,exact
+cabrío,noun,rebaño de cabras,rebaño de cabras.,exact
+cabrío,noun,macho de la cabra.,cabrón macho de la cabra  .,exact
+cabrío,adjective,relativo a las cabras,perteneciente o relativo a las cabras.,exact
+cabrío,adjective,ganado de cabras.,ganado  cabrío .,exact
+cabrío,adjective,rebaño de cabras,rebaño de cabras.,exact
+cabrío,adjective,macho de la cabra.,cabrón macho de la cabra  .,exact
+cimbrio,adjective,persona perteneciente a un pueblo que antiguamente habitó en jutlandia.,se dice del individuo de un pueblo que habitó antiguamente en jutlandia.,exact
+cimbrio,adjective,"lengua germánica que hablaron los cimbrios, pueblo que antiguamente vivió en jutlandia.","se dice de la lengua germánica, hoy extinta, que hablaban los  cimbrios .",related
+cimbrio,adjective,se dice de lo que tiene relación con la lengua que habló dicho pueblo.,perteneciente o relativo a esta lengua.,exact
+choreza,noun,"actitud desafiante, insolente, amenazante.",acción propia del matón.,related
+cachapera,noun,choza hecha con ramas.,choza hecha de ramaje.,exact
+cachapera,noun,lesbiana.,lesbiana .,exact
+cachapera,noun,establecimiento donde se venden o hacen cachapas.,lugar donde se expenden cachapas.,exact
+bruñir,verb,"dar brillo o lustre a algo, especialmente al metal o a las piedras.","sacar lustre o brillo a un metal, una piedra, etc.",exact
+bruñir,verb,irritar o molestar.,"molestar, fastidiar.",exact
+bruñir,verb,maquillarse la cara con diversos cosméticos.,maquillar el rostro con varios ingredientes.,exact
+sahumerio,noun,acción y efecto de sahumar,acción y efecto de sahumar.,exact
+sahumerio,noun,humo producido al sahumar,humo que produce una materia aromática que se echa en el fuego para sahumar.,exact
+sahumerio,noun,materia que se quema para sahumar,materia quemada para sahumar.,exact
+catorce,noun,trece y uno.,diez más cuatro.,exact
+catorce,noun,que ocupa el decimocuarto lugar en una serie.,"decimocuarto . luis catorce  .  número catorce  .  año catorce  . apl. a los días del mes,",exact
+catorce,noun,signo o signos usados para representar al número que tiene catorce unidades.,conjunto de signos con que se representa el número  catorce .,exact
+cachucha,noun,embarcación pequeña de remo.,bote o lancha pequeña.,broader
+cachucha,noun,gorra con visera de tipo deportivo.,especie de gorra.,broader
+cachucha,noun,"danza española de origen andaluz, de melodía melancólica y compás ternario.","baile popular de andalucía, en compás ternario y con castañuelas.",broader
+cachucha,noun,"danza española de origen andaluz, de melodía melancólica y compás ternario.",canción y tañido de este baile.,related
+hecatombe,noun,gran mortandad .,mortandad de personas.,narrower
+hecatombe,noun,catástrofe o desastre con numerosas víctimas y grandes pérdidas.,"desgracia, catástrofe.",exact
+hecatombe,noun,sacrifio de animales que hacían los antiguos a sus dioses (en la hecatombe se sacrificaban cien víctimas).,"sacrificio de 100 reses vacunas u otras víctimas, que hacían los antiguos a sus dioses.",exact
+hecatombe,noun,sacrifio de animales que hacían los antiguos a sus dioses (en la hecatombe se sacrificaban cien víctimas).,sacrificio solemne en que es grande el número de víctimas.,broader
+virulento,adjective,"dicho de una afección, de gran violencia o malignidad.","ponzoñoso, maligno, ocasionado por un virus, o que participa de la naturaleza de este.",broader
+virulento,adjective,cargado de pus.,que tiene pus.,exact
+virulento,adjective,"figurativamente, acerbo y mordaz.","dicho del estilo, de un escrito o de un discurso: ardiente, sañudo, ponzoñoso o mordaz en sumo grado.",narrower
+vulgo,noun,conjunto de las capas populares de una sociedad.,el común de la gente popular.,exact
+vulgo,noun,"por extensión, conjunto de los legos en una determinada materia.",conjunto de las personas que en cada materia no conocen más que la parte superficial.,exact
+vulgo,noun,"casa, inmueble o domicilio en el que se ejerce la prostitución.",mancebía casa de prostitución  .,exact
+vulgo,noun,en el uso mayoritario.,vulgarmente comúnmente  .,related
+vulgo,adverb,conjunto de las capas populares de una sociedad.,el común de la gente popular.,exact
+vulgo,adverb,"por extensión, conjunto de los legos en una determinada materia.",conjunto de las personas que en cada materia no conocen más que la parte superficial.,exact
+vulgo,adverb,"casa, inmueble o domicilio en el que se ejerce la prostitución.",mancebía casa de prostitución  .,exact
+vulgo,adverb,en el uso mayoritario.,vulgarmente comúnmente  .,related
+hispano,adjective,"originario, relativo a, o propio de la españa moderna.",perteneciente o relativo a hispania.,exact
+hispano,adjective,persona originaria de la españa moderna.,"español . apl. a pers.,",exact
+hispano,adjective,"originario, relativo a, o propio de personas originarias o habitantes de los estados unidos, pertenecientes al grupo sociocultural conformado por los inmigrantes de países de habla española del mundo entero y sus descendientes.",perteneciente o relativo a la población de origen hispanoamericano que vive en los estados unidos de américa.,narrower
+hispano,adjective,"persona originaria de o habitante de los estados unidos, perteneciente al grupo sociocultural conformado por los inmigrantes de países de habla española y sus descendientes.",persona de ese origen que vive en los estados unidos de américa.,exact
+hispano,noun,"originario, relativo a, o propio de la españa moderna.",perteneciente o relativo a hispania.,exact
+hispano,noun,persona originaria de la españa moderna.,"español . apl. a pers.,",exact
+hispano,noun,"originario, relativo a, o propio de personas originarias o habitantes de los estados unidos, pertenecientes al grupo sociocultural conformado por los inmigrantes de países de habla española del mundo entero y sus descendientes.",perteneciente o relativo a la población de origen hispanoamericano que vive en los estados unidos de américa.,narrower
+hispano,noun,"persona originaria de o habitante de los estados unidos, perteneciente al grupo sociocultural conformado por los inmigrantes de países de habla española y sus descendientes.",persona de ese origen que vive en los estados unidos de américa.,exact
+vomitar,verb,echar por la boca los contenidos del estómago.,arrojar violentamente por la boca lo contenido en el estómago.,exact
+vomitar,verb,echar por la boca los contenidos del estómago.,dicho de una cosa: arrojar de sí violentamente algo que tiene dentro.,exact
+vomitar,verb,"manifestar o expresar con violencia lo que se piensa o siente, especialmente si es algo negativo, como insultos, maldiciones, etc.","proferir injurias, dicterios, maldiciones, etc.",exact
+vomitar,verb,"referido a alguien, devolver o restituir lo que tenía en su poder de modo ilegal, ilegítimo o inadecuado.",dicho de una persona: restituir lo que retiene indebidamente en su poder.,exact
+ciudadanía,noun,"condición de ciudadano o ciudadana, con los derechos y deberes correspondientes.",cualidad y derecho de ciudadano.,narrower
+ciudadanía,noun,el conjunto de los ciudadanos.,conjunto de los ciudadanos de un pueblo o nación.,narrower
+ciudadanía,noun,buena conducta cívica.,comportamiento propio de un buen ciudadano.,exact
+vivencia,noun,hechos acaecidos en la vida que se incorporan de forma consciente o no a la personalidad de uno.,"hecho de experimentar algo, y su contenido.",exact
+vivencia,noun,"pertenecer a este mundo, estar vivo, no haber fallecido.",hecho de vivir o estar vivo.,exact
+cárcava,noun,"fosa, poza o sumidero producido por una avenida de aguas",hoya o zanja grande que suelen hacer las avenidas de agua.,exact
+cárcava,noun,"surcos profundos producidos en un suelo con pendiente a causa de las avenidas del agua de las lluvias en terrenos blandos y poco consistentes. cuando en el terreno también hay rocas duras, se pueden formar chimeneas de hadas.",hoya o zanja grande que suelen hacer las avenidas de agua.,exact
+ciclópeo,adjective,"que tiene relación con los cíclopes, unos gigantes de la mitología.",perteneciente o relativo a los cíclopes.,exact
+ciclópeo,adjective,"referido a una construcción de la antigüedad, que está formada por grandes piedras una encima de otra que no tienen materiales de unión tales como la argamasa.","dicho de ciertas construcciones antiquísimas: que se distinguen por el enorme tamaño de sus piedras, unidas por lo común sin argamasa.",exact
+ciclópeo,adjective,"enorme, gigante.",gigantesco excesivo o muy sobresaliente  .,exact
+chusco,noun,<marked>dícese de una persona que es bien parecida o se viste muy bien</marked>,"que tiene gracia, donaire y picardía.",related
+chusco,noun,pedazo o trozo de pan.,"pedazo de pan, mendrugo o panecillo.",exact
+chusco,noun,"pan de munición (el que se fabrica en grandes cantidades y tiene como destino soldados, presos, indigentes, etc.) es más corto que una barra.",pan de munición.,exact
+chusco,adjective,<marked>dícese de una persona que es bien parecida o se viste muy bien</marked>,"que tiene gracia, donaire y picardía.",related
+chusco,adjective,pedazo o trozo de pan.,"pedazo de pan, mendrugo o panecillo.",exact
+chusco,adjective,"pan de munición (el que se fabrica en grandes cantidades y tiene como destino soldados, presos, indigentes, etc.) es más corto que una barra.",pan de munición.,exact
+caca,noun,"residuo sólido indigerible del bolo alimenticio, que se excreta a través del ano.","excremento humano, y especialmente el de los niños pequeños.",narrower
+caca,noun,cosa despreciable o sin valor.,excremento de algunos animales.,narrower
+caca,noun,suciedad o porquería que ensucia la ropa o algún objeto.,"suciedad, inmundicia.",broader
+caca,noun,cosa despreciable o sin valor.,cosa de poco valor o mal hecha.,exact
+cardar,verb,desenredar un material textil en bruto como paso previo a su hilado.,preparar con la carda una materia textil para el hilado.,exact
+cardar,verb,"pasar un cepillo con púas sobre una prenda de lana para desarmar superficialmente las hebras, dando más suavidad y volumen.","sacar suavemente el pelo con la carda a los paños, felpas u otros tejidos.",exact
+cardar,verb,peinar el pelo de la punta a la raíz con la intención de obtener más volumen.,"peinar, cepillar el pelo desde la punta hasta la raíz a fin de que, al alisar ligeramente su superficie, quede hueco.",exact
+roseta,noun,"grano tostado de cereal, en especial de maíz, que se abre como una rosa.",rallo de la regadera.,narrower
+roseta,noun,"diseño de joyería en que varias piedras se disponen alrededor de otra de mayor tamaño, simulando los pétalos de una flor.",arete o zarcillo adornado con una piedra preciosa a la que rodean otras pequeñas.,narrower
+roseta,noun,pieza de madera redonda y plana con un orificio lateral que se usa como soporte de enchufes e interruptores.,alcachofa pieza agujereada de la ducha  .,exact
+roseta,noun,"grano tostado de cereal, en especial de maíz, que se abre como una rosa.",granos de maíz que al tostarse se abren en forma de flor.,exact
+cadalso,noun,plataforma elevada que se erige para la ejecución de un reo de pena capital,tablado que se levanta para la ejecución de la pena de muerte.,exact
+cadalso,noun,plataforma elevada que se erige para cualquier ceremonia,tablado que se levanta en cualquier sitio para un acto solemne.,exact
+cadalso,noun,fortificación o baluarte de madera que se colocaba en la parte alta de las torres y murallas en el medioevo para facilitar el tiro vertical y aumentar la defensa,fortificación o baluarte de madera.,exact
+burrada,noun,tropilla de burros.,cabaña o manada de burros.,broader
+burrada,noun,acción propia de un burro.,dicho o hecho necio o brutal.,broader
+burrada,noun,"por extensión, tontería.",dicho o hecho necio o brutal.,broader
+burrada,noun,"por extensión, en gran número o incluso en exceso.",barbaridad cantidad grande  .,exact
+bramar,verb,"producir algunas bestias, como el toro, su sonido característico, fuerte y ronco.",dar bramidos.,broader
+bramar,verb,dar fuertes voces de ira una persona.,dicho de una persona: manifestar con voces articuladas o inarticuladas y con extraordinaria violencia la ira de que está poseída.,exact
+bramar,verb,"sonar con gran intensidad alguna otra cosa, como el mar.",dicho especialmente del viento o del mar violentamente agitados: hacer ruido estrepitoso.,broader
+choapino,noun,"originario, relativo a, o propio de choapa (valle) y los alrededores del río choapa.",natural de choapa.,narrower
+choapino,noun,"originario, relativo a, o propio de la provincia de choapa y al río choapa, en chile.",perteneciente o relativo a esta provincia de chile.,narrower
+choapino,noun,"estera, generalmente de paja, para limpiarse los pies, que se coloca en el lado externo de la puerta de entrada a una casa.",alfombra tejida a mano.,related
+choapino,adjective,"originario, relativo a, o propio de choapa (valle) y los alrededores del río choapa.",natural de choapa.,narrower
+choapino,adjective,"originario, relativo a, o propio de la provincia de choapa y al río choapa, en chile.",perteneciente o relativo a esta provincia de chile.,narrower
+choapino,adjective,"estera, generalmente de paja, para limpiarse los pies, que se coloca en el lado externo de la puerta de entrada a una casa.",alfombra tejida a mano.,related
+bramido,noun,"voz característica de algunas bestias, como el toro, fuerte y ronca.",voz del toro y de otros animales salvajes.,narrower
+bramido,noun,"figurativamente, voces de ira que da una persona.",grito o voz fuerte y confusa del hombre cuando está colérico y furioso.,broader
+bramido,noun,"figurativamente, sonido de gran intensidad que daalguna otra cosa, como el mar.","ruido grande producido por la fuerte agitación del aire, del mar, etc.",broader
+noria,noun,"máquina hidráulica en forma de rueda que se emplea para extraer agua de un curso empleando la fuerza del mismo, o de un pozo empleando tracción animal","máquina compuesta de dos grandes ruedas engranadas que, mediante cangilones, sube el agua de los pozos, acequias, etc.",broader
+noria,noun,pozo del que la noria<sub>1</sub> extrae el agua,"pozo formado en forma comúnmente ovalada, del cual se saca el agua con la máquina.",exact
+noria,noun,"aparato de parque de diversiones, formado por una gran rueda que gira verticalmente, a la cual se fijan asientos de tal manera que basculan para mantener la vertical durante todo el recorrido",artilugio de feria consistente en una gran rueda con asientos que gira verticalmente.,exact
+capolar,verb,cortar una cosa cualquiera en trozos pequeños,despedazar hacer pedazos  .,exact
+capolar,verb,picar carne a trozos muy pequeños,picar la carne para hacer picadillo.,exact
+capolar,verb,"cortar la cabeza, separándola del cuerpo","cortar la cabeza a alguien, degollarle.",exact
+entre,adposition,"indica una ubicación en medio de otras cosas, personas, conceptos o entidades.",mientras .,exact
+entre,adposition,en el interior.,"dentro de, en lo interior.",exact
+entre,adposition,indica uno dentro de varios o de un conjunto.,como uno de.,exact
+entre,adposition,indica acción en conjunto con otros.,denota cooperación de dos o más personas o cosas.,exact
+entre,adposition,indica un hábito o costumbre de la gente mencionada.,según costumbre de.,exact
+entre,adposition,indica una comparación o relación recíproca.,expresa idea de reciprocidad.,related
+allí,adverb,indica un lugar alejado de quienes hablan o se comunican.,en aquel lugar.,exact
+allí,adverb,junto con aquí</i> se usa para indicar lugares dispersos e indeterminados.,"en correlación con  aquí,  para designar sitio indeterminado.",exact
+allí,adverb,indica un tiempo pasado alejado del presente.,"entonces, en tal ocasión.",exact
+chimar,verb,"sufrir incomodidad, molestia o fastidio.",molestar .,related
+chimar,verb,tener un roce. generalmente se dice del zapato con el pie.,"dicho generalmente del calzado: rozar, producir roces en la piel.",exact
+chimar,verb,tener una relación carnal o sexual.,tener relaciones sexuales.,exact
+jirafa,noun,"(giraffa camelopardalis</i>) mamífero artiodáctilo africano, herbívoro, rumiante, vive en pequeños rebaños de diez a veinte individuos. es el animal más alto del mundo con una altura entre 4,80 metros y 5,5 metros; tiene un peso entre los 600 y los 900 kilos y es capaz de correr a 60 km por hora. desde el punto de vista anatómico destacan su largo cuello de siete vértebras, y su potente corazón que debe bombear la sangre hasta la cabeza y evitar que se acumule en sus largas patas.","mamífero rumiante, indígena de áfrica, de cinco metros de altura, cuello largo y esbelto, las extremidades abdominales bastante más cortas que las torácicas, con lo que resulta el cuerpo más bajo por detrás; cabeza pequeña con dos cuernos poco desarrollados, y pelaje de color amarillento con manchas leonadas.",exact
+jirafa,noun,persona delgada de gran estatura.,persona alta y delgada.,exact
+jirafa,noun,aparato que acerca y aleja el micrófono en los escenarios de cine y televisión.,"mecanismo que permite mover el micrófono y ampliar su alcance, según las necesidades de la escena.",exact
+heterónimo,noun,"palabra con un contenido semántico muy cercano a otra que sin embargo no comparte la procedencia de una misma raíz; por ejemplo: toro-vaca, caballo-yegua, etc.",cada uno de los vocablos que constituyen una heteronimia.,exact
+heterónimo,noun,"identidad ficticia creada por un autor o artista, a quien le asigna un estilo o personalidad particulares.",seudónimo .,exact
+caballeresco,adjective,"propio del caballero, persona distinguida, cortés y de nobles sentimientos.",propio de caballeros.,narrower
+caballeresco,adjective,relativo a la caballería del medievo.,perteneciente o relativo a la caballería de los siglos medios.,exact
+caballeresco,adjective,perteneciente o relativo a las obras que tratan de los caballeros andantes.,se dice especialmente de los libros y composiciones poéticas en que se cuentan las empresas o fabulosas hazañas de los antiguos paladines o caballeros andantes.,broader
+caldereta,noun,sopa hecha con pescado y otros ingredientes.,"guisado que se hace cociendo el pescado fresco con sal, cebolla y pimiento, y echándole aceite y vinagre antes de apartarlo del fuego.",narrower
+caldereta,noun,"guisado que lleva carne de cordero o de cabrita, especie de cazuela.",guisado que hacen los pastores con carne de cordero o cabrito.,exact
+caldereta,noun,caldero pequeño para el agua bendita.,calderilla de agua bendita  .,exact
+caldereta,noun,"caldera pequeña de los barcos de vapor, para las faenas de descarga en el puerto.",caldera pequeña que para suministrar vapor en las faenas de carga y descarga suelen llevar los buques mercantes de vapor.,exact
+caldereta,noun,viento que en el caribe sopla desde tierra en dirección sur o suroeste acompañado de truenos y lluvia.,"viento terral de dirección sur y suroeste que, acompañado de lluvia y truenos, sopla en las costas del caribe desde junio a fin de septiembre.",exact
+cansino,adjective,que denota debilidad por el cansancio o fatiga.,dicho de un hombre o de un animal: que tiene su capacidad de trabajo disminuida por el cansancio.,narrower
+cansino,adjective,que se mueve de forma lenta y pausada como quien está fatigado.,que por la lentitud y pesadez de los movimientos revela cansancio.,exact
+cansino,adjective,desagradable y repetitivo.,"cansado, pesado.",related
+imparcial,adjective,"que procede o juzga sin tomar partido, permaneciendo neutral, con objetividad.",que juzga o procede con imparcialidad.  juez imparcial .,exact
+imparcial,adjective,que demuestra o implica imparcialidad,que incluye o denota imparcialidad.,exact
+imparcial,adjective,que no adhiere a ningún bando o parcialidad.,que no se adhiere a ningún partido o no entra en ninguna parcialidad.,exact
+chispear,verb,"caer gotas aisladas de lluvia, lloviznar débil e intermitemente.","llover muy poco, cayendo solo algunas gotas pequeñas.",exact
+chispear,verb,"dar, echar chispas.",echar chispas.,exact
+chispear,verb,"mostrar un vivo brllo, resplandecer.",relucir o brillar mucho.,exact
+chispear,verb,"fastidia, enojar a alguien.","irritar, encolerizar a alguien.",exact
+jinete,noun,persona hábil en el arte de la equitación.,hombre diestro en la equitación.,exact
+jinete,noun,persona que monta a caballo.,hombre que cabalga.,exact
+jinete,noun,"caballo que es montado con los estribos cortos y las piernas verticales u en ángulo recto desde la rodilla, y que en consecuencia lleva la silla y los estribos adaptados a este modo de cabalgar.",caballo a propósito para ser montado a la jineta.,exact
+jinete,noun,"buen caballo, caballo con buenas aptitudes para ser montado.",caballo castizo y generoso.,related
+jinete,noun,"soldado de a caballo, que montaba con los estribos cortos, armado de lanza y protegido por una adarga.","en lo antiguo, soldado de a caballo que peleaba con lanza y adarga, y llevaba encogidas las piernas, con estribos cortos.",exact
+carnívoro,adjective,se dice del animal que se alimenta de carne o es capaz de hacerlo.,"dicho de un animal: que se alimenta de carne o puede hacerlo, por oposición al herbívoro o frugívoro.",broader
+carnívoro,adjective,se dice de la planta que se alimenta de insectos o es capaz de hacerlo.,"se dice de ciertas plantas de la familia de las droseráceas y otras afines, que se nutren de ciertos insectos que cogen por medio de órganos dispuestos para ello.",exact
+carnívoro,adjective,se dice del animal que se alimenta de carne o es capaz de hacerlo.,"se dice de los mamíferos terrestres, unguiculados, cuya dentición se caracteriza por tener caninos robustos y molares con tubérculos cortantes; p. ej., el oso, la hiena y el tigre.",related
+hibridación,noun,"producción de híbridos, al cruzar organismos de estirpes diferentes.",producción de seres híbridos.,exact
+hibridación,noun,"fusión de dos células con características diferentes para dar origen a una única célula que reúna el conjunto de dichas características, o algunas de ellas.",fusión de dos células de distinta estirpe para dar lugar a otra de características mixtas.,exact
+hibridación,noun,"capacidad del adn, o del arn, de asociarse con una hebra o cadena complementaria.",asociación de dos moléculas con cierto grado de complementariedad.,related
+coartación,noun,acto de coartar y su resultado.,acción y efecto de coartar.,exact
+coartación,noun,"obligación del religioso de ordenarse dentro de cierto término, según el beneficio eclesiástico obtenido.","precisión de ordenarse dentro de cierto término, por obligar a ello el beneficio eclesiástico que se ha obtenido.",broader
+coartación,noun,"estrechamiento congénito de la aorta que suele producirse después del arco aórtico, en cuyo caso tiene como consecuencia una hipertensión en los miembros superiores e hipotensión en los miembros inferiores, entre otros disturbios.",estrechez de la aorta.,broader
+coágulo,noun,"sangre que con la acción de la fibrina, plaquetas, diferentes factores biológicos de coagulación y, en el caso de las heridas abiertas, la acción de agentes externos, se ha convertido en una masa sólida. la función de un coágulo es detener una hemorragia, pero cuando se produce en el interior de un vaso sanguíneo puede ocasionar graves complicaciones.",coagulación de la sangre.,exact
+coágulo,noun,cualquier grumo de esta masa viscosa y semisólida.,grumo extraído de un líquido coagulado.,exact
+coágulo,noun,"masa viscosa que previamente era líquida, líquido que ha coagulado.",masa coagulada.,exact
+científico,adjective,que pertenece o concierne a la ciencia,perteneciente o relativo a la ciencia.,exact
+científico,adjective,que se dedica a la ciencia,que se dedica a una o más ciencias.,exact
+científico,adjective,que pertenece o concierne al método científico,que tiene que ver con las exigencias de precisión y objetividad propias de la metodología de las ciencias.,exact
+ígneo,adjective,"que es de fuego, que tiene las propiedades del fuego.","de fuego, o que tiene alguna de sus cualidades.",exact
+ígneo,adjective,"que es de fuego, que tiene las propiedades del fuego.",de color de fuego.,narrower
+ígneo,adjective,"material volcánico, procede del material en fusión que existe en el interior de la tierra.",se dice de las rocas volcánicas procedentes de la masa en fusión existente en el interior de la tierra.,exact
+cautivo,adjective,que se encuentra privado de libertad,aprisionado en la guerra. se decía más particularmente de los cristianos hechos prisioneros por los infieles.,narrower
+cautivo,adjective,"por antonomasia, dicho de una persona, que ha sido capturado por el enemigo en la guerra",aprisionado en la guerra. se decía más particularmente de los cristianos hechos prisioneros por los infieles.,narrower
+cantería,noun,arte de labrar y trabajar piedras para construcción,arte de labrar las piedras para las construcciones.,exact
+cantería,noun,obra elaborada con piedras labradas.,obra hecha de piedra labrada.,exact
+cantería,noun,parte de una piedra labrada.,porción de piedra labrada.,exact
+cantería,noun,el lugar donde se extrae piedra.,cantera sitio de donde se saca piedra  .,exact
+-ero,affix,indica una profesión u oficio relacionado con la palabra a la que se le agrega el sufijo.,"en sustantivos, indica oficio, ocupación, profesión o cargo.",exact
+-ero,affix,indica abundancia de lo que señala la palabra a la que se le agrega el sufijo.,significa lugar donde abunda o se deposita algo.,related
+-ero,affix,"indica planta o árbol que produce el fruto, cuyo nombre es usado para construir la palabra.",se refiere a árboles frutales.,exact
+-ero,affix,en adjetivos indica que se posee la característica o cualidad indicada por la palabra a cuya raíz se le agrega el sufijo.,"en adjetivos significa, en general, carácter o condición moral.",narrower
+fatal,adjective,"por extensión, que no puede evitarse.",inevitable .,exact
+fatal,adjective,muy malo.,malo .,broader
+fatal,adjective,que pertenece o concierne a los hados.,perteneciente o relativo al hado.,exact
+fatal,adjective,"en especial, dicho de un plazo, que no puede prorrogarse.",dicho de un plazo o de un término: que es improrrogable.,exact
+fatal,adjective,del peor modo posible.,rematadamente mal.,exact
+fatal,adverb,"por extensión, que no puede evitarse.",inevitable .,exact
+fatal,adverb,muy malo.,malo .,broader
+fatal,adverb,que pertenece o concierne a los hados.,perteneciente o relativo al hado.,exact
+fatal,adverb,"en especial, dicho de un plazo, que no puede prorrogarse.",dicho de un plazo o de un término: que es improrrogable.,exact
+fatal,adverb,del peor modo posible.,rematadamente mal.,exact
+ungir,verb,cubrir o embadurnar con un material oleoso,"aplicar a algo aceite u otra materia pingüe, extendiéndola superficialmente.",exact
+ungir,verb,"en particular, aplicar óleo u otro elemento ritual como parte de una ceremonia real o religiosa","signar con óleo sagrado a alguien, para denotar el carácter de su dignidad, o para la recepción de un sacramento.",exact
+ungir,verb,"por extensión, investir a alguno de un cargo",elegir a alguien para un puesto o para un cargo.,exact
+tubería,noun,conducto formado por tubos y accesorios por donde se lleva algún fluido.,"conducto formado de tubos por donde se lleva el agua, los gases combustibles, etc.",exact
+cataclismo,noun,transtorno grande y violento en especial si afecta a todo el planeta y es causado por el agua.,"trastorno grande del globo terráqueo, producido por el agua.",narrower
+cataclismo,noun,transtorno grande y violento de origen natural.,cualquier otro tipo de trastorno grave producido por un fenómeno natural.,exact
+cataclismo,noun,transtorno social grande y violento,gran trastorno en el orden social o político.,broader
+cataclismo,noun,transtorno social grande y violento,"disgusto, contratiempo, suceso que altera la vida cotidiana.",related
+cachimba,noun,pipa tosca o rudimentaria.,pipa para fumar  .,broader
+cachimba,noun,jícara alargada elaborada de la calabaza vinatera.,calabaza de forma alargada.,related
+cachimba,noun,extremo de un cigarro de hoja.,cabo o resto del puro.,narrower
+vital,adjective,que es relativo o propio de la vida.,perteneciente o relativo a la vida.,exact
+vital,adjective,que posee gran importancia.,de suma importancia o trascendencia.,exact
+vital,adjective,"dicho de una persona, que es enérgica en la realización de acciones",que está dotado de gran energía o impulso para actuar o vivir.,broader
+cerril,adjective,"dicho de un terreno, irregular y difícil de transitar.",dicho de un terreno: áspero y escabroso.,exact
+cerril,adjective,"dicho de un animal, que no está domado.","dicho del ganado mular, caballar o vacuno: no domado.",narrower
+cerril,adjective,"que no cambia su opinión o proceder, pese a las razones en sentido contrario.","dicho de una persona: que se obstina en una actitud o parecer, sin admitir trato ni razonamiento.",related
+zancudo,noun,"cualquiera de los pequeños insectos, delgados, dípteros y hematófagos cuyas hembras pican a las personas (y a otros mamíferos) durante su sueño.",que tiene las zancas largas.,narrower
+zancudo,noun,"se dice de un grupo de aves que se alimentan en terrenos anegados o pantanosos, desplazándose con facilidad por ellos gracias a sus largas patas.","se dice de las aves que tienen los tarsos muy largos y desprovistos de plumas; p. ej., la cigüeña y la grulla.",related
+zancudo,noun,"cualquiera de los pequeños insectos, delgados, dípteros y hematófagos cuyas hembras pican a las personas (y a otros mamíferos) durante su sueño.",mosquito .,related
+zancudo,noun,"se dice de un grupo de aves que se alimentan en terrenos anegados o pantanosos, desplazándose con facilidad por ellos gracias a sus largas patas.","en clasificaciones hoy en desuso, orden de las aves  zancudas .",related
+zancudo,adjective,"cualquiera de los pequeños insectos, delgados, dípteros y hematófagos cuyas hembras pican a las personas (y a otros mamíferos) durante su sueño.",que tiene las zancas largas.,narrower
+zancudo,adjective,"se dice de un grupo de aves que se alimentan en terrenos anegados o pantanosos, desplazándose con facilidad por ellos gracias a sus largas patas.","se dice de las aves que tienen los tarsos muy largos y desprovistos de plumas; p. ej., la cigüeña y la grulla.",related
+zancudo,adjective,"cualquiera de los pequeños insectos, delgados, dípteros y hematófagos cuyas hembras pican a las personas (y a otros mamíferos) durante su sueño.",mosquito .,related
+zancudo,adjective,"se dice de un grupo de aves que se alimentan en terrenos anegados o pantanosos, desplazándose con facilidad por ellos gracias a sus largas patas.","en clasificaciones hoy en desuso, orden de las aves  zancudas .",related
+carbonífero,adjective,se dice de un terreno que contiene o produce carbón mineral.,dicho de un terreno: que contiene carbón mineral.,narrower
+carbonífero,adjective,se dice del quinto período de la era paleozoica que se extiende desde los 360 a los 290 millones de años antes de la actualidad. se caracteriza por la aparición de grandes reptiles y bosques pantanosos que son el origen de los actuales yacimientos de carbón mineral. es posterior al devónico y anterior al pérmico.,"se dice del quinto período de la era paleozoica, que abarca desde hace 360 millones de años hasta hace 286 millones de años, caracterizado por la aparición de los reptiles y grandes bosques pantanosos que dieron lugar a los yacimientos de carbón mineral.",exact
+carbonífero,adjective,que pertenece o concierne al período en que se formó el carbón mineral (el carbonífero).,perteneciente o relativo a dicho período.,exact
+hervir,verb,calentarse un líquido hasta comenzar a volverse gaseoso,dicho de un líquido: producir burbujas por la acción del calor.,exact
+hervir,verb,"por extensión, agitarse y producir burbujas un líquido como lo hace al hervir<sub>1</sub>",dicho de un líquido: producir burbujas por fermentación u otra causa.,exact
+hervir,verb,"por extensión, estar el mar agitado y ruidoso por cualquier causa","dicho del mar: ponerse sumamente agitado, haciendo mucho ruido y espuma.",exact
+hervir,verb,tener o albergar mucho de una cosa,abundar en algo.,exact
+hervir,verb,experimentar una pasión intensa,excitarse intensamente a causa de una pasión del ánimo.,exact
+hervir,verb,aplicar calor a un líquido hasta hervir<sub>1</sub>,hacer  hervir  un líquido.,exact
+hervir,verb,sumergir algo en un líquido hirviente<sub>1</sub> para cocerlo o esterilizarlo,someter algo a la acción del agua o de otro líquido en ebullición.,related
+camarón,noun,conductor novato o inhábil,conductor inexperto.,exact
+camarón,noun,"(infraorden caridea, antiguamente natantia) cualquiera de varios centenares de especies de crustáceos decápodos acuáticos, marinos o de agua dulce, distintivos por poseer dos pares de quelas, y una marcada inclinación en el abdomen, cuyo segundo segmento se solapa con los adyacentes. son muy apreciados en gastronomía, aunque en el uso culinario la distinción con los langostinos (dendrobranchiata) es lábil","crustáceo decápodo, macruro, de tres a cuatro centímetros de largo, parecido a una gamba diminuta, de color pardusco. es comestible y se conoce también con los nombres de quisquilla y esquila.",exact
+camarón,noun,pequeña cantidad de dinero que se da a cambio de un servicio además e independientemente del precio o salario convenido,propina gratificación  .,exact
+camarón,noun,trabajo u obra pequeña o temporal,trabajo eventual de poca remuneración.,narrower
+camarón,noun,persona de piel enrojecida por la excesiva exposición al sol,persona que tiene la piel enrojecida por haber estado mucho tiempo expuesto al sol.,exact
+camarón,noun,"persona inconstante o astuta, que cambia de opinión o actitud por conveniencia",camaleón persona que tiene habilidad para cambiar de actitud o de conducta  .,exact
+camarón,noun,persona que habitualmente o por preferencia obtiene provecho a costa ajena,gorrón persona que vive a costa ajena  .,exact
+camarón,noun,"persona inconstante o astuta, que cambia de opinión o actitud por conveniencia",persona habilidosa y astuta.,related
+camarón,noun,descanso breve,sueño breve.,narrower
+cejar,verb,retroceder las bestias que tiran de un carruaje,"retroceder, andar hacia atrás, ciar.",broader
+cejar,verb,abandonar frente a una dificultad o amenaza una decisión previamente tomada,"aflojar o ceder en un negocio, empeño o discusión.",narrower
+cejar,verb,marchar hacia atrás,dicho de las caballerías que tiran de un carruaje: andar hacia atrás.,exact
+cartujo,adjective,se dice de quienes pertenecen a la orden religiosa de la cartuja.,"se dice del religioso de la orden de la cartuja, fundada por san bruno el año 1086.",exact
+cartujo,adjective,"se dice de la persona poco sociable, arisca, retirada de la sociedad.",hombre taciturno o muy retraído.,narrower
+cabrear,verb,llevar las cabras a una tierra o campo.,meter ganado cabrío en un terreno.,exact
+cabrear,verb,enfadar o poner de mal humor.,"enfadar, amostazar, poner a alguien malhumorado o receloso.",exact
+cabrear,verb,sentir fatiga o hastío por alguna situación o por causa de una persona.,"hastiar, aburrir.",broader
+cabrear,verb,"esquivar, hacer un regate.","esquivar engañosamente, sobre todo en juegos deportivos o infantiles.",narrower
+cenicero,noun,recipiente destinado a recoger la ceniza de los cigarrillos así como a extinguir y recoger las colillas.,recipiente donde se dejan la ceniza y residuos del cigarro.,exact
+cenicero,noun,espacio en las rejillas de lumbres y chimeneas para que caiga allí la ceniza.,"espacio que hay debajo de la rejilla del hogar, para que en él caiga la ceniza.",exact
+cenicero,noun,cualquier lugar donde se echa la ceniza.,sitio donde se recoge o echa la ceniza.,exact
+racional,adjective,que pertenece o concierne a la razón.,perteneciente o relativo a la razón.,exact
+racional,adjective,"que se ajusta a la razón, que tiene lógica o es producto de un razonamiento.",conforme a ella.,exact
+racional,adjective,"dotado de razón, capaz de pensar o razonar.",dotado de razón.,exact
+racional,adjective,se dice de un número o de una expresión algebraica que puede ser expresado en forma de fracción.,dicho de una expresión algebraica: que no contiene cantidades irracionales.,exact
+racional,adjective,una de las sagradas vestiduras del sumo sacerdote de la ley antigua.,"ornamento sagrado que llevaba puesto en el pecho el sumo sacerdote de la ley antigua, y que era un paño como de una tercia en cuadro, tejido de oro, púrpura y lino finísimo, con cuatro sortijas o anillos en los cuatro ángulos. en medio tenía cuatro órdenes de piedras preciosas, cada uno de a tres, y en ellas grabados los nombres de las doce tribus de israel.",narrower
+racional,adjective,contador mayor de la casa real de aragón.,contador mayor de la casa real de aragón.,exact
+racional,noun,que pertenece o concierne a la razón.,perteneciente o relativo a la razón.,exact
+racional,noun,"que se ajusta a la razón, que tiene lógica o es producto de un razonamiento.",conforme a ella.,exact
+racional,noun,"dotado de razón, capaz de pensar o razonar.",dotado de razón.,exact
+racional,noun,se dice de un número o de una expresión algebraica que puede ser expresado en forma de fracción.,dicho de una expresión algebraica: que no contiene cantidades irracionales.,exact
+racional,noun,una de las sagradas vestiduras del sumo sacerdote de la ley antigua.,"ornamento sagrado que llevaba puesto en el pecho el sumo sacerdote de la ley antigua, y que era un paño como de una tercia en cuadro, tejido de oro, púrpura y lino finísimo, con cuatro sortijas o anillos en los cuatro ángulos. en medio tenía cuatro órdenes de piedras preciosas, cada uno de a tres, y en ellas grabados los nombres de las doce tribus de israel.",narrower
+racional,noun,contador mayor de la casa real de aragón.,contador mayor de la casa real de aragón.,exact
+salazón,noun,acción y el efecto de salar,acción y efecto de  salar carnes o pescados  .,narrower
+salazón,noun,conjunto de alimentos preparados de esta forma,acopio de carnes o pescados salados.,related
+salazón,noun,industria y oficio de preparar y comerciar con productos salados,industria y tráfico que se hace con estas conservas.,related
+salazón,noun,revés prolongado de la suerte,infortunio .,exact
+chaucha,noun,"fruto inmaduro de la planta de frijol (phaseolus vulgaris</i>), una legumbre de color verde, con semillas no completamente desarrolladas, apta para el consumo humano",judía verde.,exact
+chaucha,noun,moneda de poco valor,moneda chica de plata o níquel.,narrower
+chaucha,noun,moneda de poco valor,moneda de plata de baja ley.,narrower
+chaucha,noun,papa pequeña,patata temprana o menuda que se deja para simiente.,narrower
+chaucha,noun,moneda de poco valor,antigua moneda divisionaria de escaso valor.,related
+zambomba,noun,"instrumento de percusión muy típico en las fiestas navideñas en españa. consiste en un cilindro hueco más o menos grande que puede ser de distintos materiales (cerámica, madera, etc.) con uno de sus extremos cerrado con un parche, el cual se atraviesa por el centro con una varilla o una cuerda. al frotar la varilla, la zambomba produce un sonido grave y peculiar.",para manifestar sorpresa.,exact
+zambomba,noun,vejiga de cerdo hinchada.,vejiga de cerdo inflada.,exact
+zambomba,noun,expresión de sorpresa.,para manifestar sorpresa.,exact
+zambomba,interjection,"instrumento de percusión muy típico en las fiestas navideñas en españa. consiste en un cilindro hueco más o menos grande que puede ser de distintos materiales (cerámica, madera, etc.) con uno de sus extremos cerrado con un parche, el cual se atraviesa por el centro con una varilla o una cuerda. al frotar la varilla, la zambomba produce un sonido grave y peculiar.",para manifestar sorpresa.,exact
+zambomba,interjection,vejiga de cerdo hinchada.,vejiga de cerdo inflada.,exact
+zambomba,interjection,expresión de sorpresa.,para manifestar sorpresa.,exact
+campanada,noun,cada toque del badajo con la campana.,golpe que da el badajo de la campana.,exact
+campanada,noun,sonido producido por dicho toque.,sonido que hace.,exact
+campanada,noun,acción inesperada que causa conmoción o sorpresa. dar la campanada</i>,escándalo o novedad ruidosa.,broader
+viñeta,noun,cada uno de los dibujos enmarcados que forman parte de una historieta.,cada uno de los recuadros de una serie en la que con dibujos y texto se compone una historieta.,exact
+viñeta,noun,pequeña ilustración.,"dibujo o escena impresa en un libro, periódico, etc., que suele tener carácter humorístico, y que a veces va acompañado de un texto o comentario.",narrower
+viñeta,noun,pequeña ilustración.,"dibujo o estampa que se pone para adorno en el principio o el fin de los libros y capítulos, y algunas veces en los contornos de las planas.",narrower
+racimo,noun,conjunto de frutas que crecen juntas alrededor de un eje como las uvas o los plátanos.,conjunto de uvas sostenidas en un mismo tallo que pende del sarmiento.,narrower
+racimo,noun,conjunto de cosas que crecen o estan juntas a manera de un racimo<sub>1</sub> de frutas.,conjunto de cosas menudas dispuestas con alguna semejanza de  racimo .,exact
+racimo,noun,"inflorescencia indefinida, racimosa o racemosa, caracterizada por presentar un eje o raquis que crece indefinidamente mientras que a los costados se producen las yemas florales pediceladas que se abren a medida que aquél se desarrolla.","conjunto de flores o frutos sostenidos por un eje común, y con pecíolos casi iguales, más largos que las mismas flores; p. ej., en la vid.",related
+quinteto,noun,conjunto de cinco personas o cosas.,"conjunto de cinco personas, animales o cosas.",broader
+quinteto,noun,"estrofa o poema de cinco versos, tradicionalmente en rima consonante y de más de ocho sílabas cada uno (arte mayor).",combinación de cinco versos de arte mayor aconsonantados y ordenados como los de la quintilla.,narrower
+quinteto,noun,pieza compuesta para cinco instrumentos o a cinco voces.,composición a cinco voces o instrumentos.,exact
+quinteto,noun,"estrofa o poema de cinco versos, tradicionalmente en rima consonante y de más de ocho sílabas cada uno (arte mayor).","conjunto de estas voces o instrumentos, o de los cantantes o instrumentistas.",exact
+pelágico,adjective,perteneciente o relativo a las áreas marinas ubicadas lejos de las costas o piélago.,perteneciente o relativo al piélago.,exact
+pelágico,adjective,se refiere a animales o vegetales marinos: que viven en zonas alejadas de la costa,"dicho de un animal o de un vegetal marino: que viven en zonas alejadas de la costa, a diferencia de los neríticos.",exact
+pelágico,adjective,organismo acuático que vive en lagos grandes.,dicho de un organismo: que vive en las aguas de los lagos grandes.,exact
+chabacano,adjective,"ordinario, grosero o de mal gusto.",sin arte o grosero y de mal gusto.,exact
+chabacano,adjective,"lengua hablada principalmente en la ciudad de zamboanga, filipinas, mezcla de español y tagalo","lengua hablada en las ciudades filipinas de zamboanga, basilan y cavite, en la que predomina el vocabulario y las frases españolas sobre una estructura gramatical tagala o bisaya.",exact
+chabacano,adjective,albaricoque,albaricoque .,exact
+chabacano,noun,"ordinario, grosero o de mal gusto.",sin arte o grosero y de mal gusto.,exact
+chabacano,noun,"lengua hablada principalmente en la ciudad de zamboanga, filipinas, mezcla de español y tagalo","lengua hablada en las ciudades filipinas de zamboanga, basilan y cavite, en la que predomina el vocabulario y las frases españolas sobre una estructura gramatical tagala o bisaya.",exact
+chabacano,noun,albaricoque,albaricoque .,exact
+vil,adjective,de poco valor.,"abatido, bajo o despreciable.",exact
+vil,adjective,"carente de honra, indigno.","indigno, torpe, infame.",exact
+vil,adjective,"carente de honra, indigno.",dicho de una persona: que falta o corresponde mal a la confianza que en ella se pone.,exact
+vitalicio,adjective,que dura hasta el final de la vida,"dicho de un cargo, de una merced, de una renta, etc.: que duran desde que se obtienen hasta el fin de la vida.",narrower
+vitalicio,adjective,contrato de seguro pagadero al fallecimiento del asegurado,póliza de seguro de vida.,exact
+vitalicio,adjective,pensión vitalicia<sub>1</sub>,pensión duradera hasta el fin de la vida del perceptor.,exact
+vitalicio,noun,que dura hasta el final de la vida,"dicho de un cargo, de una merced, de una renta, etc.: que duran desde que se obtienen hasta el fin de la vida.",narrower
+vitalicio,noun,contrato de seguro pagadero al fallecimiento del asegurado,póliza de seguro de vida.,exact
+vitalicio,noun,pensión vitalicia<sub>1</sub>,pensión duradera hasta el fin de la vida del perceptor.,exact
+celta,adjective,que pertenece o concierne a un conjunto de pueblos indoeuropeos que habitaron diversas zonas de europa y el asia menor (anatolia) en eras prerromanas (desde aproximadamente el siglo xi a. c.).,"se dice de un grupo de pueblos indoeuropeos establecidos antiguamente en la mayor parte de la galia, en las islas británicas, y en buena parte de españa y portugal, así como en italia del norte, suiza, alemania del oeste y sur, austria, bohemia y la galacia en asia menor.",exact
+celta,adjective,se dice de alguien perteneciente a uno de los pueblos modernos que hablan idiomas celtas<sub>4</sub>.,se dice de los individuos que formaban estos pueblos.,related
+celta,adjective,se dice de alguien perteneciente a uno de los pueblos modernos que hablan idiomas celtas<sub>4</sub>.,perteneciente o relativo a los  celtas .,related
+celta,adjective,"grupo de lenguas de origen indoeuropeo habladas por los celtas<sub>1</sub> y sus descendientes, incluyendo, entre otras, el bretón, el britano, el celtíbero, el córnico, el gaélico escocés, el galés, el irlandés y el manés.",idioma de los  celtas .,exact
+celta,noun,que pertenece o concierne a un conjunto de pueblos indoeuropeos que habitaron diversas zonas de europa y el asia menor (anatolia) en eras prerromanas (desde aproximadamente el siglo xi a. c.).,"se dice de un grupo de pueblos indoeuropeos establecidos antiguamente en la mayor parte de la galia, en las islas británicas, y en buena parte de españa y portugal, así como en italia del norte, suiza, alemania del oeste y sur, austria, bohemia y la galacia en asia menor.",exact
+celta,noun,se dice de alguien perteneciente a uno de los pueblos modernos que hablan idiomas celtas<sub>4</sub>.,se dice de los individuos que formaban estos pueblos.,related
+celta,noun,se dice de alguien perteneciente a uno de los pueblos modernos que hablan idiomas celtas<sub>4</sub>.,perteneciente o relativo a los  celtas .,related
+celta,noun,"grupo de lenguas de origen indoeuropeo habladas por los celtas<sub>1</sub> y sus descendientes, incluyendo, entre otras, el bretón, el britano, el celtíbero, el córnico, el gaélico escocés, el galés, el irlandés y el manés.",idioma de los  celtas .,exact
+cantaleta,noun,"canción, ruido o confusión con que se hacía burla o mofa.",ruido y confusión de voces e instrumentos con que se burlaban de alguien.,exact
+cantaleta,noun,broma o engaño para reírse de alguien.,"canción burlesca con que, ordinariamente de noche, se hacía mofa de una o varias personas.",related
+cantaleta,noun,broma o engaño para reírse de alguien.,"chasco, vaya, zumba.",related
+cantaleta,noun,"repetición frecuente de algo dicho, como estribillos, muletillas, quejas, advertencias o regaños.",estribillo voz o frase que se dice con frecuencia  .,exact
+cantaleta,noun,regaño o advertencia que se reitera hasta cansar o fastidiar; sermón.,regañina reiterada.,broader
+pequeñez,noun,calidad de pequeño.,cualidad de pequeño.,exact
+pequeñez,noun,"infancia, corta edad.","infancia, corta edad.",exact
+pequeñez,noun,"cosa de poco momento, de leve importancia.","cosa de poco momento, de leve importancia.",exact
+cascabillo,noun,"pequeña esfera metálica ahuecada con una pequeña abertura, dentro de la cual hay otra más de menor tamaño llamado. esta esfera tiene un agujero que permite la resonancia. el sonido se produce por el choque entre las dos esferas",cascabel bola hueca de metal  .,exact
+cascabillo,noun,"cascarilla que recubre a cereales tales como el trigo, el centeno, etc.",cascarilla en que se contiene el grano de trigo o de cebada.,exact
+cascabillo,noun,pequeño involucro duro en forma de casquete que tiene la bellota en su parte superior,cúpula de la bellota.,exact
+borricada,noun,conjunto o multitud de borricos.,conjunto o multitud de borricos.,exact
+borricada,noun,cabalgada que se hace en borricos por diversión y bulla.,cabalgata que se hace en borricos por diversión y bulla.,exact
+borricada,noun,"figurado y familiar, dicho o hecho necio.",dicho o hecho necio.,exact
+túmulo,noun,sepulcro que se eleva del suelo,sepulcro levantado de la tierra.,exact
+túmulo,noun,sepulcro que se eleva del suelo,"armazón de madera, vestida de paños fúnebres, que se erige para la celebración de las honras de un difunto.",exact
+túmulo,noun,montículo erigido por el hombre sobre tumbas de ciertas culturas antiguas.,montecillo artificial con que en algunos pueblos antiguos era costumbre cubrir una sepultura.,exact
+burlón,adjective,"que hace burlas, chanzas o puyas con frecuencia; que suele reírse o burlarse de otros.",inclinado a decir burlas o a hacerlas.,narrower
+burlón,adjective,que incluye o sugiere burla (expresión o acto que hace parecer ridículo o risible a alguien o algo).,que implica o denota burla.,exact
+burlón,adjective,(género mimus</i>) tipo de ave americana de plumaje generalmente pardo y cantar melodioso. incluye más de nueve especies.,cenzontle .,related
+burlón,noun,"que hace burlas, chanzas o puyas con frecuencia; que suele reírse o burlarse de otros.",inclinado a decir burlas o a hacerlas.,narrower
+burlón,noun,que incluye o sugiere burla (expresión o acto que hace parecer ridículo o risible a alguien o algo).,que implica o denota burla.,exact
+burlón,noun,(género mimus</i>) tipo de ave americana de plumaje generalmente pardo y cantar melodioso. incluye más de nueve especies.,cenzontle .,related
+capucha,noun,"gorro amplio y flexible que cubre la cabeza, el cuello y parte de la cara, generalmente integrado a una prenda de vestir",pieza de una prenda de vestir que sirve para cubrir la cabeza y se puede echar a la espalda.,broader
+capucha,noun,"por extensión, objeto cualquiera cuya forma o función recuerda a la de una capucha<sub>1</sub>",prenda de tela que cubre la cabeza y el rostro.,narrower
+capucha,noun,"diacrítico en forma de cuña con el vértice hacia arriba, empleado en la ortografía de numerosos idiomas para indicar la longitud, acento o altura de algunas vocales",acento circunflejo .,exact
+capucha,noun,"por extensión, corona de plumas que caracteriza algunas especies de aves",conjunto de plumas que cubre la parte superior de la cabeza de las aves.,exact
+celestial,adjective,que recuerda o es digno del paraíso.,"perteneciente o relativo al cielo, considerado como la mansión eterna de los bienaventurados.",related
+celestial,adjective,"perfecto, ideal.","perfecto, delicioso.",exact
+venero,noun,un sitio donde líquidos como agua salen naturalmente a la superficie.,manantial de agua.,narrower
+venero,noun,origen (también en el sentido figurado),origen y principio de donde procede algo.,exact
+gueto,noun,área separada y reservada para recluir judíos.,judería marginada dentro de una ciudad.,exact
+gueto,noun,"área separada para la vivienda de un determinado origen étnico, cultural o religioso, voluntaria o involuntariamente, en mayor o menor reclusión.",barrio o suburbio en que viven personas marginadas por el resto de la sociedad.,exact
+chapucero,adjective,"propio de, o relativo a la chapuza.",hecho tosca y groseramente.,narrower
+chapucero,adjective,"dicho de una persona, que trabaja de prisa y hace mal su trabajo.",dicho de una persona: que trabaja de este modo.,exact
+chapucero,adjective,"dicho de una persona, que engaña.",embustero .,exact
+chapucero,noun,"propio de, o relativo a la chapuza.",hecho tosca y groseramente.,narrower
+chapucero,noun,"dicho de una persona, que trabaja de prisa y hace mal su trabajo.",dicho de una persona: que trabaja de este modo.,exact
+chapucero,noun,"dicho de una persona, que engaña.",embustero .,exact
+caminero,adjective,perteneciente o relativo al camino.,perteneciente o relativo al camino.,exact
+caminero,adjective,caminante.,caminante que camina  .,exact
+caminante,adjective,que camina.,"que camina. apl. a pers.,",exact
+caminante,adjective,"mozo de espuela, sirviente que caminaba delante del caballo de su amo.",mozo de espuela .,exact
+caminante,adjective,(geositta cunicularia</i>). pájaro chileno de plumaje gris rojizo y cola corta.,"ave chilena muy parecida a la alondra, que tiene el pico largo, algo encorvado, pluma de color gris rojizo, como el del terreno, y cola corta.",exact
+caminante,noun,que camina.,"que camina. apl. a pers.,",exact
+caminante,noun,"mozo de espuela, sirviente que caminaba delante del caballo de su amo.",mozo de espuela .,exact
+caminante,noun,(geositta cunicularia</i>). pájaro chileno de plumaje gris rojizo y cola corta.,"ave chilena muy parecida a la alondra, que tiene el pico largo, algo encorvado, pluma de color gris rojizo, como el del terreno, y cola corta.",exact
+charlar,verb,revelar por indiscreción algo que no debía decirse,"parlar revelar, decir lo que se debe callar  .",exact
+charlar,verb,hablar varias personas recíprocamente durante algún tiempo,"conversar, platicar.",exact
+charlar,verb,"en particular, charlar<sub>1</sub> mucho pero con poco contenido","hablar mucho, sin sustancia o fuera de propósito.",exact
+chismoso,adjective,persona que se da a la tarea de propagar rumores.,que chismea o es dado a chismear.,exact
+virreinato,noun,la autoridad o el cargo del virrey.,dignidad o cargo de virrey.,exact
+virreinato,noun,la duración del virreino<sub>1</sub>,tiempo que dura el empleo o cargo de virrey.,exact
+virreinato,noun,demarcación bajo la autoridad del virrey.,distrito gobernado por un virrey.,exact
+habano,adjective,"originario, relativo a, o propio de la ciudad cubana de la habana.","perteneciente o relativo a la habana, y, por ext., a la isla de cuba.",broader
+habano,adjective,"de color de tabaco, un pardo oscuro amarillento.",se dice del color del tabaco claro.,narrower
+habano,adjective,cigarro de hoja de tabaco cubano.,cigarro puro elaborado en la isla de cuba con hoja de la planta de aquel país.,exact
+habano,adjective,"fruto del banano, en forma de falsa baya, que alcanza de 7 a 30 cm de largo y hasta 5 de diámetro, presentándose en racimos compactos de hasta cientos de ejemplares. está cubierta por un pericarpo coriáceo verde en el ejemplar inmaduro y amarillo intenso, rojo o bandeado verde y blanco al madurar. es de forma lineal o falcada, entre cilíndrica y marcadamente angulosa según la variedad. el extremo basal se estrecha abruptamente hacia un pedicelo de 1 a 2 cm. la pulpa es blanca a amarilla, rica en almidón y dulce; en los plátanos puede resultar algo astringente o gomosa por su contenido en látex, farinosa y seca. muy rara vez las variedades diploides o tetraploides producen semillas.",banano fruta que se come cruda  .,exact
+habano,noun,"originario, relativo a, o propio de la ciudad cubana de la habana.","perteneciente o relativo a la habana, y, por ext., a la isla de cuba.",broader
+habano,noun,"de color de tabaco, un pardo oscuro amarillento.",se dice del color del tabaco claro.,narrower
+habano,noun,cigarro de hoja de tabaco cubano.,cigarro puro elaborado en la isla de cuba con hoja de la planta de aquel país.,exact
+habano,noun,"fruto del banano, en forma de falsa baya, que alcanza de 7 a 30 cm de largo y hasta 5 de diámetro, presentándose en racimos compactos de hasta cientos de ejemplares. está cubierta por un pericarpo coriáceo verde en el ejemplar inmaduro y amarillo intenso, rojo o bandeado verde y blanco al madurar. es de forma lineal o falcada, entre cilíndrica y marcadamente angulosa según la variedad. el extremo basal se estrecha abruptamente hacia un pedicelo de 1 a 2 cm. la pulpa es blanca a amarilla, rica en almidón y dulce; en los plátanos puede resultar algo astringente o gomosa por su contenido en látex, farinosa y seca. muy rara vez las variedades diploides o tetraploides producen semillas.",banano fruta que se come cruda  .,exact
+heteróclito,adjective,que no se ajusta a ningún patrón ordinario en su naturaleza o comportamiento,"irregular, extraño y fuera de orden.",exact
+heteróclito,adjective,"más generalmente, que tiene un paradigma irregular de conjugación o declinación","se dice del nombre que no se declina según la regla común, y, en general, de todo paradigma que se aparta de lo regular.",broader
+carrizo,noun,"(arundo donax</i>) planta herbácea del viejo mundo, de la familia de las poáceas, de entre 2 y 5 m de altura, con el tallo grueso y hueco, hojas lanceoladas y grandes panículas de espiguillas violáceas o amarillas en época de floración","planta gramínea, indígena de españa, con la raíz larga, rastrera y dulce, tallo de dos metros, hojas planas, lineares y lanceoladas, y flores en panojas anchas y copudas. se cría cerca del agua y sus hojas sirven para forraje. sus tallos servían para construir cielos rasos, y sus panojas, para hacer escobas.",exact
+religioso,adjective,propio de o relativo a la religión.,perteneciente o relativo a la religión o a quienes la profesan.,exact
+religioso,adjective,"que cree en alguna religión, especialmente si es piadoso en el cumplimiento de los preceptos de la misma.","que tiene religión, y particularmente que la profesa con celo.",exact
+religioso,adjective,"que ha consagrado su vida a la religión, especialmente como parte de una orden.",que ha profesado en una orden o congregación  religiosa .,exact
+religioso,adjective,riguroso y escrupuloso en el cumplimiento de sus deberes.,fiel y exacto en el cumplimiento del deber.,exact
+brocal,noun,pretil que rodea un pozo,"antepecho alrededor de la boca de un pozo, para evitar el peligro de caer en él.",broader
+brocal,noun,refuerzo que guarece la vaina de un arma blanca,boquilla de la vaina de las armas blancas  .,related
+brocal,noun,pequeño embudo para llenar o beber de una bota,cerco de madera o de cuerno que se pone a la boca de la bota para llenarla con facilidad y beber por él.,exact
+brocal,noun,refuerzo similar que guarece el ribete de un escudo,ribete de acero que guarnece el escudo.,exact
+brocal,noun,"por extensión, abertura que da acceso al pozo","en las minas, boca de un pozo.",related
+brocal,noun,refuerzo similar que guarece la boca de una pieza de artillería,moldura que refuerza la boca de las piezas de artillería.,exact
+virgo,adjective,que no ha tenido relaciones sexuales,virgen .,exact
+virgo,adjective,"que ha nacido cuando el signo zodiacal de virgo asciende sobre el horizonte en oriente, entre el 23 de agosto y el 22 de septiembre","dicho de una persona: nacida bajo el signo zodiacal de virgo.  yo soy virgo, ella es piscis .",exact
+virgo,adjective,pliegue de membrana mucosa que rodea u obstruye parcialmente la vagina en la hembra de los mamíferos,himen .,exact
+virgo,noun,que no ha tenido relaciones sexuales,virgen .,exact
+virgo,noun,"que ha nacido cuando el signo zodiacal de virgo asciende sobre el horizonte en oriente, entre el 23 de agosto y el 22 de septiembre","dicho de una persona: nacida bajo el signo zodiacal de virgo.  yo soy virgo, ella es piscis .",exact
+virgo,noun,pliegue de membrana mucosa que rodea u obstruye parcialmente la vagina en la hembra de los mamíferos,himen .,exact
+tute,noun,"({{naipes|}}) cualquiera de varios juegos de naipes, de reglamento sencillo, en los que cada mano se gana con la carta más alta, y los puntos de estas bazas se suman para el total de la partida",juego de naipes en que gana quien reúne los cuatro reyes o los cuatro caballos.,narrower
+tute,noun,"mano de cuatro reyes o cuatro caballos en este juego, que da puntos adicionales","en este juego, reunión de los cuatro reyes o los cuatro caballos.",exact
+tute,noun,empeño o esfuerzo extraordinario que se despliega para una tarea,esfuerzo excesivo que se obliga a hacer a personas o animales en un trabajo o ejercicio.,exact
+tute,noun,desgaste producido por un esfuerzo tal o por el largo uso,"acometida que se da a algo en su uso, consumo o ejecución, reduciéndolo o acabándolo.",exact
+ilusión,noun,percepción o sensación que produce una imagen errónea de la realidad.,"concepto, imagen o representación sin verdadera realidad, sugeridos por la imaginación o causados por engaño de los sentidos.",exact
+ilusión,noun,vivo deseo de que algo suceda.,esperanza cuyo cumplimiento parece especialmente atractivo.,exact
+ilusión,noun,alegría y entusiasmo que provoca un acontecimiento favorable.,"viva complacencia en una persona, una cosa, una tarea, etc.",related
+carnicero,noun,"se aplica a animales o aves que matan reses o pájaros para sustento como el lobo, el gavilán, etc.",dicho de un animal: que da muerte a otros para comérselos.,exact
+carnicero,noun,se aplica al coto o dehesa destinada para el pasto del ganado que se ha de pesar y vender en la carnicería.,dicho de un coto o de una dehesa: donde pace el ganado que se destina al abasto público.,exact
+carnicero,noun,que come mucha carne.,dicho de una persona: que come mucha carne.,narrower
+carnicero,noun,que actúa con crueldad y violencia.,"cruel, sanguinario, inhumano.",exact
+carnicero,noun,persona que vende carne fresca y derivados.,persona que vende carne.,broader
+carnicero,adjective,"se aplica a animales o aves que matan reses o pájaros para sustento como el lobo, el gavilán, etc.",dicho de un animal: que da muerte a otros para comérselos.,exact
+carnicero,adjective,se aplica al coto o dehesa destinada para el pasto del ganado que se ha de pesar y vender en la carnicería.,dicho de un coto o de una dehesa: donde pace el ganado que se destina al abasto público.,exact
+carnicero,adjective,que come mucha carne.,dicho de una persona: que come mucha carne.,narrower
+carnicero,adjective,que actúa con crueldad y violencia.,"cruel, sanguinario, inhumano.",exact
+carnicero,adjective,persona que vende carne fresca y derivados.,persona que vende carne.,broader
+histórico,adjective,propio o relacionado con la historia.,perteneciente o relativo a la historia.,exact
+histórico,adjective,se dice de los hechos o personas cuya existencia se comprueba con documentos históricos<sub>1</sub>.,"averiguado, comprobado, cierto, por contraposición a  fabuloso  o  legendario .",broader
+histórico,adjective,que tiene suficiente importancia para aparecer en la historia.,"digno, por la trascendencia que se le atribuye, de figurar en la historia.",exact
+histórico,adjective,se dice de la narración que describe o complementa pasajes de la historia.,"dicho de una obra literaria, normalmente narrativa o dramática: cuyo argumento alude a sucesos y personajes recordados por la historia y sometidos a fabulación o recreación artísticas.",narrower
+histórico,adjective,se dice de los hechos o personas cuya existencia se comprueba con documentos históricos<sub>1</sub>.,se dice de la persona que ha tenido existencia real o del hecho que verdaderamente ha sucedido.,narrower
+histórico,adjective,persona que escribe historia.,persona que escribía historia.,narrower
+hediondo,adjective,que arroja de sí hedor.,que despide hedor.,exact
+hediondo,adjective,"dícese de personas</i>: molesto, enfadoso e insufrible.","molesto, enfadoso e insufrible.",broader
+hediondo,adjective,"sucio, asqueroso e impúdico.","sucio, repugnante y obsceno.",exact
+hediondo,adjective,"(sambucus ebulus</i>) hierba de la familia de las caprifoliáceas, crece hasta dos metros con tallos erectos; el fruto es una baya tóxica, de color negro, pequeña y globosa de 5 a 6mm de diámetro.","arbusto originario de españa, de la familia de las leguminosas, que crece hasta dos metros de altura, con hojas compuestas de tres hojuelas enteras y lanceoladas, flores amarillas en racimos casi pegados a las ramas, y fruto en vainillas negras, algo tortuosas, con seis o siete semillas pardas, de forma de riñón y un centímetro de largo. toda la planta despide un olor desagradable.",exact
+hediondo,noun,que arroja de sí hedor.,que despide hedor.,exact
+hediondo,noun,"dícese de personas</i>: molesto, enfadoso e insufrible.","molesto, enfadoso e insufrible.",broader
+hediondo,noun,"sucio, asqueroso e impúdico.","sucio, repugnante y obsceno.",exact
+hediondo,noun,"(sambucus ebulus</i>) hierba de la familia de las caprifoliáceas, crece hasta dos metros con tallos erectos; el fruto es una baya tóxica, de color negro, pequeña y globosa de 5 a 6mm de diámetro.","arbusto originario de españa, de la familia de las leguminosas, que crece hasta dos metros de altura, con hojas compuestas de tres hojuelas enteras y lanceoladas, flores amarillas en racimos casi pegados a las ramas, y fruto en vainillas negras, algo tortuosas, con seis o siete semillas pardas, de forma de riñón y un centímetro de largo. toda la planta despide un olor desagradable.",exact
+chapuza,noun,trabajo esporádico e informal.,obra o labor de poca importancia.,related
+chapuza,noun,obra torpe o de mala calidad,obra hecha sin arte ni esmero.,exact
+chapuza,noun,engaño o abuso en una relación comercial por el que alguno obtiene beneficio ilegítimo,estafa acción y efecto de estafar  .,exact
+caramelo,noun,sustancia| pegajosa semilíquida que se forma al derretir azúcar ya sea solo o con agua.,azúcar fundido y endurecido.,broader
+caramelo,noun,golosina que se hace al dejar enfriar el caramelo derretido.,"golosina hecha con  caramelo  y aromatizada con esencias de frutas, hierbas, etc.",narrower
+universitario,adjective,que pertenece o concierne a la universidad.,perteneciente o relativo a la  universidad institución de enseñanza superior  .,exact
+universitario,adjective,que pertenece o concierne a la universidad.,perteneciente o relativo a la  universidad instituto público de enseñanza  .,narrower
+universitario,adjective,que pertenece o concierne a la universidad.,perteneciente o relativo a la  universidad edificio o conjunto de edificios  .,narrower
+universitario,adjective,persona que se ha graduado en la universidad.,"profesor, graduado o estudiante de universidad.",broader
+universitario,noun,que pertenece o concierne a la universidad.,perteneciente o relativo a la  universidad institución de enseñanza superior  .,exact
+universitario,noun,que pertenece o concierne a la universidad.,perteneciente o relativo a la  universidad instituto público de enseñanza  .,narrower
+universitario,noun,que pertenece o concierne a la universidad.,perteneciente o relativo a la  universidad edificio o conjunto de edificios  .,narrower
+universitario,noun,persona que se ha graduado en la universidad.,"profesor, graduado o estudiante de universidad.",broader
+vicuña,noun,"(vicugna vicugna</i>) mamífero rumiante, pesan entre 40 y 50 kg y tienen una longitud de 80 cm., su cuerpo está cubierto por pelos largos y finísimos de color amarillento rojizo. vive salvaje en manadas en el altiplano andino, se caza para aprovechar su vellón.","mamífero rumiante del tamaño del macho cabrío, al cual se asemeja en la configuración general, pero con cuello más largo y erguido, cabeza más redonda y sin cuernos, orejas puntiagudas y derechas y piernas muy largas. cubre su cuerpo un pelo largo y finísimo de color amarillento rojizo, capaz de admitir todo género de tintes. vive salvaje en manadas en los andes del perú y de bolivia, y se caza para aprovechar su vellón, que es muy apreciado.",exact
+vicuña,noun,lana o vellón de este animal,lana de este animal.,exact
+vicuña,noun,tejido de esta lana,tejido que se hace de esta lana.,exact
+remolino,noun,"movimiento rápido y giratorio de una masa de aire, agua, polvo o humo, etc.","movimiento giratorio y rápido del aire, el agua, el polvo, el humo, etc.",exact
+remolino,noun,retorcimiento natural del pelo que se forma en una parte del cuerpo de una persona o animal y que ofrece resistencia al peinado o alisado,"retorcimiento del pelo en redondo, que se forma en una parte del cuerpo del hombre o del animal.",exact
+remolino,noun,amontonamiento de gente que se mueve en forma confusa y sin orden,"amontonamiento de gente, o confusión de unas personas con otras, por efecto de un desorden.",exact
+remolino,noun,persona inquieta o activa,"disturbio, inquietud o alteración.",exact
+remolino,noun,disturbio o conmoción,persona inquieta.,exact
+israelita,adjective,"propio de, relativo o perteneciente al pueblo semítico que, de acuerdo a la tradición bíblica, desciende de abraham y habitó el reino de israel hasta su expulsión por los romanos","hebreo del pueblo semítico que conquistó y habitó la palestina  . apl. a pers.,",exact
+israelita,adjective,"por extensión, propio de, relativo a o practicante del judaísmo",perteneciente o relativo al que profesa la ley de moisés.,related
+israelita,adjective,"por extensión, propio de, relativo o perteneciente al moderno estado de israel",natural de israel.,narrower
+israelita,adjective,"originario, relativo a, o propio de el antiguo reino de israel",perteneciente o relativo a este antiguo reino.,exact
+visible,adjective,que se puede observar o percibir con la vista.,que se puede ver.,exact
+visible,adjective,que es evidente.,tan cierto y evidente que no admite duda.,exact
+carencia,noun,acción o efecto de carecer de algo,falta o privación de algo.,exact
+carencia,noun,"período inmediatamente subsiguiente a la contratación de un servicio, durante el cual las condiciones o prestaciones de este aún no se hacen efectivas","en un seguro, período en el que el cliente nuevo no puede disfrutar de determinados servicios ofrecidos.",narrower
+carencia,noun,"en particular, carencia<sub>1</sub> en la dieta de algún elemento o nutriente esencial","falta de determinadas sustancias en la ración alimenticia, especialmente vitaminas.",narrower
+cisterna,noun,depósito subterráneo hecho para conservar el agua de lluvia o de algún manantial o río.,depósito subterráneo donde se recoge y conserva el agua llovediza o la que se lleva de algún río o manantial.,exact
+cisterna,noun,depósito que retiene el agua de un retrete.,depósito de agua de un retrete o urinario.,broader
+cisterna,noun,recipiente de un vehículo especializado para que se transporten líquidos.,"en aposición tras un nombre común que designa vehículo o nave, significa que estos están construidos para transportar líquidos.",related
+camal,noun,cuerda o correaje que se ata la cabeza de la bestia,cabestro de cáñamo o cabezón con que se ata la bestia.,broader
+camal,noun,palo empleado para atar de las patas traseras al cerdo muerto,palo grueso del que se suspende por las patas traseras al cerdo muerto.,exact
+camal,noun,rama gruesa,rama gruesa.,exact
+camal,noun,"matadero, lugar destinado a sacrificar y faenar las reses",matadero sitio donde se mata y desuella el ganado  .,exact
+camal,noun,"cadena gruesa, rematada en argolla, que se ponía a los esclavos","cadena gruesa, con su argolla, que se ponía a los esclavos para que no huyesen.",exact
+rumba,noun,"celebración vivaz y desordenada, en especial la que va de sitio en sitio","francachela, parranda.",exact
+rumba,noun,estilo de danza que se baila al compás de la rumba<sub>2</sub>,cierto baile popular.,exact
+rumba,noun,"estilo de música de origen afrocubano, de ritmo 6/8 y melodía vivaz",música que lo acompaña.,exact
+pedorro,adjective,que pedorrea frecuente o repetidamente,que echa pedos repetidos.,exact
+pedorro,adjective,falto de inteligencia o entendimiento,"dicho de una persona: tonta, ridícula o presuntuosa.",broader
+pedorro,adjective,que presta servicios sexuales por dinero,prostituta .,narrower
+sabroso,adjective,que tiene buen sabor.,sazonado y grato al sentido del gusto.,broader
+sabroso,adjective,"que produce placer, que es agradable.","delicioso, gustoso, deleitable al ánimo.",exact
+sabroso,adjective,levemente salado.,ligeramente salado.,exact
+sabroso,adjective,"que es alegre, que divierte o entretiene.","ameno, entretenido, divertido.",exact
+sabroso,adjective,"dicho de la música, del baile o del ritmo:</i> de melodía o ritmo atractivo, agradable, dulce.","dicho de la risa, de la música o del baile: rítmico, alegre, melodioso.",exact
+sabroso,adjective,"dicho de una persona:</i> que intenta vivir sin esforzarse ni preocuparse, en general sustentándose de lo ajeno.","dicho de una persona: que trata de vivir sin molestias ni esfuerzos, generalmente a costa del trabajo ajeno.",exact
+pastelería,noun,"local o establecimiento en el cual se hacen y comercializan productos de repostería y confitería, tales como pasteles, pastas, tartas, bizcochos, galletas, así como otros tipos de dulces o bollería. principalmente los productos son de origen artesanal, aunque también puede ser de origen industrial.","local donde se hacen pasteles, pastas u otros dulces.",narrower
+pastelería,noun,"local o establecimiento en el cual se hacen y comercializan productos de repostería y confitería, tales como pasteles, pastas, tartas, bizcochos, galletas, así como otros tipos de dulces o bollería. principalmente los productos son de origen artesanal, aunque también puede ser de origen industrial.",tienda donde se venden.,narrower
+pastelería,noun,"arte o técnica de trabajar productos de repostería y confitería como pasteles, pastas, tartas, bizcochos, galletas, etc.","arte de trabajar pasteles, pastas, etc.",exact
+pastelería,noun,"conjunto de pasteles, pastas, tartas, bizcochos, galletas, etc.",conjunto de pasteles o pastas.,exact
+peluca,noun,"prenda que simula el cabello natural, la que puede estar confeccionada con pelo sintético o bien natural.",cabellera postiza.,exact
+peluca,noun,persona que lleva o usa peluca<sub>1</sub>.,persona que la lleva o la usa.,exact
+peluca,noun,"reprensión severa, generalmente dada a un inferior.",reprensión acre y severa dada a un inferior.,exact
+herrumbre,noun,"termino general con el que se conoce a varios tipos de óxido de hierro, estos compuestos se forman cuado el hierro es expuesto al agua o a la humedad.",óxido del hierro.,narrower
+herrumbre,noun,sabor a hierro que adquieren algunas bebidas o alimentos.,"gusto o sabor que algunas cosas, como las aguas, toman del hierro.",broader
+herrumbre,noun,"clase de hongos (basidiomycota</i>), incluye unas 1000 especies divididas en 63 géneros. usualmente patógenos de plantas.",roya hongo parásito  .,narrower
+bufet,noun,"comida servida y dispuesta generalmente sobre una mesa, junto con su cubertería, que consiste principalmente en que los comensales se sirven a discreción de los alimentos.",bufé comida  .,narrower
+bufet,noun,mesa en la que se sirve el bufet<sub>1</sub>.,bufé mesa  .,broader
+bufet,noun,local o despacho donde se sirven aperitivos o comidas ligeras.,bufé local  .,narrower
+bufé,noun,"comida servida y dispuesta generalmente sobre una mesa, junto con su cubertería, que consiste principalmente en que los comensales se sirven a discreción de los alimentos.","comida, por lo general nocturna, compuesta de platos calientes y fríos, con que se cubre de una vez la mesa.",narrower
+bufé,noun,mesa en la que se sirve el bufé<sub>1</sub>.,"mesa o conjunto de mesas donde, en reuniones o espectáculos públicos, se ofrecen estos platos.",broader
+bufé,noun,local o despacho donde se sirven aperitivos o comidas ligeras.,"en estaciones de ferrocarriles y otros sitios, local para tomar refacción ligera.",narrower
+cernada,noun,sedimento de ceniza que quedaba en el lienzo con el que se cubráa la ropa que se trataba con lejía.,"parte no disuelta de la ceniza, que quedaba en el cernadero después de echada la lejía sobre la ropa.",exact
+cernada,noun,mezcla de ceniza y cola empleada para preparar la superfice del lienzo donde posteriomente se aplicará la pintura.,"aparejo de ceniza y cola para imprimar los lienzos que se han de pintar, especialmente al temple.",exact
+cernada,noun,medicamento que se prepara con ceniza y otros ingredientes y que se aplica sobre las heridas de los animales.,"cataplasma de ceniza y otros ingredientes, para fortalecer las partes lastimadas de las caballerías.",exact
+cernada,noun,solución de agua con ceniza o cal en la que se ha cocido el máiz.,agua con ceniza o cal en la que se ha cocido el maíz.,exact
+hambriento,adjective,"afectado por el hambre, que tiene necesidad física de alimento.",que tiene mucha  hambre gana y necesidad de comer  .,exact
+hambriento,adjective,que tiene fuerte deseo o necesidad de algo.,que tiene  hambre apetito o deseo de algo  .,exact
+hambriento,adjective,"mezquino, tacaño.",tacaño miserable  .,exact
+chirimbolo,noun,objeto de forma extraña o complicada al que no se sabe como llamar.,objeto de forma extraña que no se sabe cómo nombrar.,exact
+chirimbolo,noun,aparato redondo.,objeto de forma redonda.,broader
+chirimbolo,noun,"herramienta, vasija o algo similar.","utensilio, vasija o cosa análoga.",narrower
+hender,verb,cortar profundamente un cuerpo sólido sin partirlo del todo.,abrir o rajar un cuerpo sólido sin dividirlo del todo.,exact
+hender,verb,atravesar un cuerpo líquido o gaseoso.,atravesar o cortar un fluido.,exact
+hender,verb,"figuradamente, abrirse paso entre una multitud de cosas o personas.",abrirse paso rompiendo por entre una muchedumbre de gente o de otra cosa.,exact
+cernadero,noun,"lienzo gordo que se pone en el cesto o coladero sobre toda la ropa, para que echando sobre el la lejía pase a la ropa solo el agua y se detenga en él la ceniza.","lienzo grueso que se ponía en el cesto o coladero sobre toda la ropa, para que, echando sobre él la lejía, pasase a la ropa solo el agua con las sales que llevaba en disolución deteniéndose en él la cernada.",exact
+cernadero,noun,"lienzo con el que se hacían los cuellos de camisa grandes, llamados valona que cubrían parte de la espalda, hombros y pecho, usado en especial en los siglos xvi y xvii.","lienzo de hilo, o de hilo y seda, con el que se hacían valonas.",broader
+cernadero,noun,trozo de tela de lienzo que se colocaba a los niños antes del pañal.,paño de lienzo que se ponía a los niños pequeños debajo del pañal.,exact
+clavar,verb,"introducir un objeto puntiagudo en un cuerpo, mediante presión o golpes.","introducir un clavo u otra cosa aguda, a fuerza de golpes, en un cuerpo.",exact
+clavar,verb,usar clavos para asegurar algo.,asegurar con clavos una cosa en otra.,exact
+clavar,verb,engastar piedras preciosas o semipreciosas en oro o plata.,"entre plateros, sentar o engastar las piedras en el oro o la plata.",narrower
+clavar,verb,inutilizar un caballo metiéndole un clavo hasta la carne en las pezuñas.,causar a una caballería una clavadura.,broader
+clavar,verb,"dañar, arruinar un cañón metiendo un clavo a martillazos en el oído de este.<!--",inutilizar un cañón introduciendo en el oído un clavo de acero a golpe de mazo.,exact
+clavar,verb,"burlarse de la buena fe de una persona, perjudicándola.",engañar a alguien perjudicándole.,related
+clavar,verb,cobrar un precio excesivo a alguien.,perjudicar a alguien cobrándole más de lo justo.,exact
+clavar,verb,darle a alguien un trabajo o tarea desagradable.,imponer a alguien una tarea desagradable y molesta.,exact
+clavar,verb,"apropiarse del bien ajeno, quitarle a alguien lo suyo.",robar tomar para sí lo ajeno  .,exact
+clavar,verb,"colocar herretes en cordones, agujetas o cintas, de modo que estos puedan entrar con facilidad en ojetes y ojales.",herretear poner herretes  .,exact
+nocturno,adjective,que pertenece o concierne a la noche.,perteneciente o relativo a la noche.,exact
+nocturno,adjective,que ocurre o se hace durante la noche.,que se hace durante la noche.,exact
+nocturno,adjective,se dice de las plantas y árboles que abren sus flores durante la noche.,dicho de una planta: que solo de noche tiene abiertas sus flores.,exact
+nocturno,adjective,se dice de los animales que se vuelven activos durante la noche.,dicho de un animal: que de día está oculto y busca el alimento durante la noche.,exact
+nocturno,adjective,que se aparta de la gente y demuestra melancolía y tristeza.,"que anda siempre solo, melancólico y triste.",exact
+nocturno,adjective,"cada una de las tres partes de la primera de las horas canónicas, los maitines.","cada una de las tres partes del oficio de maitines, compuesta de antífonas, salmos y lecciones.",exact
+nocturno,adjective,pequeña composición musical de carácter melancólico y dulce.,"pieza de música vocal o instrumental, de melodía dulce, propia para recordar los sentimientos apacibles de una noche tranquila.",exact
+nocturno,adjective,"serenata en la que se interpretan melodías melancólicas, dulces y sentimentales.",serenata en que se cantan o tocan composiciones de carácter sentimental.,exact
+nocturno,noun,que pertenece o concierne a la noche.,perteneciente o relativo a la noche.,exact
+nocturno,noun,que ocurre o se hace durante la noche.,que se hace durante la noche.,exact
+nocturno,noun,se dice de las plantas y árboles que abren sus flores durante la noche.,dicho de una planta: que solo de noche tiene abiertas sus flores.,exact
+nocturno,noun,se dice de los animales que se vuelven activos durante la noche.,dicho de un animal: que de día está oculto y busca el alimento durante la noche.,exact
+nocturno,noun,que se aparta de la gente y demuestra melancolía y tristeza.,"que anda siempre solo, melancólico y triste.",exact
+nocturno,noun,"cada una de las tres partes de la primera de las horas canónicas, los maitines.","cada una de las tres partes del oficio de maitines, compuesta de antífonas, salmos y lecciones.",exact
+nocturno,noun,pequeña composición musical de carácter melancólico y dulce.,"pieza de música vocal o instrumental, de melodía dulce, propia para recordar los sentimientos apacibles de una noche tranquila.",exact
+nocturno,noun,"serenata en la que se interpretan melodías melancólicas, dulces y sentimentales.",serenata en que se cantan o tocan composiciones de carácter sentimental.,exact
+guiar,verb,ir junto o delante de una persona para indicarle la ruta a seguir.,ir delante mostrando el camino.,exact
+guiar,verb,manejar un aparato o una pieza mecánica de modo que siga la ruta adecuada.,hacer que una pieza de una máquina u otro aparato siga en su movimiento determinado camino.,exact
+guiar,verb,"poner guía<sub>4</sub> a las plantas, para orientar su crecimiento.",dirigir el crecimiento de las plantas haciéndoles guías.,exact
+guiar,verb,controlar un vehículo para que siga una ruta.,conducir un carruaje.,narrower
+guiar,verb,acompañar y orientar a una persona en sus decisiones.,dirigir a alguien en algún negocio.,narrower
+vigor,noun,"energía, fuerza interior de las personas, animales o cosas.",fuerza o actividad notable de las cosas animadas o inanimadas.,exact
+vigor,noun,"viveza, fuerza, rapidez o energía propia de las acciones.",viveza o eficacia de las acciones en la ejecución de las cosas.,exact
+vigor,noun,"vigencia, validez o actualidad para hacer cumplir una ley u ordenanza.",fuerza de obligar en las leyes u ordenanzas.,related
+vigor,noun,"período de tiempo en el que está vigente una costumbre, un estilo.",duración de las costumbres o estilos.,exact
+vigor,noun,"manifestación enérgica, expresión acentuada y fuerte en una obra de arte.",entonación o expresión enérgica en las obras artísticas o literarias.,exact
+guaraná,noun,"(paullinia cupana</i>) arbusto trepador de la familia de las sapindáceas, nativo de la cuenca del amazonas, monoico, de hojas grandes de forma lanceolada y margen serrado, flores cigomorfas, pentámeras, fruto rojo en cápsula conteniendo tres semillas de color oscuro. se cultiva desde época precolombina para aprovechar sus semillas","arbusto de la familia de las sapindáceas, con tallos sarmentosos de tres a cuatro metros de longitud, hojas persistentes y alternas, flores blancas y fruto capsular ovoide, de tres divisiones, cada una con su semilla del tamaño de un guisante, color negro por fuera y almendra amarillenta, que después de tostada se usa para preparar una bebida refrescante y febrífuga.",exact
+guaraná,noun,"pasta de semillas de guaraná<sub>1</sub>, usada en la preparación de bebidas estimulantes","pasta preparada con semillas de esta planta, cacao y tapioca.",broader
+guaraná,noun,bebida preparada con guaraná<sub>2</sub> en solución,bebida gaseosa hecha de esta pasta.,exact
+nobleza,noun,calidad o cualidad de noble.,cualidad de noble.,narrower
+nobleza,noun,conjunto de los nobles de una región o estado.,conjunto o cuerpo de los nobles de un estado o de una región.,exact
+nobleza,noun,tipo de tela hecha de seda.,"tela de seda, especie de damasco sin labores.",exact
+harén,noun,sección en la casa de los musulmanes donde viven las mujeres.,departamento de las casas de los musulmanes en que viven las mujeres.,exact
+harén,noun,"el grupo de mujeres que viven en la casa de un jefé de familia musulmán, y que pueden ser familiares, concubinas o personal del servicio doméstico.","entre los musulmanes, conjunto de todas las mujeres que viven bajo la dependencia de un jefe de familia.",exact
+harén,noun,el conjunto de hembras que copulan con un único macho.,"grupo de hembras que conviven con un único macho en la época de la procreación, como ocurre entre los ciervos.",exact
+chingana,noun,"taberna o bar de mala muerte, en el que hay alcohol, canto y baile.",taberna en que suele haber canto y baile.,broader
+chingana,noun,restaurante de mala calidad.,restaurante de mala calidad.,exact
+chingana,noun,licorería que expende bebidas alcohólicas baratas y de mala calidad.,tienda donde se expenden y consumen licores baratos.,exact
+endenantes,adverb,indica un tiempo inmediatamente o brevemente anterior</i>,hace poco.,exact
+endenantes,adverb,indica un lugar anterior </i>,antes con prioridad de lugar  .,exact
+endenantes,adverb,indica anterioridad en el tiempo</i>,antes con idea de prioridad de tiempo  .,exact
+cañuela,noun,"(festuca spp</i>) nombre de numerosas gramíneas, con hojas planas, convolutas o conduplicadas y espiguillas dispuestas en panojas.","planta anual, gramínea, de un metro de altura, con hojas anchas, puntiagudas, planas, ligeramente estriadas y panojas laxas, verdes o violáceas.",exact
+cañuela,noun,trozo de madera o pedazo de caña en el que se enrolla el hilo o cordel del volantín.,canilla de la máquina tejedora  .,exact
+cañuela,noun,carrete metálico en donde va el hilo de la máquina de tejer.,palo o caña en que se envuelve el hilo de las cometas.,related
+chambonada,noun,error o desacierto producto de la torpeza.,desacierto propio del chambón.,exact
+chambonada,noun,acierto producto de la casualidad.,ventaja obtenida por chiripa.,exact
+chambonada,noun,trabajo mal hecho.,chapuza obra sin arte ni esmero  .,exact
+rumiar,verb,remasticar el alimento que ya estuvo en el estomago de los rumiantes.,"masticar por segunda vez, volviéndolo a la boca, el alimento que ya estuvo en el depósito que a este efecto tienen algunos animales.",exact
+rumiar,verb,pensar con detenimiento y profundamente algo.,considerar despacio y pensar con reflexión y madurez algo.,exact
+rumiar,verb,"gruñir, refunfuñar.","rezongar, refunfuñar.",exact
+pelusa,noun,pelo muy delgado y suave que recubre algunos vegetales y en especial la piel de las frutas.,pelo muy tenue de algunas frutas.,narrower
+pelusa,noun,pelo muy delgado y suave que se desprende de ciertas telas.,pelo menudo que con el uso se desprende de las telas.,narrower
+pelusa,noun,pelo muy delgado y suave que cubre algunas partes de la piel de las personas.,vello tenue que aparece en la cara de las personas y en el cuerpo de los polluelos de algunas aves.,broader
+pelusa,noun,suciedad que se acumula bajo los muebles en forma de pequeñas aglomeraciones de filamentos con polvo.,aglomeración de polvo y suciedad que se forma generalmente debajo de los muebles.,exact
+pelusa,noun,envidia o celo infantil.,envidia propia de los niños.,exact
+pellejería,noun,taller o lugar en el que se adoban o curten las pieles.,lugar donde se adoban o venden pellejos.,broader
+pellejería,noun,oficio que ejerce el pellejero.,oficio o comercio de pellejero.,exact
+pellejería,noun,conjunto o montón de pellejos.,conjunto de pieles o pellejos.,exact
+pellejería,noun,"situación difícil, de dificultades que se deben sobrellevar.",contratiempo suceso inoportuno  .,related
+pelele,noun,figura humana de paja o trapos que suele ponerse en los balcones o que mantea el pueblo en las carnestolendas.,figura humana de paja o trapos que se suele poner en los balcones o que mantea el pueblo en las carnestolendas.,exact
+pelele,noun,prenda de punto de cuerpo entero que se pone a los bebés para estar en casa o para dormir.,traje de punto de una pieza que se pone a los niños para dormir.,narrower
+pelele,noun,persona simple o inútil.,persona simple o inútil.,exact
+relingar,verb,"en general, poner o coser las relingas a las velas; para lo cual cuando no se hace uso de empalomaduras, se mete la aguja por debajo de un cordón, y se pasa por la orilla de la vaina, de forma que el hilo quede embutido dentro de la colcha, dándole de trecho en trecho unas puntadas nombradas llaves, que abrazan diagonalmente la relinga por su parte exterior.",coser o pegar la relinga.,exact
+relingar,verb,izar una vela hasta que sus relingas de caída queden muy tirantes. viene á ser lo mismo que reclamar.,izar una vela hasta poner tirantes sus relingas de caída.,exact
+relingar,verb,escasear el viento hasta hacer tremular las velas; o buscar la relinga de barlovento. también se entiende por orzar hasta que toquen o flameen las velas.,dicho de una relinga: moverse con el viento.,related
+relingar,verb,"tratándose del modo con que las velas reciben el viento, es lo mismo que flamear.",dicho de los primeros paños de la vela: empezar a flamear.,narrower
+brin,noun,lona muy fina.,vitre .,exact
+brin,noun,"tela de cáñamo ligera y flexible, propia para velamen de embarcaciones menores.","tela ordinaria y gruesa de lino, que comúnmente se usa para forros y para pintar al óleo.",related
+brin,noun,brizna o hebra de azafrán.,brizna o hebra del azafrán.,exact
+wagneriano,adjective,relativo o perteneciente a la vida del compositor alemán wilhelm richard wagner (1813-1883); o a su obra musical.,perteneciente o relativo a richard wagner o a su obra.,exact
+wagneriano,adjective,con cualidades o características propias de la obra de este autor.,característico de este músico alemán o de su obra.,exact
+wagneriano,adjective,partidario de la música de este autor.,partidario de la música de wagner.,exact
+visceral,adjective,propio o relativo a las vísceras.,perteneciente o relativo a las vísceras.,exact
+visceral,adjective,"dicho de un sentimiento, que viene de lo más profundo de sí mismo, y por lo tanto es irrefrenable.",dicho de una reacción emocional: muy intensa.,exact
+visceral,adjective,"dicho de una persona, que se deja arrastrar por sentimientos irracionales y profundos.",que se deja llevar por este tipo de reacciones.  juan es muy visceral .,exact
+castigar,verb,imponer un castigo al que ha delinquido o faltado en alguna cosa.,ejecutar algún castigo en un culpado.,broader
+castigar,verb,"afligir, mortificar.",mortificar y afligir.,exact
+castigar,verb,estimular al caballo para que galope.,estimular con el látigo o con las espuelas a una cabalgadura para que acelere la marcha.,broader
+castigar,verb,escarmentar.,escarmentar corregir con rigor a quien ha errado  .,exact
+castigar,verb,"tratándose de algún escrito u obra literaria o artística, corregirlos o enmendarlos.",corregir o enmendar una obra o un escrito.,exact
+castigar,verb,"advertir, enseñar, prevenir.","advertir, prevenir, enseñar.",exact
+citar,verb,"avisar, prevenir, emplazar a alguno, señalándole día, hora y lugar para tratar de algún negocio.","avisar a alguien señalándole día, hora y lugar para tratar de algún negocio.",exact
+citar,verb,"referir, anotar o sacar al margen de algún escrito los autores, textos o lugares que se alegan en comprobación de lo que se dice o escribe.","referir, anotar o mencionar los autores, textos o lugares que se alegan o discuten en lo que se dice o escribe.",exact
+citar,verb,"mentar, mencionar, recordar.",hacer mención de alguien o de algo.,exact
+citar,verb,"en el toreo, provocar a la fiera para que acuda a determinado paraje.","en las corridas de toros, provocar a la fiera para que embista, o para que acuda a determinado lugar.",exact
+citar,verb,"notificar, hacer saber a alguna persona el emplazamiento o llamamiento del juez.",notificar una resolución administrativa o judicial con el fin de que su destinatario comparezca ante la autoridad que la dictó.,exact
+caroca,noun,"decoración de lienzos y bastidores con que, para regocijo público en determinadas solemnidades, se adornan ciertas calles o plazas, o que en algún tiempo ostentaron los teatros ambulantes, sobre todo en las fiestas del corpus; la cual ofrece pintadas escenas graciosas, picarescas o epigramáticas.","decoración de lienzos y bastidores con que, para regocijo público en determinadas solemnidades, se adornan ciertas calles o plazas, o que en algún tiempo ostentaron los teatros ambulantes, sobre todo en las fiestas del corpus; la cual ofrece pintadas escenas graciosas, picarescas o epigramáticas.",exact
+caroca,noun,"composición bufa, a semejanza de los mimos y sátiros de griegos y romanos, escrita para solazar y entretener al vulgo.","composición bufa, a semejanza de los mimos antiguos, escrita para solazar a la gente.",broader
+caroca,noun,"palabra o acción afectadamente cariñosa y lisonjera, para obtener de alguien alguna cosa.","carantoña halago, caricia  .",exact
+veraniego,adjective,concerniente al verano.,perteneciente o relativo al verano.,exact
+veraniego,adjective,epíteto del que está flaco o enfermo en tiempo de verano.,dicho de una persona: que en tiempo de verano suele ponerse loco o enfermo.,narrower
+veraniego,adjective,defectuoso en su línea.,"ligero, de poco fuste.",related
+juco,adjective,se dice de la comida descompuesta y maloliente.,dicho de un alimento o de una comida: que se ha echado a perder y despide mal olor.,exact
+juco,adjective,se dice de lo que está sucio.,dicho de un objeto:  sucio que tiene manchas  .,narrower
+juco,adjective,se dice de la persona sucia y desaseada.,dicho de una persona:  desaseada .,exact
+juco,adjective,se dice de algo arduo o difícil de resolver.,dicho de un hecho o de un problema: muy complicado.,exact
+juco,adjective,se dice de lo que ya ha tenido mucho uso y necesita ser renovado o reemplazado.,dicho de un objeto:  viejo estropeado por el uso  .,exact
+buscador,adjective,que busca.,que busca.,exact
+buscador,adjective,"instrumento, anteojo o lente pequeño de amplio campo para ver a distancia. se integra en telescopios, refractores y reflectores para mejorar su enfoque y puntería.","anteojo pequeño de mucho campo que forma cuerpo con los telescopios, refractores y reflectores para facilitar su puntería.",exact
+buscador,noun,que busca.,que busca.,exact
+buscador,noun,"instrumento, anteojo o lente pequeño de amplio campo para ver a distancia. se integra en telescopios, refractores y reflectores para mejorar su enfoque y puntería.","anteojo pequeño de mucho campo que forma cuerpo con los telescopios, refractores y reflectores para facilitar su puntería.",exact
+casal,noun,casa de campo con sus dependencias.,casa de labor .,exact
+casal,noun,solar o casa solariega.,solar o casa solariega.,exact
+casal,noun,"terreno baldío, sin construir.",solar sin edificar.,exact
+casal,noun,"terreno baldío, en el que antes hubo edificios.",sitio donde hubo edificios.,exact
+casal,noun,"pareja de aves, u otros animales, de diferente sexo.",pareja de macho y hembra.,broader
+hartar,verb,"satisfacer, saciar el apetito de comer o beber.","saciar, incluso con exceso, a alguien el apetito de comer o beber.",broader
+hartar,verb,satisfacer el gusto o deseo de alguna cosa.,satisfacerle el gusto o deseo de algo.,exact
+hartar,verb,"fastidiar, cansar.","fastidiar, cansar.",exact
+hartar,verb,"junto con algunos nombres y la preposición &quot;de&quot; significa dar, causar, etc., copia o muchedumbre de lo que explican los nombres con que se juntan; y así se dice &quot;hartar a uno de palos, de desvergüenzas, etc.&quot;</i>","dar, suministrar a alguien con demasiada abundancia.",exact
+imbécil,adjective,"por extensión, que tiene poca inteligencia o entendimiento","alelado, escaso de razón.",exact
+imbécil,adjective,"que tiene poca fuerza, en particular física","flaco, débil.",exact
+conque,conjuction,úsase para introducir una oración que expresa la conclusión o consecuencia de lo antedicho</i>,para enunciar una consecuencia natural de lo que acaba de decirse.,exact
+conque,conjuction,úsase para expresar sorpresa</i>,para introducir una frase exclamativa que expresa sorpresa o censura al interlocutor.,narrower
+conque,conjuction,condición o reparo que se pone para acceder a algo,condición con que se hace o se promete algo.,exact
+conque,noun,úsase para introducir una oración que expresa la conclusión o consecuencia de lo antedicho</i>,para enunciar una consecuencia natural de lo que acaba de decirse.,exact
+conque,noun,úsase para expresar sorpresa</i>,para introducir una frase exclamativa que expresa sorpresa o censura al interlocutor.,narrower
+conque,noun,condición o reparo que se pone para acceder a algo,condición con que se hace o se promete algo.,exact
+peluquero,noun,hombre que tiene como oficio el cortar y peinar el cabello.,"persona que tiene por oficio peinar, cortar el pelo o hacer y vender pelucas, rizos, etc.",broader
+peluquero,noun,propietario de una peluquería.,dueño de una peluquería.,exact
+jesuita,adjective,miembro de la compañía de jesús<sub>1</sub>.,"se dice del religioso de la compañía de jesús, fundada por san ignacio de loyola.",exact
+jesuita,adjective,que actúa con hipocresía.,"hipócrita, taimado.",exact
+jesuita,adjective,bollo de masa de hojaldre relleno de jamón dulce y queso.,"pastelillo de hojaldre relleno de jamón y queso, cubierto de una costra dulce.",exact
+jesuita,noun,miembro de la compañía de jesús<sub>1</sub>.,"se dice del religioso de la compañía de jesús, fundada por san ignacio de loyola.",exact
+jesuita,noun,que actúa con hipocresía.,"hipócrita, taimado.",exact
+jesuita,noun,bollo de masa de hojaldre relleno de jamón dulce y queso.,"pastelillo de hojaldre relleno de jamón y queso, cubierto de una costra dulce.",exact
+peladero,noun,"sitio donde se pelan los cerdos, y las aves.",sitio donde se pelan los cerdos o las aves.,exact
+peladero,noun,sitio donde se juega con fullerías.,sitio donde se juega con fullerías.,exact
+peladero,noun,"lugar desolado, sin vegetación ni gente.","terreno pelado, desprovisto de vegetación.",narrower
+certamen,noun,"función literaria en que se argumenta o disputa sobre algún asunto, comúnmente poético.","función literaria en que se argumenta o disputa sobre algún asunto, comúnmente poético.",exact
+certamen,noun,concurso abierto que estimula mediante premios determinadas actividades o competiciones,concurso abierto para estimular con premios determinadas actividades o competiciones.,exact
+certamen,noun,"desafío, duelo, pelea o batalla entre dos o más personas","desafío, duelo, pelea o batalla entre dos o más personas.",exact
+chirimía,noun,"instrumento músico de viento, hecho de madera, a modo de clarinete, de unos siete decímetros de largo, con diez agujeros y boquilla con lengüeta de caña.","instrumento musical de viento, hecho de madera, a modo de clarinete, de unos siete decímetros de largo, con diez agujeros y boquilla con lengüeta de caña.",exact
+chirimía,noun,persona muy habladora y que lo hace con voz desagradable y aguda.,persona que habla mucho y con voz desagradable y aguda.,exact
+chirimía,noun,el que ejerce o profesa el arte de tocar este<sub>1</sub> instrumento.,músico que ejerce o profesa el arte de tocar la  chirimía .,exact
+cateador,noun,"herramienta de minero, que se usa para romper las piedras que se analizan.",martillo de punta y mazo que usan los mineros para romper los minerales que van a estudiar.,exact
+cateador,noun,persona que explora terrenos buscando minas y minerales explotables.,hombre que  catea busca vetas mineras  .,narrower
+cateador,noun,persona que allana o catea un domicilio.,hombre que  catea allana una casa  .,narrower
+cantero,noun,encargado de labrar las piedras para las construcciones. ver artículo asociado: [http://es.wikipedia.org/wiki/marcas_de_cantero marcas de cantero],encargado de labrar las piedras para las construcciones.,exact
+cantero,noun,hombre que tiene por oficio extraer piedras de una cantera.,hombre que tiene por oficio extraer piedras de una cantera.,exact
+cantero,noun,extremo de algunas cosas duras que se pueden partir con facilidad. un cantero de pan.,extremo de algunas cosas duras que se pueden partir con facilidad.,exact
+cantero,noun,"cada una de las porciones, por lo común bien delimitadas, en que se divide una tierra de labor para facilitar su riego.","cada una de las porciones, por lo común bien delimitadas, en que se divide una tierra de labor para facilitar su riego.",exact
+cantero,noun,am. cuadro de un jardín o de una huerta.,cuadro de un jardín o de una huerta.,exact
+catastrófico,adjective,que pertenece o concierne a la catástrofe,perteneciente o relativo a una catástrofe.,exact
+catastrófico,adjective,que esta en un estado muy malo o de mala calidad.,con caracteres de tal.,exact
+catastrófico,adjective,"muy malo, mala calidad.","desastroso, muy malo.",broader
+remache,noun,acción y efecto de remachar,acción y efecto de remachar.,exact
+remache,noun,"pieza, habitualmente un clavo u otro cilindro de metal blando, que se emplea al remachar.",roblón clavo o clavija que se remacha  .,exact
+uruguayismo,noun,"expresión, palabra o uso del español que se habla en uruguay.","locución, giro o modo de hablar propio y peculiar de los uruguayos.",exact
+venezolanismo,noun,"expresión, palabra o uso del español que se habla en venezuela.","vocablo, giro o modo de hablar propio de los venezolanos.",exact
+truncar,verb,partir o dividir rompiendo.,cortar una parte a algo.,related
+truncar,verb,"suprimir voces, períodos, etc. dejar incompleto.","dejar incompleto el sentido de lo que se escribe o lee, u omitir frases o pasajes de un texto.",exact
+candidatura,noun,grupo de candidatos.,reunión de candidatos a un empleo.,exact
+candidatura,noun,"aspiración a un puesto, empleo u otra posición.",aspiración a cualquier honor o cargo o a la propuesta para él.,exact
+candidatura,noun,se dice de la papeleta donde están escritos los nombres de los candidatos.,papeleta en que va escrito o impreso el nombre de uno o varios candidatos.,exact
+candidatura,noun,presentación de alguna persona como candidato a cierta dignidad o cargo.,propuesta de persona para una dignidad o un cargo.,exact
+nombrar,verb,decir o hacer mención del nombre de alguien o de algo.,decir el nombre de alguien o algo.,narrower
+nombrar,verb,decir o hacer mención del nombre de alguien o de algo.,"hacer mención particular, generalmente honorífica, de alguien o algo.",narrower
+nombrar,verb,"escoger a alguien para que ocupe un empleo, cargo o misión.","elegir o señalar a alguien para un cargo, un empleo u otra cosa.",exact
+peinilla,noun,peine corto con varias hileras de púas.,lendrera o peine corto de dos hileras opuestas de dientes.,narrower
+peinilla,noun,peine de bolsillo.,peine para el pelo  .,broader
+peinilla,noun,machete de poco tamaño.,machete pequeño.,exact
+hilera,noun,serie de cosas o personas que se suceden en línea.,orden o formación en línea de un número de personas o cosas.,exact
+hilera,noun,instrumento para hilar metales.,instrumento de que se sirven los plateros y metalúrgicos para reducir a hilo los metales.,narrower
+hilera,noun,hilo o hilaza fina.,hilo o hilaza fina.,exact
+hilera,noun,viga o madero que constituye el lomo de la armadura de un edificio.,parhilera .,exact
+hilera,noun,"la serie de soldados colocados uno detras de otro, perpendicularmente al frente.",formación de soldados uno detrás de otro.,exact
+valeroso,adjective,que tiene efectividad o eficacia.,que tiene mucho poder o eficacia.,exact
+valeroso,adjective,"con valentía, sin miedo a enfrentar riesgos o peligros.",que tiene valentía.,exact
+valeroso,adjective,que vale mucho o es muy estimado.,valioso que goza de mucha estimación  .,exact
+sacudir,verb,"mover de lado a lado rápida y repetidamente, con cierta violencia.",mover violentamente algo a una y otra parte.,exact
+sacudir,verb,"mover, golpear o agitar algo con el fin de limpiarlo o sacarle el polvo, el agua, etc.","golpear algo o agitarlo en el aire con violencia para quitarle el polvo, enjugarlo, etc.",exact
+sacudir,verb,"pegarle o dar golpes a alguien o a algo, moviéndolo con violencia.","golpear, dar golpes.  sacudir a alguien .",exact
+sacudir,verb,"apartar algo de sí, arrojándolo fuera.","arrojar, tirar o despedir algo o apartarlo violentamente de sí.",exact
+sacudir,verb,producir un impacto emocional.,"conmocionar, alterar el ánimo de alguien.",exact
+sacudir,verb,"rechazar verbalmente con firmeza, aspereza o intensidad.","apartar de sí con aspereza de palabras a alguien, o rechazar una acción, proposición o dicho, con libertad, viveza o despego.",exact
+sacudir,verb,dar dinero.,dar dinero.,exact
+clerecía,noun,conjunto de personas eclesiásticas que componen el clero.,conjunto de personas eclesiásticas que componen el clero.,exact
+clerecía,noun,oficio u ocupación de clérigos.,oficio u ocupación de clérigos.,exact
+clerecía,noun,número de clérigos que concurren con sobrepellices a las funciones de iglesia.,conjunto de clérigos que concurrían con sobrepellices a una función de iglesia.,exact
+aína,adverb,por poco.,por poco .,exact
+aína,adverb,"presto, pronto.",pronto .,exact
+aína,adverb,fácilmente.,fácilmente .,exact
+ruinoso,adjective,que está en ruinas (destruido) o comienza a estarlo.,que se empieza a arruinar o amenaza ruina.,exact
+ruinoso,adjective,que no es útil o apovechable por estar deteriorado (en mal estado).,"pequeño, desmedrado y que no puede aprovecharse.",related
+ruinoso,adjective,que causa destrucción o arruina.,que arruina y destruye.,exact
+villancico,noun,canción tradicional breve que con frecuencia alternaba estrofas interpretadas por un solista con la repetición de un estribillo. fue cultivado tanto en españa y portugal como en sus territorios americanos desde la época del renacimiento.,canción popular breve que frecuentemente servía de estribillo.,exact
+villancico,noun,"tipo de poema con versos arte menor, generalmente hexasílabos u octosílabos, que siempre incluye un estribillo. igual que su versión musical<sub>2</sub>, fue cultivado en toda la península ibérica y en sus territorios de américa.",cierto género de composición poética con estribillo.,exact
+villancico,noun,canción tradicional de celebración navideña.,"canción popular, principalmente de asunto religioso, que se canta en navidad y otras festividades.",exact
+charrada,noun,acción o expresión perteneciente a un charro salmantino.,dicho o hecho propio de un charro salmantino.,exact
+charrada,noun,tipo de copla cantada antigua y muy típica en toda la provincia de salamanca.,baile propio de los charros salmantinos.,related
+charrada,noun,"decoración que no casa con el entorno, en especial la que tiene demasiados adornos.","obra o adorno impropio, sobrecargado o de mal gusto.",related
+helenístico,adjective,que pertenece o concierne al helenismo o período histórico de la cultura occidental comprendido entre la muerte de alejando magno (323 a. c.) y el ascenso del antiguo imperio romano marcado por su victoria en la batalla de accio (31 a. c.).,perteneciente o relativo al helenismo o a los helenistas.,broader
+helenístico,adjective,se dice del idioma griego que derivó del dialecto ático y se extendió por todo el imperio helénico tras el gobierno de alejandro magno.,"se dice de la lengua griega que, basada en el dialecto ático, se extendió por todo el mundo helénico después de alejandro magno.",exact
+camarista,noun,ministro del consejo de la cámara.,miembro de la antigua cámara de castilla.,related
+camarista,noun,el que vivía en alguna cámara de posada y no tenía trato con los demás hospedados.,"residente en alguna cámara de posada, que no tenía trato con los demás hospedados.",exact
+camarista,noun,"criada de distinción que asiste y sirve continuamente en la cámara de la reina, princesa o infanta.","criada distinguida de la reina, princesa o infantas.",exact
+camarista,noun,uno de los jueces en una cámara de apelaciones.,miembro de la cámara de apelaciones.,exact
+charretera,noun,"distintivo o divisa del atuendo militar, con forma de pala, que decora cada hombro con un fleco dorado o plateado llamado canelón.","divisa militar de oro, plata, seda u otra materia, en forma de pala, que se sujeta al hombro por una presilla y de la cual pende un fleco como de un decímetro de largo.",exact
+charretera,noun,"banda o liga, con hebilla, que fija las medias o el calzón por la parte de atrás de la rodilla (el jarrete).",jarretera .,exact
+charretera,noun,hebilla de dicha liga<sub>1</sub>.,hebilla de jarretera.,exact
+charretera,noun,cojín pequeño o almohadilla que protege el hombro cuando se llevan sobre él cubas u objetos pesados.,albardilla almohadilla de los aguadores  .,exact
+chocolatero,adjective,que le gusta mucho el chocolate.,muy aficionado a tomar chocolate.,related
+chocolatero,adjective,que tiene como oficio la fabricación o venta de chocolate(s).,persona que tiene por oficio labrar o vender chocolate.,exact
+chocolatero,adjective,recipiente en el que se bate y sirve el chocolate en bebida.,chocolatera vasija  .,exact
+chocolatero,adjective,recipiente en el que se bate y sirve el chocolate en bebida.,vasija en que se sirve el  chocolate bebida  .,exact
+chocolatero,noun,que le gusta mucho el chocolate.,muy aficionado a tomar chocolate.,related
+chocolatero,noun,que tiene como oficio la fabricación o venta de chocolate(s).,persona que tiene por oficio labrar o vender chocolate.,exact
+chocolatero,noun,recipiente en el que se bate y sirve el chocolate en bebida.,chocolatera vasija  .,exact
+chocolatero,noun,recipiente en el que se bate y sirve el chocolate en bebida.,vasija en que se sirve el  chocolate bebida  .,exact
+guapear,verb,mostrar valentía o gallardía en una situación de peligro o de dificultad.,ostentar ánimo y bizarría en los peligros.,narrower
+guapear,verb,vestir con gusto exquisito y hacer gala o alarde de ello.,hacer alarde de gusto exquisito en los vestidos.,narrower
+guapear,verb,expresarse con arrogancia o presumir con exageración de alguna cualidad propia.,fanfarronear .,narrower
+guapear,verb,"no llorar, quejarse ni mostrar debilidad frente a algún golpe, accidente o adversidad.",resistir con valor golpes físicos o morales sin manifestarlo expresamente.,exact
+invernadero,noun,lugar adecuado para estancia durante el invierno.,"sitio a propósito para pasar el invierno, y destinado a este fin.",exact
+invernadero,noun,paraje propicio para pacer ganado durante la etapa invernal.,paraje destinado a que pasten los ganados en dicha estación.,exact
+invernadero,noun,"recinto estático, accesible a pie, destinado a cultivos, dotado comúnmente de una cubierta exterior translúcida de vidrio o de plástico, lo cual permite control de temperatura, humedad y otros factores ambientales para favorecer el desarrollo de las plantas, así como de plagas y enfermedades.","recinto en el que se mantienen constantes la temperatura, la humedad y otros factores ambientales para favorecer el cultivo de plantas.",exact
+usurero,noun,perteneciente a la usura.,usurario perteneciente a la usura  .,exact
+usurero,noun,persona que se dedica a prestar dinero cobrando intereses excesivos.,persona que presta con usura o interés excesivo.,exact
+usurero,noun,persona que en cualquier negocio obtiene ganancias o beneficios desproporcionados.,persona que en otros contratos o granjerías obtiene lucro desmedido.,exact
+usurero,adjective,perteneciente a la usura.,usurario perteneciente a la usura  .,exact
+usurero,adjective,persona que se dedica a prestar dinero cobrando intereses excesivos.,persona que presta con usura o interés excesivo.,exact
+usurero,adjective,persona que en cualquier negocio obtiene ganancias o beneficios desproporcionados.,persona que en otros contratos o granjerías obtiene lucro desmedido.,exact
+cizaña,noun,"(lolium temulentum</i>) planta anual de la familia de las gramíneas, cuyas cañas crecen hasta más de un metro con hojas estrechas de veinte centímetros de largo y flores en espigas terminales comprimidas con aristas agudas. crece espontáneamente en los sembrados y la harina de su semilla puede ser venenosa, a causa de la presencia de un hongo endófito.","planta anual de la familia de las gramíneas, cuyas cañas crecen hasta más de 1 m, con hojas estrechas de 20 cm de largo, y flores en espigas terminales comprimidas, con aristas agudas. se cría espontáneamente en los sembrados y la harina de su semilla es venenosa.",exact
+cizaña,noun,vicio que se mezcla entre las buenas acciones o costumbres.,vicio que se mezcla entre las buenas acciones o costumbres.,exact
+cizaña,noun,"cualquier cosa que hace daño a otra, maleándola o echándola a perder.","cosa que hace daño a otra, maleándola o echándola a perder.",exact
+cizaña,noun,"disensión o enemistad, usado generalmente con los verbos meter</i> y sembrar</i>.",disensión o enemistad.,exact
+irracional,adjective,que no tiene la facultad de razonar.,"que carece de razón. apl. a animales,",exact
+irracional,adjective,contrario a la razón o a la lógica.,opuesto a la razón o que va fuera de ella.,exact
+irracional,adjective,raíz o cantidad que no se puede definir exactamente con números enteros o fraccionarios.,dicho de una raíz o de una cantidad radical: que no puede expresarse exactamente con números enteros ni fraccionarios.,exact
+peliagudo,adjective,"se dice de un animal con pelo largo, fino y abundante, como el del conejo.","dicho de un animal: que tiene el pelo largo y delgado, como el conejo, el cabrito, etc.",exact
+peliagudo,adjective,"se dice de algo complicado, difícil de entender, emprender o solucionar.",dicho de un negocio o de otra cosa: difícil de resolver o entender.,exact
+peliagudo,adjective,"se dice de una persona que tiene astucia, artificio, maña o sutileza para obtener lo que desea.",dicho de una persona: sutil o mañosa.,exact
+habilitar,verb,"dar a alguien o a algo la habilidad, capacidad, autoridad, o adecuación y medios para que pueda hacer algo, lograrlo o servir para un fin.","hacer a alguien o algo hábil, apto o capaz para una cosa determinada.",narrower
+habilitar,verb,hacer disponible el capital o la financiación necesarios para un proyecto o negocio.,dar a alguien el capital necesario para que pueda negociar por sí.,exact
+habilitar,verb,"dar a alguien o a algo la habilidad, capacidad, autoridad, o adecuación y medios para que pueda hacer algo, lograrlo o servir para un fin.",proveer a alguien de lo que necesita para un viaje y otras cosas semejantes.,related
+cainita,adjective,relacionado con el personaje bíblico de caín o propio de él.,perteneciente o relativo a caín.,exact
+cainita,adjective,"se dice del odio o rencor a personas cercanas o que pertencen al mismo grupo, familia, etc. que uno mismo.",se dice especialmente del odio o enemistad contra allegados o afines.,exact
+cainita,adjective,persona que se deja llevar por el odio o rencor a allegados o gente cercana.,dicho de una persona: que se deja llevar por el odio o la enemistad contra allegados o afines.,exact
+calvario,noun,"camino en que se representa con una serie de catorce imágenes de la pasión, denominadas estaciones, correspondientes a incidentes particulares que, según la tradición cristiana, jesús sufrió por la salvación de la humanidad basados en los relatos evangélicos y la tradición.",vía crucis .,exact
+calvario,noun,"sitio, normalmente a las afueras de una población, donde hay muchas cruces.","lugar, generalmente en las afueras de un poblado, en el que ha habido o hay una o varias cruces.",exact
+calvario,noun,"cúmulo de padecimientos, desengaños, mortificaciones y pesares.",serie o sucesión de adversidades y pesadumbres.,exact
+calvario,noun,las deudas que uno ha contraído cuando son muchas.,"conjunto numeroso de deudas, especialmente por comprar al fiado, que se van apuntando con rayas y cruces.",narrower
+calvario,noun,"una cuenta llena de rayas y cruces y por extension, las deudas excesivas y complicadas.","conjunto numeroso de deudas, especialmente por comprar al fiado, que se van apuntando con rayas y cruces.",narrower
+calvario,noun,bóveda craneal.,bóveda del cráneo.,exact
+calvario,noun,"osario, depósito de huesos.",osario .,exact
+caníbal,adjective,"dicho de una persona, que come carne humana.",antropófago .,exact
+caníbal,adjective,"se dice de los habitantes de las tribus de las antillas, de quienes se creía que comían carne humana.","se dice de los salvajes de las antillas, que eran tenidos por antropófagos.",exact
+caníbal,adjective,referido a una persona: feroz y sanguinaria.,dicho de un hombre: cruel y feroz.,exact
+caníbal,adjective,referido a un animal: que come carne de miembros de su propia especie.,dicho de un animal: que come carne de otros de su misma especie.,exact
+camandulear,verb,"ostentar, aparentar, afectar o exagerar la modestia, la devoción o los escrúpulos de conciencia.",ostentar falsa o exagerada devoción.,narrower
+camandulear,verb,"andar por ahí, de persona en persona, de casa en casa, de calle en calle, etc., con rumores, murmuraciones, chismes o prédicas.","corretear, chismear.",broader
+camandulear,verb,"obrar de un modo oculto, deshonesto y sagaz para obtener un beneficio o ventaja, a veces creando confusión o división por malentendidos o enredos.","intrigar, obrar con hipocresía.",broader
+gustoso,adjective,que tiene un sabor agradable; que complace el sentido del gusto.,dicho de una cosa: que tiene buen sabor al paladar.,exact
+gustoso,adjective,"dicho de alguien, que tiene buena voluntad y disposición para hacer algo, que lo hace con agrado.",que siente gusto o hace con gusto algo.,exact
+gustoso,adjective,"que produce gusto, agrado, placer, complacencia, disfrute.",agradable que causa gusto o placer  .,exact
+cachorro,noun,"hijo de corta edad de algunos mamíferos como el perro, el lobo, el oso, etc.",perro de poco tiempo.,narrower
+cachorro,noun,"hijo de corta edad de algunos mamíferos como el perro, el lobo, el oso, etc.","hijo pequeño de otros mamíferos, como el león, el tigre, el lobo, el oso, etc.",narrower
+hiperbólico,adjective,que pertenece o concierne a la hipérbola.,perteneciente o relativo a la hipérbola.,exact
+hiperbólico,adjective,que tiene forma de hipérbola (especie de cono circular) o similar a ella.,de forma de hipérbola o parecido a ella.,exact
+hiperbólico,adjective,que pertenece o concierne a la hipérbole o exageración.,perteneciente o relativo a la hipérbole.,exact
+hiperbólico,adjective,que tiene hipérboles o exageraciones.,que encierra o incluye una hipérbole.,exact
+hastial,noun,"en un edificio de dos vertientes, parte superior triangular de la fachada sobre la que descansa el tejado.","parte superior triangular de la fachada de un edificio, en la cual descansan las dos vertientes del tejado o cubierta, y, por ext., toda la fachada.",broader
+hastial,noun,"en los templos cristianos, cada una de las tres caras correspondientes a los lados y la parte inferior de la cruz que forman las dos naves de la iglesia.","en las iglesias, cada una de las tres fachadas correspondientes a los pies y laterales del crucero.",exact
+hastial,noun,"en los templos cristianos, cada una de las tres caras correspondientes a los lados y la parte inferior de la cruz que forman las dos naves de la iglesia.",hombrón rústico y grosero.,exact
+hastial,noun,pared o parte lateral de una excavación.,cara lateral de una excavación.,exact
+hastial,noun,espacio cubierto a la entrada de un edificio.,porches o soportales para uso y comodidad del público.,exact
+clamar,verb,pedir de modo vehemente o imperioso algo que se necesita o a lo que se tiene derecho.,exigir pedir imperiosamente  .,broader
+clamar,verb,"hablar o dar voces a alguien para que venga, ayude o para advertirle algo.",llamar .,broader
+clamar,verb,"quejarse, dar voces lastimosas, pidiendo favor o ayuda.","quejarse, dar voces lastimosas, pidiendo favor o ayuda.",exact
+clamar,verb,se dice algunas veces de las cosas inanimadas que manifiestan tener necesidad de algo.,dicho de algunas cosas inanimadas: manifestar necesidad de algo.,exact
+clamar,verb,emitir la palabra con vehemencia o de manera grave y solemne.,emitir la palabra con vehemencia o de manera grave y solemne.,exact
+igualar,verb,"poner un ser al mismo nivel o en igualdad con otro. hacerlos iguales en categoría, condición, apariencia o características.",poner a alguien o algo al igual con otra persona o cosa.,exact
+igualar,verb,"juzgar sin diferencia, o estimar a uno y tenerlo en la misma opinión o aprecio que a otro.","juzgar sin diferencia, o estimar a alguien y tenerlo en la misma opinión o afecto que a otra persona.",exact
+igualar,verb,"hacer que la tierra, el suelo o alguna superficie queden parejos o lisos, sin altos ni bajos, sin cuestas ni huecos.",allanar la tierra o el suelo.,narrower
+igualar,verb,hacer ajuste o convenirse con pacto sobre alguna cosa.,hacer ajuste o convenirse con pacto sobre algo.,exact
+igualar,verb,hacer que el toro quede parado sobre sus cuatro patas para proceder a su ejecución con la espada.,hacer que el toro coloque adecuadamente sus cuatro extremidades para entrar a matar.,exact
+igualar,verb,"ser igual (con la misma naturaleza, condición, cantidad o calidad) a otro.",dicho de una cosa: ser igual a otra.,exact
+remesa,noun,envío de alguna cosa.,remisión que se hace de una cosa de una parte a otra.,exact
+remesa,noun,la misma cosa considerada como unidad.,cosa enviada en cada vez.,exact
+remesa,noun,recinto destinado a proteger un vehículo automóvil mientras está aparcado,lugar parar encerrar los coches.,exact
+jalbegue,noun,blanqueo de las paredes hecho con cal o arcilla blanca.,blanqueo de las paredes hecho con cal o arcilla blanca.,exact
+jalbegue,noun,lechada de cal dispuesta para blanquear o enjalbegar.,lechada de cal dispuesta para blanquear o enjalbegar.,exact
+jalbegue,noun,afeite que solían usar las mujeres para blanquearse el rostro.,afeite que solían usar las mujeres para blanquearse el rostro.,exact
+involucrar,verb,"contener o llevar en sí algo, generalmente un conjunto de temas, asuntos, procesos, etc.","abarcar, incluir, comprender.",broader
+involucrar,verb,"introducir temas, notas o asuntos adicionales dentro de algo que se escribe o dice.",injerir en los discursos o escritos cuestiones o asuntos extraños al principal objeto de ellos.,exact
+involucrar,verb,hacer que alguien quede conectado o comprometido con un asunto o situación.,"complicar a alguien en un asunto, comprometiéndolo en él.",exact
+zarandear,verb,"variante de</i> zarandar (limpiar o colar con zaranda, separar lo deseable o precioso de lo indeseable o común).",zarandar .,exact
+zarandear,verb,"hacer mover el cuerpo de alguien repetidamente de un lado a otro (de izquierda a derecha, de adelante hacia atrás, de arriba a abajo, etc.).",agarrar a alguien por los hombros o los brazos moviéndolo con violencia.,narrower
+zarandear,verb,"mover mucho, produciendo desgaste, molestia o trabajo excesivo.",ajetrear .,exact
+zarandear,verb,"hacer mover el cuerpo de alguien repetidamente de un lado a otro (de izquierda a derecha, de adelante hacia atrás, de arriba a abajo, etc.).",contonearse .,narrower
+zarandar,verb,"limpiar o depurar una cosecha, especialmente de grano o uva, empleando la zaranda (especie de cedazo o criba).","limpiar el grano o la uva, pasándolos por la zaranda.",exact
+zarandar,verb,colar con la zaranda.,colar el dulce con la zaranda.,narrower
+zarandar,verb,"mover algo de modo rápido o fácil, especialmente de un lado a otro y repetidamente.","mover algo con prisa, ligereza y facilidad.",exact
+zarandar,verb,separar lo deseable o precioso de lo indeseable o común.,separar de lo común lo especial y más precioso.,exact
+guatemaltequismo,noun,"expresión, vocablo o uso del español que se habla en guatemala.","locución, giro o modo de hablar propio y peculiar de los guatemaltecos.",exact
+carabinazo,noun,acción y efecto de disparar una carabina.,disparo hecho con carabina.,broader
+carabinazo,noun,el sonido causado por el disparo de la carabina.,ruido originado por este disparo.,exact
+carabinazo,noun,el daño causado por disparo de la carabina.,herida o daño producido por el disparo de la carabina.,broader
+carbonada,noun,cantidad grande de carbón que se echa de una vez en la hornilla.,cantidad grande de carbón que se echa de una vez en la hornilla.,exact
+carbonada,noun,"carne cocida picada, y después asada en las ascuas o en las parrillas.","carne cocida picada, y después asada en las ascuas o en las parrillas.",exact
+carbonada,noun,"bocado hecho de leche, huevo y dulce, y después frito con manteca.","bocado hecho de leche, huevo y dulce, y después frito con manteca.",exact
+carbonada,noun,"sopa preparada con trozos de carne, diversas verduras y papas, arroz o batata, que es tradicional en la gastronomía del cono sur y partes de perú y bolivia.","guiso compuesto de carne en trozos, choclo, zapallo, papa, arroz y, en ocasiones, durazno u otra fruta, generalmente verde.",exact
+henchimiento,noun,acción o efecto de henchir o de henchirse.,acción y efecto de henchir o henchirse.,exact
+henchimiento,noun,"en los molinos de papel, suelo de las pilas sobre el cual baten los mazos.","en los molinos de papel, suelo de las pilas sobre el cual baten los mazos.",exact
+henchimiento,noun,cualquier pieza de madera con que se rellenan huecos existentes en otra pieza principal.,pieza de madera con que se rellenan huecos existentes en otra pieza principal.,exact
+historiar,verb,crear historias o relatos.,"componer, contar o escribir historias.",exact
+historiar,verb,"relatar, contar o narrar las aventuras o vicisitudes que ha experimentado alguien o algo.",exponer las vicisitudes por que ha pasado alguien o algo.,exact
+historiar,verb,"representar de forma gráfica un relato de sucesos históricos, fabulosos o legendarios.","pintar o representar un suceso histórico o fabuloso en cuadros, estampas o tapices.",narrower
+historiar,verb,"crear complicaciones o confusión en una situación, introduciendo información falsa o irrelevante.","complicar, confundir, enmarañar.",exact
+brujulear,verb,averiguar algún suceso o chisme con base en indicios y suposiciones.,descubrir por indicios y conjeturas algún suceso o negocio que se está tratando.,exact
+brujulear,verb,"consultar la brújula, mirar por ella, u orientarse empleándola.",mirar por brújula .,narrower
+brujulear,verb,hacer esfuerzos por lograr algo empleando diversos medios con diligencia.,buscar con diligencia y por varios caminos el logro de una pretensión.,exact
+brujulear,verb,caminar sin rumbo o destino fijos; vagar.,andar sin rumbo fijo.,exact
+brujulear,verb,hacer negocios ilícitos o deshonestos.,hacer negocios turbios.,exact
+cobijar,verb,"dar cobijo o refugio; guarecer, especialmente de la intemperie o del frío y la lluvia.","dar refugio, guarecer a alguien, generalmente de la intemperie.",exact
+cobijar,verb,"dar amparo o protección contra algún peligro, amenaza o adversidad, en sentido literal, como un techo, ropa, etc., o en sentido figurado, como una ley, un patrimonio, el afecto, etc.","amparar a alguien, dándole afecto y protección.",broader
+cobijar,verb,"incluir, contener o encerrar algo, especialmente si no es evidente o manifiesto.","encerrar, contener en sí algo que no es manifiesto a todos.",exact
+cobijar,verb,"poner una tapa, cubierta u otro objeto encima de algo para ocultarlo o protegerlo.","cubrir, tapar.",exact
+patrimonial,adjective,que pertenece o concierne al patrimonio.,perteneciente o relativo al patrimonio.,exact
+patrimonial,adjective,"que pertenece a alguien por legado o linaje de su patria, nación, padres, ancestros o antepasados.","perteneciente a alguien por razón de su patria, padre o antepasados.",exact
+patrimonial,adjective,se dice de un vocablo que ha seguido las leyes fonéticas de la evolución del idioma al cual pertenece.,"dicho de una palabra: que, en la evolución del idioma, ha seguido las leyes fonéticas correspondientes a tal idioma.",exact
+voraz,adjective,que come mucho o devora con gran apetito.,dicho de un animal: muy comedor.,narrower
+voraz,adjective,que come mucho o devora con gran apetito.,dicho de una persona: que come desmesuradamente y con mucha ansia.,narrower
+voraz,adjective,que causa gran desturcción o que consume las cosas con rapidez.,que destruye o consume rápidamente.,exact
+vulnerar,verb,"no cumplir lo que manda una ley, regla, mandato, precepto, etc.quebrantar, transgredir, violar una ley o precepto.","transgredir, quebrantar, violar una ley o precepto.",exact
+vulnerar,verb,causar daño o perjuicio.,"dañar, perjudicar.",exact
+vulnerar,verb,producir una herida o contusión a un ser vivo.,herir .,exact
+invertir,verb,cambiar de orden o lugar varias cosas de modo que queden de manera opuesta a como estaban al principio.,"cambiar, sustituyéndolos por sus contrarios, la posición, el orden o el sentido de las cosas.",exact
+invertir,verb,"comprar acciones o participaciones de alguna empresa, normalmente en la bolsa de valores.","emplear, gastar, colocar un caudal.",broader
+invertir,verb,"gastar un recurso limitado, normalmente tiempo o dinero, con la esperanza de obtener una recompensa en el futuro.",emplear u ocupar el tiempo.,broader
+invertir,verb,cambiar de orden o lugar varias cosas de modo que queden de manera opuesta a como estaban al principio.,"en una razón, intercambiar numerador y denominador.",related
+ropero,noun,persona que vende prendas de vestir (ropa hecha).categoría:es:ocupaciones,persona que vende ropa hecha.,exact
+ropero,noun,persona destinada a cuidar de la ropa de una comunidad.,persona destinada a cuidar de la ropa de una comunidad.,exact
+ropero,noun,zagal que hace los recados de la ropería de los pastores.,zagal que hace los recados de la ropería de los pastores.,exact
+ropero,noun,persona encargada de la quesería de una cabaña de ovejas.,persona encargada de la quesería de una cabaña de ovejas.,exact
+ropero,noun,"armario, mueble, escaparate o cuarto donde se guarda ropa.",armario o cuarto donde se guarda ropa.,exact
+ropero,noun,institución de beneficencia que distribuye ropa o vestimenta a los necesitados.,"asociación o instituto benéfico destinado a distribuir ropas entre los necesitados, u ornamentos a las iglesias pobres.",broader
+breviario,noun,"libro que contiene, organizadas para su fácil ubicación, las oraciones, liturgia, himnos o rezos, en particular los designados para diferentes sacramentos, horas y ceremonias públicas.",libro que contiene el rezo eclesiástico de todo el año.,narrower
+breviario,noun,"texto o explicación que resume, expone o enumera el contenido fundamental de una obra extensa y la materia de que trata.",epítome compendio  .,narrower
+breviario,noun,"conjunto de todos los moldes (fundición) de nueve puntos (medida tipográfica, doceavo del cícero, de unos 37 cienmilímetros) que se empleaba en impresiones antiguas del breviario<sub>2</sub> romano.","fundición de nueve puntos, como la que solía usarse en las antiguas impresiones del  breviario  romano.",narrower
+breviario,noun,"libro o cuaderno de apuntamiento, registro o memorias.",libro de memoria o de apuntamiento.,exact
+causal,adjective,que pertenece o concierne a la causa (en sus diferentes acepciones).,que se refiere a la causa o se relaciona con ella.,exact
+causal,adjective,"se dice de una frase, oración, conjunción o vocablo que expresa o introduce motivo, razón o causa de otra cosa mencionada o por mencionarse.",dicho de una oración subordinada: que expresa la causa de lo dicho o del hecho de que se diga.,exact
+causal,adjective,"causa, motivo, razón, factor que produce otra cosa.",razón y motivo de algo.,exact
+causal,noun,que pertenece o concierne a la causa (en sus diferentes acepciones).,que se refiere a la causa o se relaciona con ella.,exact
+causal,noun,"se dice de una frase, oración, conjunción o vocablo que expresa o introduce motivo, razón o causa de otra cosa mencionada o por mencionarse.",dicho de una oración subordinada: que expresa la causa de lo dicho o del hecho de que se diga.,exact
+causal,noun,"causa, motivo, razón, factor que produce otra cosa.",razón y motivo de algo.,exact
+calefactor,adjective,que eleva la temperatura.,que calienta.,exact
+calefactor,adjective,persona que tiene por ocupación instalar y da mantenimiento a los equipos de calefacción.,"persona que construye, instala o repara aparatos de calefacción.",exact
+calefactor,adjective,dispositivo empleado para elevar la temperatura de una habitación o recipiente.,aparato eléctrico que sirve para calentar una habitación.,narrower
+calefactor,noun,que eleva la temperatura.,que calienta.,exact
+calefactor,noun,persona que tiene por ocupación instalar y da mantenimiento a los equipos de calefacción.,"persona que construye, instala o repara aparatos de calefacción.",exact
+calefactor,noun,dispositivo empleado para elevar la temperatura de una habitación o recipiente.,aparato eléctrico que sirve para calentar una habitación.,narrower
+zanquear,verb,caminar torciendo las piernas.,torcer las piernas al andar.,exact
+zanquear,verb,andar mucho y con prisa de una parte a otra.,andar mucho a pie y con prisa de una parte a otra.,exact
+zanquear,verb,andar en busca de algo o de alguien.,ir buscando algo o a alguien.,exact
+es-,affix,indica</i> &quot;separación&quot;.,denota separación.,exact
+es-,affix,"indica el acto de</i> &quot;eliminar&quot;, &quot;sacar&quot; o</i> &quot;retirar&quot;.",indica eliminación.,exact
+es-,affix,a veces refuerza o intensifica lo indicado por la base</i>.,señala intensificación.,exact
+remitir,verb,enviar algo a algun destino o destinatario,enviar algo a determinada persona de otro lugar.,narrower
+remitir,verb,"perdonar una ofensa, liberar de una pena, castigo u obligación.","perdonar, alzar la pena, eximir o liberar de una obligación.",exact
+remitir,verb,dejar o aplazar o suspender en especial de un juicio o de un dictamen.,"dejar, diferir o suspender.",exact
+remitir,verb,dicho de una cosa cuando pierde fuerza o intensidad.,dicho de una cosa: ceder o perder parte de su intensidad.,exact
+remitir,verb,asignar o dejar la responsabilidad a alguien de enjuciar o dicataminar algo,dejar al juicio o dictamen de alguien la resolución de algo.,exact
+remitir,verb,hacer referencia en un escrito a otro escrito o a otra parte del mismo.,indicar en un escrito otro lugar de él o de distinto escrito donde consta lo que atañe al punto tratado.,exact
+remitir,verb,sostener una posición en hechos o palabras conforme a lo que fue escrito o hablado.,"atenerse a lo dicho o hecho, o a lo que ha de decirse o hacerse, por uno mismo o por otra persona, de palabra o por escrito.",exact
+cebador,noun,persona que procesa el mate.,persona que ceba el mate.,narrower
+cebador,noun,frasquito portador de pólvora para &quot;cargar&quot; armas de fuego.,frasco pequeño en que se llevaba la pólvora para cebar las armas de fuego.,exact
+cebador,noun,dispositivo iniciador de procesos físicos o químicos.,dispositivo que sirve para iniciar un proceso físico o químico.,exact
+cebador,adjective,persona que procesa el mate.,persona que ceba el mate.,narrower
+cebador,adjective,frasquito portador de pólvora para &quot;cargar&quot; armas de fuego.,frasco pequeño en que se llevaba la pólvora para cebar las armas de fuego.,exact
+cebador,adjective,dispositivo iniciador de procesos físicos o químicos.,dispositivo que sirve para iniciar un proceso físico o químico.,exact
+invernar,verb,engordar al ganado.,engordar al ganado con buenas pasturas.,exact
+invernar,verb,pasar el invierno en un lugar.,pasar el invierno en un lugar.,exact
+invernar,verb,quedar los animales en un campo adecuado o invernada durante el invierno.,dicho del ganado: pastar en los invernaderos.,exact
+jabonar,verb,"restregar un objeto (vajilla, ropa, etc.) con jabón y agua para limpiarlo o ablandarlo.","fregar o estregar la ropa u otras cosas con jabón y agua para lavarlas, emblanquecerlas o ablandarlas.",exact
+jabonar,verb,"restregar un objeto (vajilla, ropa, etc.) con jabón y agua para limpiarlo o ablandarlo.","frotar el cuerpo, o parte de él, con agua y jabón.",exact
+jabonar,verb,colocar agua con jabón en la barba para afeitarla.,humedecer la barba con agua jabonosa para afeitarla.,exact
+jabonar,verb,"reñir o castigar con severidad, dar un jabón.",dar un jabón .,exact
+penquear,verb,cortar o cosechar las pencas del maguey.,golpear .,broader
+penquear,verb,"dar uno o varios golpes a una persona, animal o cosa, como castigo o manifestación de ira.",cortar las pencas del maguey.,narrower
+remendar,verb,"reforzar con remiendo cualquier cosa que sea rota, vieja o ambas (especialmente la vestimenta).","reforzar con remiendo lo que está viejo o roto, especialmente la ropa.",exact
+remendar,verb,"utilizar puntadas para reforzar la parte gastada de cualquier tela, o cubrir con ellas un agujero en el tejido.","reforzar con puntadas la parte gastada de una tela, o tapar con ellas un agujero en el tejido.",exact
+remendar,verb,hacer correcto; hacer correcciones.,corregir enmendar  .,exact
+remendar,verb,acomodar algo a otra para suplir lo que le falta.,"aplicar, apropiar o acomodar algo a otra cosa para suplir lo que le falta.",exact
+henchir,verb,ocupar un espacio o envase completamente.,llenar ocupar totalmente con algo un espacio  .,exact
+henchir,verb,dar copiosamente.,colmar dar con abundancia  .,exact
+henchir,verb,ocupar dignamente un lugar o empleo.,dicho de una persona: ocupar dignamente un lugar o empleo.,narrower
+rudo,adjective,"tosco, sin pulimento, naturalmente núm=2.","tosco, sin pulimento, naturalmente basto.",exact
+rudo,adjective,que no se ajusta a las reglas del arte.,que no se ajusta a las reglas del arte.,exact
+rudo,adjective,dícese del que tiene potencias para percibir o aprender lo que estudia.}},dicho de una persona: que tiene gran dificultad para percibir o aprender lo que estudia.,exact
+rudo,adjective,"descortés, áspero, grosero.","descortés, áspero, grosero.",exact
+rudo,adjective,"que posee rigor, violencia o ímpetu.","riguroso, violento, impetuoso.",exact
+nomás,adverb,"tan solo, solamente, solo.",no más solamente  .,exact
+nomás,adverb,"exhortativamente, añade énfasis a la expresión. dormí nomás.</i>","en oraciones exhortativas, generalmente pospuesto, para añadir énfasis a la expresión.",exact
+nomás,adverb,"apenas, precisamente.","apenas, precisamente.",exact
+válido,adjective,"que vale o tiene validez bajo cierta norma o dentro de cierto código (legal, normativo, etc.).","firme, subsistente y que vale o debe valer legalmente.",exact
+válido,adjective,que tiene lógica o sentido y se podría aceptar.,aceptable .,exact
+válido,adjective,se dice de alguien que puede valerse de manera independiente.,dicho de una persona anciana: que puede valerse por sí misma.,narrower
+válido,adjective,"que tiene valor, coraje, fuerza o valentía.","robusto, fuerte o esforzado.",related
+caverna,noun,cavidad de cierta profundidad que se encuentra entre las rocas o bajo tierra.,"concavidad profunda, subterránea o entre rocas.",exact
+caverna,noun,cavidad en tejidos orgánicos cuando se vacía la materia que lo ocupaba.,"hueco que resulta en algunos tejidos orgánicos después de evacuada la materia tuberculosa, o de salir el pus de un absceso, y en algunas úlceras cuando ha habido pérdida de sustancia.",narrower
+voluble,adjective,que vuelve fácilmente.,que fácilmente se puede volver alrededor.,exact
+voluble,adjective,de carácter cambiante.,de carácter inconstante.,exact
+voluble,adjective,se llama así a los tallos de las plantas que crecen formando espirales alrededor de otros objetos o plantas.,dicho de un tallo: que crece formando espiras alrededor de los objetos.,exact
+peripatético,adjective,que sigue la filosofía o doctrina de aristóteles.,que sigue la filosofía o doctrina de aristóteles.,exact
+peripatético,adjective,perteneciente a este sistema o secta.,perteneciente o relativo a esta filosofía o doctrina.,exact
+peripatético,adjective,ridículo o extravagante en sus dictámenes y máximas.,ridículo o extravagante en sus dictámenes o máximas.,exact
+vacuo,adjective,que no contiene nada; sin cosas u objetos.,"vacío, falto de contenido.",exact
+vacuo,adjective,que no contiene personas; sin personas.,vacante sin proveer  .,narrower
+vacuo,adjective,espacio vacío.,vacío hueco o concavidad de algunas cosas  .,exact
+vacuo,noun,que no contiene nada; sin cosas u objetos.,"vacío, falto de contenido.",exact
+vacuo,noun,que no contiene personas; sin personas.,vacante sin proveer  .,narrower
+vacuo,noun,espacio vacío.,vacío hueco o concavidad de algunas cosas  .,exact
+raciocinio,noun,facultad de razonar.,facultad de raciocinar.,exact
+raciocinio,noun,acción y efecto de razonar.,acción y efecto de raciocinar.,exact
+raciocinio,noun,discurso desarrollado a partir de conceptos que tratan de demostrar algo o de convencer a quien va dirigido.,argumento o discurso.,exact
+payaso,noun,"que hace reír o resulta ridículo, a propósito o no.","dicho de una persona: de poca seriedad, propensa a hacer reír con sus dichos o hechos.",exact
+payaso,noun,actor que suele usar vestimenta y maquillaje estrafalarios con el fin de hacer reír mayormente a los niños.,"artista de circo que hace de gracioso, con traje, ademanes, dichos y gestos apropiados.",narrower
+payaso,adjective,"que hace reír o resulta ridículo, a propósito o no.","dicho de una persona: de poca seriedad, propensa a hacer reír con sus dichos o hechos.",exact
+payaso,adjective,actor que suele usar vestimenta y maquillaje estrafalarios con el fin de hacer reír mayormente a los niños.,"artista de circo que hace de gracioso, con traje, ademanes, dichos y gestos apropiados.",narrower
+carnosidad,noun,carne superflua que crece en una llaga.,carne superflua que crece en una llaga.,exact
+carnosidad,noun,carne que sobresale en alguna parte del cuerpo.,carne irregular que sobresale en alguna parte del cuerpo.,exact
+carnosidad,noun,gordura extremada.,gordura extremada.,exact
+céltico,adjective,que pertenece o concierne a los celtas.,perteneciente o relativo a los celtas.,exact
+céltico,adjective,"se dice de alguien que perteneció a uno de los pueblos prerromanos que habitaron el suroccidente de la península ibérica (sur de lusitania y zona occidental de la beturia), académicamente también llamados celtici</i> por su designación en latín.","se dice de los pueblos así llamados en sentido estricto, que en la antigüedad se establecieron, en el sur de lusitania y norte de la bética, sobre territorios que hoy corresponderían al sur de portugal y a parte de las provincias de badajoz, sevilla y córdoba.",narrower
+céltico,adjective,"se dice de alguien que perteneció a uno de los pueblos prerromanos que habitaron el suroccidente de la península ibérica (sur de lusitania y zona occidental de la beturia), académicamente también llamados celtici</i> por su designación en latín.",se dice de los individuos que componían estos pueblos.,narrower
+circo,noun,"gran carpa, generalmente por la forma nómada del negocio, con gradas para el público y un espacio al centro donde se realizan espectáculos gimnásticos, ecuestres, de payasos, entre otros.","edificio o recinto cubierto por una carpa, con gradería para los espectadores, que tiene en medio una o varias pistas donde actúan malabaristas, payasos, equilibristas, animales amaestrados, etc.",exact
+circo,noun,el espectáculo mismo realizado en el circo<sub>1</sub>.,este mismo espectáculo.,exact
+circo,noun,"conjunto de objetos, artistas y todo lo relativo que forma parte del circo<sub>1</sub>.","conjunto de artistas, animales y objetos que forman parte de este espectáculo.",exact
+circo,noun,conjunto de asientos puestos en cierto orden para los que van de oficio o convidados a asistir a alguna función.,conjunto de asientos puestos en cierto orden para los que van de oficio o convidados a asistir a alguna función.,exact
+circo,noun,conjunto de las personas que ocupan el circo<sub>3</sub>.,conjunto de las personas que ocupan estos asientos.,exact
+circo,noun,"en la antigua roma, recinto de forma alargada destinado para espectáculos especialmente para carreras de carros y caballos.","lugar destinado entre los antiguos romanos para algunos espectáculos, especialmente para la carrera de carros o caballos.",exact
+circo,noun,depresión natural con fomra semicircular rodeada de grandes paredes.,"depresión semicircular en un macizo montañoso, rodeada de paredes abruptas.",exact
+circo,noun,"cráter lunar, por su parecido con la instalación de una carpa de circo<sub>1</sub> y sus alrededores.",cráter lunar.,narrower
+circo,noun,alteración del orden pretendido.,"confusión, desorden, caos.",broader
+circo,noun,cerco trazado en el suelo por hechiceros.,cerco figura que trazan en el suelo los hechiceros  .,exact
+pernil,noun,anca y muslo del animal.,anca y muslo del animal.,exact
+pernil,noun,"por antonomasia, el muslo del puerco.",anca y muslo del cerdo.,broader
+pernil,noun,parte del calzón o pantalón que cubre cada pierna.,pernera .,exact
+pelotón,noun,"cosa más o menos esférica formada por uno o más elementos apretados, enredados o unidos de alguna forma.","conjunto de pelos o de cabellos unidos, apretados o enredados.",narrower
+pelotón,noun,"conjunto de personas o cosas sin orden, como en tropel.",conjunto de personas sin orden y como en tropel.,exact
+pelotón,noun,"grupo de corredores, ciclistas, etc., que avanzan juntos.","grupo numeroso de ciclistas que, durante una prueba, marchan juntos.",narrower
+verdor,noun,color verde.,color verde vivo de las plantas.,narrower
+verdor,noun,color verde.,color verde.,exact
+verdor,noun,vigor o fortaleza.,"vigor, lozanía, fortaleza.",broader
+verdor,noun,edad de la mocedad o la juventud.,edad de la mocedad o juventud.,exact
+jurídicamente,adverb,en forma de juicio o derecho.,en forma de juicio o de derecho.,exact
+jurídicamente,adverb,por la vía judicial o ante un juez.,por la vía judicial; ante un juez.,exact
+jurídicamente,adverb,con arreglo a lo dispuesto por la ley.,con arreglo a lo dispuesto por la ley.,exact
+jurídicamente,adverb,"en términos propios y rigurosos de derecho, en lenguaje legal.","en términos propios y rigurosos de derecho, en lenguaje legal.",exact
+broquelero,noun,quien fabrica broqueles.,hombre que hacía broqueles.,narrower
+broquelero,noun,quien usa broquel.,hombre que los usaba.,narrower
+broquelero,noun,el amigo de pendencias.,amigo de pendencias.,exact
+yuyero,adjective,que le gusta tomar hierbas medicinales o yuyos.,aficionado a tomar hierbas medicinales.,exact
+yuyero,adjective,curandero proclive a administrar o recetar yuyos.,curandero que receta principalmente hierbas.,exact
+yuyero,adjective,hombre o muchacho que vende yuyos.,persona que vende hierbas medicinales.,broader
+yuyero,noun,que le gusta tomar hierbas medicinales o yuyos.,aficionado a tomar hierbas medicinales.,exact
+yuyero,noun,curandero proclive a administrar o recetar yuyos.,curandero que receta principalmente hierbas.,exact
+yuyero,noun,hombre o muchacho que vende yuyos.,persona que vende hierbas medicinales.,broader
+forzosamente,adverb,"por fuerza, aunque no se quiera o contra la propia voluntad.",por fuerza .,exact
+forzosamente,adverb,con violencia.,violentamente .,exact
+forzosamente,adverb,"que no admite recurso o remedio alguno, o que a pesar de todo sucederá.",necesaria e ineludiblemente.,exact
+jojoto,adjective,"dícho de una planta o fruto, inmaduro o aún muy tierno..","dicho de un tubérculo comestible, especialmente del boniato: que tiene puntos negros producidos por la picadura de un insecto y empieza a pudrirse.",narrower
+jojoto,adjective,"dícho de una planta o fruto, inmaduro o aún muy tierno..",dicho de un fruto:  verde que aún no está maduro  .,narrower
+jojoto,adjective,"mazorca de maíz, especialmente cuando aún está muy tierno",mazorca de maíz tierno.,narrower
+jojoto,noun,"dícho de una planta o fruto, inmaduro o aún muy tierno..","dicho de un tubérculo comestible, especialmente del boniato: que tiene puntos negros producidos por la picadura de un insecto y empieza a pudrirse.",narrower
+jojoto,noun,"dícho de una planta o fruto, inmaduro o aún muy tierno..",dicho de un fruto:  verde que aún no está maduro  .,narrower
+jojoto,noun,"mazorca de maíz, especialmente cuando aún está muy tierno",mazorca de maíz tierno.,narrower
+pepito,noun,"bocadillo elaborado en un pan de barra tipo hogaza o baguette</i> relleno de carne de ternera o de bovino fileteada y acompañamientos (queso, embutidos, verduras, salsas).",bocadillo que tiene dentro un filete de carne.,exact
+pepito,noun,tipo de pastel o bollo dulce de forma alargada relleno de crema pastelera y con un glaseado generalmente con sabor a chocolate.,bollo alargado relleno de crema o chocolate.,exact
+cenador,adjective,que está cenando.,que cena.,exact
+cenador,adjective,quien cena de una manera opípara.,que cena con exceso.,exact
+cenador,adjective,"tipo de pabellón que es colocado en los jardines; de base por lo general redonda, cercado y cubierto de parras, árboles o madera.","espacio, comúnmente redondo, que suele haber en los jardines, cercado y vestido de plantas trepadoras, parras o árboles.",exact
+cenador,adjective,"especie de galería techada que tienen algunas casas de la región de granada en la planta baja, a los lados del patio, que no tiene muro que lo separe de este. generalmente sirve de piso a una galería alta.","cada una de las galerías que hay en la planta baja de algunas casas de granada, a los lados del patio, sin pared que de él las separe y con un techo correspondiente, que suele servir de piso a otra galería alta.",exact
+cenador,noun,que está cenando.,que cena.,exact
+cenador,noun,quien cena de una manera opípara.,que cena con exceso.,exact
+cenador,noun,"tipo de pabellón que es colocado en los jardines; de base por lo general redonda, cercado y cubierto de parras, árboles o madera.","espacio, comúnmente redondo, que suele haber en los jardines, cercado y vestido de plantas trepadoras, parras o árboles.",exact
+cenador,noun,"especie de galería techada que tienen algunas casas de la región de granada en la planta baja, a los lados del patio, que no tiene muro que lo separe de este. generalmente sirve de piso a una galería alta.","cada una de las galerías que hay en la planta baja de algunas casas de granada, a los lados del patio, sin pared que de él las separe y con un techo correspondiente, que suele servir de piso a otra galería alta.",exact
+hurgón,adjective,"que hurga, revuelve, escarba, fisga, aguija, pincha o atiza.",que hurga.,narrower
+hurgón,adjective,"herramienta, generalmente metálica y de hierro, empleada para mover los leños y atizar el fuego.",instrumento de hierro para remover y atizar la lumbre.,narrower
+hurgón,adjective,"tipo de arma punzante, similar a una espada pequeña o estoque.",estoque para herir a alguien.,exact
+hidátide,noun,"larva de una tenia intestinal parásita del perro u otros animales, llamada equinococo, que también se puede alojar en el ser humano formando quistes o vesículas en el hígado o en los pulmones, las que pueden alcanzar gran tamaño.",larva de una tenia intestinal del perro y de otros animales que en las vísceras humanas adquiere gran tamaño.,exact
+hidátide,noun,quiste o vesícula que contiene a esta(s) larva(s).,vesícula que la contiene.,narrower
+hidátide,noun,quiste o vesícula que contiene a esta(s) larva(s).,quiste hidatídico.,narrower
+verbal,adjective,"que pertenece o concierne a la palabra, o la emplea.","que se refiere a la palabra, o se sirve de ella.",exact
+verbal,adjective,que se lleva a cabo con la voz y no a través de la escritura.,"que se hace o estipula solo de palabra, y no por escrito.",exact
+verbal,adjective,"que pertenece o concierne al verbo (tipo de palabra que contiene en sí marcas gramaticales de persona, número, tiempo, modo y aspecto).",perteneciente o relativo al verbo.,exact
+verbal,adjective,se dice de una palabra que deriva de un verbo.,deverbal .,exact
+verbal,adjective,referido a una estructura sintáctica:</i> que tiene un verbo como su núcleo.,dicho de un sintagma o de una frase: que tiene por núcleo un verbo.,exact
+pegadizo,adjective,"dicho de una sustancia o superficie:</i> que fácilmente se pega, adhiere o une a otra.",pegajoso que se pega con facilidad  .,exact
+pegadizo,adjective,que tiende a quedarse o grabarse en la memoria.,que se graba en la memoria con facilidad.,exact
+pegadizo,adjective,que se contagia con facilidad.,fácilmente contagioso.,exact
+pegadizo,adjective,"que se reúne con otro u otros para comer o divertirse, sin la intención de costear su propio consumo.",que se arrima a otra persona o se introduce con ella para comer o divertirse a costa suya.,exact
+pegadizo,adjective,"que no es natural, sino que lo reemplaza o se superpone a ello.",postizo no natural  .,exact
+pegadizo,adjective,"dicho de alguien:</i> que incomoda o importuna a otro con su insistente presencia, compañía o conversación.",piojo pegadizo .,exact
+alias,noun,"nombre con que se conoce a alguien, además del de pila u original.",apodo o sobrenombre.,exact
+alias,noun,por otro nombre.,por otro nombre.,exact
+alias,noun,de otro modo.,de otro modo.,exact
+alias,adverb,"nombre con que se conoce a alguien, además del de pila u original.",apodo o sobrenombre.,exact
+alias,adverb,por otro nombre.,por otro nombre.,exact
+alias,adverb,de otro modo.,de otro modo.,exact
+cárdeno,adjective,amoratado.,de color amoratado.,exact
+cárdeno,adjective,"dicho del pelaje de un toro de color negro y blanco, semejante al tono plomizo.",dicho de un toro: de pelo negro y blanco.,narrower
+cárdeno,adjective,dicho del agua: de color opalino.,dicho del agua: de color opalino.,exact

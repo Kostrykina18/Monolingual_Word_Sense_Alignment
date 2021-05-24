@@ -1,0 +1,276 @@
+lemma,pos,sense_source,sense_target,semantic_relationship
+banco,noun,"Assento estreito e comprido, de material variável, com ou sem encosto, para várias pessoas. ","Assento, geralmente tosco, de ferro, madeira ou pedra, e de formas variadas.",related
+banco,noun,"Assento para uma pessoa, sem encosto, de tampo redondo ou quadrado, sustentado por três ou quatro pés. ≈ mocho. ","Assento, geralmente tosco, de ferro, madeira ou pedra, e de formas variadas.",related
+banco,noun,"Assento comprido e largo, com encosto alto, de tampo amovível, que pode servir também de tampa de uma arca. ≈ arquibanco, escabelo, escano. ",Escabelo.,exact
+banco,noun,"Prancha comprida, sustentada por quatro pés, ou mesa de trabalho onde se fixam as peças em que se trabalha, especialmente em marcenaria, carpintaria e serralharia. ≈ bancada. ","Mesa estreita e oblonga, sobre que trabalham certos artífices.",exact
+banco,noun,"Elevação do fundo do mar ou dum rio por acumulação de areias, de rochas, de detritos e que pode aflorar à superfície durante a maré baixa. ≈ baixio, baixo. ",Baixio.,exact
+banco,noun,"Geol. Camada ou estrato de aglomeração de detritos de rocha, de conchas fósseis ou de matérias sólidas. ","Camada de pedra, numa pedreira.",related
+banco,noun,"Estabelecimento particular ou estatal, cuja actividade se centra no depósito e empréstimo de valores, transacções de fundos...","Estabelecimento de crédito, para transacções de fundos públicos ou particulares",exact
+banco,noun,Edifício onde funciona esse estabelecimento.,"Edifício, onde se realizam essas transacções",exact
+banco,noun,"banco de urgências ou banco, departamento hospitalar, destinado ao atendimento permanente de doentes externos necessitados de tratamentos de urgência.","Compartimento hospitalar, onde se recebem os consulentes externos: o ferido foi curar-se ao banco do hospital.",exact
+bandarilha,noun,"Haste munida de ponta de metal penetrante, enfeitada com uma bandeira ou com fitas de papel de cores e que se espeta no cachaço dos touros, durante a corrida. ≈ farpa, ferro.","Farpa, enfeitada com bandeiras ou fitas, e destinada a cravar-se no cachaço dos toiros, quando se correm.",exact
+café,noun,"Semente do cafeeiro, amarga, oleosa, de cor vermelha, que, depois de torrada e moída, toma uma coloração castanha escura e serve para a preparação de uma bebida com o mesmo nome.",Semente de cafezeiro.,exact
+café,noun,Bot. O m. que cafeeiro1.,Cafeeiro.,exact
+café,noun,Bebida que se obtém a partir da infusão das sementes de cafeeiro torradas e moídas.,"Infusão dessa semente, depois de torrada e moída.",exact
+café,noun,Estabelecimento comercial onde se toma café e outras bebidas.,"Estabelecimento, em que se toma café e outras bebidas; botequim.",exact
+computador,noun,"Aquele que faz cômputos, que calcula; o que computou. ","Aquele que faz cômputos, que calcula.",exact
+dicionário,noun,"Livro de referência em que se fornecem informações, como a categoria gramatical, as acepções, os registos, a forma correspondente noutro idioma..., sobre palavras e expressões de uma língua, apresentando-as de acordo com uma ordem convencional, geralmente alfabética.","Colecção alfabetada dos vocábulos de uma língua, ou dos termos próprios de uma ciência ou arte, com a significação deles, ou com a sua tradução em outra língua.",exact
+lexicografia,noun,"Ling. Ramo da linguística que se ocupa dos aspectos teóricos e práticos que têm em vista a elaboração de dicionários, vocabulários, glossários.","Ciência ou estudo, que tem por objecto as palavras que devem constituir um léxico.",exact
+mililitro,noun,Unidade de medida de capacidade (símb. ml) equivalente à milésima parte do litro.,A milésima parte do litro.,exact
+sorridente,adjective,"Que é alegre, amável; que sorri. ≈  prazenteiro, risonho.",Que sorri; prazenteiro; alegre; amável.,exact
+sorridente,adjective,"Que revela alegria, boa disposição, contentamento.",Que sorri; prazenteiro; alegre; amável.,related
+tripeiro,noun,O m. que portuense1.,Deprec. Habitante do Porto.,exact
+tripeiro,noun,Pessoa que vende tripas.,Vendedor de tripas.,exact
+tripeiro,noun,Pop. O m. que portuense2.,Deprec. Habitante do Porto.,exact
+especial,adjective,Que é relativo a uma espécie.,Relativo a uma espécie.,exact
+especial,adjective,"Que tem, dadas as características, uma finalidade ou um uso particulares. ≈ adequado, específico, próprio. ≠ geral.",Peculiar.,narrower
+especial,adjective,"Que é próprio de alguém ou de alguma coisa. ≈ característico, pessoal, típico.",Peculiar.,narrower
+especial,adjective,"Que se aplica exclusivamente a alguém ou a alguma coisa. ≈ exclusivo, particular, privado.",Exclusivo.,narrower
+especial,adjective,"Que constitui excepção. ≈ exclusivo, extraordinário.",Exclusivo.,narrower
+especial,adjective,"Que é de óptima qualidade. ≈ distinto, excelente, notável.","Superior, distinto.",exact
+especialidade ,noun,"Matéria ou assunto circunscrito a determinados pontos, artigos... ≠ generalidade.",Qualidade daquilo que é especial.,narrower
+especialidade ,noun,"Produto, artigo... que se encontra em determinada região, marca ou casa.","Coisa superior, distinta: este queijo é uma especialidade.",narrower
+especialidade ,noun,"Aquilo que é fora do comum, de grande qualidade. ≈ raridade.","Coisa superior, distinta: este queijo é uma especialidade.",narrower
+especialidade ,noun,Profissão ou âmbito de actividade. ≈ trabalho.,"Ordem de trabalhos, a que alguém se dedica com particular cuidado",related
+especialista,noun,"Que se dedica exclusivamente ao estudo ou à prática de um determinado ramo de uma ciência, arte, técnica...",O que se dedica com particular cuidado a certo estudo ou profissão,exact
+especialista,noun,"Pessoa que se dedica exclusivamente a um determinado ramo de uma ciência, arte...",O que se dedica com particular cuidado a certo estudo ou profissão,exact
+especialização,noun,"Acto de particularizar, distinguir; acto ou efeito de especializar ou especializar-se. ≈ distinção, particularização.",Acto ou efeito de especializar.,exact
+especialmente,adverb,"De um modo mais intenso; em especial. ≈ particularmente, principalmente, sobretudo.",De modo especial.,exact
+especiaria,noun,Qualquer substância aromática que serve para condimentar alimentos ou bebidas. ≈ condimento.,"Qualquer droga aromática, com que se adubam iguarias.",exact
+especificação,noun,"Acto de descrever, caracterizar algo; acto ou efeito de especificar. ≈ indicação.",Acto ou efeito de especificar.,exact
+especificação,noun,Descrição ou declaração pormenorizada; explicação circunstanciada.,Acto ou efeito de especificar.,narrower
+especificação,noun,"Descrição ou enumeração rigorosa das características às quais deve responder um serviço, uma obra, uma construção...",Acto ou efeito de especificar.,narrower
+especificação,noun,Cada ponto ou item de tal descrição.,Acto ou efeito de especificar.,narrower
+especificação,noun,Filos. Operação por meio da qual se distinguem as espécies de um mesmo género.,Acto ou efeito de especificar.,narrower
+especificador,adjective,"Que refere com minúcia, pormenoriza, especifica.",Que especifica.,exact
+especificador,noun,"Aquele que menciona ou indica com precisão, que especifica alguma coisa.",Aquele que especifica.,exact
+especificativo,adjective,"Que serve para indicar pormenorizadamente, para especificar ou que envolve especificação. ≈ especificador.",Que especifica.,exact
+especificidade,noun,"O que é intrínseco de alguém ou de alguma coisa, o que se distingue algo do geral; qualidade do que é específico.",Qualidade característica de uma espécie.,exact
+específico,adjective,"Que revela particularização, individualização; que é exclusivo, intrínseco. ≈ característico, especial. ≠ genérico, geral.",Relativo a espécie.,related
+específico,adjective,Biol. Que se refere a espécie ou é próprio dela.,Relativo a espécie.,narrower
+específico,adjective,Med. Que é característico ou típico de uma determinada espécie de doença ou afecção.,Relativo a espécie.,narrower
+específico,adjective,"Fam. Que actua especialmente contra determinada doença, sintoma ou afecção.",Relativo a espécie.,narrower
+específico,noun,Farm. Medicamento destinado a determinada doença ou afecção ou que age especialmente sobre determinado órgão; fármaco com função específica.,"Medicamento, que tem aplicação especial a determinada moléstia.",exact
+especiosidade,noun,"Carácter do que é belo, formoso, gentil ou especioso. ≈ beleza, formosura.",Qualidade daquilo que é especioso.,exact
+especiosidade,noun,"Aparência enganosa de verdade, de justiça... ≈ ilusão, sofisma.",Qualidade daquilo que é especioso.,narrower
+especioso,adjective,"Que tem ou manifesta beleza, formosura, delicadeza de formas... ≈ belo, delicado, formoso.",Que tem boa aparência.,related
+especioso,adjective,"Que atrai, capta ou seduz. ≈ atraente, sedutor.",Que seduz.,exact
+especioso,adjective,"Que, com aparência de verdade ou de justiça, induz em erro; que não é exacto. ≈ capcioso, enganoso.","Que induz em erro, aparentando verdade",related
+espectáculo,noun,"Exibição pública de actividades artísticas tais como peças de teatro, filmes, bailados, concertos, variedades...",Representação teatral.,related
+espectáculo,noun,"Tudo o que atrai o olhar, chama a atenção e a prende, sendo capaz de despertar os mais variados sentimentos. ≈ cena, quadro, visão.",Aquilo que prende a atenção.,exact
+espectáculo,noun,"Cena caricata, patética, inesperada ou que constitui escândalo. ≈ cena, quadro.",Fam. Cena ridícula; escândalo.,exact
+espectaculoso,adjective,"Que cativa ou chama a atenção; que dá espectáculo. ≈ aparatoso, grandioso, pomposo.",Que dá muito na vista. Ostentoso; grandioso.,related
+espectador,adjective,"Que assiste, presencia a um acto, a um acontecimento...; que testemunha algo.",O que assiste a um espectáculo.,exact
+espectador,adjective,"Pessoa que observa, presencia, testemunha um acto, uma ocorrência... ≈ observador, testemunha.",O que observa ou que vê qualquer acto.,exact
+espectador,adjective,"Pessoa que assiste a um espectáculo, a uma manifestação desportiva, a uma cerimónia pública...",O que assiste a um espectáculo.,exact
+espectral,adjective,Fís. Que é relativo ao espectro luminoso ou solar; que constitui uma sequência ininterrupta das cores do arco-íris.,Concernente ao espectro solar.,exact
+espectro,noun,"Aparição ilusória de pessoa já falecida; imagem fantasmagórica. ≈ assombração, espírito, fantasma.",Imagem fantástica de pessoa falecida.,exact
+espectro,noun,"Fam. Pessoa muito magra, de cor macilenta.",Fam. Pessoa muito magra.,exact
+espectrologia,noun,Tratado em que se estuda o conjunto dos fenómenos espectrais.,Phýs. Tratado dos fenómenos espectrais.,exact
+espectrometria,noun,Fís. Método de análise qualitativa e quantitativa usado para medir a intensidade e o comprimento de onda de radiações.,"Método de análise quantitativa, para se conhecer a natureza dos elementos de um foco luminoso e determinar a constituição química dos corpos.",exact
+espectroscopia,noun,Fís. Estudo das radiações luminosas por meio de espectros.,"Phýs. Estudo da luz, por meio do espectro fornecido pelo prisma.",exact
+espectroscópio,noun,"Fís. Instrumento usado para observar e estudar os diferentes espectros luminosos, por meio de decomposição da luz.","Instrumento análogo ao espectrómetro, mas menos perfeito.",exact
+especulação,noun,"Qualquer pesquisa, estudo ou investigação do ponto de vista teórico, puramente racional. ≈ estudo, exame. ≠ prática.",Acto de especular.,narrower
+especulação,noun,Resultado ou conjunto de dados obtidos por essa pesquisa; consideração teórica.,Investigação teórica.,exact
+especulação,noun,"Deprec. Econ. Operação comercial ou financeira sobre bens móveis ou imóveis com o fim da obtenção de lucro provável, jogando com as oscilações naturais dos valores do mercado.",Empreendimento com a mira em lucro.,exact
+especulação,noun,"Deprec. Econ. Negócio em que uma das partes abusa da boa fé da outra valendo-se de certa posição, circunstância..., para auferir lucros indevidos, exorbitantes; exploração ardilosa.","Contracto ou negócio, em que uma das partes abusa da boa fé da outra.",exact
+especulador,adjective,"Que estuda, investiga, indaga.",O que especula.,exact
+especulador,adjective,"Deprec. Econ. Que explora financeira ou comercialmente alguém, com intuito de obtenção de um lucro provável; que faz especulações de comércio, finanças...",O que especula.,narrower
+especulador,adjective,"Deprec. Econ. Que procura o lucro, interesse próprio, tirando proveito de uma situação, circunstância..., e abusando da boa-fé de outrem.",O que especula.,narrower
+especulador,noun,"Pessoa que investiga, estuda....; teórico em arte ou ciência.",O que especula.,exact
+especulador,noun,"Aquele que observa, indaga.",O que especula.,exact
+especulador,noun,"Deprec. Econ. Pessoa ou entidade que faz explorações, especulações comerciais ou financeiras, visando lucros exagerados.",O que especula.,narrower
+especulador,noun,"Aquele que procede de má-fé, procurando tirar proveito de uma situação, circunstância... e abusando da credulidade alheia. ≈ agiota.",O que especula.,narrower
+especular,adjective,Que é relativo a espelho ou é próprio dele.,Relativo a espelho.,exact
+especular,adjective,"Que tem ou revela transparência. ≈ diáfano, transparente.",Relativo a espelho.,narrower
+especular,adjective,"Miner. Que apresenta lâminas brilhantes, que reflectem a luz como um espelho.","Diz-se de alguns minerais, em que há lâminas brilhantes que reflectem a luz.",exact
+especular,verb,"Analisar ou abordar hipóteses, aspectos, efeitos ou consequências teoricamente consideradas passíveis de concretização; fazer a especulação. ≈ conjecturar, raciocinar.",Estudar teoricamente.,related
+especular,verb,"Procurar conhecer com detalhe ou pormenor, informar-se minuciosamente. ≈ averiguar.",Investigar.,related
+especular,verb,Observar atentamente.,"Contemplar, observar.",narrower
+especulativo,adjective,"Que é objecto de considerações exclusivamente abstractas; que tem carácter de teoria, de especulação. ≈ teórico.",Em que há especulação.,exact
+especulativo,adjective,"Que se dedica ao estudo do que é puramente teórico, sem ter em conta a realidade, a prática. ≈ teórico. ≠ prático.",Que é teórico.,exact
+especulativo,adjective,"Fin. e Comér. Que é relativo ou envolve especulação comercial ou financeira em que há lucro, interesse ou proveito em favor de alguém, contra a boa-fé de outrem.",Relativo a especulação.,narrower
+especulativo,adjective,Filos. Que é relativo a objectos inacessíveis à experiência.,Relativo a especulação.,narrower
+espéculo,noun,"Med. Instrumento médico tubiforme, de metal polido, geralmente constituído por duas valvas móveis que permitem a sua distensão com vista a facilitar o exame ou a observação de certas cavidades do corpo humano, tais como a vagina, o nariz, os ouvidos...","Instrumento cirúrgico, com que se observam certas cavidades do corpo humano.",exact
+espedaçar,verb,"P. Us. Partir ou partir-se em bocados, fazer ou fazer-se em pedaços. ≈ desfazer, despedaçar, quebrar.","O mesmo que despedaçar, etc.",exact
+espeleologia,noun,"Geol. Exploração e estudo científico sobre a formação das cavidades naturais do solo ou subsolo, tais como cavernas, grutas, fontes e águas subterrâneas.","Parte da Geologia, que se ocupa das grutas e cavernas.",exact
+espelhamento,noun,Acto de reflectir ou reflectir-se como um espelho; acto ou efeito de espelhar ou espelhar-se.,Acto ou efeito de espelhar.,exact
+espelhante,adjective,"Que reflecte como em espelho, que espelha. ≈ espelhento.",Que espelha,exact
+espelhar,verb,Dar ou ter a imagem reflectida; deixar ver ou ver-se reflectido. ≈ reflectir.,Reflectir como um espelho,exact
+espelhar,verb,+-se. Ver aquilo que é. ≈ rever-se.,"Fig. Rever-se, ter prazer na contemplação de alguém ou de alguma coisa.",exact
+espelhar,verb,+-se. Bras. Olhar-se ao espelho.,Ver-se ao espelho.,exact
+espelharia,noun,Local onde se fabricam e comercializam espelhos.,"Lugar, onde se vendem ou se fabricam espelhos.",exact
+espelheiro,noun,"Pessoa que fabrica, conserta ou comercializa espelhos.",Fabricante ou vendedor de espelhos.,exact
+espelho,noun,Superfície polida ou muito lisa que reflecte regularmente os raios luminosos que sobre ela incidem ou as imagens de objectos.,"Superfície polida, que reflecte a luz, ou que representa os objectos que estão ou se lhe põem diante.",exact
+espelho,noun,"Lâmina de vidro ou cristal, de dimensões variáveis, estanhada, prateada ou platinada na face posterior, que se usa para reflectir a luz ou para produção e observação de imagens de pessoas ou de coisas.","Lâmina de vidro ou cristal polido, estanhada posteriormente, para adorno de casas ou móveis, ou para nela se rever quem se veste, se barbeia ou se enfeita.",exact
+espelho,noun,"Rectângulo de fazenda que, numa peça de vestuário, como no casaco, vestido, blusa..., assenta na parte superior das costas ou do peito.","Quartos de fazenda, que, na feitura de casacos, blusas, etc., assentam no peito ou nas costas.",exact
+espelho,noun,"O que se toma ou pode servir de modelo. ≈ ensinamento, exemplo.","Exemplo, ensinamento, modelo.",exact
+espelho,noun,"Carp. Tábua saliente, na face de uma porta.","Carp. Tábua, que resai, de alto a baixo, na face de uma porta.",exact
+espelho,noun,Carp. A face plana anterior de uma gaveta.,Carp. A face anterior de uma gaveta.,exact
+espelho,noun,Constr. Parte vertical da frente do degrau. ≈ pé.,"Carp. Peça da frente de um degrau, também chamada pé.",exact
+espelho,noun,"Serr. A chapa que se coloca no exterior da fechadura, rematando-a e embelezando-a, e que tem uma abertura onde entra a chave.",Chapa exterior de uma fechadura.,exact
+espelho,noun,"Mús. Abertura no tampo superior da guitarra, da viola e de outros instrumentos de cordas.",Abertura no tampo de certos instrumentos de corda.,exact
+espelho,noun,"Bot. Variedade de maçã ácida, de casca luzidia e avermelhada no lado exposto à luz.",Maçã de casca luzidia e encarnada.,exact
+espelho,noun,"Bras. Chapa de ferro no divisor das máquinas de vapor, que tem a função de regular a entrada de vapor no cilindro.","Chapa de ferro, que, colocada no divisor das máquinas de vapor, serve para regular a entrada do vapor no cilindro.",exact
+espelunca,noun,"Cova profunda e escura. ≈ antro, caverna, furna.","Caverna, cova.",exact
+espelunca,noun,"Casa imunda, escura e em desordem. ≈ alfurja.",Fig. Casa imunda.,exact
+espelunca,noun,Lugar esconso e sujo onde se joga; antro ou casa de jogo imunda.,"Lugar esconso, em que se joga.",exact
+espenicar,verb,"Arrancar ou cortar as penas a uma ave. ≈ depenar, deplumar, desplumar.",Depenar.,exact
+espenicar,verb,"Analisar ou observar em pormenor. ≈ escabichar, esmiuçar.",Fig. Analisar ou observar por miúdo.,exact
+espenicar,verb,"Fam. Vestir ou enfeitar com grande cuidado, com todo o pormenor, com apuro excessivo.",Fam. Ataviar excessivamente.,exact
+espeque,noun,"Pau ou estaca de madeira com que se escora ou esteia alguma coisa para não cair. ≈ escora, estaca.","Peça de madeira, com que se escora alguma coisa; escora.",exact
+espeque,noun,"O que sustenta, ampara e protege. ≈ apoio.",Fig. Amparo.,exact
+esperança,noun,"Acto de esperar com confiança, a aquisição um bem que se deseja e que se entrevê como provável; tendência do espírito que assenta na confiança de alcançar algo de bom.","Aguardamento de um bem que se deseja, e cuja realização se julga provável.",exact
+esperança,noun,O que se espera ou deseja que suceda num futuro próximo ou longínquo; fé ou desejo ardente de que algo de bom se concretize.,"Aquilo que se espera, desejando.",exact
+esperança,noun,Suposição confiante baseada em certas probabilidades. ≈ expectativa.,Expectativa.,exact
+esperança,noun,"Rel. A segunda das três virtudes teologais, simbolizada por uma âncora, que leva a vontade a confiar na bondade e omnipotência divinas, e a esperar na vida eterna pelos méritos de Cristo.",A segunda das três virtudes theologaes.,exact
+esperança,noun,"(…) estar/andar de esperanças, Fam., estar grávida. (…)","pl. Loc. fam. Andar de esperanças, diz-se da mulher que anda grávida.",exact
+esperançoso,adjective,Que aguarda com optimismo alguém ou alguma coisa; que tem esperança. ≈ confiante.,Que dá ou tem esperança.,exact
+esperançoso,adjective,Que dá motivos para que se espere com optimismo aquilo que se deseja; que promete ou dá esperança. ≈ prometedor.,Prometedor.,exact
+esperanto,noun,"Ling. Língua convencional, fundada em 1887 pelo professor e médico polaco Ludwig Lamenhof, que repousa na máxima internacionalidade dos radicais internacionais e na invariabilidade dos elementos lexicológicos.","Língua internacional, fundada em 1887 pelo Dr. Zamenhof, e cuja gramática abrange apenas dezaseis regras.",exact
+perfume,noun,"Cheiro agradável. ≈ aroma, fragrância, odor, olor.","Cheiro agradável, que se exala, como fumo ou como vapor, de uma substância odorífera.",exact
+perfume,noun,"Produto líquido feito de essências aromáticas e geralmente a base de álcool, usado para perfumar a pele ou a roupa.","Substância aromática, especialmente a que se vende nas perfumarias.",exact
+perfume,noun,Recordação ou impressão agradáveis sugeridas por uma coisa.,Fig. Suavidade; efeito agradável.,related
+perfumista ,noun,Pessoa que prepara ou perfumes.,"Pessoa, que vende ou fabrica perfumes. ",exact
+perfumoso ,adjective,"Que exala um aroma; que tem perfume. ≈ aromático, fragrante, odorífero.",Que exala perfume; odorífero. ,exact
+perfunctório ,adjective,"Que se faz para cumprimento de uma obrigação, e não por necessidade ou por um fim útil. ","Que se pratica em cumprimento de uma obrigação, ou sem fim útil.",exact
+perfunctório ,adjective,"Que é superficial, ligeiro.",Pouco útil; superficial; ligeiro. ,exact
+perfuração ,noun,Acção de perfurar. ,Acto ou efeito de perfurar. ,exact
+perfurador ,adjective,Que serve para abrir furos; que perfura. ≈ perfurante.,Aquilo que perfura ou é próprio para perfurar. ,exact
+perfurador,noun,O que perfura.,Aquilo que perfura ou é próprio para perfurar. ,exact
+perfurante ,adjective,Que perfura; que penetra. ≈ perfurador. ,Que perfura.,exact
+perfurar ,verb,"Abrir um furo ou furos, no solo, na rocha, num corpo, passando através dele. ≈ furar.",Fazer furo ou furos em; penetrar. ,exact
+pergamináceo ,adjective,"Que se assemelha ao pergaminho; que, pelo seu aspecto, faz lembrar essa pele. ≈ pergaminháceo. ",O mesmo ou melhor que pergaminháceo. ,exact
+pergamináceo ,adjective,Que é feito de pergaminho.,O mesmo ou melhor que pergaminháceo. ,exact
+pergaminháceo ,adjective,O m. que pergamináceo.,Que tem o aspecto de pergaminho,exact
+pergaminho,noun,"Pele de carneiro, cordeiro ou vitela rapada e curtida, utilizada como suporte de escrita ou de pintura, ou para forrar livros e outros objectos. ","Pele de carneiro, de ovelha ou cordeiro, preparada com alúmen, e que serve especialmente para nela se escreverem coisas, que se querem conservadas por muito tempo.",exact
+pergaminho,noun,Documento manuscrito nessa pele.,Documento escrito em pergaminho.,exact
+pergaminho,noun,pl. Títulos de nobreza. ,Pl. Fig. Títulos de nobreza.,exact
+pergunta ,noun,Acção de questionar; acto ou efeito de perguntar. ,"Frase ou frases, com que se interroga; interrogação.",related
+pergunta ,noun,Palavra ou frase com que se interroga. ≈ interrogação. ,"Frase ou frases, com que se interroga; interrogação.",exact
+pergunta ,noun,"Pedido de informação acerca de um facto ou da opinião de alguém. ≈ interrogação, questão. ","Frase ou frases, com que se interroga; interrogação.",related
+pergunta ,noun,"Inquirição, quesito. ",Inquirição; quesito. ,exact
+perguntador ,adjective,Que pergunta. ,O que pergunta;,exact
+perguntador ,adjective,"Que gosta de perguntar, indagar. ≈ curioso.",o que gosta de perguntar; aquele que é curioso. ,exact
+perguntador ,adjective,O que pergunta. ,O que pergunta;,exact
+perguntador ,adjective,"Pessoa que gosta de perguntar, de indagar. ≈ curioso.",o que gosta de perguntar; aquele que é curioso. ,exact
+perguntar ,verb,"Dizer alguma coisa em forma interrogativa, a fim de obter uma resposta; fazer uma pergunta. ≈ interrogar. ",Fazer perguntas a.,exact
+perguntar ,verb,"Pedir uma informação, uma opinião...; fazer uma pergunta. ≈ indagar.",Fazer perguntas a.,narrower
+perguntar ,verb,"Procurar saber o estado, a situação. ",Pedir ou buscar esclarecimentos.,exact
+peri-,prefix,"Exprime a noção de a volta de, ao redor.",(designativo de à roda) ,exact
+periântio ,noun,O m. que perianto.,O mesmo que perianto. ,exact
+perianto ,noun,Bot. Conjunto das peças florais que rodeiam os órgãos sexuais da flor.,Bot. Invólucro exterior da flor. ,exact
+períbolo ,noun,"Recinto entre um edifício e o muro que o cerca. ≈ adro, pátio. ",Espaço entre um edifício e o muro que o cerca.,exact
+pericárdio ,noun,Anat. Membrana serosa que reveste o coraçao.,"Saco membranoso, que envolve o coração. ",exact
+pericardite ,noun,Med. Inflamação do pericárdio.,Inflamação do pericárdio. ,exact
+perícia ,noun,Qualidade do que é perito. ,Qualidade do que é perito; destreza; habilidade. ,narrower
+perícia ,noun,"Destreza, habilidade, mestria. ",Qualidade do que é perito; destreza; habilidade. ,narrower
+pericial ,adjective,Que tem conhecimento ou saber adquirido por experiência. ,Jur. Relativo a peritos: ,broader
+pericial ,adjective,Que é feito por perito. ,Jur. Relativo a peritos: ,exact
+periclitante ,adjective,"Que corre risco, que está em perigo, que periclita. ","Que periclita, que corre perigo. ",exact
+periclitante ,adjective,"Que oferece pouca segurança, pouca estabilidade; que não tem solidez. ≈ inseguro, instável. ≈ estável, seguro.","Que periclita, que corre perigo. ",narrower
+periclitar ,verb,"Deixar estar ou estar ameaçada a integridade, a segurança, a estabilidade, a solidez; fazer correr ou correr perigo ou risco. ",Estar em perigo. ,exact
+perídromo ,noun,Arquit. Galeria ou espaço coberto em redor de um edifício.,"Espaço coberto, em volta de um edifício. ",exact
+perieco ,noun,"pl. Geog. Habitantes da Terra que vivem na mesma latitude, mas em longitudes que diferem 180o.","Geogr. Habitantes da Terra que, tendo a mesma latitude, têm longitude oposta ou 190° de diferença. ",exact
+periferia ,noun,Geom. Linha que delimita uma figura geométrica curvilínea. ,Contorno de uma figura curvilínea.,exact
+periferia ,noun,Geom. Superfície externa de um sólido. ,Superfície de um sólido.,exact
+periforme ,adjective,Que tem forma de pera. ≈ piriforme.,Que tem forma de pêra. ,exact
+perífrase ,noun,"Ling. Figura de estilo que consiste na substituição de uma palavra ou expressão por outras, com o intuito de encobrir ou suavizar a realidade ou descreve-la de modo mais explícito e analítico. (…)","Conjunto de palavras ou frases, empregadas em vez de uma só palavra ou termo próprio. Circunlóquio.",exact
+perifrástico,adjective,Ling. Que se exprime por uma perífrase; que é relativo a perífrase. ,Relativo à perífrase. ,narrower
+perifrástico,adjective,Literat. Que abunda em perífrases.,Relativo à perífrase. ,narrower
+perigar ,verb,"Estar ameaçada ou em risco, a existência, a integridade de alguém ou de alguma coisa; correr perigo. ≈ periclitar. ",Correr perigo; estar em perigo; periclitar. ,exact
+perigar ,verb,Region. Abortar involuntariamente.,Prov. Abortar involuntariamente. ,exact
+perigeu ,noun,Astr. Ponto da órbita de um astro ou satélite artificial em que este se encontra mais próximo da Terra. ≈ apogeu. ,"Astron. Ponto, em que a órbita de um planeta está mais próxima da Terra. ",exact
+perigo ,noun,"Situação, circunstância que ameaça, que poe em risco a integridade física de uma pessoa ou a existência de uma coisa. ≈ risco. ","Estado, em que alguma coisa se receia; risco.",exact
+perigo ,noun,"Aquilo que constitui uma ameaça, que compromete a segurança, a saúde, o bem-estar das pessoas ou o desaparecimento de alguma coisa. ≈ risco. ",Gravidade.,exact
+perigo ,noun,Region. Aborto involuntário.,Prov. Aborto involuntário. ,exact
+perigo ,noun,Region. (Alg.). Descarga eléctrica acompanhada de relâmpago e trovão. ≈ raio. (…),Prov. Aborto involuntário. ,exact
+perigosamente ,adverb,Com risco de sofrer ou de causar danos na integridade física ou ameaçando a própria existência de alguém ou de alguma coisa; de modo perigoso. ,De modo perigoso; com perigo ou risco. ,exact
+perigoso,adjective,"Que constitui uma ameaça, que poe em risco a integridade física de uma pessoa ou a existência de uma coisa; que causa perigo. ≈ inofensivo.",Em que há perigo; que causa perigo; que ameaça perigo. ,exact
+perigoso,adjective,Que apresenta possibilidade de perigo. ,Em que há perigo; que causa perigo; que ameaça perigo. ,exact
+perigoso,adjective,Desus. Que corre perigo de vida.,Em que há perigo; que causa perigo; que ameaça perigo. ,narrower
+perimetria ,noun,Geom. Avaliação do perímetro.,Medida do perímetro. ,exact
+perimétrico,adjective,Que é relativo a perímetro.,Relativo ao perímetro. ,exact
+perímetro ,noun,Geom. Linha que limita o contorno de uma figura plana. ,"Linha, que contorna uma figura.",exact
+perimir ,verb,Pôr termo a uma acção judicial. ,Pôr termo a (acção ou instância judicial). ,exact
+periodicamente ,adverb,"De tempos a tempos; com intervalos de tempo mais ou menos regulares; em espaços de tempo ou períodos constantes, ao longo do tempo. ≈ ciclicamente, ocasionalmente, regularmente. ",De modo periódico. ,narrower
+periodicidade ,noun,Carácter do que é periódico.,Qualidade daquilo que é periódico. ,exact
+periódico ,adjective,Que é relativo a período.,Relativo a período.,exact
+periódico ,adjective,"Que acontece, sucede ou se faz em intervalos mais ou menos regulares; que tem lugar em períodos mais ou menos iguais. ≈ cíclico, regular. ≈ irregular.",Que se repete em determinados tempos.,exact
+periódico ,adjective,"Que acontece, sucede ou se manifesta em horas ou dias fixos, certos; que se apresenta em períodos fixos. ≈ cíclico, regular. ≈ irregular. ",Que em certas horas ou em certos dias manifesta certos fenómenos ou sintomas.,exact
+periodizar ,verb,Dividir em espaços de tempo ou períodos de extensão ou duração variável; estabelecer períodos. ,Neol. Dividir em períodos; expor por períodos. ,exact
+período ,noun,"Intervalo de tempo de extensão variável. ≈ época, altura. (…)","Tempo, que decorre entre dois factos.",exact
+período ,noun,"Espaço de tempo de duração, mais ou menos determinada, caracterizado por um dado fenómeno. ≈ fase. ","Tempo, durante o qual um astro faz a sua revolução.",related
+período ,noun,Mat. Parte de uma dízima infinita que se repete indefinidamente.,"Aritm. Parte de uma fracção periódica, que se reproduz infinitamente. ",exact
+periósteo ,noun,Anat. Membrana conjuntiva e fibrosa que reveste externamente os ossos.,"Anat. Membrana fibrosa, que reveste os ossos. ",exact
+peripatético ,adjective,Filos. Que é relativo a Aristóteles e a sua doutrina. ,Relativo à filosofia de Aristóteles.,exact
+peripatético ,adjective,"Filos. Que é partidário do aristotelismo, da doutrina aristotélica. ",Que segue a doutrina de Aristóteles.,exact
+peripatético ,adjective,"Que ensina, passeando. ","Que se ensina, passeando. ",exact
+peripatetismo ,noun,Doutrina filosófica de Aristóteles. ≈ aristotelismo. ,Filosofia de Aristóteles. ,narrower
+peripatetismo ,noun,"Conjunto de doutrinas dos filósofos que, na Antiguidade, pertenceram a escola de Aristóteles.",Filosofia de Aristóteles. ,narrower
+peripécia ,noun,"Mudança súbita e inesperada de situação no desenrolar da acção de uma peça de teatro, de uma narrativa. ","Sucesso num poema, numa peça teatral, etc., que muda a face das coisas. ",exact
+peripécia ,noun,"Acontecimento inesperado ou situação imprevista, estranha; aventura. ≈ incidente. ",Fam. Sucesso imprevisto; incidente.,exact
+périplo ,noun,"Navegação em redor de um mar, de um continente ou das costas marítimas de um país. ",Navegação à volta de um mar ou pelas costas de um país.,exact
+périplo ,noun,Relato de uma viagem desse tipo.,Relação de uma viagem desse género. ,exact
+peripneumonia ,noun,"Veter. Doença infecto-contagiosa que ataca os bovinos, provocada por uma bactéria que causa lesões na pleura e no pulmão.",Inflamação do pulmão. ,exact
+períptero ,noun,Arquit. Templo ou edifício rodeado exteriormente por um conjunto de colunas isoladas.,"Edifício, que em toda a volta tem colunas insoladas. ",exact
+periquito ,noun,"Zool. Nome vulgar das aves da família do psitacídeos, semelhantes ao papagaio, mas muito mais pequenas, de cauda comprida, asas pontiagudas e estreitas e plumagem multicolorida. ","Pequena ave, semelhante ao papagaio. ",exact
+periquito ,noun,Region. (Tr.-os-M.). Paio.,Prov. trasm. O mesmo que paio. ,exact
+períscios ,noun,"Geog. Habitantes das regiões polares, cuja sombra percorre sucessivamente todos os pontos do horizonte num só dia.","Geogr. Habitantes das zonas glaciais, a sombra dos quais, em um só dia, se projecta sucessivamente para todos os lados do horizonte.",exact
+periscópico,adjective,Que é relativo a periscópio.,Relativo ao periscópio. ,exact
+periscópico,adjective,"Ópt. Que tem uma das faces plana ou côncava e a outra convexa, o que permite aumentar a amplitude do campo visual. ","Med. Diz-se de um vidro, em forma de menisco, empregado em evitar a desigualdade e as confusões da vista. ",related
+perissodáctilos ,noun,Zool. 1. Ordem de mamíferos ungulados que assenta no solo número ímpar de dedos.,"Ordem da classe dos mamíferos, que compreende os animais, cujos dedos são em número ímpar, como os tridigitados e os solípedes.",exact
+perissologia ,noun,"Retór. Repetição de uma ideia por palavras diferentes. ≈ pleonasmo, redundância.","Ret. Repetição, por diversos termos, de um pensamento já expresso. Espécie de pleonasmo.",exact
+peristáltico,adjective,"Fisiol. Que é relativo a contracção do tubo digestivo, nomeadamente do esófago, estomago e intestinos, em movimentos ascendentes e descendentes. ","Med. Diz-se da contracção sucessiva das fibras circulares da túnica musculosa do estômago e do intestino, quando essa contracção se realiza de cima para baixo. ",exact
+perístase ,noun,"Retór. Assunto completo de um discurso, com todo os seus pormenores.","Assunto completo de um discurso, com todas as suas minuciosidades. ",exact
+peristilo ,noun,Arquit. Colunata que orna a fachada de um edifício ou que o rodeia. ,"Lugar interiormente cercado de colunas, como os claustros dos conventos.",exact
+peristilo ,noun,"Aquilo que serve de introdução; aquilo que precede, que antecede um assunto, uma exposição...",Aquilo que serve de introdução; o que antecede. ,exact
+perito ,adjective,"Que sabe por experiência, que pela prática adquiriu vastos conhecimentos num determinado assunto; que é especialista numa dada actividade, numa dada matéria. ≈ experiente, sabedor, versado. ≈ inexperiente. ","Experimentado, sabedor.",exact
+perito ,adjective,"Que é hábil, destro, sagaz; que tem perícia.",Hábil; douto; prático. ,exact
+perito ,noun,"Pessoa que sabe por experiência, que adquiriu vastos conhecimentos em determinado assunto; pessoa que é especialista numa dada actividade. ","Aquele que é sabedor ou prático, em determinados assuntos.",exact
+perito ,noun,Dir. Pessoa que refere as suas apreciações sobre factos presentes usando dos conhecimentos específicos que possui sobre determinada área ou do estatuto profissional que lhe é próprio.,"Avaliador, nomeado judicialmente.",related
+peritoneu ,noun,"Anat. Membrana serosa que reveste internamente a cavidade abdominal e pélvica e os órgãos nela contidos, a excepção do ovário.","Anat. Membrana serosa, que reveste interiormente o ventre. ",exact
+peritónio ,noun,P. Us. Anat. O m. que peritoneu.,(V. peritoneu) ,exact
+peritonite ,noun,Med. Inflamação do peritoneu. ,Inflamação do peritoneu. ,exact
+perjurar ,verb,Abjurar.,Abjurar,exact
+perjurar ,verb,Faltar a promessas feitas. ≈ atraiçoar.,Faltar a promessas juradas. ,exact
+perjurar ,verb,"Prestar, uma pessoa que se encontra sob juramento, falsas declarações; cometer perjúrio. ≈ abjurar, jurar falso.",Faltar a promessas juradas. ,exact
+perjúrio  ,noun,Acção de perjurar.,Acto de perjurar; juramento falso. ,exact
+perjúrio  ,noun,Quebra de juramento. ,Acto de perjurar; juramento falso. ,narrower
+perjúrio  ,noun,Juramento falso. ,Acto de perjurar; juramento falso. ,narrower
+perjúrio  ,noun,Dir. Crime de falso testemunho em causa civil ou criminal. ,Acto de perjurar; juramento falso. ,narrower
+perjuro ,adjective,Que quebra juramento; que abjura.,"Aquele que jura falso, ou que falta à fé jurada. ",related
+perjuro ,adjective,Que testemunha de modo falso. ,"Aquele que jura falso, ou que falta à fé jurada. ",related
+perjuro ,adjective,Pessoa que quebra um juramento. ,"Aquele que jura falso, ou que falta à fé jurada. ",related
+perjuro ,adjective,Pessoa que testemunha de modo falso.,"Aquele que jura falso, ou que falta à fé jurada. ",related
+perla ,noun,Desus. Pérola. ,(Forma divergente e antiga de pérola.),exact
+perlar ,verb,"Dar ou tomar a forma, a aparência de pérola. ",Dar forma de pérola a; perolizar.,exact
+perlar ,verb,Cobrir ou cobrir-se de perlas ou daquilo que se assemelha a perlas.,Tornar como que revestido de pérolas,exact
+perlífero,adjective,O m. que perolífero. ostra+ perlífera.,(V. perolífero) ,exact
+coração,noun,"Anat. Órgão central do sistema circulatório, localizado no tórax, entre os pulmões, constituído essencialmente por tecido muscular liso, formado por quatro cavidades, nos mamíferos e aves, ou por três, nos répteis e anfíbios, que recebe e bombeia o sangue por meio de movimentos ritmados de dilatação, diástole, e contracção, sístole.","Órgão musculoso, que é o centro da circulação do sangue.",exact
+coração,noun,"Órgão considerado como centro da afectividade, dos sentimentos e emoções; a parte emocional por oposição à parte racional.",Complexo de faculdades afectivas: saiu-lhe do coração aquele grito.,exact
+coração,noun,"Parte anterior do tórax humano, dentro da qual está esse órgão. ≈ peito.",Peito,related
+coração,noun,"Amor, afecto.","Afeição, amor.",exact
+coração,noun,"Órgão considerado como fonte de generosidade, de bondade, de compaixão e de outras qualidades.",Generosidade.,related
+praia,noun,"Faixa arenosa do litoral marítimo, de fraca inclinação, muito utilizada por banhistas nas zonas de veraneio ou em estâncias de turismo.","Orla de terra, geralmente coberta de areia, confinando com o mar.",exact
+praia,noun,"Zona banhada pelo mar; zona balnear. ≈ beira-mar, costa, litoral.",Beiramar.,exact
+especializar,verb,"Tornar ou tornar-se especial, distinto, singular. ≈ distinguir, especificar, particularizar.","Tornar especial, particularizar.",exact
+especializar,verb,Natureza ou qualidade específica de várias coisas que permite considerá-las como pertencentes a uma mesma categoria. ≈ sorte.,Qualidade.,narrower
+especializar,verb,"Essência ou género comum a vários seres que permite considerá-los como elemento da mesma categoria ou detentor de condição idêntica. ≈ casta, condição, género.",Condição.,exact
+especializar,verb,"Biol. Conjunto de seres vivos de igual natureza ou essência, que possuem semelhanças ou caracteres comuns e que se reproduzem.",Carácter.,exact
+especializar,verb,"Biol. Categoria de animais ou plantas que resulta da subdivisão de um género; nome que sucede o do género, constituindo no conjunto o nome científico de uma planta ou de um animal.",Aparência.,related
+especializar,verb,"O que não se consegue definir com clareza, precisão e que se assemelha a outra coisa no aspecto exterior. ≈ simulacro, tipo.",Semelhança externa.,related
+especializar,verb,"Jur. Caso ou ponto especial em litígio, que se deve estatuir ou em que se estatuíu.",Caso especial.,exact
+especializar,verb,"Géneros alimentícios ou de outra natureza que, convencionalmente, se dão em pagamento.","Géneros alimentícios, que se dão em pagamento.",exact
+especializar,verb,Us. pl. Dinheiro; moeda.,Dinheiro.,exact
+especializar,verb,Cul. Especiaria usada em culinária.,Subdivisão de certas classificações.,exact
+especializar,verb,"Sensação de estranheza ou de surpresa causada por alguém ou alguma coisa. ≈ confusão, impressão.","Fam. Surpresa, intriga: isso faz-me espécie.",exact
+especificar,verb,"Descrever com precisão; indicar um a um, cada elemento, factor...com clareza, em pormenor.",Indicar a espécie de.,related
+espécime,noun,"Unidade ou parte de um todo ou conjunto. ≈ amostra, exemplar, exemplo.","Modelo, amostra.",exact
+espelhento,adjective,"Que reflecte como um espelho; que espelha. ≈ brilhante, cristalino, espelhante.",Polido.,exact
+espera,noun,Acto de aguardar por alguém ou por alguma coisa; acto ou efeito de esperar. ≈ expectativa.,Acto de esperar.,exact
+espera,noun,"Período, intervalo de tempo que decorre enquanto se aguarda por alguém ou por alguma coisa.",Acto de esperar.,broader
+espera,noun,"Dilação de um prazo. ≈ adiantamento, demora.",Adiamento.,related
+espera,noun,"Local onde se aguarda alguém, ou alguma coisa.","Lugar, em que se espera.",exact
+espera,noun,"Pop. Situação criada com o objectivo de surpreender alguém ou alguma coisa. ≈ cilada, emboscada.",Emboscada.,exact
+esperançar,verb,Fazer acreditar ou acreditar que é possível ou provável que algo desejável aconteça ou seja verdade; dar ou ter esperança. ≈ animar.,Dar esperanças a.,exact

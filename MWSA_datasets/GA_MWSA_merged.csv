@@ -1,0 +1,976 @@
+lemma,pos,sense_source,sense_target,semantic_relationship
+achoimre,noun,leagan gearr.,cuntas giorraithe agus gan tugtha ach na príomhphointí,broader
+gainéad,noun,"(éaneolaíocht) Éan farraige den ghéineas Morus a bheireann ar éisc trí thumadh san fharraige.  Tá trí ghné ann: M. bassana san Atlantach Thuaidh, M. serrator san Astraláise agus tá M. capiensis le fáil i bhfarraigí deisceartacha na hAfraice.  Bíonn Morus bassana an-choitianta ar chóstaí na hÉireann.",an t-éan farraige is mó ar chóstaí na hÉireann,exact
+ceamara,noun,gléas a dhéanann grianghraif nó pictiúir teilifíse. grianghrafadán,gléas ar nós bosca beag chun pictiúir a thógáil,broader
+ola,noun,"(fáthchiallach) ungadh, balsam.",ungadh,exact
+céim,noun,coiscéim.,coiscéim,exact
+céim,noun,Aonad tomhais.,aonad tomhais,exact
+céim,noun,"(fisic) Aonad tomhais le teocht a mheas. Mar shampla Celcius, nó Fahrenheit.",aonad tomhais,narrower
+céim,noun,(céimseata) Aonad tomhais le huillinn a mheas.  Is cothrom le 1/360 imlíne ciorcal í.,aonad tomhais,narrower
+céim,noun,duais a bhronann ollscoil ar mhic léinn mar chomhartha éacht acadúla.,gradam ollscoile,exact
+céim,noun,"rang, grád, aicme.",gradam ollscoile,broader
+céim,noun,"deacracht, cruachás.",cruatan,related
+oideachas,noun,"An próiséas chun eolas, scil agus breithiúnachas a dháileadh.","léann, foghlaim, go mór mór ar scoil nó i gcoláiste",narrower
+oideachas,noun,"Eolas, scileanna agus smaointí  atá taréis a bheith foghlaimtha, go foirmiúil nó go neamh-fhoirmiúil.","léann, foghlaim, go mór mór ar scoil nó i gcoláiste",exact
+líofa,adjective,"Faobhraithe, géaraithe, snasta trí chuimilt.(stíl, caint) Éasca, saoráideach, pras, snoite, snasta.","géaraithe, faobhraithe",broader
+mí,noun,"Tréimhse ama ina roinnter suas bliain, bunaithe go stairiúil ar céimeanna na gealaí. Dar leis an féilire Gregorian, tá dhá mhí déag: Eanáir, Feabhra, Márta, Aibreán, Bealtaine, Meitheamh, Iúil, Lúnasa, Meán Fómhair, Deireadh Fómhair, Samhain agus Nollag.","ceann de dhá roinn déag na bliana, Eanáir, Feabhra etc.",exact
+mí,noun,"Tréimhse 30 lá, 31 lá nó méid eile.",ceithre seachtaine,exact
+caora,noun,"Ainmhí leathmhór féaránach athchogantach cuideachtúil a mbíonn adharca air go minic.  Gné Ovis aries.  Tá a lán saghas de tugtha chun tíreachais ar fud an domhain mar gheall ar a lomra, a mbainne agus a bhfeoil.",ainmhí athchogantach de chineál an ghabhair a thugann olann agus feoil dúinn,exact
+caora,noun,"Ainmhíthe den ghéineas Ovis, agus géinis gaolta leis, a bhfuil dlúthbhaint acu leis na gabhair.",ainmhí athchogantach de chineál an ghabhair a thugann olann agus feoil dúinn,exact
+madra,noun,"ainmhí, ball den rang Canis atá ceansaithe ag an duine leis na mílte bliain.","ainmhí a choinnítear chun aoireachta nó seilge nó cosanta, nó mar pheata",broader
+beach,noun,"feithid eitilte den ord Hymenoptera (ceithre eite agus cealg aici), fine Apoidea, a dhéananns mil agus céir as neachtar agus pailín a bhailíonn sí ó bhláthanna.",feithid chealgach cheathaireiteach a dhéanann mil agus céir as ábhar a bhailíonn sí ó bhláthanna,exact
+teach,noun,Foirgneamh cónaithe.,foirgneamh cónaithe,exact
+teach,noun,Foirgneamh poiblí.,foirgneamh poiblí,exact
+teach,noun,Struchtúr cosúil le teach.,struchtúr cosúil le teach,exact
+cat,noun,"Speiceas beag aclaí de mhamach feoiliteach ceathairchosach, ó nádúr sealgaire tréitheach an chlapsholais, a bhfuil clúmh mín agus ingne inghiorraithe aige. Tugtar Felis silvestris ar an gcineál fiáin agus Felis catus ar an gcineál atá ceansaithe ag an gcine daonna le fada an lá.",ainmhí tí a choinnítear mar pheata agus a mharaíonn lucha agus francaigh,broader
+cat,noun,Ainmhithe gaolmhara den fhine Felidae nó ainmhithe eile atá cosúil le cait.,ainmhí tí a choinnítear mar pheata agus a mharaíonn lucha agus francaigh,broader
+beoir,noun,"deoch mheisciúil a dhéantar (coipeadh) le huisce, braich, lus an leanna, agus fungas ar a dtugtar giosta.",deoch mheisciúil a dhéantar as braich,exact
+sráid,noun,"Bóthar poiblí i gcathair, baile nó sráidbhaile a mbíonn cosáin agus foirgnimh ar a dhá thaobh go hiondúil.",bóthar (níos leithne ná lána) agus tithe ar thaobh amháin nó ar an dá thaobh de,narrower
+sráid,noun,Talamh comhthromaithe nó lantán timpeall tí.,lantán taobh amuigh de theach,broader
+grian,noun,Is í an Ghrian an réad is mó sa ghrianchóras.,an corpán spéire a thugann teas agus solas sa lá dúinn,broader
+teilifís,noun,"Is é an rud atá i gceist leis an teilifís ná córas teileachumarsáide le pictiúir ghluaiste a chraoladh, ionas gur féidir iad a ghlacadh i bhfad ar shiúl ó áit a gcraolta leis an ngléas ar a dtugtar teilifíseán",teilgean pictiúr ó áit i bhfad i gcéin agus á dtabhairt amach ar scáileán le tonnta raidió,exact
+giotár,noun,Is saghas uirlis ceoil é,gléas ceoil sé shreang a phioctar leis na méara,exact
+péintéir,noun,"duine a phéinteálann rud, a chuireann péint ar rud.",duine a phéinteálann,exact
+agus,conjunction,"Chomh maith le, mar aon le (mise agus tusa, a dó agus a trí, shuigh sé agus lig a scíth, ná mol agus ná cáin).","chomh maith le, mar aon le",exact
+spideog,noun,(éaneolaíocht) Éin bheaga pasaireacha den ghéineas Erithacus a aimsítear go forleathan san Eoraip agus i dtuaisceart na hAfraice.,éan beag ceoil agus brollach dearg air,exact
+le,preposition,"In aice, i dtaobh ruda, i ngar, i dtadhaill.Bhí a dhroim le balla aige.","cois, in aice",exact
+le,preposition,"Os comhair, ar aghaidh, ar oscailt roimh.",ar aghaidh,exact
+le,preposition,Thar aghaidh.,ar aghaidh,related
+le,preposition,Ar feadh.,ar feadh tréimhse áirithe,exact
+le,preposition,Den ghluaiseacht chéanna.,in éineacht,related
+le,preposition,I gcomhluadar.,in éineacht,related
+le,preposition,"Ar thaobh, i bhfabhar.",i bhfabhar,related
+le,preposition,I gcabhair.,le cabhair,related
+le,preposition,Ar son.,"chun, le haghaidh  le + a = lena",narrower
+le,preposition,"Ag, in aghaidh.","in aghaidh, chuig",exact
+le,preposition,"I rith, i gcaitheamh, ar feadh.",ar feadh tréimhse áirithe,exact
+le,preposition,"(Comhthromú, comparáid).",i gcomparáid,related
+le,preposition,(Seilbh),"ag, i seilbh",exact
+meantán,noun,(éaneolaíocht) éan den fhine Paridae,"éan beag a bhfuil cineálacha éagsúla de ann, mar atá, meantán dubh, gorm, lathaí, léana etc.",broader
+eala,noun,"(éaneolaíocht) éan uisceach mór, le cleití bána agus gob oráiste de ghnáth.",éan mór stáidiúil uisce agus scrogall fada air,exact
+péacóg,noun,(éaneolaíocht) éan den ghéineas Pavo.,éan mór agus cleití eireabaill áille air a thig leis a oscailt amach mar a bheadh fean ann,broader
+péacóg,noun,"(fáthchiallach)cailín gléasta go feiceálach, cailín péacach.",cailín péacach,exact
+mamach,noun,Is mamach é aon ainmhí a mbíonn bainne ag an máthair le tál ar an gceann óg.,aon ainmhí a mbíonn bainne ag an máthair le tál ar an gceann óg,exact
+aibítir,noun,Is litreacha iad aibítir a bhaineann le teanga scríofa agus iad in ord áirithe,na litreacha ar fad a úsáidtear i dteanga agus iad in ord speisialta,exact
+tríocha,numeral,A fiche móide a deich.,an uimhir 30,exact
+bean,noun,duine baineann fásta.,duine baineann fásta,exact
+bean,noun,céile mná.,céile mná,exact
+abhus,adjective,Anseo.Ar an taobh seo.,ar an taobh seo,exact
+anois,adverb,Ag an am seo.  San am i láthair.,san am i láthair,exact
+arís,adverb,"Athuair, uair eile.","uair eile, athuair, ina dhiaidh sin",exact
+arís,adverb,Ina dhiaidh sin; ag am éigin sa todhchaí.,"uair eile, athuair, ina dhiaidh sin",exact
+arís,adverb,Fós.,fós,exact
+crom,adjective,"Lúbtha, cromtha, dronn a bheith ort.","cromtha, lúbtha",exact
+soicind,noun,"Is aonad ama é soicind (siombail: s). Is é 60 soicind nóiméad amháin, agus 3,600 soicind uair amháin.",an 60ú cuid de nóiméad (ama) nó de chéim (i dtomhas uillinneacha),narrower
+aidiacht,noun,focal a úsáidtear le hainmfhocal chun cur síos a dhéanamh air nó a thréithe a mhíniú nó ciall bhreise a chur leis.,"focal a chuirtear le hainmfhocal chun ciall bhreise a chur leis, ar nós arán",exact
+bata,noun,"maide, píosa fada caol adhmaid.","maide, píosa fada caol adhmaid",exact
+bearna,noun,"Briseadh nó oscailt i mballa, i gclaí nó i bhfal; briseadh cosúil leis.",briseadh i gclaí nó i mballa ar féidir dul tríd,exact
+bearnas,noun,Briseadh nó oscailt i sliabhraon; mám.,pasáiste trí shléibhte,related
+im,noun,bia bog buí déanta d'uachtar bainne.,bia bog buí déanta d'uachtar bainne,exact
+sail,noun,"Salachar, dras, eisíontas.",salachar,exact
+moilleadóir,noun,"Duine mall righin, leadránaí, righneálaí.",duine mall righin,exact
+beo,noun,neach ina bheatha.,"duine, neach, beo",exact
+beo,noun,beatha.,beatha,exact
+beo,noun,"feoil bhog leochaileach i mball an choirp, an fheoil faoin ionga mar shampla; an chuid lárnach leochaileach de rud nó duine.",feoil íogair faoi ionga,related
+bonnán,noun,"Corn, troimpéad.","adharc, troimpéad",exact
+bonnán,noun,"Fuaim láidir, búireach; glór a mar a dhéanann corn nó troimpéad.",glór mar a dhéanann adharc nó troimpéad,exact
+inneach,noun,fíod An snáth a fhitear isteach agus amach trasna ar an dlúth.,(i bhfíodóireacht) an snáth a fhitear isteach agus amach trasna ar an dlúth,exact
+bláth,noun,"Cuid phórach de phlanda a bhfuil orgáin atáirgthe ann (staimíní/cairpéil).  Go hiondúil, bíonn coróinín (daite) agus cailís (glas) mórthimpeall orthu.  In úsáid choiteann, a leithéid d'orgán agus é dathúil agus sofheicthe.",rud deas daite a fhásann ar phlanda (agus a dtagann toradh nó pór as),exact
+bláth,noun,"Barr áilleachta, blás, sea.",barr áilleachta,exact
+bláth,noun,"Rathúnas, flúirse.",rathúnas,exact
+hidrigin,noun,dúil cheimiceach neamh-mhiotalach is ea í an hidrigin.,gás gan dath gan bhlas gan bholadh a thugann uisce nuair a chomhcheanglaítear le hocsaigin é (Is í an tsubstaint í is éadroime amuigh agus lasann sí go héasca),exact
+ae,noun,Is orgán i veirteabraigh agus roinnt ainmhithe eile é an t-ae.,faireog mhór sa chorp agus leacht searbh inti a ghlanann an fhuil,exact
+geimhreadh,noun,An ceathrú séasúr den bhliain.,an séasúr is fuaire den bhliain,exact
+sráidbhaile,noun,Baile beag amuigh faoin tuath.,baile amuigh faoin tuath a bhfuil sráid ann,exact
+pláinéad,noun,Is corpán spéire a thimpeallaíonn réalta agus nach réalta é pláinéad.,corpán spéire a thimpeallaíonn an ghrian mar a dhéanann an domhan,exact
+sneachta,noun,Saghas aimsire ina dtiteann criostail de uisce reoite ón spéir.,braonta reoite uisce nó gal uisce a thiteann as an spéir ina gcalóga bána,exact
+tíogar,noun,Panthera tigris.,"ainmhí mór uafásach de chineál an chait a fhaightear san Áise, a bhfuil fionnadh crón air agus stríoca dubha tríd",exact
+coinneal,noun,Rud déanta as céir agus téad a lastar chun solas a sholáthar.,bata cruinn de gheir nó de chéir agus corda trína lár a lastar le solas a thabhairt,exact
+lucharachán,noun,"Pigmí, abhac.",abhac de dhuine nó d'ainmhí,exact
+lucharachán,noun,Abhac de shióg. leipreachán,abhac de shióg,exact
+muir,noun,"Is corp fairsing uisce í an mhuir, a chlúdaíonn an mórchuid de dhromchla an domhain. farraige",farraige,exact
+gadhar,noun,"ainmhí, ball den rang Canis atá ceansaithe ag an duine leis na mílte bliain. cú",madra,exact
+abhainn,noun,Sruth mór uisce a ritheann isteach i loch nó san fharraige.,sruth mór uisce a ritheann isteach i loch nó san fharraige,exact
+scallamán,noun,Éinín óg atá sa nead fós.,"éan neide, gearrcach",exact
+cailín,noun,leanbh baineann.,páiste baineann,exact
+cailín,noun,bean óg shingil.,bean óg shingil,exact
+cailín,noun,"seirbhíseach mná, cailín aimsire.",seirbhíseach mná,exact
+mo,article,An aidiacht sealbhach don chéad duine uatha.,"a bhaineann liom, ar liomsa é",exact
+litir,noun,"An t-aonad is lú de theanga, cruth a chuireann fuaim áirithe in iúil.",marc scríofa a léiríonn fuaim chainte mar atá i litreacha na haibítre,exact
+litir,noun,teachtaireacht scríofa a sheoltar chuig duine eile trén gcóras poist.,teachtaireacht scríofa faoi chlúdach,exact
+imtharraingt,noun,"Dlí dobhriste nádúir is ea an imtharraingt. Déileálann sé leis an luasghéarú chuig a chéile idir dhá rud, ar bhonn an fhad eatarthu.","fórsa na tarraingthe i dtreo an domhain, nó idir chorpáin eile na spéire, a bhraitheann ar an achar atá siad ó chéile",exact
+seanmháthair,noun,Sí máthair máthar duine a seanmháthair.,máthair athar nó máthar,exact
+seanathair,noun,Athair athair duine.,athair athar nó máthar,exact
+caisearbhán,noun,Fiaile le bláth buí.,planda fiáin comónta a bhfuil bláth buí agus duilleoga eangacha air,exact
+nóinín,noun,Bláth beag le piotail bána agus lár buí.,bláth geal páirce agus croí buí ann,exact
+leanbh,noun,"Duine óg, gan cumas siúil go fóill.","duine beag óg, páiste",exact
+bolcán,noun,"Cruthaítear bolcán nuair a bhrúchtann magma tré dromchla an domhain, bíonn cuma cnoic air agus brúchtann magma, deatach agus luaithreach as poll ag an mbarr.","sliabh coirceogach a chaitheann carraigeacha leáite, luaith dhearg, gal etc. trína bhéal in airde uaireanta",exact
+buachaill,noun,Gasúr; fear óg gan phósadh. gasúr cailín,fear óg,narrower
+buachaill,noun,"Giolla, seirbhíseach fir, fostaí fir.  cailín",giolla,exact
+buachaill,noun,"Buachaill aimsire, buachaill seirbhíse.",giolla,narrower
+buachaill,noun,"Buachaill feirme, oibrí feirme.",giolla,narrower
+buachaill,noun,"Buachaill tábhairne, freastalaí beáir.",giolla,narrower
+buachaill,noun,"Buachaill siopa, freastalaí siopa.",giolla,narrower
+buachaill,noun,"Leaid, ógánach.",fear óg,exact
+foclóir,noun,"leabhar nó foilseachán a bhfuil liosta focal ann in ord aibítreach (go hiondúil) agus a thuganns a mbrí agus uaireanta fuaimniú, sanasaíocht, agus roinn cainte na bhfocal sin.",leabhar a liostaíonn focail in ord aibítreach agus a thugann a mbrí,exact
+foclóir,noun,gluais nó liosta focal in úsáid ag duine nó i gcomhthéacs éigin.,leabhar a liostaíonn focail in ord aibítreach agus a thugann a mbrí,narrower
+foclóir,noun,liosta ordaithe stóráilte agus in úsáid ag ríomhaire.,leabhar a liostaíonn focail in ord aibítreach agus a thugann a mbrí,narrower
+foclóir,noun,Leabhar eolais nó tagartha ar ábhar ar bith a bhfuil a iontrálacha in ord aibítreach .i. leabhar eolais i bhfoirm fhoclóra.,leabhar a liostaíonn focail in ord aibítreach agus a thugann a mbrí,narrower
+cac,noun,cactha,ábhar vásta a scaoiltear as an gcorp,exact
+cac,noun,eiscréid; tuar.,ábhar vásta a scaoiltear as an gcorp,exact
+cac,noun,"mianach eisíon a fhaightear i bportaigh agus ar féidir miotal íon a bhaint as, cac iarainn go háirithe.",mian ar féidir miotal a bhaint as,exact
+páiste,noun,duine óg.,duine beag óg,exact
+páiste,noun,mac nó iníon.,mac nó iníon,exact
+bord,noun,"Píosa troscáin le barr mín ardaithe ón talamh, ar chosa de ghnáth.","ball troscáin a bhfuil clár leathan air agus cosa faoi, a úsáidtear le haghaidh béilí nó oibre nó imeartha",exact
+bord,noun,Bia nó cothú a bhaineann leis an mbord.,bia boird,exact
+bord,noun,"(topagrafaíocht) imeall, colbha, críoch, teorainn.","taobh, imeall",exact
+bord,noun,taobh loinge.,taobh báid nó loinge,exact
+bord,noun,"clár loinge, deic.","clár loinge, deic",exact
+bord,noun,gunail.,taobh báid nó loinge,exact
+leabhar,noun,"Bailiúchán de leathanaigh ceangailte le chéile le buathal ag taobh amháin. Bíonn na leathanaigh líonta le cló, scríobh nó pictiúir de ghnáth. Tugtar leabhar nótaí air de ghnáth nuair a bhíonn na leathanaigh folamh.",leathanaigh phriontáilte agus iad ceangailte i gclúdach,exact
+leabhar,noun,"Saothar intleachtúil déanta as focail, is cuma cén meán (páipéar, comhaid PDF) a bhfuil sé ann.",leathanaigh phriontáilte agus iad ceangailte i gclúdach,related
+bóthar,noun,Stiall caol talún le dromchla réitithe le taisteal idir dhá áit a shimpliú.,bealach réidh crua a ngluaiseann feithiclí air ó áit go háit,exact
+airgead,noun,dúil cheimiceach mhiotalach lonrach bhán gur 47 a uimhir adamhach agus Ag a siombal idirnáisiúnta.,miotal geal luachmhar ar féidir snas breá a chur air chun earraí agus ornáidí luachmhara a dhéanamh,related
+airgead,noun,rud (bonn miotail nó píosa páipéir de ghnáth) go nglactar leis go forleathan mar thomhais luacha agus mar dhóigh luach a mhalartú.,miotal geal luachmhar ar féidir snas breá a chur air chun earraí agus ornáidí luachmhara a dhéanamh,exact
+airgead,noun,dath an mhiotail.,miotal geal luachmhar ar féidir snas breá a chur air chun earraí agus ornáidí luachmhara a dhéanamh,narrower
+bróg,noun,Ball éadaigh a chaitear ar na cosa chun iad a chosaint agus tacaíocht a thabhairt dóibh.,clúdach leathair do throigh na coise,exact
+scairbh,noun,"tanalacht nó uisce tanaí in abhainn, loch nó muir, go hiondúil le grinneall mionduirlinge.",talamh tanaí grin faoi uisce,exact
+scairbh,noun,cladach mionduirlinge.,trá ghrin,exact
+scairbh,noun,"cúrsa, oitir.",branra nó boilg díreach faoi uisce,exact
+sea,noun,"neart, fuinneamh.","neart, fuinneamh",exact
+sea,noun,"aird, aire.","suim, aird",exact
+sea,noun,meas.,meas,exact
+deoch,noun,leacht a óltar.,leacht le hól (uaireanta deochanna meisciúla seachas deochanna boga ar nós líomanáid),exact
+deoch,noun,"méid leachta; insileadh, ionlach.",leacht níocháin nó datha,broader
+capall,noun,Ainmhí mór ceathairchosach le crúba. Ainm eolaíoch Equus caballus. marc,"ainmhí mór crúbach a bhfuil moing agus eireaball fada air a úsáidtear chun marcaíochta, chun feithiclí a tharraingt, agus chun rásaíochta",exact
+capall,noun,láir.,"ainmhí mór crúbach a bhfuil moing agus eireaball fada air a úsáidtear chun marcaíochta, chun feithiclí a tharraingt, agus chun rásaíochta",narrower
+capall,noun,"Rudaí neamhbheo a bhfuil cuma an chapaill orthu nó a bhfuil in úsáid i gcaoi cosúil le capall, m.sh. capall maide, capall luascáin.","ainmhí mór crúbach a bhfuil moing agus eireaball fada air a úsáidtear chun marcaíochta, chun feithiclí a tharraingt, agus chun rásaíochta",related
+deochadh,noun,tumadh i leacht.,tumadh i leacht,exact
+leaba,noun,áit codlata.,áis chodlata,exact
+leaba,noun,"beart (leaba loinge, leaba ancaire).",beart (loinge),exact
+leaba,noun,"iomaire i ngarraí ina chuirtear glasraí, ceapach.",iomaire,narrower
+leaba,noun,"bonn, suíomh (leaba chloiche, leaba sheoide).",iomaire,related
+leaba,noun,"I leaba,  in áit, in ionad.","áit, ionad",exact
+treas,adjective,tríú,tríú,exact
+canúint,noun,"caint, urlabhra.","caint, urlabhra",exact
+canúint,noun,"teanga dúchais do náisiún; teanga a labhraítear i measc grúpa nó pobail áirithe, nó i gceantar ar leith.",modh cainte a bhaineann le ceantar nó le haicme ar leith,exact
+canúint,noun,Teanga choitianta na ndaoine seachas teanga liteartha.,modh cainte a bhaineann le ceantar nó le haicme ar leith,related
+canúint,noun,blas cainte.,"tuin, modh foghraíochta",exact
+foirgneamh,noun,Struchtúr mór tógtha ar féidir le daoine dul isteach ann.,"aon rud, ar nós teach, túr etc., atá tógtha nó curtha suas",narrower
+foirgneamh,noun,grúpa foirgneamh.,tógáil nó bailiúchán tógálacha,related
+guthán,noun,"Gléas a tharchuireann fuaim ó láthair amháin go láthair eile, i bhfoirm leictreach de ghnáth, chun gur féidir le daoine i láithreacha eagsúla chomhrá le chéile. teileafón",teileafón,exact
+monarcha,noun,foirgneamh ina dtáirgtear earraí.,foirgneamh a ndéantar earraí don mhargadh ann,exact
+oisre,noun,sliogiasc a itear beo as a sliogán.,iasc sliogánach is gnách a ithe beo as an sliogán,exact
+sagart,noun,Duine a roghnaíodh chun paidir a dhéanamh ar son an phobail.,pearsa in ord beannaithe a bhfuil údarás aige seirbhísí eaglasta agus sacraimintí a riar,exact
+sagart,noun,Fear Caitliceach a d'oirnigh Easpag chun na sacraimintí a dháileadh ar an bpobal Caitliceach.,pearsa in ord beannaithe a bhfuil údarás aige seirbhísí eaglasta agus sacraimintí a riar,exact
+gorm,adjective,Ar dhath na spéire; ar dhath na farraige.,dath gorm,exact
+glas,adjective,Ar dhath idir buí agus gorm. Ar dhath an fhéir.,dath glas,exact
+bándearg,adjective,Dath.,"éadrom dearg, pinc",exact
+muinchille,noun,"Píosa éadaigh a shíneann ó ghualainn síos ar léine, ar chóta, nó ar a leithéidí.",an chuid de bhall éadaigh a chlúdaíonn an ghéag ón ngualainn anuas,exact
+aos,noun,"dream; grúpa áirithe daoine, m.sh. an t-aos óg.","daoine, dream, lucht",exact
+aos,noun,= aosán.,"daoine, dream, lucht",related
+aosán,noun,sióg mhioscaiseach.,sióg mhailíseach,exact
+aosán,noun,"(cnuasainm) an t-aos sí, na sióga.",sióg mhailíseach,related
+flannbhuí,noun,"dath idir buí agus dearg, dath oráiste.","ar dhath an oráiste (Uaine, bán, agus flannbhuí na dathanna atá ar bhratach na hÉireann)",exact
+flannbhuí,adjective,"Ar dhath idir buí agus dearg, ar dhath oráiste.","ar dhath an oráiste (Uaine, bán, agus flannbhuí na dathanna atá ar bhratach na hÉireann)",exact
+soc,noun,"(Ainmhí nó duine) gob, smut, smuilc.","gob, srón",exact
+soc,noun,"(Duine) pus, smut, smuilc; srón mhór fhada.","gob, srón",narrower
+soc,noun,"ceann starrach nó sínte ruda; 'srón', m.sh. soc báid, soc eitleáin.","gob, srón",narrower
+soc,noun,"buinne, m.sh. soc píobáin, soc spréite.","gob, srón",related
+beadaí,adjective,(Duine) mianúil ar rudaí milse; éisealach.,dúilmhear i rudaí milse,exact
+beadaí,adjective,"(Bia) milis, caoin.",dúilmhear i rudaí milse,related
+beadaí,adjective,ardnósach.,ardnósach,exact
+fuisce,noun,uisce beatha,"deoch láidir a dhéantar as sú na heorna, uisce beatha",exact
+fuisce,noun,(Iarthar Chonamara) poitín; uisce beatha neamhdhleathach,"deoch láidir a dhéantar as sú na heorna, uisce beatha",related
+aice,noun,nead gliomaigh nó portáin,poll portáin nó gliomaigh,exact
+macalla,noun,Fuaim frithchaite.,torann a thagann ar ais ó aill nó ó éadan balla nó ó chúl uaimhe,exact
+fuaim,noun,Aon rud a chloistear.,"aon ní is féidir a chloisteáil, ar nós caint, ceol nó glór ar bith",exact
+fuaim,noun,"Go h-eolaíoch, fuinneamh i bhfoirm tonn i sreabhán.","aon ní is féidir a chloisteáil, ar nós caint, ceol nó glór ar bith",related
+asal,noun,"Mamach ceithre-cosach, gaolta leis an gcapall ach níos lú.",ainmhí atá cosúil le capall beag agus cluasa fada air,exact
+ús,noun,airgead breise gur gá íoc ar ais nuair a fhaightear airgead ar iasacht.,brabach as airgead a thugtar ar iasacht,exact
+gealach,noun,satailít nádúrtha an domhain.,an corpán spéire (satailít an domhain) a thugann solas dúinn san oíche,exact
+gealach,noun,satailít nádúrtha pláinéad ar bith.,an corpán spéire (satailít an domhain) a thugann solas dúinn san oíche,related
+seabhac,noun,"éan, ball den rang Accipitridae.",éan seilge a thóraíonn éin agus ainmhithe beaga,exact
+gluaisteán,noun,"Ineall, le ceithre roth de ghnáth, a úsáidtear chun taisteal ó áit go h-áít ar thalamh.",carr a thiomáintear le hinneall,exact
+amhrán,noun,Saothar ealaíne a chantar.,focail agus ceol le chéile agus iad le canadh,exact
+gual,noun,breosla dubh crua a bhaintear as an talamh. Déantar é nuair a chuirtear abhár orgánach faoi bhrú ar feadh na mílte bliain faoin talamh.,mianach dubh a bhaintear mar ábhar tine as poill sa talamh,exact
+bradán,noun,iasc inite le feoil bhándearg,iasc mór geal a bhfuil feoil bhlasta dhearg air,exact
+tuirne,noun,Saghas meaisín ciorclach chun snáth a sníomh.,gléas sníofa a oibrítear leis an lámh nó le maide lústair,exact
+staighre,noun,"sraith céimeanna a théann ó leibhéal áirithe go leibhéal eile, go háirithe a leithéid de sraith taobh istigh d'fhoirgneamh a théann ó urlár áirithe go hurlár eile.","céimeanna idir dhá urlár i dteach, agus ráille orthu de ghnáth",exact
+staighre,noun,urlár nó stór foirgnimh.,stór,exact
+liathróid,noun,"Ní, sféarúil de ghnáth, a úsáidtear i gcluichí spóirt.",ball cruinn a n-imrítear cluichí leis,exact
+meán,noun,lár.,i lár baill,exact
+meán,noun,(matamaitic) téarma idirmheánach i seicheamh .i. i lár an tseichimh.,leath slí idir mór agus beag,related
+meán,noun,coim.,i lár baill,exact
+scáthán,noun,"dromchla mín, gloine le sreath lonrach ar a cúl de ghnáth, a frithchaitheann íomhá cruinn de cad atá os a comhair.",gloine atá cóirithe ar a cúl (le hairgead beo etc.) le go bhféadtar scáth a fheiceáil ann,exact
+peann,noun,"uirlis a úsáidtear chun scríobh, le dúch de ghnáth.",uirlis chun scríobh le dúch,exact
+matán,noun,Fíochán a úsáideann animhithe chun gluaiseacht.,féitheog,exact
+portán,noun,ainmhí mara le creatlach seachtrach.,iasc sliogáin agus cúig phéire crúb air - ordóga an chéad phéire acu,exact
+tuáille,noun,Píosa éadach nó páipéar a úsaidtear chun rudaí a thriomú.,éadach tiubh bog chun triomaithe tar éis níocháin,broader
+dréimire,noun,trealamh le céimeanna a úsáidtear chun dreapadh in airde ar rudaí.,fráma fada agus céimeanna (nó rungaí) ann idir dhá phíosa fhada adhmaid nó miotail agus a chuirtear ina sheasamh le dreapadh air,exact
+subh,noun,bia milis a dhéantar as sméara agus siúcra.,torthaí bruite le siúcra go mbíonn siad ramhar bog,exact
+arán,noun,"bia cócaireáilte déanta le grán, cruithneacht mar shampla, agus comhábhair eile.",bia a dhéantar as plúr nó min,exact
+tairne,noun,"Ní beag tanaí, déanta as miotal de ghnáth, le bior air. Úsáidtear iad chun ábhair a ghreamú le chéile.",píosa caol biorach miotail chun píosaí adhmaid a ghreamú,exact
+féar,noun,Saghas planda.,an fás glas a chlúdaíonn goirt agus páirceanna agus a n-itheann ainmhithe é,exact
+ubh,noun,"Structúr cosainteach, beagnach sféarúil a thairgeann éin, reiptílí agus ainmhithe áirithe eile, ina leanann ainmhí óg ag forbairt lasmuigh de chorp a mháthair.",an rud a bheireann éan nó feithid agus blaosc thanaí air (Is ann a mhaireann an rud óg go dtí go dtugann an mháthair gor dó),exact
+pictiúrlann,noun,foirgneamh ina dtaispeáintear scannáin.,foirgneamh a dtaispeántar scannáin nó pictiúir bheo ann,exact
+toitín,noun,Foirm ina gcaithtear tobac.,tobac mionaithe agus é fillte i bpáipéar mín le caitheamh,exact
+lacha,noun,éan uisce den chlann Anatidae le gob leathan réidh.,éan uisce agus gob fada leathan air (Tugtar lacha ar an gceann baineann freisin agus bardal ar an gceann fireann),exact
+gabhar,noun,"Mamach ceithre-cosach den rang Capra, gaolta leis an gcaora.",ainmhí cosúil le caora a bhfuil meigeall féasóige air,exact
+rothar,noun,"feithicil le dhá roth, gain inneall a ghluaiseann de thoradh oibre an taistealaí.",feithicil dhá roth a thiomáintear le troitheáin,exact
+bioróir,noun,gléas chun faobhar a chuir ar bhior pheann luaidhe.,uirlis le peann luaidhe a bhiorú,exact
+dobharchú,noun,mamach ceathairchosach a mhaireann ar thalamh agus san uisce.,madra uisce,exact
+uan,noun,caora óg.,caora óg faoi bhun bliana,exact
+am,noun,An uair ar an gclog.,an uair ar an gclog,exact
+am,noun,"Pointe ama áirithe, ócáid (an t-am seo inné).","pointe ama áirithe, ócáid",exact
+am,noun,Uair nó aimsir speisialta (am dinnéir).,uair nó aimsir speisialta,exact
+am,noun,Tráth ceart (bheith in am do rud).,tráth ceart,exact
+am,noun,Séasúr (an t-am seo de bhliain).,séasúr,exact
+am,noun,"Ré, aimsir (an t-am fadó).","ré, aimsir",exact
+am,noun,Tráth den saol (tháinig an t-am dó ciall a bheith aige).,tráth den saol,exact
+am,noun,Fad saoil (ár n-am ar an saol seo).,fad saoil,exact
+todhchaí,noun,An t-am atá le teacht.,an t-am atá le teacht,exact
+muc,noun,mamach ceathair-cosach a bheathaíonn feirmeoirí mar fhoinse feola.,ainmhí ramhar agus guairí mar chlúmh uirthi (Is uaithi a fhaightear muiceoil agus bagún),exact
+coinín,noun,mamach beag ceathair-cosach.,ainmhí cosúil le giorria beag a chónaíonn i bpoll sa talamh,exact
+puisín,noun,cat óg.,piscín,exact
+mil,noun,bia milis a tháirgeann beacha.,bia buí milis a dhéanann beacha as neachtar bláthanna,exact
+tonnfhad,noun,San fhisic séard is tonnfhad ann ná an fad idir aonaid athfhilteach tonn forleata ag minicíocht áirithe.,"an fad idir buaic dhá thonn, go háirithe tonnta raidió",exact
+bríste,noun,Ball éadaigh a chaitear ar an gcuid íochtarach den chorp.,"ball éadaigh ón gcoim síos a bhfuil dhá osán air leis na cosa a chlúdach, treabhsar, triús",exact
+uaireadóir,noun,gléas a chaithtear a insíonn an t-am.,clog rosta nó póca,broader
+lámhainn,noun,Ball éadaigh a chaitear ar na lámha.,ball clúdaigh don lámh agus do na méara,exact
+stoca,noun,Ball éadaigh a chaitear ar na cosa.,ball luiteach fite nó cniotáilte don chos agus do throigh na coise,exact
+ocsaigin,noun,"Is dúil cheimiceach neamh-mhiotalach í an ocsaigin a bhíonn le fáil go flúirseach san atmaisféar. Is í an uimhir adamhach atá aici ná 8, agus is é an tsiombail cheimiceach ná O.",gás gan dath gan bholadh a dhéanann suas an cúigiú cuid den aer thart orainn,exact
+hata,noun,Ball éadaigh a chaitear ar an gcloigeann.,ball clúdaigh don cheann (le tóin is bileog de ghnáth),exact
+tae,noun,An planda Camellia sinensis.,deoch a dhéantar le huisce te a dhoirteadh ar dhuilleoga triomaithe an phlanda tae,related
+tae,noun,deoch a dhéantar as duilleoga an phlanda tae.,deoch a dhéantar le huisce te a dhoirteadh ar dhuilleoga triomaithe an phlanda tae,exact
+ulchabhán,noun,"Saghas éin. Is éan seilge oíche é, súile móra aige agus gob cuartha.","éan seilge oíche, súile móra aige agus gob cuartha",exact
+cearc,noun,(éaneolaíocht)éan baineann den spéiceas Gallus gallus.,"éan baineann de chineál ar bith, go háirithe d'éanlaith chlóis",narrower
+cearc,noun,"Éan baineann, m.sh. cearc phéacóige.coileach.","éan baineann de chineál ar bith, go háirithe d'éanlaith chlóis",exact
+caidéal,noun,gléas a bhogann sreabháin ó áit amháin go háit eile tré iad a chuir faoi bhrú.,pumpa (súcháin),exact
+nuacht,noun,eolas nua.,scéal nua,exact
+freasúra,noun,Iad siúd a ghníomhaíonn i gcoinne rud éigin.,"cur nó seasamh i gcoinne, ar nós an lucht freasúra sa Dáil",exact
+féasóg,noun,gruaig a fhásann fir ar a gcuid aghaidheanna. Clúdaíonn sé an éadan timpeall ar an mbéal agus go minic ón smig go dtí na cluasa chomh maith.,an clúmh ar aghaidh fir,exact
+héiliam,noun,"Is é an héiliam dúil uimhir a 2, agus is í an tsiombail cheimiceach atá aige ná He.","gás an-éadrom, nach lasann, a úsáidtear i mbalúin agus in aerárthaí",exact
+carbón,noun,"Is é an carbón dúil uimhir a 6, agus is í an tsiombail cheimiceach atá aige ná C.","dúil cheimiceach a tharlaíonn sa nádúr i bhfoirm rudaí mar ghual, gualach, diamaint",exact
+nítrigin,noun,"Is í an nítrigin dúil uimhir a 7, agus is í an tsiombail cheimiceach atá aici ná N.",gás gan dath gan bholadh a dhéanann suas an ú cuid den aer thart orainn,exact
+fluairín,noun,"Is é an fluairín dúil uimhir a 9, agus is í an tsiombail cheimiceach atá aige ná F.",gás liath buí-uaine,exact
+neon,noun,"Is é an neon dúil uimhir a 10, agus is í an tsiombail cheimiceach atá aige ná Ne.",gás gan dath a lasann suas i bhfeadán le sruth leictreach,exact
+maignéisiam,noun,"Is é an maignéisiam dúil uimhir a 12, agus is í an tsiombail cheimiceach atá aige ná Mg.",miotal geal a dhónn le solas dalltach,exact
+alúmanam,noun,"Is é an t-alúmanam dúil uimhir a 13, agus is í an tsiombail cheimiceach atá aige ná Al.",miotal éadrom ar dhath an airgid,exact
+fosfar,noun,"Is é an fosfar dúil uimhir a 15, agus is í an tsiombail cheimiceach atá aige ná P.",eilimint neamhmhiotalach a shoilsíonn sa dorchadas,exact
+sulfar,noun,"Is é an sulfar dúil uimhir a 16, agus is í an tsiombail cheimiceach atá aige ná S.","substaint bhuí neamhmhiotalach a úsáidtear i ndéanamh lasán, púdar gunna etc.",exact
+clóirín,noun,"Is é an clóirín dúil uimhir a 17, agus is í an tsiombail cheimiceach atá aige ná Cl.","gás nimhneach buí-uaine agus boladh an-láidir uaidh, a úsáidtear chun tuartha agus chun uisce a steiriliú",exact
+cailciam,noun,"Is é an cailciam dúil uimhir a 20, agus is í an tsiombail cheimiceach atá aige ná Ca.","substaint mhiotalach a fhaightear in aolchloch, cailc, marmar agus coiréal (Tá gá ag daoine agus ag ainmhithe le cailciam chun a gcnámha agus a bhfiacla a neartú)",exact
+cróimiam,noun,"Is é an cróimiam dúil uimhir a 24, agus is í an tsiombail cheimiceach atá aige ná Cr.",miotal geal gléigeal nach dtagann smál ná meirg go héasca air,exact
+cóbalt,noun,"Is é an cóbalt dúil uimhir a 27, agus is í an tsiombail cheimiceach atá aige ná Co.",miotal crua ar dhath an airgid agus mianach gorm ann,exact
+nicil,noun,"Is í an nicil dúil uimhir a 28, agus is í an tsiombail cheimiceach atá aici ná Ni.",miotal liathbhán a úsáidtear i gcóimhiotail agus chun plátála,exact
+copar,noun,"Is é an copar dúil uimhir a 29, agus is í an tsiombail cheimiceach atá aige ná Cu.","miotal ruadhonn a ndéantar píopáin, pinginí etc. as",exact
+sinc,noun,"Is í an tsinc dúil uimhir a 30, agus is í an tsiombail cheimiceach atá aici ná Zn.",miotal liathghorm atá cineál bog,exact
+arsanaic,noun,"Is í an arsanaic dúil uimhir a 33, agus is í an tsiombail cheimiceach atá aici ná As.",substaint an-nimhiúil ar fad,exact
+bainis,noun,searmanas ina bpóstar lánúin.,féasta an phósta,exact
+féilire,noun,"Aon chóras a roineann am suas i laethanta, seachtainí, míonna agus blianta.","liosta de laethanta, dátaí etc., i ngach seachtain agus mí den bhliain",exact
+mallacht,noun,Droch-ghuí.,"drochachainí, eascaine",exact
+mallacht,noun,"drochachainí, eascaine (mo mhallacht ar an ól).","drochachainí, eascaine",exact
+mallacht,noun,mí-ádh (tá mallacht ar an áit seo).,mí-ádh,exact
+inné,noun,An lá roimh an lá reatha.,an lá roimh inniu,exact
+inné,adjective,Bainteach leis an lá roimh an lá reatha.,an lá roimh inniu,exact
+inné,adverb,Ar an lá roimh an lá reatha.,an lá roimh inniu,exact
+inniu,noun,An lá reatha.,an lá seo,exact
+inniu,adjective,Bainteach leis an lá reatha.,an lá seo,exact
+inniu,adverb,Ar an lá reatha.,an lá seo,narrower
+amárach,noun,An lá tar éis an lae inniu.,"an chéad lá eile, an lá i ndiaidh inniu",exact
+amárach,adjective,A bhaineann leis an lá tar éis an lae inniu.,"an chéad lá eile, an lá i ndiaidh inniu",exact
+amárach,adverb,Ar an lá tar éis an lae inniu.,"an chéad lá eile, an lá i ndiaidh inniu",exact
+piorra,noun,toradh milis le dath glas nó buí de ghnáth.,"toradh súmhar leathchosúil le húll, ach é a bheith níos boige agus fad a bheith ann",exact
+cuisneoir,noun,gléas ina choiméadtar bia len é a choiméad úr.,bosca nó seomra fuar a gcuirtear bia ann lena choinneáil friseáilte,exact
+gé,noun,éan uisciúil.,"éan snámha cosúil le lacha, ach é níos mó, a choinnítear mar éan clóis (Tá géanna fiáine ann freisin)",exact
+briosca,noun,saghas bia milis a chócaráiltear in aonaid bheaga.,císte beag tanaí briosc,exact
+crogall,noun,reiptíl mór amfaibiach.,reiptíl mhór chontúirteach atá le fáil thart ar aibhneacha ina lán tíortha teo,narrower
+frídín,noun,"saghas ainmhí fíor-bheag, do-fheicthe a chúisíonn galair in ainmhithe eile.",foirm bheag bhídeach den bheatha phlandúil nó ainmhíoch nach féidir a fheiceáil ach faoi mhicreascóp,exact
+bainisteoir,noun,duine atá i gceannas ar fhoireann.,duine a stiúrann cúram éigin ar nós siopa nó monarcha nó club,exact
+milseog,noun,"cúrsa, milis de ghnáth, a itear ag deireadh béile.",cúrsa milis mar chuid de bhéile,exact
+seangán,noun,saghas feithid ón rang Formicidae.,ceann de chineál feithidí a mhaireann le chéile i gcomhluadair mhóra eagraithe agus iad an-saothrach go deo,exact
+lasair,noun,An chuid so-fheicthe de thine.,"solas geal, as tine nó as coinneal",exact
+doirteal,noun,báisín do-bhogtha le poll sa bhun gur féidir dallán a chuir ann sa chaoi is gur féidir leacht a choiméad sa bháisín nó ligean chun siúil.,dabhach uisce reatha sa chistin agus píopa draenála ann leis an uisce salach a thógáil as,exact
+nuachtán,noun,"foilsiúchán, laethúil de ghnáth, a insíonn nuacht an lae chomh maith le h-eolas tráthúil eile.",páipéar nuachta,exact
+bricfeasta,noun,An chéad béile den lá.,béile na maidine,exact
+béile,noun,An t-am nuair a suítear síos chun bia a ghlacadh.,bia a itear ag tráthanna áirithe,exact
+banc,noun,gnó a thugann airgead amach ar iasacht gur gá a íoc ar ais le h-ús.,foras ina gcuireann daoine airgead le coinneáil slán dóibh,exact
+féithleann,noun,planda den chlann Caprifoliaceae.,planda agus bláthanna cumhra air a dhreapann,exact
+scamhóg,noun,orgán inmhéanach a úsáideann ainmhithe chun ocsaigin a bhaint óna aer agus fáil réidh le dé-ocsáid carbón. Atann agus crapann na scamhóga le linn análú.,ceann den dá phríomhbhall sa chliabhrach a úsáidtear chun análaithe,exact
+praghas,noun,An méid airgid a iarann an díoltóir ar earra nó seirbhís,"an méid a chosnaíonn rud, luach",exact
+barraicín,noun,"Fochuid den chois, bíonn siad tannaí agus gobann siad amach ó tosach na coise.",barr coise nó bróige,exact
+clogad,noun,clúdach cosainteach a chaitear ar an gcloigeann.,"cosaint chrua mhiotail etc. don cheann a chaitheann saighdiúirí, póilíní, lucht múchta tine, imreoirí spóirt etc., cafarr",exact
+citeal,noun,gléas cistine a úsáidtear chun uisce a fiuchadh.,"árthach miotail chun uisce a bheiriú, a bhfuil píopa agus clár agus lámh air",exact
+cistin,noun,seomra in a n-ullmhaítear bia.,seomra a n-ullmhaítear béilí ann,exact
+bumbóg,noun,Cineál beach mhór ón rang Bombus.,beach mhór ghlórach,exact
+teilifíseán,noun,gléas leictreach chun comhartha teilifíse a léiriú.,gléas glacadóireachta teilifíse,exact
+luch,noun,mamach beag ceathair-chosach ón rang Mus.,creimire beag atá le fáil i dtithe nó sna páirceanna,exact
+luchóg,noun,mamach beag ceathair-chosach ón rang Mus.,luch,exact
+aistriúchán,noun,"focal i dteanga amháin atá comhfhreagrach le focal dteanga eile, tugtar an t-aistriúchán den fhocal sin air.",ealaín nó toradh an aistrithe ó theanga go teanga eile,exact
+cruit,noun,"uirlis ceoil, ginneann sé nótaí nuair a phioctar sreanganna faoi theannas.",cláirseach (bheag),exact
+cláirseach,noun,uirlis cheoil mhór le fráma triantánach agus sreanga a phioctar leis na méara. cruit,gléas ceoil mór le fráma triantánach agus sreanga a phioctar leis na méara,exact
+ciaróg,noun,feithid ón rang Coleoptera.,feithid dhubh de shaghsanna éagsúla,exact
+long,noun,"gléas iompair a úsáidtear chun taisteal ar uisce, mar an gcéanna le bád ach níos mó.",árthach mór a théann thar farraige,exact
+naomhóg,noun,bád beag oscailte a chuirtear ag gluaiseacht le maidí rámha.,curach,exact
+curach,noun,bád beag oscailte a chuirtear ag gluaiseacht le maidí rámha.,bád éadrom agus a fráma clúdaithe le canbhás,exact
+sceimhlitheoir,noun,duine a úsaideann foréigin chun aidhmeanna polaitiúla a bhaint amach.,duine arb é a aidhm daoine a smachtú agus a rialú le sceimhle,exact
+mainistir,noun,áit ina gcónaíonn manaigh.,áras ina gcónaíonn manaigh,exact
+oigheann,noun,gléas a úsáidtear chun bia a chócaráil.,"spás iata, mar a bheadh i sorn, chun rósta nó bácála",exact
+trosc,noun,"(iascaireacht/iasceolaíocht) Éisc den ghéineas Gadus, go háirithe Gadus morhua.  Tugtar an t-ainm seo ar éisc eile freisin: éisc den fhine Gadidae agus a ord Gadiformes nó éisc áirithe de na hoird Perciformes agus Scorpaeniformes. bodach rua",iasc garbh blasta ón Atlantach Thuaidh,exact
+bás,noun,Tugtar an bás air nuair a thagann deireadh le saol rud beo.,"deireadh saoil, éag",exact
+dreancaid,noun,"(feithideolaíocht) feithid ón ord Siphonaptera a mhaireann trí fhuill ainmhithe eile a ól, go háirithe Pulex irritans, an dreancaid duine.",feithid bheag gan sciatháin a léimeann agus a mhaireann ar dhaoine agus ar ainmhithe,exact
+langa,noun,"(iascaireacht/iasceolaíocht) iasc den ghéineas Molva, go háirithe Molva molva.bodach mór",iasc garbh farraige agus é fada caol,exact
+púicín,noun,púic,púic bheag,exact
+púicín,noun,"dallóg do na súile, masc.",púic bheag,exact
+púicín,noun,bothán beag le haghaidh ainmhithe.púirín,bothán beag dorcha,exact
+deannach,noun,. bailiúchán de chaithníní bruscair atá chomh éadrom go gcrochann siad san aer ar feadh tamaill má chorraítear iad.,"salachar imithe ina phúdar, smúit",exact
+dúnmharú,noun,Tugtar dúnmharú air nuair a mharaíonn duine duine eile d'aon ghnó.,marú duine d'aon toil go neamhdhleathach,exact
+ainmní,noun,"Sa ghramadach, an príomh rud don a thagraíonn abairt.",(sa ghramadach) an rud a dtugann an briathar faisnéis faoi,exact
+tionscadal,noun,"beartú, cumadh nó scéim.",beart nó scéim oibre,exact
+amharclann,noun,foirgneamh ina léirítear drámaí os comhair lucht féachana.,áit a mbíonn drámaí agus taispeántais stáitse ar siúl,exact
+mealladh,noun,"cluain, bréagadh.",bréagadh,exact
+mealladh,noun,"cealg, díomá.",bréagadh,exact
+mealladh,noun,"(síciatracht) creidiúint atá ag duine nach bhfuil sách cruthúnais ann dó, agus nach bhfuil bunaithe ar chreidiúint i measc a chomhghuaillithe nó i measc a chomh-chreidmhigh. siabhrán",bréagadh,related
+práta,noun,"glasra fréimhe a fhásann faoin gcré, an chuid inite den phlanda Solanum tuberosum.",glasra boird comónta a fhásann faoi ghais i dtalamh i bhfoirm tiúbar,exact
+muince,noun,Píosa seodra a chaitear timpeall an mhuinéil.,slabhra ornáideach muiníl,exact
+gliomach,noun,ainmhí mara le creatlach seachtrach.,iasc sliogánach a bhfuil dhá ordóg mhóra air agus bia blasta suaithinseach ann,exact
+mairnéalach,noun,duine a sheolann nó a oibríonn ar bhád.,"fear farraige, seoltóir",exact
+poncaíocht,noun,córas comharthaí a úsáidtear chun structúr a chur a téacs.,"na marcanna agus na siombailí taobh amuigh de na litreacha, go háirithe an lánstad, an chamóg etc., a úsáidtear i scríbhneoireacht",exact
+ficheall,noun,cluiche beirte a imríotar ar chlár roinnte i 64 cearnóga. Bíonn 16 píosa ag gach imreoir a bhogtar ó chearnóg go cearnóg.,cluiche do bheirt a imrítear le 16 píosa (foireann fichille) an duine ar chlár 64 cearnóg dubh is bán,exact
+barúil,noun,'Sí barúil duine an tuairim atá acu ar ábhar.,tuairim de rud,exact
+clapsholas,noun,An solas lag nádúrtha a bhíonn ann díreach tar éis dul faoi na gréine ach roimh a thiteann an oíche i gceart.,meath an tsolais idir lá agus oíche,exact
+cuileog,noun,feithid bheag atá in ann eitilt.,cuil,exact
+duilleog,noun,Na codanna leathana tannaí a fhásann ar phlandaí a úsáideann siad chun solas na gréine a ionsú.,"duille, bileog",narrower
+bréagán,noun,rud lena n-imríonn páistí.,rud a mbíonn páiste ag imirt leis,exact
+leoithne,noun,gaoth lag.,"siolla beag gaoithe, briota",exact
+fáinleog,noun,éan den fhine Hirundo.,"éan beag a itheann feithidí, sciatháin fhada bhioracha air agus eireaball gabhlógach (Tá cáil uirthi as a heitilt dheas agus as an achar fada a théann sí ar imirce)",exact
+míoltóg,noun,feithid beag atá in ann eitilt. Ball den fhine Chironomidae.,"corrmhíol, míol corr",exact
+francach,noun,mamach beag ceathair-cosach ón bhfine rattus.,ainmhí cosúil le luch mhór a dhéanann cogaint nó creimeadh,exact
+iriseoir,noun,duine a scríobhann altanna in irisí agus nuachtáin .,"duine a scríobhann do nuachtán nó d'iris nó do chlár raidió, etc. nó a chuireann eagar ar pháipéar nó ar iris",exact
+adamh,noun,An t-aonad is lú de dúil ar bith.,an gráinnín is lú de dhúil cheimiceach,broader
+tarbh,noun,bó fireann.,beithíoch fireann gan choilleadh,narrower
+bardal,noun,lacha fireann.,lacha fhireann,exact
+gandal,noun,gé fhireann.,gé fhireann,exact
+séipéal,noun,foirgneamh ina gcruinníonn daoine chun moladh a tharbhairt dá nDia.,"eaglais, teach pobail",exact
+oibrí,noun,duine a dhéanann obair.,duine a oibríonn,exact
+ronnach,noun,(Scomber scombrus) iasc peiligeach.,"iasc blasta farraige agus stríoca gormghlasa trasna a dhroma agus é ar ghile an airgid faoi, maicréal, murlas",exact
+abhlann,noun,briosca tanaí a úsáidtear mar shamhail d'arán i ndeasghnátha Críostaí na Comaoineach.,briosca tanaí a úsáidtear chun comaoineach san Aifreann,exact
+siúinéir,noun,"duine a dhéanann rudaí, troscáin mar shampla, as adhmad.","adhmadóir, saor adhmaid",exact
+smig,noun,An chuid den chloigeann a ghobann amach faoin mbéal ar ainmhithe áirithe.,an chuid den aghaidh faoi bhun an bhéil,exact
+buidéal,noun,"Soitheach, déanta as gloinne nó plaisteach de ghnáth, ina gcoiméadtar leacht.",árthach gloine a bhfuil scóig air agus a gcoinnítear deochanna ann,exact
+sféar,noun,Cruth trí-thoiseach mín.,cruinne nó liathróid chruinn,related
+bábóg,noun,"bréagán, macasamhail de bháibín.",bréagán cosúil le babaí,exact
+leathanach,noun,bileog páipéir i leabhar.,"taobh amháin de bhileog pháipéir, pé acu scríobh nó gan scríobh a bheith air",exact
+ifreann,noun,áit samhailteach ina gciaptar anamnacha peacaithe marbha.,áit phionóis do dhaoine mallaithe tar éis a mbáis,exact
+léarscáil,noun,"léaráid a thaispéanann láithreacha rudaí, tíortha, caithreacha nó gnéithe tíreolaíochta mar shampla.","mapa, cairt a léiríonn an domhan, nó cuid de, nó na spéartha etc.",exact
+iris,noun,foilsiúchán tréihmsiúil.,nuachtán nó foilseachán eile a thagann amach go rialta,exact
+todóg,noun,"Foirm in a gcaithtear tobac, ar nós toitín ach níos raimhre.",duilleoga tobac rollta go fáiscthe ar a chéile le caitheamh mar ghal,exact
+cnoc,noun,"gné tíreolaíoch, áit ina n-ardaíonn leibhéal na talún os cionn leibhéal na talún ina thimpeall. Mar an gcéanna le sliabh ach níos lú de ghnáth.",moll ard talún ach é níos ísle ná sliabh,exact
+cnaipe,noun,Rud beag ar ríomhairí agus gléasanna leictronacha eile a bhrúitear leis an méar chun iad a chur ag obair.,cnap beag a chuireann rud éigin ag obair nuair a bhrúitear é (ar nós cnaipí i mbosca ceoil nó ar chlóscríobhán),exact
+cnaipe,noun,Rud beag a chuirtear ar éadaí chun píosá eagúla den éadach a cheangal lena chéile nó mar mhaisiúcháin.,cnap nó diosca beag chun baill éadaigh a dhúnadh,exact
+miotal,noun,"ábhar crua, láidir, le dromchla lonrach de gháth. San eolaíocht sainítear na miotail mar dhúile a dheonann leictreoin óna bhfithisí seachtracha.",ábhar crua mar iarann nó chopar nó stán,exact
+miotal,noun,"cruas, stuif, mianach (fear a bhfuil miotal ann)","cruas, stuif, mianach",exact
+colscaradh,noun,Tugtar colscaradh air nuair a scarann lánúin pósta óna chéile.,deireadh a chur le pósadh de réir dlí,exact
+balla,noun,"structúr ingearach, déanta as cloch de ghnáth, a dheighleann láithreacha óna chéile.",struchtúr cloch nó brící nó ábhair eile ar nós éadan tí nó taobh seomra nó fál thart ar gharraí,exact
+balla,noun,falla,struchtúr cloch nó brící nó ábhair eile ar nós éadan tí nó taobh seomra nó fál thart ar gharraí,exact
+torann,noun,fuaim griogach.,"fuaim nó glór láidir, fothram",exact
+daonlathas,noun,córas polaitíochta ina dtugtar vóta amháin do gach saoránach.,cineál rialtais arb iad na daoine a thoghann na baill go saorálach mar theachtaí uathu féin,exact
+fathach,noun,créatúr osnádúrtha ar nós duine ach i bhfad níos mó.,duine ollmhór ar fad,exact
+cumhrán,noun,substaint a ghinneann boladh taithneamhach.,leacht cumhra as buidéal de ghnáth,exact
+maidin,noun,"An chéad chuid den lae, ó éírí na gréine go dtí mean-lae.",tús an lae,exact
+drúcht,noun,braoiníní uisce a chlúdaíonn gach rud ar mhaidineacha fuara. Taiseachas comhdlúite ón aer is cúis leis.,uisce a thiteann ina bhraonta ar an talamh le fuarthan na hoíche,exact
+trian,noun,An triú cuid de rud.,(le huimhreacha) an tríú cuid,exact
+grianghraf,noun,"íomhá a chruthaítear le ceamara. Cruthaítear an íomhá nuair a nocthaítear páipéar, ar a bhfuil ceimicí solas-íogair air, don solas nó i gceamaraí nua-aimseartha nuair a notchtaítear braiteoir leictreonach don solas.",pictiúr a thógtar le ceamara,exact
+urlabhraí,noun,duine a labhraíonn ar son grúpa daoine nó comhlacht.,duine a labhraíonn thar ceann daoine eile,exact
+idirbheartaíocht,noun,próiséis trína dtagtar ar chomhaontas tré ábhair a phlé.,"plé, caibidil, go háirithe ar leibhéal idirnáisiúnta nó idir mhóreagraíochtaí mar cheardchumainn agus bainisteoireacht etc.",related
+gruaig,noun,"bailiúchán de ribí gruaige. 'Séard is ribe gruaige ann ná structúr fada, tannaí, orgánach a fhásann ar chraiceann ainmhithe.",na ribí a fhásann ar cheann duine,broader
+préachán,noun,éan mór dubh den fhine Corvus.,"caróg, éan dubh de chineál an fhiaigh",exact
+feirmeoir,noun,duine a chothaíonn ainmhithe nó plandaí mar ghairm chun bia a soláthar.,duine a bhfuil feirm aige nó faoina láimh,exact
+pluid,noun,"clúdach, déanta as éadach de ghnáth, a chuirtear ar a bharr chun teas a choiméad i leaba.",blaincéad,exact
+lá,noun,An tréimhse ó mheánoíche go dtí an chéad mheánoíche eile,an tréimhse ó éirí gréine go luí gréine,exact
+lá,noun,An tréimhse ó mheánoíche go dtí an chéad mheánoíche eile,solas an lae,broader
+lá,noun,An tréimhse ó mheánoíche go dtí an chéad mheánoíche eile,an tréimhse ó mheán oíche go meán oíche arís,exact
+lá,noun,Tréimhse 24 uair,"lá, dáta, áirithe",related
+lá,noun,An tréimhse ó mheánoíche go dtí an chéad mheánoíche eile,lá féile,related
+lá,noun,An tréimhse ó mheánoíche go dtí an chéad mheánoíche eile,aimsir reatha,related
+lá,noun,An tréimhse ó mheánoíche go dtí an chéad mheánoíche eile,tréimhse,related
+lá,noun,Tréimhse 24 uair,"uair, am",related
+nóiméad,noun,Aonad ama cothrom le seasca soicind agus aon seascú do uair amháin.,"an seascadú cuid d'uair an chloig, 60 soicind",exact
+nóiméad,noun,Aonad ama cothrom le seasca soicind agus aon seascú do uair amháin.,achar beag ama,related
+nóiméad,noun,Aonad ama cothrom le seasca soicind agus aon seascú do uair amháin.,pointe ama,related
+cath,noun,Troid idir fórsaí armach.,troid idir dhá arm,exact
+cath,noun,Troid idir fórsaí armach.,cathlán,related
+cogadh,noun,cogadh,troid idir airm dhá thír nó níos mó,exact
+cogadh,noun,cogadh,"easaontas, bruíon, cath",related
+ceol,noun,ealaín i bhfoirm fuaime,canadh,broader
+ceol,noun,ealaín i bhfoirm fuaime,aon chóiriú fuaimeanna a bhfuil binneas ann,exact
+ceol,noun,ealaín i bhfoirm fuaime,"amhrán, dán",broader
+ríomhaire,noun,Is é an rud atá sa ríomhaire ná meaisín leictreonach agus é ag láimhdeachas sonraí de réir threoracha réamhdhéanta uimhriúla agus loighciúla.,áiritheoir,related
+ríomhaire,noun,Is é an rud atá sa ríomhaire ná meaisín leictreonach agus é ag láimhdeachas sonraí de réir threoracha réamhdhéanta uimhriúla agus loighciúla.,meaisín leictreonach a dhéanann neart tascanna áirimh ar luas an-ard,exact
+teanga,noun,Is beart matán sa bhéal teanga a húsáidtear chun bia a hionramháil.,an ball sochorraithe sa bhéal chun labhartha agus chun blaiste,exact
+teanga,noun,córas cumarsáide déanta suas de focail.,cumas labhartha,broader
+teanga,noun,córas cumarsáide déanta suas de focail.,caint,broader
+teanga,noun,Is beart matán sa bhéal teanga a húsáidtear chun bia a hionramháil.,aon ní cosúil le teanga,related
+aois,noun,An rud atá i gceist leis an bhfocal aois ná céad bliana (100).,"tréimhse, ré",related
+aois,noun,An rud atá i gceist leis an bhfocal aois ná céad bliana (100).,céad bliain,exact
+aon,noun,duine nó rud amháin.,ceann amháin,broader
+aon,noun,duine nó rud amháin.,duine nó rud amháin,exact
+aon,noun,"(cártaí) An chéad chárta i ndeic cártaí, m.sh. An tAon Spéireata.",cárta imeartha nach bhfuil ach marc amháin air,exact
+aon,noun,duine nó rud amháin.,amháin,related
+ciúnas,noun,"Suaimhneas, tost, calm","tost, suaimhneas",exact
+ciúnas,noun,"Suaimhneas, tost, calm",calm,exact
+sliabh,noun,Cnoc ard,cnoc ard,exact
+sliabh,noun,"Talamh bocht; móinteach, caorán","talamh bocht, riasc, corrach",exact
+bliain,noun,Tréimhse ama atá cothrom le ceithre séasúir nó dhá mhí déag nó 365 lá.,an fad ama a bhaineann sé as an domhan dul timpeall na gréine,exact
+domhan,noun,"Is é an domhan an tríú pláinéad amach ón nGrian sa ghrianchóras, agus an cúigiú is mó",an talamh seo uile agus a bhfuil ann agus san aer os a chionn,related
+domhan,noun,"Is é an domhan an tríú pláinéad amach ón nGrian sa ghrianchóras, agus an cúigiú is mó",an chruinne,related
+domhan,noun,"Is é an domhan an tríú pláinéad amach ón nGrian sa ghrianchóras, agus an cúigiú is mó",cuid den domhan,broader
+ainnis,adjective,"Anóiteach, dearóil, suarach, gortach; truamhéalach, dobrónach.",truamhéalach,exact
+ainnis,adjective,"Anóiteach, dearóil, suarach, gortach; truamhéalach, dobrónach.","suarach, gortach",exact
+ainnis,adjective,"Anásta, liopasta.","anásta, gan lúth",exact
+gan,preposition,Le h-easpa ruda.,"cheal, in éagmais, in easnamh, de dhíth",exact
+gan,preposition,Le h-easpa ruda.,(leis an diúltach),related
+rua,adjective,"Dearg, nó le gruaig dearg.",(le gruaig) dearg,exact
+rua,adjective,Donndearg; ar dhath an chopair.,donndearg,exact
+rua,adjective,Donndearg; ar dhath an chopair.,ar dhath an chopair,exact
+rua,adjective,"Fiáin, fíochmhar; garbh, láidir.","fiáin, láidir",exact
+crann,noun,"Planda mór, níl sainmhniú cruinn ar a mhéid ach de ghnáth os cionn ceithre mhéadar.",fás mór ard a bhfuil stoc is géaga is duilleoga air,exact
+farraige,noun,"Is corp fairsing uisce í an fharraige, a chlúdaíonn an mórchuid de dhromchla an domhain. muir",an réimse mór sáile a chlúdaíonn formhór an domhain,exact
+farraige,noun,"Is corp fairsing uisce í an fharraige, a chlúdaíonn an mórchuid de dhromchla an domhain. muir",muir,exact
+farraige,noun,"Is corp fairsing uisce í an fharraige, a chlúdaíonn an mórchuid de dhromchla an domhain. muir",sáile,exact
+uisce,noun,leacht inólta éadathach gan boladh. Foirmle ceimiceach H2O.,"leacht glan glé de chumasc hidrigine agus ocsaigine, gan bhlas gan bholadh ar é a bheith glan",exact
+oíche,noun,An t-am idir dul faoi na gréine agus éirí na gréine an mhaidin dár gcionn.,an tréimhse idir luí agus éirí gréine,exact
+téacs,noun,"focail scríofa, i gcló nó á léiriú ar scáileán.","an phríomhchuid faoi chló de leabhar nó d'alt (seachas léaráidí, nótaí etc.)",broader
+téacs,noun,"focail scríofa, i gcló nó á léiriú ar scáileán.",véarsa,broader
+tóin,noun,Cuid iochtarach de cholainn an duine ar a suítear.,"deireadh, rumpa",exact
+tóin,noun,Cuid iochtarach de cholainn an duine ar a suítear.,cúl,related
+tóin,noun,Cuid iochtarach de cholainn an duine ar a suítear.,íochtar,related
+tóin,noun,Cuid iochtarach de cholainn an duine ar a suítear.,an ceann is faide síos,related
+tóin,noun,Cuid iochtarach de cholainn an duine ar a suítear.,bonn,related
+fuil,noun,"Leacht an bheatha, feidhmíonn sé mar chóras iompair do nithe cothaitheacha i gcorp ainmhithe.",an leacht dearg a ritheann trí na cuislí sa chorp,exact
+solas,noun,Séard is solas ann ná radaíocht leictreamaighnéadach atá infheicthe don súil. Is é an fótón an buncháithnín atá ag solas.,rud a lonraíonn agus a thugann léargas dúinn,related
+solas,noun,Séard is solas ann ná radaíocht leictreamaighnéadach atá infheicthe don súil. Is é an fótón an buncháithnín atá ag solas.,"foinse an tsolais féin (lampa, coinneal etc.)",related
+solas,noun,Séard is solas ann ná radaíocht leictreamaighnéadach atá infheicthe don súil. Is é an fótón an buncháithnín atá ag solas.,lasair,related
+solas,noun,Séard is solas ann ná radaíocht leictreamaighnéadach atá infheicthe don súil. Is é an fótón an buncháithnín atá ag solas.,léas,related
+fearthainn,noun,báisteach.,"an t-uisce a thiteann ina bhraonta as na scamaill, báisteach",exact
+fearthainn,noun,báisteach.,cur báistí,exact
+loch,noun,Corp mór fionnuisce.,achar mór uisce agus talamh timpeall air,exact
+loch,noun,Corp mór fionnuisce.,"géag den mhuir, gaoth",related
+laoch,noun,Duine go bhfuil mórán gaisce déanta aige/aici.,duine misniúil cróga,related
+fear,noun,duine fásta fireann.,duine fireann fásta,exact
+fear,noun,duine fásta fireann.,rud i bhfoirm fir,related
+mac,noun,Páiste fireann.,duine fireann clainne,exact
+cathaoir,noun,Píosa troscáin le suí air. Déanta as dromchla mín ardaithe ón talamh ar chosa (ceithre cinn de ghnáth).,suíochán agus droim air do dhuine amháin,exact
+cathaoir,noun,Píosa troscáin le suí air. Déanta as dromchla mín ardaithe ón talamh ar chosa (ceithre cinn de ghnáth).,suíomh nó suíochán oifigiúil údaráis (mar atá ag ollamh nó ag duine a ritheann cruinniú),broader
+oileán,noun,Píosa talamh go hiomlán timpeallaithe le huisce.,"talamh agus uisce thart air, inis",exact
+iasc,noun,ainmhí fuar-fuillteach le cnámh droma a mhaireann in uisce.,ainmhí veirteabrach a mhaireann in uisce agus a análaíonn trína gheolbhach,exact
+iasc,noun,ainmhí fuar-fuillteach le cnámh droma a mhaireann in uisce.,breac éisc,exact
+iasc,noun,ainmhí fuar-fuillteach le cnámh droma a mhaireann in uisce.,cnuasach éisc,broader
+iasc,noun,ainmhí fuar-fuillteach le cnámh droma a mhaireann in uisce.,an bia ar chorp an éisc,broader
+cearnóg,noun,Cruth plánach le ceithre sleas díreach ar chomhfhad agus ceithre uileann de 90 céim.,fíor cheathairchúinneach dhronuilleach agus a ceithre shlios ar aon fhad,exact
+triantán,noun,Cruth plánach le trí sleas díreach.,fíor a bhfuil trí uillinn agus trí thaobh uirthi,exact
+triantán,noun,Cruth plánach le trí sleas díreach.,aon rud cosúil leis,broader
+baile,noun,Pobal daoine idir cúpla céad duine agus cúpla míle.,"aonad de thalamh ceantair, baile fearainn",related
+baile,noun,Pobal daoine idir cúpla céad duine agus cúpla míle.,tithe agus siopaí le chéile in aon áit amháin,related
+anachain,noun,"míthapa, tubaiste, matalang; caill.","timpiste, tubaiste",related
+anachain,noun,"míthapa, tubaiste, matalang; caill.",caill,related
+anachain,noun,"dochar, díobháil.","dochar, díobháil",exact
+blonag,noun,geir nó saill faoi chraiceann ainmhíthe.,saill nó geir,exact
+dobhar,noun,"uisce,tuile.",uisce,exact
+dobhar,noun,"uisce,tuile.",díle,exact
+eireaball,noun,"An chuid íochtarach den chnámh droma, a ghobann amach ar ainmhithe áirithe ar nós madraí agus cait.","an chuid d'ainmhí, d'eitleán etc., a ghobann uaidh siar",exact
+eireaball,noun,"An chuid íochtarach den chnámh droma, a ghobann amach ar ainmhithe áirithe ar nós madraí agus cait.",an taobh thiar de dhuine nó de rud,related
+eireaball,noun,"An chuid íochtarach den chnámh droma, a ghobann amach ar ainmhithe áirithe ar nós madraí agus cait.",íochtar,related
+coir,noun,Gníomh mídleathach.,"drochghníomh in aghaidh an dlí, cion",exact
+scian,noun,"Uirlis, déanta as miotal de ghnáth, le faobhar géar chun rudaí a ghearradh.",uirlis ghearrtha faoi lann ghéar mhiotail agus cos aisti,exact
+oráiste,noun,toradh citris an chrainn oráistí a bhfuil dath flannbhuí air agus blas milis ach beagán géar aige.,toradh súmhar milis agus craiceann buí air a fhásann i dtíortha teo,exact
+oráiste,noun,toradh citris an chrainn oráistí a bhfuil dath flannbhuí air agus blas milis ach beagán géar aige.,an deoch a bhaintear as an oráiste,broader
+dearg,adjective,Ar dhath na fola.,ar dhath na fola,exact
+fuinneog,noun,Poll i mballa foirgnimh chun solas a ligean isteach. Líonta le pánaí gloine de ghnáth chun an t-aimsir a choiméad amach.,oscailt i mballa agus gloine inti chun solas agus aer a ligean isteach san fhoirgneamh,exact
+ainm,noun,"focal nó abairt a thagraíonn do dhuine, áit nó rud.",an focal aithne a thugtar ar dhuine nó ar rud nó ar áit,exact
+úll,noun,Toradh inite an chrainn úill.,toradh milis crua,exact
+úll,noun,Toradh inite an chrainn úill.,aon rud ar dhéanamh úill,broader
+planda,noun,Aon ní beo nach ainmhí é.,"aon rud a fhásann as an talamh a bhfuil cos, fréamh agus duilleoga air",broader
+ainmhí,noun,Aon ní beo nach planda é.,aon rud beo (ach amháin planda) a bhfuil mothú agus cumas gluaiseachta ann,exact
+ainmhí,noun,Aon ní beo nach planda é.,aon bheithíoch ceathairchosach,broader
+dán,noun,saothar ealaíne i bhfoirm focail cumtha ag file.,"ealaín, go háirithe ealaín na filíochta",narrower
+dán,noun,saothar ealaíne i bhfoirm focail cumtha ag file.,dréacht i bhfilíocht seachas i bprós ina léiríonn duine a smaointe agus a shamhlaíocht (i línte tomhaiste de ghnáth agus rím iontu),exact
+gorta,noun,Tréimhse ganntannas bia ina gcáilltear daoine leis an ocras.,"ganntanas mór bia, ocras, ainnise",exact
+bia,noun,Aon ní inite.,"rudaí a itheann daoine nó ainmhithe, beatha",exact
+súil,noun,orgán a thugann cumas do ainmhithe rudaí a fheiceáil.,ceann de dhá bhall radhairc an choirp,broader
+súil,noun,orgán a thugann cumas do ainmhithe rudaí a fheiceáil.,"féachaint, amharc",related
+súil,noun,orgán a thugann cumas do ainmhithe rudaí a fheiceáil.,rud i gcosúlacht súile,related
+cluas,noun,Orgán a thugann cumas do ainmhithe rudaí a chloisteáil.,ceann de dhá bhall ar an gceann a chloiseann,broader
+cluas,noun,Orgán a thugann cumas do ainmhithe rudaí a chloisteáil.,cumas éisteachta,related
+cluas,noun,Orgán a thugann cumas do ainmhithe rudaí a chloisteáil.,rud ar dhéanamh cluaise,related
+orlach,noun,Aonad tomhas faid sa chóras impiriúil Breatannach. An 12ú cuid de throigh. 2.54 ceintiméadair.,"tomhas faid ionann is an dóú cuid déag de throigh, nó tuairim is 2.5 ceintiméadar",exact
+ciarsúr,noun,píosa éadaigh a úsaidtear chun an srón a ghlanadh.,cearnóg bheag éadaigh le cuimilt den tsrón nó de na súile,exact
+lámh,noun,Ball den chorp i ndaoine agus in ainmhithe eile.,(láimh in abairtí áirithe) an ghéag ón ngualainn anuas,exact
+lámh,noun,Ball den chorp i ndaoine agus in ainmhithe eile.,"crobh, an chuid den ghéag ón rosta anuas",exact
+spúnóg,noun,uirlis a úsáidtear chun bia a ithe.,uirlis chuasach (mhiotail de ghnáth) agus lámh uirthi chun bia bog nó leacht a chur sa bhéal,exact
+méar,noun,Fochuid den lámh a úsáidtear chun dul i dtadhaill le rudaí agus chun greim a bhreith ar rudaí.,ceann de chúig bhall ar bharr na láimhe nó na coise,narrower
+méar,noun,Fochuid den lámh a úsáidtear chun dul i dtadhaill le rudaí agus chun greim a bhreith ar rudaí.,géag portáin nó gliomaigh,related
+deatach,noun,Is éard atá i gceist leis an deatach ná gás agus ábhar cáithníneach a astaítear nuair a bhíonn tine ann.  Catagóir:Bríonna de dhíth toit,"an scamall a éiríonn as aon rud ar lasadh, toit",exact
+deatach,noun,Is éard atá i gceist leis an deatach ná gás agus ábhar cáithníneach a astaítear nuair a bhíonn tine ann.  Catagóir:Bríonna de dhíth toit,gal,related
+máthair,noun,bean a bhfuil clann uirthi.,bean a bhfuil clann aici,exact
+cnó,noun,síol planda le sceall crua air.,toradh nó síol crainn a bhfuil bia ina chroí agus blaosc chrua air,exact
+striapach,noun,bean a thuilleann airgead tré luí le fir.,"bean choiteann, bean sráide",exact
+striapach,noun,bean a thuilleann airgead tré luí le fir.,straip,exact
+adhmad,noun,ábhar tógála déanta as crainn.,"ábhar siúinéireachta, tine, etc., a fhaightear as crainn",exact
+bileog,noun,aonad singil páipéir le cruth dronuilloegach de ghnáth.,leathanach singil páipéir,exact
+bileog,noun,aonad singil páipéir le cruth dronuilloegach de ghnáth.,duilleog,related
+salann,noun,"substaint soladach, bán a úsáidtear chun blas a thabhairt do bhia agus é a chaomhnú. Foirmle ceimiceach: NaCl.","substaint bhán nó gan dath (clóiríd sóidiam) a bhaintear as carraig nó as an bhfarraige, agus a úsáidtear chun bia a leasú nó a chóiriú",exact
+salann,noun,"substaint soladach, bán a úsáidtear chun blas a thabhairt do bhia agus é a chaomhnú. Foirmle ceimiceach: NaCl.","aon substaint eile a fhaightear as miotal agus aigéad, mar a fhaightear salann",related
+féileacán,noun,feithid le sciatháin mhóra daite den rang Lepidoptera a bhíonn gníomhach i rith an lae.,feithid a bhfuil sciatháin mhóra ghleoite air,exact
+athrú,noun,Tar éis do athrú tarlú dó bíonn difríocht i staid rud.,malairt crutha a chur nó a theacht ar rud,exact
+athrú,noun,Tar éis do athrú tarlú dó bíonn difríocht i staid rud.,rud a mhalartú nó a aistriú,exact
+athrú,noun,Tar éis do athrú tarlú dó bíonn difríocht i staid rud.,sóinseáil,exact
+filíocht,noun,Is saghas ealaíona scríofa í an fhilíocht ina úsáidtear teanga ar son a cháilíochtaí aeistéitiúla chomh mhaith le - nó in ionad - na tuairimi le tuiscint óna focail.,"dánta, saothar file",exact
+filíocht,noun,Is saghas ealaíona scríofa í an fhilíocht ina úsáidtear teanga ar son a cháilíochtaí aeistéitiúla chomh mhaith le - nó in ionad - na tuairimi le tuiscint óna focail.,éirim file,related
+athair,noun,fear a bhfuil clann air.,fear a bhfuil clann aige,exact
+athair,noun,fear a bhfuil clann air.,duine dár sinsear,related
+athair,noun,fear a bhfuil clann air.,seanóir,related
+clann,noun,daoine atá gaolta leo féin.,"cine, sliocht",exact
+múinteoir,noun,duine a mhúineann ceachtanna do dhaltaí.,oide,exact
+múinteoir,noun,duine a mhúineann ceachtanna do dhaltaí.,duine a chuidíonn le daoine rudaí a fhoghlaim,exact
+sliogán,noun,Structúr cosainteach a chlúdaíonn ainmhithe mara áirithe.,blaosc uibhe nó cnó,related
+sliogán,noun,Structúr cosainteach a chlúdaíonn ainmhithe mara áirithe.,"an clúdach crua ar éisc mar bhairnigh, ruacain, oisrí etc.",exact
+luibh,noun,Saghas planda inite.,fás nó planda gan stoc adhmaid (mar atá i gcrann nó i dtor),narrower
+luibh,noun,Saghas planda inite.,planda a úsáidtear chun leighis,related
+bainne,noun,leacht a thairgeann mamaigh mar bhia dá n-óg.,leacht a thálann ainmhithe baineanna ar a rudaí óga,exact
+bainne,noun,leacht a thairgeann mamaigh mar bhia dá n-óg.,an leacht seo ó bhó nó ó ghabhar a ólann daoine agus a úsáidtear i ndéanamh earraí déiríochta,related
+bainne,noun,leacht a thairgeann mamaigh mar bhia dá n-óg.,sú bán ar bith atá cosúil le bainne,related
+ollphéist,noun,ainmhí scanrúil samhailteach.,ainmhí ollmhór farraige,broader
+fiacail,noun,ball den chorp a úsáideann ainmhithe chun greim a bhaint as rudaí.,ceann de na rudaí crua geala sa bhéal a dhéanann cogaint ar bhia,exact
+fiacail,noun,ball den chorp a úsáideann ainmhithe chun greim a bhaint as rudaí.,aon ní cosúil le fiacail,related
+peata,noun,ainmhí ceannsaithe a choiméadann daoine don chompánachas.,éan nó ainmhí a choinnítear le cion timpeall an tí,exact
+léine,noun,Ball éadaigh a chaitear ar an gcuid uachtarach den chorp.,ball éadaigh faoi mhuinchillí a chaitheann fir faoina gcóta,broader
+léine,noun,Ball éadaigh a chaitear ar an gcuid uachtarach den chorp.,ball cosúil le léine scaoilte a chaitheann sagart ag léamh Aifrinn,broader
+iarann,noun,"dúil cheimiceach. Is é an miotal is tábhachtaí atá ann ó thaobh na gnáthúsáide de. Is í an uimhir adamhach atá aige ná 26, agus is é an tsiombail cheimiceach ná Fe.",miotal comónta as a ndéantar cruach,exact
+iarann,noun,"dúil cheimiceach. Is é an miotal is tábhachtaí atá ann ó thaobh na gnáthúsáide de. Is í an uimhir adamhach atá aige ná 26, agus is é an tsiombail cheimiceach ná Fe.",uirlis nó gléas iarainn,related
+iarann,noun,"dúil cheimiceach. Is é an miotal is tábhachtaí atá ann ó thaobh na gnáthúsáide de. Is í an uimhir adamhach atá aige ná 26, agus is é an tsiombail cheimiceach ná Fe.",an chuid d'uirlis atá déanta d'iarann,related
+scornach,noun,An chuid de chorp ainmhí idir an cloigeann agus an t-ucht.,an leath tosaigh den mhuineál faoi bhun na smige,exact
+scornach,noun,An chuid de chorp ainmhí idir an cloigeann agus an t-ucht.,an taobh istigh de seo mar a bhfuil an píobán agus an craos,exact
+scornach,noun,An chuid de chorp ainmhí idir an cloigeann agus an t-ucht.,"scrogall, sceadamán",exact
+cloch,noun,"Substaint crua, nádúrtha, neamhbheo déanta suas de mhianraí.",carraig nó smut de charraig,related
+cloch,noun,"Substaint crua, nádúrtha, neamhbheo déanta suas de mhianraí.",seoid,related
+cloch,noun,"Substaint crua, nádúrtha, neamhbheo déanta suas de mhianraí.",aon rud cosúil le cloch,related
+cloch,noun,"Substaint crua, nádúrtha, neamhbheo déanta suas de mhianraí.",carraig san fharraige,related
+díon,noun,An clúdach ar bharr foirgneamh.,ceann tí,exact
+gealbhan,noun,"Saghas éin, Passer Domesticus",éan beag donn is liath a bhíonn in aice le tithe,exact
+gealbhan,noun,"Saghas éin, Passer Domesticus",ainm ar shaghsanna eile éan beag,related
+saorga,adjective,Neamh nádúrtha.,"tacair, gan a bheith nádúrtha",exact
+croí,noun,orgán a fheidhmíonn mar chaidéal chun an fhuil a chuir ag gluaiseacht ar fud chorp an duine agus ainmhithe eile le fuilchórais.,an ball cuasach sa chorp a oibríonn ar nós pumpa chun an fhuil a chur ag rith trí na cuislí,exact
+pis,noun,glasra beag sféarúil glas a fhásann laistigh de chochall.,(ceann de) na síolta glasa inite a fhásann i gcochall planda dreaptha,exact
+cluiche,noun,"Gníomhaíocht le rialacha a ghlacann daoine páirt ann, go h-aonarach nó i ngrúpa, chun taithneamh a bhaint as.",imirt nó súgradh faoi rialacha,exact
+suimiúil,adjective,Rud a spreagann suim.,spéisiúil,exact
+carraig,noun,solad nádúrtha crua a chruthaítear thar na mílte bliain nuair a chuirtear dríodar faoi ard-bhrú nó ard-teasa nó an dá rud.,cloch mhór,related
+carraig,noun,solad nádúrtha crua a chruthaítear thar na mílte bliain nuair a chuirtear dríodar faoi ard-bhrú nó ard-teasa nó an dá rud.,cloch thalún nó farraige,related
+leiceann,noun,An chuid den éadain idir an béal agus na cluasa.,"taobh amháin den aghaidh, leaca, pluc",exact
+béal,noun,Oscailt i gcloigne ainmhithe chun bia a thógáil isteach.,an oscailt sa cheann trína nglactar isteach bia agus deoch agus trína ndéantar glórtha,exact
+scáileán,noun,dromchla ar a léirítear íomhánna.,dromchla bán nó cuirtín a dtaispeántar pictiúir nó sleamhnáin air,exact
+scáileán,noun,dromchla ar a léirítear íomhánna.,aghaidh teilifíseáin mar a soilsíonn an pictiúr,broader
+bréag,noun,ráiteas nach bhfuil fíor.,ráiteas éithigh,exact
+bréag,noun,ráiteas nach bhfuil fíor.,rud falsa,exact
+stán,noun,"Is é an stán dúil uimhir a 50, agus is í an tsiombail cheimiceach atá aige ná Sn.",miotal geal,exact
+stán,noun,"Is é an stán dúil uimhir a 50, agus is í an tsiombail cheimiceach atá aige ná Sn.",bosca nó canna déanta den mhiotal sin,related
+nasc,noun,Ceangal idir rudaí.,teaghrán,related
+nasc,noun,Ceangal idir rudaí.,"ceangal, slabhra",related
+nasc,noun,Ceangal idir rudaí.,"lúb, claspa",related
+feadóg,noun,uirlis a úsáidtear chun nóta nó nótaí ceoil a sheinm tré aer ón mbéal a shéideadh tríd.,gléas beag ceoil a dhéanann glór cosúil le fead,exact
+fillteán,noun,clúdach cosainteach do bhileoga páipéir.,bileog nó leabhrán fillte,related
+fillteán,noun,clúdach cosainteach do bhileoga páipéir.,cás fillte do pháipéar scaoilte,exact
+namhaid,noun,"duine nó aonán a ghuíonn dochar ort, nó a ghníomhaíonn chun dochar a tharraingt ort.",duine atá naimhdeach leat nó a throideann tú,exact
+fáinne,noun,píosa seodra ciorcalach a chaitear ar an méar.,"ciorcal nó aon ní i bhfoirm ciorcail, fonsa óir etc., a chaitear ar an méar",exact
+fáinne,noun,píosa seodra ciorcalach a chaitear ar an méar.,suaitheantas i bhfoirm fáinne a chaitheann Gaeilgeoirí,broader
+ciorcal,noun,Cruth plánach ar a bhfuil gach pointe ar chomhfhad ó lárphointe and chrutha.,"cuar cruinn ceart agus é dúnta, agus gach pointe den chuar comhfhad ón lár",exact
+ciorcal,noun,Cruth plánach ar a bhfuil gach pointe ar chomhfhad ó lárphointe and chrutha.,fáinne,related
+leadóg,noun,cluiche a imríonn beirt nó ceathrar ar chúirt speisialta le liathróid bog agus raicéid.,cluiche idir bheirt nó idir dhá bheirt ina mbuaileann siad liathróid le raicéid de dhroim líontáin chun a chéile,exact
+seilide,noun,ainmhí den rang Gastropoda le sliogán bíseach ar a droim.,ainmhí beag mall agus sliogán cornánach ar a dhroim chun sleamhnú isteach ann le linn dainséir,exact
+seilide,noun,ainmhí den rang Gastropoda le sliogán bíseach ar a droim.,ainmhí den saghas céanna ach é gan sliogán (seilide drúchta),related
+foireann,noun,grúpa daoine a oibríonn le chéile chun sprioc comónta a bhaint amach.,grúpa daoine a bhíonn ag obair nó ag imirt ar aon taobh le chéile,exact
+foireann,noun,grúpa daoine a oibríonn le chéile chun sprioc comónta a bhaint amach.,criú,related
+dídean,noun,áit sábháilte.,áit foscaidh nó fothana,exact
+dídean,noun,áit sábháilte.,cosaint,related
+spéir,noun,"An chuid den domhan os cionn an talamh ach faoin spás, bíonn dath gorm air i rith an lae de ghnáth.",an t-aer uachtarach,exact
+spéir,noun,"An chuid den domhan os cionn an talamh ach faoin spás, bíonn dath gorm air i rith an lae de ghnáth.",an t-aer díreach os ár gcionn,exact
+urlár,noun,"dromchla na talún i bhfoirgneamh, atá réitithe de ghnáth chun go mbeadh sé éasca siúil air.",an chuid de sheomra atá faoi do chosa,exact
+urlár,noun,stór i bhfoirgneamh ilstórach.,stór foirgnimh,exact
+urlár,noun,"dromchla na talún i bhfoirgneamh, atá réitithe de ghnáth chun go mbeadh sé éasca siúil air.",talamh leibhéalta,related
+iasacht,noun,iasacht a thugtar air nuair a thugtar rud do dhuine eile ar an gcoinníoll go dtabharfar ar ais é sa todhchaí.,tamall úsáide a fhaigheann duine ar rud (go háirithe airgead ar ús),exact
+forc,noun,uirlis le roinnt beangáin air a sáitear isteach i mbia chun é a choiméad socair agus é á ithe.,"gabhlóg, uirlis a bhfuil lámh agus beanna uirthi, a úsáidtear chun bia a phiocadh suas",exact
+forc,noun,uirlis le roinnt beangáin air a sáitear isteach i mbia chun é a choiméad socair agus é á ithe.,"uirlis cosúil léi, ach í níos mó, a úsáidtear i gcúrsaí talmhaíochta, píce",related
+duine,noun,An t-ainmhí Homo Sapiens.,"aon den chine daonna, fear nó bean",exact
+ionga,noun,clúdach crua cosainteach ar bharr na méire agus an bharraicín. Ar ainmhithe áirithe bíonn siad géar agus úsáidtear mar airm iad.,an fás crua adharcach ar bharr méire,exact
+gréasán,noun,bailliúchán de rudaí scartha amach óna chéile ach ceangailte le chéile ar shlí éigin.,achrann,related
+gréasán,noun,bailliúchán de rudaí scartha amach óna chéile ach ceangailte le chéile ar shlí éigin.,líonra,exact
+focal,noun,aonad de theanga a chuireann míniú ar leith in iúil. Nuair a scríobhtar focal bíonn sé déanta suas de litreacha.,fuaim béil nó grúpa litreacha a chiallaíonn rud ar leith,exact
+feoil,noun,An chuid bhog de chorp ainmhí.,"an rud bog (matáin, etc.) a chlúdaíonn cnámha an duine agus an ainmhí",exact
+seacláid,noun,Cineál bia milis.,taos a dhéantar as síolta an chrainn chócó agus iad meilte,narrower
+seacláid,noun,Cineál bia milis.,"deoch, milseán etc., a dhéantar as seo",exact
+file,noun,duine a chumann dánta.,duine a chumann dánta nó filíocht,exact
+cith,noun,"Saghas aimsir, tréimhse gairid de bháisteach éadrom.",titim ghearr fearthainne nó sneachta,exact
+earrach,noun,An chéad séasúr den bhliain.,an séasúr a leanann an geimhreadh nuair a thosaíonn plandaí ag fás,exact
+earrach,noun,An chéad séasúr den bhliain.,obair earraigh,broader
+teannaire,noun,caidéal a úsáidtear chun aer a chuir i mboinn rothair.,pumpa,exact
+dualgas,noun,rud a chaitheann duine nó aonán a dhéanamh.,aon rud atá le déanamh,exact
+dualgas,noun,rud a chaitheann duine nó aonán a dhéanamh.,diúite,exact
+callaire,noun,"gléas chun fuaimeanna a dhéanamh níos glóraí, nó go ginearálta chun comhartha leictreach a thiontú go fuaim.",gléas bolscaireachta,exact
+tintreach,noun,Cineál aimsir ina bhfeidhmíonn aer tais mar sheoltóir do sruth leictreach sa spéir.,splancacha toirní,related
+sreang,noun,"Píosa fada tanaí solúbtha de ábhar láidir, miotal de ghnáth.",corda ceangail,exact
+sreang,noun,"Píosa fada tanaí solúbtha de ábhar láidir, miotal de ghnáth.",téad nó corda miotail,exact
+craiceann,noun,An clúdach seachtrach de rudaí beo.,"seithe, screamh chlúdaigh ar chorp",broader
+craiceann,noun,An clúdach seachtrach de rudaí beo.,scannán clúdaigh ar thoradh nó ar ghlasra,broader
+ordóg,noun,"Fochuid den lámh, ar nós méar ach níos giorra agus níos tibhe. Feidhmíonn sé ina mhalairt de threo leis na méara ionas gur féidir greim a bhreith ar rudaí eatarthu.",méar ramhar ghairid na láimhe,exact
+comparáid,noun,Déantar comparáid idir dhá rud nuair a mheastar iad ó thaobh ná difríochtaí agus na cosúlachtaí atá eatarthu.,"coibhneas, comórtas",exact
+comparáid,noun,Déantar comparáid idir dhá rud nuair a mheastar iad ó thaobh ná difríochtaí agus na cosúlachtaí atá eatarthu.,cosúlacht,related
+saighdiúir,noun,duine atá ina bhall d'arm mar shlí bheatha.,duine i seirbhís an airm,exact
+saighdiúir,noun,duine atá ina bhall d'arm mar shlí bheatha.,"fear nó bean airm den chéim is ísle, saighdiúir singil",exact
+dochtúir,noun,duine a chuireann leigheas ar dhaoine breoite.,duine a bhfuil céim sa leigheas aige,exact
+péist,noun,ainmhí beag tanaí ón bhfíleam annelid.,ainmhí beag lúbarnaíola gan ghéag gan chnámh droma,exact
+péist,noun,ainmhí beag tanaí ón bhfíleam annelid.,cuiteog,broader
+gloine,noun,"ábhar tré-dhearcach, righin, so-bhríste déanta as dé-ocsáid sileacan don chuid is mó.",ábhar mar a bhíonn i bhfuinneoga a ligeann an solas tríd,exact
+radharc,noun,An méid atá le feiceáil ó láthair.,raon amhairc,exact
+radharc,noun,An méid atá le feiceáil ó láthair.,"féachaint, amharc",related
+radharc,noun,An méid atá le feiceáil ó láthair.,"an rud a fheictear, feic",exact
+réabhlóid,noun,Éirí amach na ndaoine i gcoinne an rialtais i dtír.,athrú bunúsach i gcúrsaí tíre,related
+réabhlóid,noun,Éirí amach na ndaoine i gcoinne an rialtais i dtír.,treascairt rialtais ag lucht ceannairce,exact
+rialtas,noun,Iad siúd atá i gceannas ar thír a riailiú.,grúpa daoine a cheaptar chun tír a rialú,exact
+rialtas,noun,Iad siúd atá i gceannas ar thír a riailiú.,an rialú a dhéanann siadsan,related
+rialtas,noun,Iad siúd atá i gceannas ar thír a riailiú.,córas rialaithe,related
+deichniúr,noun,deich nduine.,deich nduine,exact
+glúin,noun,alt i lár na géige coise a ligean do na codanna íochtarach agus uachtarach bogadh go neamhspléach óna chéile.,alt láir na coise idir an tsliasaid agus an lorga,exact
+srón,noun,orgán ar éadain ainmhithe a thugann cumas dóibh rudaí a bholú.,an chuid den aghaidh a thugann anáil agus boladh do dhuine nó d'ainmhí,exact
+srón,noun,orgán ar éadain ainmhithe a thugann cumas dóibh rudaí a bholú.,"gob, soc",related
+taibhse,noun,Rud osnádúrtha samhailteach a chreidtear a mhaireann i ndiadh bás chorp an duine.,"sprid, gósta",exact
+marbh,adjective,Deirtear go bhfuil rud a bhí beo marbh nuair a éagann sé.,duine marbh,related
+cumas,noun,deirtear go bhfuil cumas ag duine rud a dhéanamh má tá an duine sin in ann an rud sin a dhéanamh.,"ábaltacht, neart",exact
+buaiteoir,noun,An té go mbíonn an bua aige nó aici i gcomórtas.,duine a bhuann,exact
+díospóireacht,noun,comórtas cainte ina dhéantar rún a phlé.,caint nó argóint idir dhaoine,narrower
+ceist,noun,"abairt, frása nó focal a fiafraíonn eolas. Sa scríobh cuirtear ceist in iúil le comhartha ceiste: '?'","caint a lorgann eolas ar dhuine, fiafraí",exact
+folús,noun,"réigiún spáis atá go h-iomlán follamh, gan damhna ar bith ann.","spás folamh, spás a bhfuil aer agus gás díbeartha as",exact
+mana,noun,"comhartha, tuar.","comhartha, tuar",exact
+mana,noun,dearcadh.,dearcadh,exact
+mana,noun,Abairt ghonta chun duine a spreagadh.,abairt ghonta chun duine a spreagadh (ar nós ),exact
+dearcadh,noun,"féachaint, amharc.","féachaint, amharc",exact
+dearcadh,noun,fadbhreathnaitheacht.,fadbhreathnaitheacht,exact
+dearcadh,noun,"aigne, an bealach ina mbreathnaíonn duine ar rud.","aigne, an bealach ina mbreathnaíonn duine ar rud",exact
+aigne,noun,"Acmhainn smaointe an duine, intinn.","acmhainn smaointe an duine, intinn",exact
+aigne,noun,"beocht, meanma.","beocht, meanma",exact
+intinn,noun,"aigne, suíomh na smaointe.","aigne, suíomh na smaointe",exact
+intinn,noun,"meon, claonadh.","meon, claonadh",exact
+intinn,noun,aird.,aird,exact
+intinn,noun,sprid.,sprid,exact
+intinn,noun,"aidhm, cuspóir","aidhm, cuspóir",exact
+intinn,noun,tuairim.,tuairim,exact
+tuar,noun,"tuilleamh, tabhú (tuar an t-ádh agus tiocfaidh sé)","éirí sách, dóthanach",related
+tuar,noun,Áit le héadaí a ghealadh ann.,áit le héadaí a ghealadh ann,exact
+tuar,verb,"geal, bánaigh.","gealadh (éadaí etc.), sábháil (féir etc.)",exact
+tuar,verb,"Rud a thriomú trína nochtadh don aer, sábháil (féar srl.).","gealadh (éadaí etc.), sábháil (féir etc.)",exact
+tuar,verb,"Clóigh, cuir nó téigh i dtaithí.",cur nó dul i dtaithí,exact
+tuar,verb,"Éirigh sách, dóthanach, cortha.","éirí sách, dóthanach",exact
+comhartha,noun,"marc (comhartha cluaise, comhartha ceiste)",marc,exact
+comhartha,noun,nod a thugann rud le fios (rinne sé comhartha dom),nod a thugann rud le fios,exact
+comhartha,noun,tuar a léiríonn rud atá le teacht (comhartha fearthainne),tuar a léiríonn rud atá le teacht,exact
+comhartha,noun,"rian, cosúlacht (comhartha scine; ní bhfuair sé ach comhartha)","rian, cosúlacht",exact
+comhartha,noun,"aird, ceann (ná tóg aon comhartha de)","aird, ceann",exact
+comhartha,noun,"fógra, méar eolais (comharthaí bóthair)","fógra, méar eolais",exact
+comhartha,noun,"rian aitheantais (comharthaí aithne, comharthaí sóirt)",rian aitheantais,exact
+rian,noun,"conair, cúrsa, cosán (rian na gréine, rian srutha)","conair, cúrsa, cosán",exact
+rian,noun,"marc, lorg (rian coise, cairte)","marc, lorg",exact
+rian,noun,"brí, fuinneamh (gan lúth gan rian)","brí, fuinneamh",exact
+rian,noun,dada cearr (níl rian air),dada cearr,exact
+lorg,noun,"marc nó rian ruda (lorg coise, lorg an óil; lorg ainmhí a leanúint)",marc nó rian ruda,exact
+lorg,noun,"iarraidh, éileamh (ní mór an lorg atá air; lorg sé orm é)","iarraidh, éileamh",exact
+lorg,noun,sliocht (duine gan lorg),sliocht,exact
+lorg,noun,"cuardach, tóraíocht (ag lorg oibre, trioblóide; ag lorg sna coillte; gadhar loirg)","cuardach, tóraíocht",exact
+lorg,noun,"ar lorg ar thóir, ag leanúint (ar lorg eolais, ar lorg a dhaoine roimhe)","cuardach, tóraíocht",related
+aird,noun,"aire, spéis","aire, spéis",exact
+aire,noun,"an ceann polaitiúil atá ar Roinn Stáit, m.sh. an tAire Oideachais","an ceann polaitiúil atá ar Roinn Stáit, mar shampla, an tAire Oideachais",exact
+ard,noun,cnocán,cnocán,exact
+ard-,prefix,ard,ard,exact
+ard-,prefix,príomh-,príomh-,exact
+ard-,prefix,sár-,sár-,exact
+ard-,prefix,uasal,uasal,exact
+ard-,prefix,ar chéim chun chinn,ar chéim chun cinn,exact
+sprid,noun,spiorad,spiorad,exact
+sprid,noun,taibhse,taibhse,exact
+spiorad,noun,anam,"misneach, anamúlacht, miotal",exact
+spiorad,noun,"misneach, anamúlacht, miotal","misneach, anamúlacht, miotal",exact
+tuairim,noun,"pictiúr san aigne, oipineon (tá tuairim agam; cad é do thuairim de?)","pictiúr san aigne, oipineon",exact
+tuairim,noun,barúil (is é mo thuairim é),barúil,exact
+tuairim,noun,amhras (ní chuirfeá faoina thuairim é),amhras,exact
+meon,noun,"méin, aigne","méin, aigne",exact
+meon,noun,carachtar,carachtar,exact
+aidhm,noun,"críoch a bhíonn beartaithe le rud, cuspóir","críoch a bhíonn beartaithe le rud, cuspóir",exact
+cuspóir,noun,"aidhm, sprioc","aidhm, sprioc",exact
+sprioc,noun,marc le haimsiú nó le sroicheadh,marc le haimsiú nó le sroicheadh,exact
+sprioc,noun,marc teorann,marc teorann,exact
+sprioc,noun,comhartha talún,comhartha talún,exact
+sprioc,noun,"pointe, spota, áit choinne","pointe, spota, áit choinne",exact
+sprioc,noun,pointe ama (rud a íoc ar an sprioc),pointe ama,exact
+sprioc,noun,"cuspóir, ceann cúrsa (ceann sprice a bhaint amach)","cuspóir, ceann cúrsa",exact
+abacas,noun,Fráma agus cloichíní ar shlata nó ar shreanga air chun comhairimh,fráma agus cloichíní ar shlata nó ar shreanga air chun comhairimh,exact
+abar,noun,talamh bog,talamh bog,exact
+abhac,noun,duine atá i bhfad níos lú ná an ghnáthdhuine,duine atá i bhfad níos lú ná an gnáthdhuine,exact
+ábhann,noun,"séis cheoil, tiúin","séis cheoil, tiúin",exact
+ábhar,noun,leaba iomartha i ngunail báid,leaba iomartha i ngunail báid,exact
+uacht,noun,"tiomna, cáipéis dlíthiúil a leagann amach cad atá le himeacht ar mhaoin duine tar éis a bháis.","tiomna, cáipéis dhlíthiúil a leagann amach cad tá le himeacht ar mhaoin duine tar éis a bháis",exact
+banbh,noun,muc óg.,muc óg,exact
+cráin,noun,muc bhaineann.,muc bhaineann atá ina máthair áil,exact
+troitheán,noun,An chuid den rothar ar a gcuireann an rothaí a chos.,gaireas coise le meaisín nó uirlis cheoil a oibriú,narrower
+eascaine,noun,"mallacht, mionn mór, droch-chaint.","mallacht, mionn mór, droch-chaint",exact
+cónra,noun,"coiméadán, déanta as adhmad de ghnáth, ina gcuirtear corpáin chun iad a adhlacadh.",bosca do chorp duine mhairbh,exact
+soilse,noun,"gile, solas (soilse an lae).","gile, solas",exact
+soilse,noun,splanc.,splanc,exact
+soilse,noun,Teideal ardonóra.,teideal ardonóra,exact
+gile,noun,Bail an ruda atá geal.,bail an ruda atá geal,exact
+gile,noun,gealas,gealas,exact
+oideas,noun,"múineadh, teagasc.","múineadh, teagasc",exact
+oideas,noun,"Treoir nó ordú scríofa ó dhochtúir chun cógas a ullmhú, leigheas.","treoir nó ordú scríofa ó dhochtúir chun cógas a ullmhú, leigheas",exact
+oideas,noun,Liosta de na nithe agus de na treoracha is gá chun bia éigin a ullmhú.,liosta de na nithe agus de na treoracha is gá chun bia éigin a ullmhú,exact
+oide,noun,"múinteoir, teagascóir.","múinteoir, teagascóir",exact
+zú,noun,Páirc phoiblí ina gcoinnítear agus a dtaispeántar ainmhithe fiáine.,páirc phoiblí ina gcoinnítear agus a dtaispeántar ainmhithe fiáine,exact
+zó-eolaíocht,noun,Eolaíocht bheatha na n-ainmhithe.,eolaíocht bheatha na n-ainmhithe,exact
+iarla,noun,uasal ardchéime idir marcas agus bíocunta.,uasal ardchéime idir marcas agus bíocunta,exact
+bíocunta,noun,Fear uasal atá faoi bhun iarla i gcéim.,fear uasal atá faoi bhun iarla i gcéim,exact
+marcas,noun,uasal díreach faoi bhun diúic i gcéim.,uasal díreach faoi bhun diúic i gcéim,exact
+diúc,noun,uasal ardchéime.,uasal ardchéime,exact
+uasal,noun,duine céimiúil gradamach.,duine céimiúil gradamach,exact
+uasal,noun,duine breá galánta.,duine breá galánta,exact
+uasal,noun,duine mín macánta.,duine mín macánta,exact
+uasal,adjective,"céimiúil, gradamach.",duine céimiúil gradamach,related
+uasal,adjective,"Faoi thréithe an duine uasail, galánta.",duine breá galánta,related
+cuideachta,noun,"gasra daoine le chéile, comhluadar (i gcuideachta duine; is breá an chuideachta iad).","gasra daoine le chéile, comhluadar",exact
+cuideachta,noun,"greann, spórt, caitheamh aimsire (déanfaidh sé cuideachta dúinn).","greann, spórt, caitheamh aimsire",exact
+cuideachta,noun,comhlacht gnó.,comhlacht gnó,exact
+abairt,noun,"Focail i ndiaidh a chéile a dhéanann ráiteas iomlán (tá siad ag teacht, fág ansin é, cá bhfuil siad anois? fuist, a dhuine!).",focail i ndiaidh a chéile a dhéanann ráiteas iomlán,exact
+ádh,noun,"fortún, seans.","fortún, seans",exact
+ál,noun,An méid rudaí óga a bheireann ainmhí in éineacht (ál banbh).,an méid rudaí óga a bheireann ainmhí in éineacht,exact
+ál,noun,An méid éan óg a thagann amach in éineacht i nead (ál sicíní).,an méid éan óg a thagann amach in éineacht i nead,exact
+anam,noun,An spiorad nó an chuid inmheánach den duine a chreidtear a mhaireann tar éis a bháis.,an spiorad nó an chuid inmheánach den duine a chreidtear a mhaireann tar éis a bháis,exact
+anam,noun,beatha (thit an t-anam as).,beatha,exact
+anam,noun,"brí, fuinneamh (cuir anam ionat féin).","brí, fuinneamh",exact
+anseo,adverb,San áit seo.,san áit seo,exact
+anseo,adverb,Ar an saol seo.,ar an saol seo,exact
+báicéir,noun,duine a bhácálann arán nó cístí milse don phobal.,duine a bhácálann arán nó cístí milse don phobal,exact
+iomaitheoir,noun,duine a théann in iomaíocht i gcomórtas.,duine ghlacann a páirt i gcomórtas nó i gcoimhlint,exact
+huscaí,noun,gadhar a úsáideann na hEiscimigh chun carranna sleamhnáin a tharraingt.,gadhar a úsáideann na hEiscimigh chun carranna sleamhnáin a tharraingt,exact
+barda,noun,seomra mór in ospidéal agus leapacha do dhaoine breoite ann.,seomra mór in ospidéal agus leapacha do dhaoine breoite ann,exact
+barda,noun,roinn riaracháin de chathair.,roinn riaracháin de chathair,exact
+seomra,noun,roinn inmheánach de theach (seomra leapa; seomra scoile).,roinn inmheánach de theach,exact
+ospidéal,noun,áit a gcuirtear cóir leighis ar othair.,áit a gcuirtear cóir leighis ar othair,exact
+áit,noun,ball ar bith den chruinne a bhfuil spás ann do dhuine nó do rud.,ball ar bith den chruinne a bhfuil spás ann do dhuine nó do rud,exact
+áit,noun,achar atá curtha ar leith do ghnó áirithe (áit cathaoireach).,achar atá curtha ar leith do ghnó áirithe,exact
+áit,noun,comharsanacht (duine ón áit).,comharsanacht,exact
+áit,noun,sealúchas (teach agus áit).,sealúchas,exact
+áit,noun,suíomh áirithe (m'áit sa rang; tá sé as áit).,suíomh áirithe,exact
+roinn,noun,cuid roinnte (an roinn seo tíre).,cuid roinnte,exact
+roinn,noun,cuid ar leith (Ranna Stáit).,cuid ar leith,exact
+roinn,verb,riar ina chodanna (rud a roinnt ar dhaoine; cártaí a roinnt).,cuid roinnte,related
+cuid,noun,"páirt, roinnt (déan trí chuid de).","páirt, roinnt",exact
+cuid,noun,cion duine amháin (sin é do chuid de; mo chuid éadaigh; iníon dá chuid).,cion duine amháin,exact
+cuid,noun,"ábhar (tá cuid súl inti, ní cuid iontais é).",ábhar,exact
+cuid,noun,"bia, beatha (do chuid a chaitheamh; ag tuilleamh a choda).","bia, beatha",exact
+amháin,adjective,"singil, aonair (duine amháin).","singil, aonair",exact
+amháin,adjective,Gan níos mó ná sin (sinn féin amháin).,gan níos mó ná sin,exact
+páirt,noun,"cuid, píosa, blúire.","cuid, píosa, blúire",exact
+páirt,noun,"taobh, lámh (ghlac sé páirt ann; páirt duine a thógáil).","taobh, lámh",exact
+páirt,noun,"comhluadar, caidreamh (ná bíodh baint ná páirt agat leo).","comhluadar, caidreamh",exact
+páirt,noun,"cion, cairdeas (lucht gaoil agus páirte; a leanbh na páirte).","cion, cairdeas",exact
+páirt,noun,"páirtíocht, comhar (rinne sé i bpáirt liom é).","páirtíocht, comhar",exact
+píosa,noun,"cuid, blúire (píosa feola, píosa den tír).","cuid, blúire",exact
+píosa,noun,paiste.,paiste,exact
+píosa,noun,stráice (píosa éadaigh).,stráice (píosa éadaigh),exact
+píosa,noun,dréacht liteartha nó ceoil.,dréacht liteartha nó ceoil,exact
+píosa,noun,"mona, bonn (píosa óir, píosa deich bpingine).","mona, bonn",exact
+roinnt,noun,riar ina chodanna (rud a roinnt ar dhaoine; cártaí a roinnt).,riar ina chodanna,exact
+roinnt,noun,baint (tá trioblóid ag roinnt leis sin).,baint,exact
+roinnt,noun,Cur isteach i (céad a roinnt ar dheich).,cur isteach i,exact
+roinnt,noun,"méid áirithe, cuid (tá roinnt mhaith airgid aige).","méid áirithe, cuid",exact
+roinnt,noun,beagán (tá sé roinnt cosúil leat).,beagán,exact
+beagán,noun,cuid bheag.,cuid bheag,exact
+méid,noun,"líon, uimhir, tomhas, suim (an méid airgid atá acu, an méid oibre a rinneadh, an méid agaibh atá i láthair).","toirt, téagar",exact
+othar,noun,duine tinn nó breoite.,duine tinn nó breoite,exact
+tinn,adjective,"pianmhar, gan a bheith ar fónamh (cos thinn, súile tinne).","pianmhar, gan a bheith ar fónamh",exact
+tinn,adjective,cráite (tá mo chroí tinn dóite).,cráite,exact
+tinn,adjective,breoite (tá sé tinn sa leaba).,breoite,exact
+breoite,adjective,"easlán, tinn, gan a bheith ar fónamh.","easlán, tinn, gan a bheith ar fónamh",exact
+inmheánach,adjective,"laistigh, taobh istigh.","laistigh, taobh istigh",exact
+pianmhar,adjective,"A tharraingíonn pian, a bhfuil pian ann.","a tharraingíonn pian, a bhfuil pian ann",exact
+pian,noun,tinneas.,tinneas,exact
+pian,noun,mothúchán gortaithe i gcorp nó in aigne.,mothúchán gortaithe i gcorp nó in aigne,exact
+pian,noun,"peannaid, pionós.","peannaid, pionós",exact
+tinneas,noun,"pian, taom tinn (tinneas cinn, droma).","pian, taom tinn",exact
+tinneas,noun,cráiteacht (tinneas croí).,cráiteacht,exact
+tinneas,noun,buairt (ní hé atá ag cur tinnis air).,buairt,exact
+tinneas,noun,breoiteacht (tinneas farraige).,breoiteacht,exact
+tinneas,noun,íona tuismidh (tinneas clainne; tinneas lao).,íona tuismidh,exact
+corp,noun,"iomlán substainteach duine nó ainmhí, marbh nó beo (idir anam agus chorp).","iomlán substainteach duine nó ainmhí, marbh nó beo",exact
+corp,noun,"duine marbh (corp os cionn cláir, teach an choirp).",duine marbh,exact
+corp,noun,creatlach (léim sé as a chorp).,creatlach,exact
+corp,noun,"cabhail, colainn (corp gan cheann).","cabhail, colainn",exact
+corp,noun,"stoc (corp crainn, corp colúin).",stoc,exact
+corp,noun,iomlán (is é corp na fírinne é; le corp nirt).,iomlán,exact
+mothúchán,noun,mothú.,mothú,exact
+mothúchán,noun,"tocht, corraí.","tocht, corraí",exact
+peannaid,noun,"aithrí, leorghníomh.","aithrí, leorghníomh",exact
+peannaid,noun,pian.,pian,exact
+peannaid,noun,pionós.,pionós,exact
+pionós,noun,breithiúnas a leagtar ar dhuine mar gheall ar olc nó ar choir éigin (pionós báis).,breithiúnas a leagtar ar dhuine mar gheall ar olc nó ar choir éigin,exact
+pionós,noun,crá croí (is mór an pionós é).,crá croí,exact
+breithiúnas,noun,cinneadh cúise i gcúirt.,cinneadh cúise i gcúirt,exact
+breithiúnas,noun,tuairim mheáite as fianaise.,tuairim mheáite as fianaise,exact
+cinneadh,noun,"socrú, beartú, ceapadh (cinneadh ar lá, ar rud a dhéanamh).","socrú, beartú, ceapadh",exact
+aoinne,noun,"aon duine, duine ar bith.",aon duine,exact
+aoinne,noun,éinne,aon duine,narrower
+cúirt,noun,cruinniú idir breitheamh agus lucht dlí leis an dlí a riar.,cruinniú idir breitheamh agus lucht dlí leis an dlí a riar,exact
+cúirt,noun,teach cúirte.,teach cúirte,exact
+cúirt,noun,pálás rí nó banríona (cúirt ríoga).,pálás rí nó banríona,exact
+cúirt,noun,"mainéar, teach mór.","mainéar, teach mór",exact
+cúirt,noun,spás atá iata isteach ag foirgnimh (cúirt caisleáin).,spás atá iata isteach ag foirgnimh,exact
+cúirt,noun,réileán imeartha (cúirt leadóige).,réileán imeartha,exact
+breitheamh,noun,duine i gceannas i gcúirt dlí a éisteann an cás agus a thugann an bhreith.,duine i gceannas i gcúirt dlí a éisteann an cás agus a thugann an bhreith,exact
+prionsabal,noun,"fírinne bhunúsach, dlí ginearálta.","fírinne bhunúsach, dlí ginearálta",exact
+prionsabal,noun,caighdeán onóra nó ionracais (fear gan phrionsabal).,caighdeán onóra nó ionracais,exact
+fírinne,noun,ráiteas fíor.,ráiteas fíor,exact
+fírinne,noun,Na fíricí glana.,na fíricí glana,exact
+fírinne,noun,airteagal creidimh.,airteagal creidimh,exact
+puchóid,noun,at beag ar an gcraiceann agus barr braonach air. Catagóir:Bríonna de dhíth,at beag ar an gcraiceann agus barr braonach air,exact
+fachnaoid,noun,"magadh, fonóid","magadh, fonóid",exact
+breosla,noun,Ábhar tine nó teasa ar nós gual nó móin nó ola nó gás. Catagóir:Bríonna de dhíth,ábhar tine nó teasa ar nós gual nó móin nó ola nó gás,exact
+bodhrán,noun,uirlis ceoil ar nós druma.,druma beag agus craiceann ar thaobh amháin de,broader
+simléar,noun,structúr ar bharr foirgnimh a ligean do dheatach ó thine éalú.,"poll éalaithe do dheatach as tinteán, foirnéis etc.",exact
+dumhach,noun,staic gainimh. Feictear iad cois trá nó i bhfásaigh.,"méile, talamh gainimh cois trá",exact
+milseán,noun,"cineal bia, bíonn siad beag agus milis de ghnáth.",rud milis,narrower
+tubaiste,noun,tarlúint thar a bheith mí-ádhmharach.,"olc, anachain, cinniúint, matalang",related
+sloinne,noun,ainm clainne.,"ainm deireanach duine, ainm sinsearach",exact
+cóip,noun,macasamhail.,"rud atá déanta i gcosúlacht ruda eile, macasamhail",exact
+minicíocht,noun,An ráta ag a dtarlaíonn próiséis peiriadach.,"chomh minic is a tharlaíonn rud, minice",exact
+crosfhocal,noun,cluiche focail ina ndéantar iarracht greille a líonadh leis na focail cuí ó nodanna atá tugtha.,tomhas fí focal le leideanna chun teacht ar fhocail a luífeadh isteach i spásanna i gcearnóg,exact
+dorchla,noun,pasáiste i bhfoirgneamh.,pasáiste a bhfuil seomraí ag oscailt ar a thaobh,broader
+geallghlacadóir,noun,duine a ghlacann le geallanna mar ghairm.,duine a ghlacann geallta ar rásaí capall nó ar chomórtais eile mar shlí bheatha,exact
+eagraíocht,noun,structúr foirmeálta ina n-eagraigh daoine iad féin chun aidhm comónta a bhaint amach.,comaoin daoine ar aon aidhm le chéile,exact
+eitleán,noun,feithicil le eití dobhogtha a gluaiseann san aer.,árthach sciathánach atá níos troime ná an t-aer ach ar féidir léi eitilt,related
+tráta,noun,glasra dearg a fhásann ar an bplanda Solanum lycopersicum.,toradh cruinn súmhar dearg a úsáidtear i sailéid etc.,narrower
+fiaile,noun,"planda a fhásann as a stuaim féin, seachas planda a chuirtear d'aon ghnó.",luibh(eanna) gan iarraidh a fhásann i mbarr nó i mbláthanna,broader
+deachtóir,noun,duine a riailíonn gan chomhairle ó éinne eile.,rialtóir uilechumhachtach,exact
+cúlchaint,noun,caint mar gheall ar duine i ngan fhios dó nó dí.,caint faoi dhuine taobh thiar dá chúl,exact
+frog,noun,ainmhí beag amfaibiach le dath glas air de ghnáth.,ainmhí beag gan eireaball a mhaireann gach re seal ar talamh agus in uisce,exact
+mearcair,noun,dúil cheimiceach le h-uimhir adamhach 80 agus siombal Hg. miotal nimhneach le dath airgid é a bhíonn ina leacht ag teocht seomra.,"miotal geal leachtach a úsáidtear i mbaraiméadair agus i dteirmiméadair, airgead beo",narrower
+brionglóid,noun,físeanna a chruthaítear in aigne an duine agus ainmhithe eile agus iad ina gcodladh.,rud a shamhlaítear do dhuine trína chodladh,exact
+gluaisrothar,noun,feithicil le dhá roth agus inneall.,rothar trom a thiomáintear le hinneall,exact
+tafann,noun,An fhuaim a dhéanann madra lena bhéal.,"an glór a dhéanann gadhar, go mór mór sa tseilg",exact
+míorúilt,noun,tárlúint do-chreidte a mhaítear cúis osnádúrtha a bheith leis go minic.,rud nó ócáid iontach nach bhfuil míniú saolta air,exact
+ispín,noun,"saghas bia déanta as feoil, muiceoil de ghnáth.",feoil mhionaithe agus spíosraí tríthi agus í dingthe isteach i máilín de scannán ainmhíoch,broader
+rabhadh,noun,teachtaireacht a chuireann contúirt in iúl.,"fógra faire, fainic",exact
+trealamh,noun,Na rudaí atá riachtannach chun aidhm éigin a chur i gcrích.,"fearas, gléas, feisteas",related
+cú,noun,"ainmhí, ball den rang Canis atá ceansaithe ag an duine leis na mílte bliain.",madra ard seang a úsáidtear chun cúrsála agus rásaíochta,broader
+tuíodóir,noun,duine a chuireann díonta tuí ar thithe mar ghairm.,duine a chuireann tuí ar thithe,exact
+ceo,noun,rud.,"dada, faic",related
+duán,noun,orgán in ainmhithe a dhéanann scagadh ar an bhfuil chun é a ghlanadh agus a thairgeann fual ón bhfuíoll-ábhar.,ceann de dhá fhaireog ar dhá thaobh an droma,narrower
+duánaí,noun,duine a dhéanann iasciareacht le slat agus dorú.,duine a iascann le duán,exact
+cloigeann,noun,An chuid den chorp os cionn barr na scórnaí.,ceann,exact
+mealbhóg,noun,mála beag.,"mála beag, sparán",exact
+dúghorm,adjective,Ar dhath idir dubh agus gorm.,dorcha gorm,exact
+mistéir,noun,eachtra gan míniú,rud diamhair nach féidir a mhíniú ná a thuiscint go soiléir,exact
+flichshneachta,noun,meascán de shneachta agus báisteach.,fearthainn agus sneachta tríthi (Deirtear flichne leis freisin),exact
+bréagriocht,noun,Aon rud a chaitheann duine nó a chuirtear ar rud chun a fíor-chuma a cheilt.,cuma bhréige ar rud nó ar dhuine chun nach n-aithneofaí é,exact
+aigeanta,adjective,"Anamúil, beoga, meanmnach.","beoga, meanmnach",exact
+otharcharr,noun,gluaistéan chun daoine tinn nó gortaithe a iompar chun na hospidéile.,carr speisialta chun othair a iompar,exact
+liamhás,noun,Saghas muiceoil.,ceathrú muice arna sailleadh (réitithe le hithe),broader
+muiceoil,noun,feoil mhuice.,feoil mhuice (úr nó saillte),exact
+codán,noun,uimhir dearfach níos lú na haon,"cuid den iomlán, ar nós leath () nó ceathrú ()",exact
+céatadán,noun,codán cuirthe san fhoirm go bhfuil an t-ainmneoir cothrom le céad.,ráta faoin gcéad a scríobhtar mar %,exact
+gadaí,noun,duine a ghoideann rudaí.,duine a bhíonn ag goid,exact
+neantóg,noun,planda a chuireann cealga pianmahara i rud ar bith a theagmhaíonn leis.,fás fiáin a ghreadfadh an craiceann agat dá dteagmhófá leis,exact
+imreasc,noun,an chuid daite den súil.,an chuid dhaite den tsúil,exact
+claí,noun,structúr a dheighleann paistí talún óna chéile.,balla cré nó cloch thart ar ghort,exact
+freagra,noun,"Rud ráite, scríofa, nó déanta ar ais mar fhreagairt ar cheist, litir, beannú. Catagóir:Bríonna de dhíth",caint ar ais de thoradh ceiste,broader
+siopa,noun,foigneamh ina ndíoltar earraí.,teach nó seomra a ndíoltar earraí leis an bpobal ann,exact
+siopa,noun,foigneamh ina ndíoltar earraí.,(mar ) ceannaithe i siopa,related
+bacach,noun,duine go bhfuil máchail ar a chorp.,ag siúl go deacrach le cos ghortaithe nó chraplaithe,related
+mias,noun,"soitheach ina gcuirtear leachtanna nó solaid, bia mar shampla.",árthach cruinn nach bhfuil domhain agus a gcoinnítear bia nó deoch ann,exact
+caisleán,noun,foirgneamh cosainteach tógtha as cloch ina maireadh daoine cumhachtacha sna mean-aoiseanna.,teach mór daingean faoi bhallaí láidre cloiche agus thúir,narrower
+cipín,noun,Píosa tannaí adhmaid le ceimicí ar an bior a úsáidtear chun tine a lasadh.,blúire beag tanaí adhmaid chun tine etc.,narrower
+gal,noun,uisce i bhfoirm gáis. Cruthaítear gal nuair a théitear uisce os cionn 100 céim Celcius.,scamall geal a éiríonn as uisce beirithe,related
+meirg,noun,"Ábhar a fhágtar ar dhromchla miotail, iarann ach go háirithe, nuair a chreimeann an aimsir iad.",coirt dhonn chreimneach a thagann ar iarann le taisleach,exact
+lann,noun,"Stiall tannaí, déanta as miotal de ghnáth, le faobhar géar air chun rudaí a ghearradh.","bléid scine, claímh etc.",exact
+stair,noun,Cur síos ar an t-am atá caite.,cuntas ar an saol atá caite,exact
+stair,noun,Cur síos ar an t-am atá caite.,"scéal, tuairisc, cur síos",narrower
+sciathán,noun,"Structúr a thugann cumas eitilte d'ainmhithe áirithe, d'éin mar shampla.",ceann den dá ghéag a n-eitlíonn éan leo,broader
+nimh,noun,Aon substaint a dheanann dochar do rudaí beo nuair a inghabhann siad é.,aon substaint a d'fhágfadh dona nó marbh thú ar í a shlogadh nó a thógáil isteach sa chorp,exact
+lasc,noun,"gléas chun rud a athrú ó staid amháin go staid eile, mar shampla solas a mhúchadh nó a lasadh.",cnaipe a chuireann leictreachas ar siúl,broader
+droichead,noun,structúr chun abhainn a threasnú.,bóthar nó rud mar é thar abhainn nó thar bhóthar eile,narrower
+rún,noun,eolas a choiméadtar faoi cheilt.,scéal nach bhfuil a fhios ach ag duine amháin nó ag fíorbheagán daoine,related
+rún,noun,ábhar atá le plé in imeacht.,tairiscint fhoirmiúil os comhair cruinnithe,exact
+crios,noun,Ball éadaí a cheanglaítear timpeall an bhásta chun na brístí a choiméad in airde.,"stiall leathair nó éadaigh etc. a chaitear thart faoin gcoim, beilt",exact
+fadhb,noun,Staid go bhfuil sé deachair teacht ar réiteach air.,cruacheist,related
+suíochán,noun,Píosa troscáin ar a suítear.,ball troscáin le suí air,exact
+caochán,noun,mamach beag ón bhfine Talpidae a thoclaíonn faoin talamh.,ainmhí beag faoi thalamh a bhfuil súile beaga agus fionnadh mín air,narrower
+íobairt,noun,rud a thugtar suas in onóir do dhia.,ofráil do Dhia nó do dhéithe ar altóir,exact
+íobairt,noun,rud a thugtar suas in onóir do dhia.,an rud a ofráiltear,narrower
+toirneach,noun,"Cineál aimsir, an torann a ghinntear nuair a théitear aer go h-an tapaidh de bharr tintreach.",fothram trom nó leanúnach san aer tar éis tintrí,exact
+sos,noun,am in a dtógtar brise ó ghníomhaíochtaí.,"scíth ó shaothar de chineál ar bith, faoiseamh, reasta",exact
+ualach,noun,rud atá deachair iompair.,"rud le hiompar, a oiread agus is féidir a iompar in aon bheart amháin, muirear",related
+ceapaire,noun,"Cinéal bia a dhéantar tré bia eile, feoil agus glasraí mar shampla, a chur idir dhá slisne aráin.",dhá phíosa aráin agus bia éigin eile eatarthu,exact
+barr,noun,An chuid is airde de run ar bith.,"an pointe is airde, mullach",exact
+barr,noun,Aon phlanda a fhásann feirmeoir mar bhia.,rud a fhásann ar bharr talún,related
+tiomna,noun,"uacht, ceann de dhá phríomhroinn an Bhíobla (an Sean-Tiomna agus an Tiomna Nua).",ceann de dhá phríomhroinn an Bhíobla,exact
+tiomna,noun,"eascaine, mallacht.","eascaine, mallacht",exact
+amháin,adverb,Gan níos mó ná sin (ag ithe aráin amháin).,gan níos mó ná sin,exact
+polaiteoir,noun,"duine atá gafa le poltaitíocht, ach go háirithe duine atá tofa mar bhall den rialtas.",duine arb í an pholaitíocht a ghnó,exact
+polaiteoir,noun,"duine atá gafa le poltaitíocht, ach go háirithe duine atá tofa mar bhall den rialtas.","ball gníomhach de pháirtí polaitiúil (Fianna Fáil, Fine Gael etc.)",related
+speisialta,adjective,"neamhghnách, neamhchoitianta. Catagóir:Bríonna de dhíth","neamhghnách, neamhchoitianta",exact
+aonad,noun,Rud amháin ann féin; caighdeán tomhais. Catagóir:Bríonna de dhíth,rud amháin ann féin,broader
+aonad,noun,Rud amháin ann féin; caighdeán tomhais. Catagóir:Bríonna de dhíth,caighdeán tomhais,broader
+cigire,noun,duine a dhéanann scrúdú ar rudaí nó daoine.,oifigeach atá ceaptha le rudaí a scrúdú,exact
+cuardach,noun,próiséis ina dtéitear i dtóir ar rud.,lorg ruda ar fud áite,exact
+sanas,noun,cogar nó leid nó gluais Catagóir:Bríonna de dhíth,cogar,broader
+sanas,noun,cogar nó leid nó gluais Catagóir:Bríonna de dhíth,leid,broader
+sanas,noun,cogar nó leid nó gluais Catagóir:Bríonna de dhíth,gluais,broader
+stainnín,noun,"Seastán, stalla, both; bairille beag. Catagóir:Bríonna de dhíth","seastán, stalla, both",broader
+stainnín,noun,"Seastán, stalla, both; bairille beag. Catagóir:Bríonna de dhíth",bairille beag,broader
+comhairleoir,noun,duine a thugann comhairle.,duine a thugann comhairle,exact
+amhras,noun,deirtear go bhuil amhras faoi rud nuair nach bhfuiltear cinnte faoi.,dabht,exact
+amhras,noun,deirtear go bhuil amhras faoi rud nuair nach bhfuiltear cinnte faoi.,easpa cinnteachta,exact
+cumarsáid,noun,Aon phroiséis trína n-aistrítear eolas.,bealach le heolas a chur ar fáil,exact
+bachlóg,noun,Tugtar bachlóga ar na fásóga nua a tharlaíonn ar phlandaí san Earrach.,bláth nó duilleog nach bhfuil oscailte amach fós,related
+móin,noun,ábhar a bhaintear as portaigh le h-úsáid mar bhreosla.,ábhar tine a bhaintear ina fhóid as an talamh,exact
+gairm,noun,slí beatha.,ceird,broader
+táille,noun,méid airgid gur gá íoc ar son seirbhís,íocaíocht as seirbhís nó as pribhléid ar leith,exact
+táille,noun,méid airgid gur gá íoc ar son seirbhís,luach saothair,related
+táille,noun,méid airgid gur gá íoc ar son seirbhís,ráta,related
+móilín,noun,An t-aonad is lú de substaint a choiméadann tréithe ceimiceacha an substainte.,ceann de na mionghrúpaí adamh as a bhfuil substaint ar bith déanta,related
+móilín,noun,An t-aonad is lú de substaint a choiméadann tréithe ceimiceacha an substainte.,an mhír ranna is lú i substaint a bhfuil nádúr na substainte fágtha inti,exact
+scéal,noun,Cur síos ar sraith eachtraí.,eachtra,related
+scéal,noun,Cur síos ar sraith eachtraí.,cuntas nó cur síos ar rud a tharla,exact
+aistear,noun,turas.,turas,exact
+aistear,noun,turas.,turas as bealach,broader
+turas,noun,gníomh ina dtaistealaíonn duine nó daoine ó láthair amháin go láthair eile (i gcéin de ghnáth).,aistear,exact
+taos,noun,Tugtar taos ar ábhar nuair atá sé leathbhealach idir solad agus leacht.,aon mheascán bog,related
+ocras,noun,céadfaíocht a mhothaíonn ainmhithe nuair a théann siad gan bia.,fonn nó mian chun bia,narrower
+tart,noun,céadfaíocht a mhothaíonn ainmhithe nuair a théann siad gan ól.,triomach scornaí de bharr gá a bheith ag duine le deoch,broader
+iarratas,noun,teachtaireacht a éilíonn rud.,"éileamh, trácht",related
+dealramh,noun,An cuma atá ar rud.,"féachaint, cosúlacht",exact
+lascaine,noun,ísliú i bpraghas.,lacáiste,exact
+guth,noun,An fhuaim a dhéanann duine agus é ag labhairt.,glór duine,narrower
+dorú,noun,An sreang a úsáidtear in éineacht le slat chun iascaireacht a dhéanamh.,corda iascaigh,exact
+dáta,noun,bailiúchán d'uimhreacha nó uimhreacha agus ainm míosa a dheanann tagairt do lá ar leith.,an lá den mhí agus den bhliain a chuirtear le rud,exact
+dáta,noun,bailiúchán d'uimhreacha nó uimhreacha agus ainm míosa a dheanann tagairt do lá ar leith.,"lá, mí agus bliain áirithe",related
+dath,noun,lí nó cosúlacht ruda nuair a bhíonn solas air.,lí nó cosúlacht ruda nuair a bhíonn solas air,exact
+liath,adjective,Ar dhath idir bán agus dubh.,ar dath na luatha,exact
+iníon,noun,Páiste baineann.,duine baineann clainne,exact
+giúis,noun,Saghas crainn síorghlas.,crann síorghlas agus spíonlach mar dhuilliúr air,broader
+feabhas,noun,Deirtear go bhfuil feabhas tagtha ar rud nuair atá sé tar éis éirí níos fearr.,maitheas,broader
+feabhas,noun,Deirtear go bhfuil feabhas tagtha ar rud nuair atá sé tar éis éirí níos fearr.,biseach,broader
+saint,noun,dúil iomarcach i rudaí.,cíocras rómhór chun saibhris etc.,broader
+saint,noun,dúil iomarcach i rudaí.,"fonn ceart chun oibre, cumhachta etc.",related
+uimhir,noun,Ní teibí a usáidtear le cuir síos a dhéanamh ar mhéid ruda.,"focal nó figiúr a léiríonn cá mhéad (uimhreacha is ea 0, 3, 16, 106 etc.)",exact
+aisling,noun,brionglóid a thárlaíonn i rith an lae agus duine ina dhúiseacht.,"radharc a d'fheicfeá i mbrionglóid, fís",related
+uaigneas,noun,droch-mhuthúchán a airítear toisc easpa caidreamh le daoine eile.,"cian, cumha",narrower
+uachtar,noun,"bia, an chuid den bhainne in a bhfuil an mórchuid den saill.","bia ramhar buí a thagann ar bharr bainne, scamhard",exact
+leon,noun,Panthera leo. Catagóir:Bríonna de dhíth,"ainmhí mór fiáin buídhonn de chineál an chait, a mhaireann ar fheoil",exact
+cáibín,noun,"Seanhata ídithe; caubeen i mBéarla na hÉireann. Thug sé a cháibín saor leis, thug sé na haenna leis slán sábháilte.",seanhata caite,exact
+sean-,adjective,aosta,aosta,exact
